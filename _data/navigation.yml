@@ -2,9 +2,16 @@
   url: "/"
   side: left
 
-- title: Lessons
+- title: Pathways
   url: "/lessons/"
   side: left
+
+- title: Software
+  url: "/software/"
+  side: left
+  dropdown:
+    - title: "Blender"
+      url: "/software/blender.html"
 
 - title: Syllabus
   url: "/syllabus/"
@@ -22,6 +29,10 @@
     url: "/grading/simple-assignment-description.html"
   - title: "Project"
     url: "/grading/project.html"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
 
 # - title: "Templates"
 #   url: "/design/"
@@ -87,6 +98,3 @@
 #   url: "/search/"
 #   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
