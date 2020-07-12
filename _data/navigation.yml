@@ -11,7 +11,19 @@
   side: left
   dropdown:
     - title: "Blender"
-      url: "/software/blender.html"
+      url: "/software/blender/"
+    - title: "Maya"
+      url: "/software/maya/"
+    - title: "ZBrush"
+      url: "/software/zbrush/"
+    - title: "3DS Max"
+      url: "/software/maya/"
+    - title: "C4D"
+      url: "/software/c4d/"
+    - title: "Houdini"
+      url: "/software/houdini/"
+    - title: "Substance Painter"
+      url: "/software/substance-painter/"
 
 - title: Syllabus
   url: "/syllabus/"
