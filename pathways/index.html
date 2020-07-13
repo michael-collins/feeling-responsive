@@ -1,0 +1,72 @@
+---
+layout: page
+---
+
+
+
+
+
+    {% for way in site.data.schema.pathways.pathways %}
+   <div class="row">
+    <div class="medium-2 columns"><h2>{{ way.title }}</h2></div>
+    <div class="medium-10 columns">
+    
+    <ul class="accordion" data-accordion role="tablist">
+    
+        <li class="accordion-navigation">
+            <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Fundamentals</a>
+            <div id="panel1d" class="content active" role="tabpanel" aria-labelledby="panel1d-heading">
+            {% for item in way.fundamentals %}
+            {{ item.fundament }}
+            {% endfor %}
+            </div>
+        </li>
+        <li class="accordion-navigation">
+            <a href="#panel2d"  role="tab" id="panel2d-heading" aria-controls="panel2d">Accordion 2</a>
+            <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
+            Panel 2. Lorem ipsum dolor
+            </div>
+        </li>
+        <li class="accordion-navigation">
+            <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Accordion 3</a>
+            <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
+            Panel 3. Lorem ipsum dolor
+            </div>
+        </li>
+        </ul>
+   
+    
+    <ul>
+        {% for item in way.fundamentals %}
+        <li>{{ item.fundament }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Applicable fields:</h3>
+    <ul>
+        {% for item in way.fields %}
+        <li>{{ item.field }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Reel or portfolio requirements:</h3>
+    <ul>
+        {% for item in way.reel-portfolio-reqs %}
+        <li>{{ item.req }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Suggested learning:</h3>
+    <ul>
+        {% for item in way.exercises %}
+        <li>{{ item.exercise }}</li>
+        {% endfor %}
+    </ul>
+    <h3>Examples:</h3>
+    <ul>
+        {% for item in way.examples %}
+        <li>{{ item.example }}</li>
+        {% endfor %}
+    </ul>
+    </div>
+    </div>
+    {% endfor %}
+
+

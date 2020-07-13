@@ -1,0 +1,183 @@
+pathways:
+  - title: 3d illustration
+    fundamentals:
+      - fundament: drawing and painting
+      - fundament: light, color, and composition
+      - fundament: graphic design
+      - fundament: typography
+      - fundament: keyframe animation
+      - fundament: 12 principles and physics
+      - fundament: drawing, painting, illustration
+    fields:
+      - field: marketing and advertising
+      - field: film and television intros and credits
+      - field: tv shows
+      - field: explainers for products
+    reel-portfolio-reqs:
+    exercises:
+      - exercise: exercise 1
+      - exercise: exercise 2
+      - exercise: exercise 3
+    examples:
+      - example: children's book
+  
+  - title: Pre-viz art
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: 2d vector animation
+    fundamentals:
+      - fundament: drawing and painting
+      - fundament: light, color, and composition
+      - fundament: graphic design
+      - fundament: typography
+      - fundament: keyframe animation
+      - fundament: 12 principles and physics
+      - fundament: drawing, painting, illustration
+    fields:
+      - field: marketing and advertising
+      - field: film and television intros and credits
+      - field: tv shows
+      - field: explainers for products
+    reel-portfolio-reqs:
+    exercises:
+    examples:
+      - example: Rick and Morty
+      - example: Archer
+  
+  - title: Motion graphics
+    skill-needed: low
+    fundamentals:
+      - fundament: graphic design
+      - fundament: typography
+      - fundament: keyframe animation
+      - fundament: 12 principles
+      - fundament: newtonian physics
+    fields:
+      - field: marketing and advertising
+      - field: film and television intros and credits
+      - field: explainers for products
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: 3d animation
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Rigging
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Lighting technical director
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Lighting TD
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Character TD
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Shader TD
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Tool builder
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Production manager
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: Modeling, sculpting, and texturing
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: scientific illustration and animation
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+  
+  - title: VFX and compositing
+    fundamentals:
+    fields:
+    reel-portfolio-reqs:
+      - req: shot breakdown
+    exercises:
+      beginner:
+      intermediate:
+      advanced:
+    examples:
+
