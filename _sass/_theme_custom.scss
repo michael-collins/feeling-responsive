@@ -232,3 +232,10 @@ h2.page-subtitle {
 body {
 	background: #fff;
 }
+.row.horizontal-accordion-card {
+	border: 4px solid rgba(0,0,0,1);
+	-webkit-box-shadow: 4px 4px 0px 0px rgba(0,0,0,1);
+	-moz-box-shadow: 4px 4px 0px 0px rgba(0,0,0,1);
+	box-shadow: 4px 4px 0px 0px rgba(0,0,0,1);
+	margin-bottom: 2rem;
+}

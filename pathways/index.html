@@ -1,72 +1,93 @@
 ---
 layout: page
+sidebar:
+title: pathways
 ---
 
 
 
 
 
-    {% for way in site.data.schema.pathways.pathways %}
-   <div class="row">
-    <div class="medium-2 columns"><h2>{{ way.title }}</h2></div>
-    <div class="medium-10 columns">
-    
-    <ul class="accordion" data-accordion role="tablist">
-    
-        <li class="accordion-navigation">
-            <a href="#panel1d" role="tab" id="panel1d-heading" aria-controls="panel1d">Fundamentals</a>
-            <div id="panel1d" class="content active" role="tabpanel" aria-labelledby="panel1d-heading">
-            {% for item in way.fundamentals %}
-            {{ item.fundament }}
-            {% endfor %}
-            </div>
-        </li>
-        <li class="accordion-navigation">
-            <a href="#panel2d"  role="tab" id="panel2d-heading" aria-controls="panel2d">Accordion 2</a>
-            <div id="panel2d" class="content" role="tabpanel" aria-labelledby="panel2d-heading">
-            Panel 2. Lorem ipsum dolor
-            </div>
-        </li>
-        <li class="accordion-navigation">
-            <a href="#panel3d" role="tab" id="panel3d-heading" aria-controls="panel3d">Accordion 3</a>
-            <div id="panel3d" class="content" role="tabpanel" aria-labelledby="panel3d-heading">
-            Panel 3. Lorem ipsum dolor
-            </div>
-        </li>
-        </ul>
-   
-    
-    <ul>
-        {% for item in way.fundamentals %}
-        <li>{{ item.fundament }}</li>
-        {% endfor %}
-    </ul>
-    <h3>Applicable fields:</h3>
-    <ul>
-        {% for item in way.fields %}
-        <li>{{ item.field }}</li>
-        {% endfor %}
-    </ul>
-    <h3>Reel or portfolio requirements:</h3>
-    <ul>
-        {% for item in way.reel-portfolio-reqs %}
-        <li>{{ item.req }}</li>
-        {% endfor %}
-    </ul>
-    <h3>Suggested learning:</h3>
-    <ul>
-        {% for item in way.exercises %}
-        <li>{{ item.exercise }}</li>
-        {% endfor %}
-    </ul>
-    <h3>Examples:</h3>
-    <ul>
-        {% for item in way.examples %}
-        <li>{{ item.example }}</li>
-        {% endfor %}
-    </ul>
+{% for way in site.data.schema.pathways.pathways %}
+<div class="row horizontal-accordion-card">
+    <div class="small-12 medium-3 columns"><h2>{{ way.title }}</h2></div>
+    <div class="small-12 medium-9 columns">
+        <dl class="accordion" data-accordion role="tablist">
+            {% if way.fundamentals != empty and way.fundamentals !='' %}
+                
+                <dd class="accordion-navigation">
+                    <a href="#panel-{{ way.title | slugify}}-{{ forloop.index }}-fundamentals" role="tab" id="panel-{{ way.title | slugify}}-{{ forloop.index }}-fundamentals-heading" aria-controls="panel-{{ way.title | slugify}}-{{ forloop.index }}-fundamentals">Fundamentals</a>
+                    <div id="panel-{{ way.title | slugify}}-{{ forloop.index }}-fundamentals" class="content" aria-labelledby="panel-{{ way.title | slugify}}-{{ forloop.index }}-fundamentals-heading">
+                        <p>
+                        <ul>
+                        {% for item in way.fundamentals %}
+                            <li>{{ item.fundament }}</li>
+                        {% endfor %}
+                        </ul>
+                        <p>
+                    </div>
+                </dd>
+                
+            {% endif %}
+            {% if way.fields != empty and way.fields !='' %}
+            <dd class="accordion-navigation">
+                <a href="#panel-{{ way.title | slugify}}-{{ forloop.index }}-fields" role="tab" id="panel-{{ way.title | slugify}}-{{ forloop.index }}-fields-heading" aria-controls="panel-{{ way.title | slugify}}-{{ forloop.index }}-fields">Fields of practice</a>
+                <div id="panel-{{ way.title | slugify}}-{{ forloop.index }}-fields" class="content" aria-labelledby="panel-{{ way.title | slugify}}-{{ forloop.index }}-fields-heading">
+                    <p>
+                    <ul>
+                    {% for item in way.fields %}
+                        <li>{{ item.field }}</li>
+                    {% endfor %}
+                    </ul>
+                    </p>
+                </div>
+            </dd>
+            {% endif %}
+            {% if way.reel-portfolio-reqs != empty and way.reel-portfolio-reqs !='' %}
+            <dd class="accordion-navigation">
+                <a href="#panel-{{ way.title | slugify}}-{{ forloop.index }}-reqs" role="tab" id="panel-{{ way.title | slugify}}-{{ forloop.index }}-reqs-heading" aria-controls="panel-{{ way.title | slugify}}-{{ forloop.index }}-reqs">Portfolio</a>
+                <div id="panel-{{ way.title | slugify}}-{{ forloop.index }}-reqs" class="content" aria-labelledby="panel-{{ way.title | slugify}}-{{ forloop.index }}-reqs-heading">
+                <p>
+                <ul>
+                    {% for item in way.reel-portfolio-reqs %}
+                        <li>{{ item.req }}</li>
+                    {% endfor %}
+                    </ul>
+                </p>
+                </div>
+            </dd>
+            {% endif %}
+            {% if way.exercises != empty and way.exercises !='' %}
+            <dd class="accordion-navigation">
+                <a href="#panel-{{ way.title | slugify}}-{{ forloop.index }}-exercises" role="tab" id="panel-{{ way.title | slugify}}-{{ forloop.index }}-exercises-heading" aria-controls="panel-{{ way.title | slugify}}-{{ forloop.index }}-exercises">Exercises</a>
+                <div id="panel-{{ way.title | slugify}}-{{ forloop.index }}-exercises" class="content" aria-labelledby="panel-{{ way.title | slugify}}-{{ forloop.index }}-exercises-heading">
+                <p>
+                <ul>
+                {% for item in way.exercises %}
+                    <li>{{ item.exercise }}</li>
+                {% endfor %}
+                </ul>
+                </p>
+                </div>
+            </dd>
+            {% endif %}
+            {% if way.examples != empty and way.examples !='' %}
+            <dd class="accordion-navigation">
+                <a href="#panel-{{ way.title | slugify}}-{{ forloop.index }}-examples" role="tab" id="{panel-{ way.title | slugify}}-p{ forloop.index }}-examples-heading" aria-controls="panel-{{ way.title | slugify}}-{{ forloop.index }}-examples">Examples</a>
+                <div id="panel-{{ way.title | slugify}}-{{ forloop.index }}-examples" class="content" aria-labelledby="panel-{{ way.title | slugify}}-{{ forloop.index }}-examples-heading">
+                <p>
+                <ul>
+                {% for item in way.examples %}
+                    <li>{{ item.example }}</li>
+                {% endfor %}
+                </ul>
+                </p>
+                </div>
+            </dd>
+            {% endif %}
+        </dl>
     </div>
-    </div>
-    {% endfor %}
+</div>
+{% endfor %}
 
 
