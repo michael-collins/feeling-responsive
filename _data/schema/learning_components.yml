@@ -1,0 +1,78 @@
+
+assessments:
+  - title: Modeling simple objects
+    subtitle:
+    type: exercise
+    level: beginner
+    topics:
+      - topic: polygonal modeling
+      - topic: references
+      - topic: edge flow
+    instructions: "exercises/modeling-simple-objects/"
+    submission-url:
+    rubric: simple-rubric
+  - title: Modeling complex objects
+    subtitle:
+    type: exercise
+    topics:
+      - topic: polygonal modeling
+      - topic: references
+      - topic: edge flow
+    instructions: "exercises/modeling-simple-objects/"
+    submission-url:
+    rubric: simple-rubric
+assignments:
+  learning-objectives:
+  exercise-doc:
+modules:
+  - title: Polygonal modeling
+    prerequisites:
+      - module: intro to 3d
+      - module: intro to software user interface
+    tasks:
+      - title: Modeling simple objects
+        type: exercise
+        level: beginner
+      - title: exercise 2
+        type: exercise
+        level: beginner
+      - title: exercise 3
+        type: exercise
+        level: intermediate
+      - title: The name of an assigned text
+        type: reading
+        level: intermediate
+        reading-url: /assets/downloads/reading-1.pdf
+      - title: Polygonal modeling lecture
+        type: lecture
+        level: intermediate
+        reading-url: /assets/downloads/reading-1.pdf
+      - examples:
+      - complete exercise 1,2:
+  - title: Texturing
+    prerequisites:
+      - module: intro to 3d
+      - module: intro to software user interface
+      - module: Introduction to polygonal modeling
+    tasks:
+      - title: Texturing Exercise 1
+        type: exercise
+        exercise-url: /exercises/exercise-4/
+      - title: Texturing Exercise 2
+        type: exercise
+        exercise-url: /exercises/exercise-5/
+      - title: Texturing exercise 6
+        type: exercise
+        exercise-url: /exercises/exercise-6/
+      - title: Reading about texturing
+        type: readings
+        reading-url: /assets/downloads/reading-1.pdf
+      - examples:
+      - complete exercise 1,2:
+    
+unit:
+  available-date:
+  begin-date:
+  end-date:
+  begin:
+  lessons:

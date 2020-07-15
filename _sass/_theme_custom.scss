@@ -239,3 +239,20 @@ body {
 	box-shadow: 4px 4px 0px 0px rgba(0,0,0,1);
 	margin-bottom: 2rem;
 }
+.accordion dd {
+    border-bottom: none;
+}
+.accordion .accordion-navigation>a, .accordion dd>a {
+	background: #fff;
+}
+.accordion .accordion-navigation>a:hover, .accordion dd>a:hover {
+	background:#efefef;
+}
+.article a:hover {
+    border-bottom: 1px solid;
+}
+.article dl dd {
+    line-height: 1.6;
+    margin-bottom: .75rem;
+	margin-left: 0;
+}
