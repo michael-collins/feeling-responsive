@@ -96,7 +96,7 @@ breadcrumb: true
             {% endfor %}
         
         
-            {% if module.prerequisites %}
+            {% if module.prerequisites != empty and module.prerequisites != nil and module.prerequisites != '' %}
             
             <dd class="accordion-navigation">
                 <a href="#panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites" role="tab" id="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites-heading" aria-controls="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites">prerequisites</a>
