@@ -21,11 +21,38 @@ assessments:
     instructions: "exercises/modeling-simple-objects/"
     submission-url:
     rubric: simple-rubric
+
 assignments:
   learning-objectives:
   exercise-doc:
+
 modules:
   - title: Polygonal modeling
+    tasks:
+      - title: Modeling simple objects
+        type: exercise
+        level: beginner
+        url: /assessmemts/modeling-simple-objects/
+      - title: exercise 2
+        type: exercise
+        level: [beginner,intermediate,advanced]
+        url: /assessmemts/modeling-simple-objects/
+      - title: Another super great exercise
+        type: exercise
+        level: [beginner,intermediate,advanced]
+        url: /assessmemts/modeling-simple-objects/
+      - title: The name of an assigned text
+        type: reading
+        level:
+          - beginner
+          - intermediate
+          - advanced
+        url: /assets/downloads/reading-1.pdf
+      - title: Intermediate lecture about polygonal modeling
+        type: lecture
+        level: intermediate
+        url: /lectures/modeling-simple-objects/
+  - title: Texturing
     prerequisites:
       - module: intro to 3d
       - module: intro to software user interface
@@ -33,42 +60,26 @@ modules:
       - title: Modeling simple objects
         type: exercise
         level: beginner
+        url: /assessmemts/modeling-simple-objects/
       - title: exercise 2
         type: exercise
-        level: beginner
-      - title: exercise 3
+        level: [beginner,intermediate,advanced]
+        url: /assessmemts/modeling-simple-objects/
+      - title: Another super great exercise
         type: exercise
-        level: intermediate
+        level: [beginner,intermediate,advanced]
+        url: /assessmemts/modeling-simple-objects/
       - title: The name of an assigned text
         type: reading
-        level: intermediate
-        reading-url: /assets/downloads/reading-1.pdf
-      - title: Polygonal modeling lecture
+        level:
+          - beginner
+          - intermediate
+          - advanced
+        url: /assets/downloads/reading-1.pdf
+      - title: Intermediate lecture about polygonal modeling
         type: lecture
         level: intermediate
-        reading-url: /assets/downloads/reading-1.pdf
-      - examples:
-      - complete exercise 1,2:
-  - title: Texturing
-    prerequisites:
-      - module: intro to 3d
-      - module: intro to software user interface
-      - module: Introduction to polygonal modeling
-    tasks:
-      - title: Texturing Exercise 1
-        type: exercise
-        exercise-url: /exercises/exercise-4/
-      - title: Texturing Exercise 2
-        type: exercise
-        exercise-url: /exercises/exercise-5/
-      - title: Texturing exercise 6
-        type: exercise
-        exercise-url: /exercises/exercise-6/
-      - title: Reading about texturing
-        type: readings
-        reading-url: /assets/downloads/reading-1.pdf
-      - examples:
-      - complete exercise 1,2:
+        url: /lectures/modeling-simple-objects/
     
 unit:
   available-date:

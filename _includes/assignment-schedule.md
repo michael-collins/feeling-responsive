@@ -1,4 +1,4 @@
-{% if include.mode == "accordion" or include.mode == null %}
+{% if include.mode == "accordion" %}
     <ul class="collapsible popout" data-collapsible="accordion">
     
     {% assign all_items = "" | split: "" %}
@@ -46,7 +46,7 @@
     </ul>
 
 
-{% elsif include.mode == "table" %}
+{% elsif include.mode == "table" or include.mode == null %}
     <table class="striped schedule">
         {% comment %} <thead>
           <tr>

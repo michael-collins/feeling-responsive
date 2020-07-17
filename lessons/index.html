@@ -30,79 +30,94 @@ breadcrumb: true
 
 <div class="row horizontal-accordion-card align-middle">
     <div class="small-12 medium-3 columns"><h2>{{ module.title }}</h2><p>{{ module.level }}</p></div>
-    <div class="small-12 medium-9 columns">
+    <div class="small-12 medium-9 columns padding-kill">
+
+        {% include group-by-array.html collection=module.tasks field='level' %}
+
         <dl class="accordion" data-accordion role="tablist">
-            
-            {% if module.tasks %}
-            
-                <dd class="accordion-navigation">
-                    <a href="#panel-{{ module.title | slugify}}-{{ forloop.index }}-tasks" role="tab" id="panel-{{ module.title | slugify}}-{{ forloop.index }}-tasks-heading" aria-controls="panel-{{ module.title | slugify}}-{{ forloop.index }}-tasks">tasks</a>
-                    <div id="panel-{{ module.title | slugify}}-{{ forloop.index }}-tasks" class="content" aria-labelledby="panel-{{ module.title | slugify}}-{{ forloop.index }}-tasks-heading">
-                        <p>
-                        
-                        {% assign lectures = module.tasks | where: "type","lecture" %}
-                        {% if lectures != empty %}
-                        <h4>Lectures</h4>
-                        <ul>
-                            {% assign count = 0 %}
-                            {% for task in lectures %}
-                        {% assign count = count | plus: 1 %}
-                            <li><a href="">{{ count }}. {{ task.title | capitalize }}</a></li>
-                        {% endfor %}
-                        </ul>
-                        {% endif %}
-                        
-                        {% assign readings = module.tasks | where: "type","reading" %}
-                        {% if readings != empty %}
-                        <h4>Readings</h4>
-                        <ul>
-                            {% assign count = 0 %}
-                            {% for task in readings %}
-                        {% assign count = count | plus: 1 %}
-                            <li><a href="">{{ count }}. {{ task.title | capitalize }}</a></li>
-                        {% endfor %}
-                        </ul>
-                        {% endif %}
-                        
-                        {% assign exercises = module.tasks | where: "type","exercise" %}
-                        {% if exercises != empty %}
-                        <h4>Exercises</h4>
-                        <ul class="menu vertical">
-                            {% assign count = 0 %}
-                            {% for task in exercises %}
-                        {% assign count = count | plus: 1 %}
-                            <li><a href="">{{ count }}. {{ task.title | capitalize }}</a></li>
-                        {% endfor %}
-                        </ul>
-                        {% endif %}
-                        <p>
-                    </div>
-                </dd>
+            {% for skill-level in group_names %}
+            {% assign tasks = group_items[forloop.index0] %}
+        
+            <dd class="accordion-navigation">
+                <a href="#panel-{{ module.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" role="tab" id="panel-{{ module.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading" aria-controls="panel-{{ module.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks">{{ skill-level | capitalize }}</a>
+                    <div id="panel-{{ module.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" class="content animate" aria-labelledby="panel-{{ module.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading">
+                <p>
                 
-            {% endif %}
+                {% assign lectures = tasks | where: "type", "lecture" %}
+                {% if lectures != empty %}
+                <h4>Lectures</h4>
+                <ul>
+                    
+                    {% for task in lectures %}
+                    <li>
+                        <a href='{{ site.baseurl }}{{ task.url }}'>{{ task.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+                
+                {% assign exercises = tasks | where: "type", "exercise" %}
+                {% if exercises != empty %}
+                <h4>Exercises</h4>
+                <ul>
+                    {% assign exercises = exercises | sort_natural:'title' %}
+                    {% for task in exercises %}
+                    <li>
+                        <a href='{{ site.baseurl }}{{ task.url }}'>{{ task.title }}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+
+                {% assign readings = tasks | where: "type", "reading" %}
+                {% if readings != empty %}
+                <h4>Readings</h4>
+                <ul>
+                    {% for task in readings %}
+                    <li>
+                        <a href='{{ site.baseurl }}{{ task.url }}'>{{ task.title }}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+                {% assign reqs = tasks | where: "type", "prerequisite" %}
+                {% if reqs != empty %}
+                <h4>Prerequisites</h4>
+                <ul>
+                    {% for task in reqs %}
+                    <li>
+                        <a href='{{ site.baseurl }}{{ task.url }}'>{{ task.title }}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+            </dd>
+            
+            {% endfor %}
+        
+        
             {% if module.prerequisites %}
             
-                <dd class="accordion-navigation">
-                    <a href="#panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites" role="tab" id="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites-heading" aria-controls="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites">prerequisites</a>
-                    <div id="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites" class="content" aria-labelledby="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites-heading">
-                        <p>
-                        <ul>
-                            {% assign count = 0 %}
-                        {% for req in module.prerequisites %}
-                        
-                        {% assign count = count | plus: 1 %}
-                            <li><a href="">Exercise {{ count }}: {{ task.title | capitalize }}</a></li>
-                        {% endfor %}
-                        </ul>
-                        <p>
-                    </div>
-                </dd>
-                
-            {% endif %}
+            <dd class="accordion-navigation">
+                <a href="#panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites" role="tab" id="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites-heading" aria-controls="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites">prerequisites</a>
+                <div id="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites" class="content" aria-labelledby="panel-{{ module.title | slugify}}-{{ forloop.index }}-prerequisites-heading">
+                    <p>
+                    <ul>
+                        {% assign count = 0 %}
+                    {% for req in module.prerequisites %}
+                    
+                    {% assign count = count | plus: 1 %}
+                        <li><a href="">Exercise {{ count }}: {{ task.title | capitalize }}</a></li>
+                    {% endfor %}
+                    </ul>
+                    <p>
+                </div>
+            </dd>
             
-            
-            
+        {% endif %}
         </dl>
+
+        
     </div>
 </div>
 {% endfor %}
