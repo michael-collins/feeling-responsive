@@ -262,15 +262,15 @@ body {
 		margin-bottom: .75rem;
 		margin-left: 0;
 	}
-	dd.accordion-navigation.active a {
+	dd.accordion-navigation.active > a {
 		background-color:#efefef;
 		border-bottom:1px solid #efefef;
 	}
-	dd.accordion-navigation a {
+	dd.accordion-navigation > a {
 		background-color:#fff;
 		border-bottom:1px solid #efefef;
 	}
-	dd.accordion-navigation:last-child a {
+	dd.accordion-navigation:last-child > a {
 		background-color:#fff;
 		border-bottom:1px solid #fff;
 	}
