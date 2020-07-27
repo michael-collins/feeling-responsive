@@ -10,7 +10,10 @@ page_sections:
   content: In this exercise, you will be learning how to create an assignment.
 - template: assignment-learningobjectives
   block: assignment-a-description
-  numbered-items-list: []
+  numbered-items-list:
+  - Gain understanding of typical assignment components
+  - Gain mastery in assignment building
+  - Gain understanding in deploying your own hosted course
 - template: assignment-associatedmaterial
   block: assignment-a-description
   headline: ''
