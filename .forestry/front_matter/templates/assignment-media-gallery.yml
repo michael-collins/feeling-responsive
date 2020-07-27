@@ -1,4 +1,21 @@
 ---
 label: Assignment Media Gallery
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: field_group_list
+  fields:
+  - name: gallery_title
+    type: text
+    config:
+      required: false
+    label: Gallery Title
+  - name: images
+    type: image_gallery
+    config: {}
+    label: Images
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Image
