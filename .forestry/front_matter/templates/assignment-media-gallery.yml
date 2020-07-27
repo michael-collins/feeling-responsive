@@ -2,7 +2,7 @@
 label: Assignment Media Gallery
 hide_body: true
 fields:
-- name: image
+- name: image-gallery
   type: field_group_list
   fields:
   - name: gallery_title
@@ -18,4 +18,4 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Image
+  label: Image Gallery
