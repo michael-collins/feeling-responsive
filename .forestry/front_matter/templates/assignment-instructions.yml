@@ -8,9 +8,10 @@ fields:
   name: block
   default: assignment-a-description
 - type: include
-  name: column
-  label: Column
+  name: instructions-overview
+  label: Instructions overview
   template: text-column
+  description: General tips for successfully completing the instructions.
 - name: instructions-list
   type: include
   config: {}
