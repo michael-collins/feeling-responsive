@@ -9,7 +9,7 @@ fields:
   default: assignment-a-description
 - name: submission-notes-enabled
   type: boolean
-  label: submission-notes-enabled
+  label: Submission Notes Enabled
   description: Enable to write submission notes for students.
   hidden: false
   default: true
@@ -21,3 +21,23 @@ fields:
   showOnly:
     field: submission-notes-enabled
     value: true
+- name: submission_upload_enabled
+  type: boolean
+  label: Submission Upload Enabled
+  description: Enable if this submission has media for uploading
+  default: true
+- name: submission_configuration
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
+      section: assignments
+    options:
+    - upload-url
+  label: Submission configuration
+  description: This is typically the location for uploading a submission.
+  showOnly:
+    field: submission_upload_enabled
