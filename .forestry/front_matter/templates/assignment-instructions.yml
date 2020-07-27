@@ -11,11 +11,9 @@ fields:
   name: column
   label: Column
   template: text-column
-- name: instruction_steps
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: Instruction Steps
-  description: Enter one step at a time required to complete the assignment.
+- name: instructions-list
+  type: include
+  config: {}
+  template: numbered-list-of-items
+  label: Instructions List
+  description: List each instruction required to complete the task separately.
