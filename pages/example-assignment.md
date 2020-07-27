@@ -14,6 +14,8 @@ page_sections:
   - Gain understanding of typical assignment components
   - Gain mastery in assignment building
   - Gain understanding in deploying your own hosted course
+- template: assignment-media-gallery
+  image: []
 - template: assignment-associatedmaterial
   block: assignment-a-description
   headline: ''
