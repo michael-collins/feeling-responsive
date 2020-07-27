@@ -19,6 +19,11 @@ page_sections:
   - gallery_title: Inspiring work
     images:
     - "/uploads/blender-infographic-lowres-preview.jpg"
+  image-gallery:
+  - gallery_title: Blender Related Images
+    images:
+    - "/uploads/download.jpg"
+    - "/uploads/blender-infographic-lowres-preview.jpg"
 - template: assignment-associatedmaterial
   block: assignment-a-description
   headline: ''
