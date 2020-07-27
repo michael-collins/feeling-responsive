@@ -24,9 +24,13 @@ page_sections:
   content: ''
 - template: assignment-instructions
   block: assignment-a-description
-  headline: ''
-  content: ''
-  numbered-items-list: []
+  headline: Instructions
+  content: Follow these instructions to complete the assignment.
+  numbered-items-list:
+  - Watch the videos
+  - Read the reading
+  - Upload your work using the link in the submission details.
+  - Follow the tutorials in the supporting materials.
 - template: assignment-rubric
   block: assignment-a-description
   headline: ''
