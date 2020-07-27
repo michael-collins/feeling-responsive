@@ -15,7 +15,10 @@ page_sections:
   - Gain mastery in assignment building
   - Gain understanding in deploying your own hosted course
 - template: assignment-media-gallery
-  image: []
+  image:
+  - gallery_title: Inspiring work
+    images:
+    - "/uploads/blender-infographic-lowres-preview.jpg"
 - template: assignment-associatedmaterial
   block: assignment-a-description
   headline: ''
