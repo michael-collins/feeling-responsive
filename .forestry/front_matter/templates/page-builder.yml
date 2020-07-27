@@ -21,6 +21,7 @@ fields:
   label: Page Sections
   template_types:
   - assignment-description
+  - assignment-media-gallery
   - assignment-learningobjectives
   - assignment-associatedmaterial
   - assignment-referencedmaterial
