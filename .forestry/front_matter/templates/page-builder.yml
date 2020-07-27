@@ -1,0 +1,25 @@
+---
+label: assignment-builder
+hide_body: true
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: blocks
+- type: datetime
+  name: date-assigned
+  label: Date Assigned
+- type: datetime
+  name: date-due
+  label: Due Date
+- type: blocks
+  name: page_sections
+  label: Page Sections
+  template_types:
+  - assignment-description
+pages:
+  - example-assignment.md
