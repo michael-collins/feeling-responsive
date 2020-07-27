@@ -21,23 +21,32 @@ fields:
   showOnly:
     field: submission-notes-enabled
     value: true
-- name: submission_upload_enabled
+- name: submission_uploads_enabled
   type: boolean
-  label: Submission Upload Enabled
+  label: Submission Uploads Enabled
   description: Enable if this submission has media for uploading
   default: true
-- name: submission_configuration
-  type: list
+- name: submission_item
+  type: field_group_list
+  fields:
+  - name: submission_item_title
+    type: text
+    config:
+      required: false
+    label: Submission Item Title
+    description: The title of the submission item
+  - name: submission_configuration
+    type: text
+    config:
+      required: false
+    label: Submission Item URL
+    description: Enter the url for the submission item. This is typically a dropbox
+      or link to an LMS assignment.
   config:
-    use_select: true
     min: 
     max: 
-    source:
-      type: simple
-      section: assignments
-    options:
-    - upload-url
-  label: Submission configuration
-  description: This is typically the location for uploading a submission.
+    labelField: 
+  label: Submission Item
   showOnly:
     field: submission_upload_enabled
+    value: true
