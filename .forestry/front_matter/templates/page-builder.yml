@@ -21,5 +21,11 @@ fields:
   label: Page Sections
   template_types:
   - assignment-description
+  - assignment-learningobjectives
+  - assignment-associatedmaterial
+  - assignment-referencedmaterial
+  - assignment-instructions
+  - assignment-rubric
+  - assignment-submission
 pages:
 - pages/example-assignment.md
