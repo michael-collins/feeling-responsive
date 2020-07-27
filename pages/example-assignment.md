@@ -6,7 +6,7 @@ date-due: 2020-08-08 04:00:00 +0000
 page_sections:
 - template: assignment-description
   block: assignment-a-description
-  headline: ''
-  content: ''
+  headline: Description
+  content: In this exercise, you will be learning how to create an assignment.
 
 ---
