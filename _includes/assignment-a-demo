@@ -6,25 +6,31 @@
     {%- if section.content -%}
         <p>{{ section.content }}</p>
     {%- endif -%}
-    {% if section.videos %}
-        {%- for video in section.videos -%}
+    {% if section.video %}
+        {%- for video in section.video -%}
             {%- if video.title -%}
-                <h3>{{ video.title }}</h3>z
+                <h3>{{ video.title }}</h3>
             {%- endif -%}
-            <div class="flex-video">
-            {%- if video.vimeo != "" and video.vimeo != null and video.vimeo != empty -%}
-                {% assign url =  ( video.vimeo | remove: "https://vimeo.com/" ) %}
-                <iframe width="auto" height="auto" src="https://player.vimeo.com/video/{{video.url}}?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+            
+            {%- if video.vimeo_url != "" and video.vimeo_url != null and video.vimeo_url != empty -%}
+                
+                <div class="flex-video">
+                    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{ video.vimeo_url | remove: "https://vimeo.com/" }}?title=0&byline=0&portrait=0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
+      allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+                </div>
             {%- endif -%}
-            {%- if video.youtube != "" and video.youtube != null and video.youtube != empty -%}
-                {% assign url =  (video.youtube | remove: "https://www.youtube.com/watch?v=") %}
-                <iframe width="auto" height="auto" src="https://www.youtube.com/embed/{{video.url}}" frameborder="0" allowfullscreen></iframe>
+            {%- if video.youtube_url != "" and video.youtube_url != null and video.youtube_url != empty -%}
+                <div class="flex-video">
+                    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/{{ video.youtube_url | remove: "https://www.youtube.com/watch?v=" }}" frameborder="0" allowfullscreen></iframe>
+                </div>
             {%- endif -%}
             {%- if video.custom != "" and video.custom != null and video.custom != empty -%}
-                {{ video.custom }}
+                <div class="flex-video">
+                    {{ video.custom }}
+                </div>
             {%- endif -%}
-            </div>
+            
         {%- endfor -%}
     {% endif %}
     </div>
