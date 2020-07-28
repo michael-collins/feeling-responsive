@@ -9,7 +9,7 @@ fields:
   name: layout
   label: Layout
   hidden: true
-  default: blocks
+  default: blocks-assignment-view
 - name: topics_covered
   type: tag_list
   default: []

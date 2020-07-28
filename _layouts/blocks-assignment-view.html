@@ -1,0 +1,8 @@
+---
+layout: nav-elements
+---
+{% for section in page.page_sections %}
+{% if section.block %}
+{% include {{ section.block }} %}
+{% endif %}
+{% endfor %}
