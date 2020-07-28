@@ -13,13 +13,13 @@
             {%- endif -%}
             <div class="flex-video">
             {%- if video.vimeo != "" and video.vimeo != null and video.vimeo != empty -%}
-                {% assign url =  (video.vimeo | remove: "https://vimeo.com/") %}
+                {% assign url =  ( video.vimeo | remove: "https://vimeo.com/" ) %}
                 <iframe width="auto" height="auto" src="https://player.vimeo.com/video/{{video.url}}?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
             {%- endif -%}
             {%- if video.youtube != "" and video.youtube != null and video.youtube != empty -%}
-                {% assign url =  (video.youtube | remove: "https://www.youtube.com/watch?v=" | remove: "") %}
-                <iframe width="auto" height="auto" src="https://www.youtube.com/embed/{{video.youtube_url}}" frameborder="0" allowfullscreen></iframe>
+                {% assign url =  (video.youtube | remove: "https://www.youtube.com/watch?v=") %}
+                <iframe width="auto" height="auto" src="https://www.youtube.com/embed/{{video.url}}" frameborder="0" allowfullscreen></iframe>
             {%- endif -%}
             {%- if video.custom != "" and video.custom != null and video.custom != empty -%}
                 {{ video.custom }}
