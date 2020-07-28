@@ -46,11 +46,12 @@ page_sections:
   headline: ''
   content: ''
   rubric_criteria:
-  - criteria_group:
-      criteria_title: Completed each step of the exercise
-      criteria_decription: This criteria measures to what extent you were able to
-        follow the directions.
-      criteria_weight: 50%
+  - criteria_title: Learning by doing (Completed all steps)
+    criteria_description: This criteria assess whether you completed the assignment's
+      given set of instructions. This indirectly infers how well you acquired foundational
+      skills and theory.
+    criteria_weight: 5 pts
+  rubric_title: ''
 - template: assignment-submission
   block: assignment-a-description
   submission-notes-enabled: true
