@@ -18,7 +18,12 @@ page_sections:
   block: assignment-h-media-gallery
   headline: Media gallery
   content: I've found some images that will help you get a better understanding.
-  image-gallery: []
+  image-gallery:
+  - gallery_title: Blender open movies
+    image:
+    - caption: Spring the Open Blender Film
+      enable_caption: true
+      image_url: "/uploads/download.jpg"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   headline: ''
