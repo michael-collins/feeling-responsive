@@ -16,13 +16,7 @@
             <h2>{{ gallery.gallery_title }}</h2>
             {% endif %}
 
-            
-                {% for image in gallery.images %}
-                image
-                {%- comment -%} {%- assign variable = value -%} {%- endcomment -%}
-                {%- comment -%} {% include gallery %} {%- endcomment -%}
-                {% endfor %}
-            
+            {% include gallery %}
             
         {% endif %}
 
