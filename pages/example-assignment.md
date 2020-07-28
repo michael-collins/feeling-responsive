@@ -46,12 +46,17 @@ page_sections:
   headline: ''
   content: ''
   rubric_criteria:
+  - criteria_title: Attention to Detail
+    criteria_description: This criteria looks at if the assignment was submitted on
+      time, if each step was completed to a high degree of accuracy, and if file naming
+      conventions were followed.
+    criteria_weight: 5 pts
   - criteria_title: Learning by doing (Completed all steps)
     criteria_description: This criteria assess whether you completed the assignment's
       given set of instructions. This indirectly infers how well you acquired foundational
       skills and theory.
     criteria_weight: 5 pts
-  rubric_title: Assignment Rubric
+  rubric_title: Exercise Rubric
 - template: assignment-submission
   block: assignment-a-description
   submission-notes-enabled: true
