@@ -15,6 +15,22 @@ fields:
   default: []
   label: Topics Covered
   description: Indicate topics that are covered.
+- name: difficulty_level
+  type: select
+  default: " beginner"
+  config:
+    required: true
+    options:
+    - " beginner"
+    - " intermediate"
+    - advanced
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Difficulty Level
+  description: What type of student is this assignment targeting?
 - type: datetime
   name: date-assigned
   label: Date Assigned
