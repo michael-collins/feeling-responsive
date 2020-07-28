@@ -10,9 +10,15 @@ page_sections:
   content: In this exercise, we will learn how to make an exercise.
 - template: assignment-demo
   block: assignment-a-demo
-  headline: ''
-  content: ''
-  video: []
+  headline: Video Tutorial
+  content: In this video, you will watch me learn how to make an exercise.
+  video:
+  - title: Learning to make an exercise.
+    youtube_url: dQw4w9WgXcQ
+    vimeo_url: "371483780"
+    custom: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/371483780?title=0&byline=0&portrait=0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
+      allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
