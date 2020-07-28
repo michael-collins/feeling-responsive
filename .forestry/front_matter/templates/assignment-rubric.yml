@@ -7,3 +7,35 @@ fields:
   label: block
   name: block
   default: assignment-a-description
+- name: rubric_criteria
+  type: field_group_list
+  fields:
+  - name: criteria_group
+    type: field_group
+    config: {}
+    fields:
+    - name: criteria_title
+      type: text
+      config:
+        required: false
+      label: Criteria Title
+    - name: criteria_decription
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Criteria Description
+    - name: criteria_weight
+      type: text
+      config:
+        required: false
+      label: Criteria Weight
+    label: Criteria Group
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Rubric Criteria
