@@ -51,7 +51,7 @@ page_sections:
       given set of instructions. This indirectly infers how well you acquired foundational
       skills and theory.
     criteria_weight: 5 pts
-  rubric_title: ''
+  rubric_title: Assignment Rubric
 - template: assignment-submission
   block: assignment-a-description
   submission-notes-enabled: true
