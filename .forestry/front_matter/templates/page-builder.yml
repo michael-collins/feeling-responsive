@@ -10,6 +10,11 @@ fields:
   label: Layout
   hidden: true
   default: blocks
+- name: topics_covered
+  type: tag_list
+  default: []
+  label: Topics Covered
+  description: Indicate topics that are covered.
 - type: datetime
   name: date-assigned
   label: Date Assigned
