@@ -4,10 +4,14 @@ layout: blocks
 date-assigned: 2020-08-01T04:00:00.000+00:00
 date-due: 2020-08-08T04:00:00.000+00:00
 page_sections:
+- template: assignment-demo
+  block: assignment-a-demo
+  headline: Description
+  content: In this exercise, you'll be learning about how to build exercises.
 - template: assignment-description
   block: assignment-a-description
-  headline: Description
-  content: In this exercise, you will be learning how to create an assignment.
+  headline: ''
+  content: ''
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
