@@ -15,6 +15,18 @@ fields:
   default: []
   label: Topics Covered
   description: Indicate topics that are covered.
+- name: prerequisites
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: assignments
+  label: Prerequisites
+  description: Select from the list of available prerequisites to indicate to students
+    what their prior knowledge should be.
 - name: difficulty_level
   type: select
   default: " beginner"
@@ -51,20 +63,5 @@ fields:
   - assignment-rubric
   - assignment-submission
   - assignment-media-gallery
-- name: prerequisite_skills
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: assignments
-      file: 
-      path: 
-  label: Prerequisite Skills
-  description: This option determines what pre-requisite skills are needed to accomplish
-    this assignment, given that they are options within this course. This does not
-    refer to outside pre-requisite knowledge.
 pages:
 - _assignments/example-assignment.md
