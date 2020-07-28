@@ -1,12 +1,12 @@
 ---
-label: Assignment Demo Video
+label: Assignment Description
 hide_body: false
 fields:
 - type: text
   hidden: true
   label: block
   name: block
-  default: assignment-a-demo
+  default: assignment-a-description
 - type: include
   name: column
   label: Column
