@@ -1,4 +1,32 @@
 ---
 label: Polygonal Modeling
 hide_body: true
-fields: []
+fields:
+- name: lesson
+  type: field_group_list
+  fields:
+  - name: presentation
+    type: field_group_list
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: slides
+      type: field_group_list
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Slides
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Presentation
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Lesson
