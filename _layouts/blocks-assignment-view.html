@@ -1,8 +1,24 @@
 ---
 layout: nav-elements
 ---
-{% for section in page.page_sections %}
-{% if section.block %}
-{% include {{ section.block }} %}
-{% endif %}
-{% endfor %}
+
+<div class= "row small-collpase medium-collpase full-width">
+    <div class= "columns small-5">
+        {% for section in page.page_sections %}
+            {% if section.block %}
+                {% unless section.block != "assignment-a-demo" %}
+                    {% include {{ section.block }} %}
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+    <div class= "columns small-6 small-offset-1">
+        {% for section in page.page_sections %}
+            {% if section.block %}
+                {% unless section.block == "assignment-a-demo" %}
+                    {% include {{ section.block }} %}
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
