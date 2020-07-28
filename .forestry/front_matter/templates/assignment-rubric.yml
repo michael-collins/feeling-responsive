@@ -35,6 +35,7 @@ fields:
       required: false
     label: Criteria Weight
     description: Typically written as points or a percentage.
+    default: 5 pts
   config:
     min: 
     max: 
