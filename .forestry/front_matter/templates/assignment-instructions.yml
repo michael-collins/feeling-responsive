@@ -6,7 +6,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: assignment-a-description
+  default: assignment-e-instructions
 - type: include
   name: instructions-overview
   label: Instructions overview

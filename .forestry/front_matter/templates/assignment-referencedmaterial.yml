@@ -6,7 +6,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: assignment-a-description
+  default: assignment-d-referencedmaterial
 - type: include
   name: column
   label: Column

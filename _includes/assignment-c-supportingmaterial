@@ -1,0 +1,12 @@
+<div class="row">
+    <div class="columns small-12">
+    {%- if section.numbered-items-list -%}
+    {% endif %}
+    {% if section.headline %}
+        <h2>{{ section.headline }}</h2>
+    {% endif %}
+    {% if section.content %}
+        <p>{{ section.content }}</p>
+    {% endif %}
+    </div>
+</div>

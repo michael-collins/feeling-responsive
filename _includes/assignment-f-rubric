@@ -1,0 +1,39 @@
+<div class="row">
+    <div class="columns small-12">
+    
+    {% if section.headline %}
+        <h2>{{ section.headline }}</h2>
+    {% endif %}
+    
+    {% if section.rubric_title %}
+        <h3>{{ section.rubric_title }}</h3>
+    {% endif %}
+
+    {% if section.content %}
+        <p>{{ section.content }}</p>
+    {% endif %}
+    
+    {%- if section.rubric_criteria -%}
+        <table class="stack">
+            <thead>
+            <tr>
+                <th>Criteria</th>
+                <th>Description</th>
+                <th>Assessment Weight</th>
+            </tr>
+            </thead>
+            <tbody>
+            
+            {%- for criterion in section.rubric_criteria -%}
+            <tr>
+                <th>{{criterion.criteria_title }}</th>
+                <th>{{criterion.criteria_description }}</th>
+                <th>{{criterion.criteria_weight }}</th>
+            </tr>
+            {%- endfor -%}
+            
+            </tbody>
+        </table>
+    {% endif %}
+    </div>
+</div>

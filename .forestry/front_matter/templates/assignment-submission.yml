@@ -6,7 +6,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: assignment-a-description
+  default: assignment-g-submission
 - name: submission-notes-enabled
   type: boolean
   label: Submission Notes Enabled

@@ -2,6 +2,15 @@
 label: Assignment Media Gallery
 hide_body: true
 fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: assignment-h-media-gallery
+- type: include
+  name: column
+  label: Column
+  template: text-column
 - name: image-gallery
   type: field_group_list
   fields:

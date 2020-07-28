@@ -23,10 +23,11 @@ fields:
   - assignment-description
   - assignment-media-gallery
   - assignment-learningobjectives
-  - assignment-associatedmaterial
+  - assignment-supportingmaterial
   - assignment-referencedmaterial
   - assignment-instructions
   - assignment-rubric
   - assignment-submission
+  - assignment-media-gallery
 pages:
 - pages/example-assignment.md

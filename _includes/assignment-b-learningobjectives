@@ -1,0 +1,14 @@
+<div class="row">
+    <div class="columns small-12">
+    {%- if section.numbered-items-list -%}
+    <h2>What you'll learn</h2>
+    <ol>
+        {% for item in section.numbered-items-list %}
+        
+            <li>{{ item }}</li>
+        
+        {%- endfor -%}
+        </ol>
+    {%- endif -%}
+    </div>
+</div>

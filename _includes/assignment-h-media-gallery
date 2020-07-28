@@ -1,0 +1,31 @@
+<div class="row">
+    <div class="columns small-12">
+    {% if section.headline %}
+        <h2>{{ section.headline }}</h2>
+    {% endif %}
+    {% if section.content %}
+        <p>{{ section.content }}</p>
+    {% endif %}
+
+    {% for gallery in section.image-gallery %}
+        {% assign gallery-size = gallery | size %}
+        
+        {% if gallery-size > 0 %}
+            
+            {% if gallery.gallery_title %}
+            <h2>{{ gallery.gallery_title }}</h2>
+            {% endif %}
+
+            
+                {% for image in gallery.images %}
+                image
+                {%- comment -%} {%- assign variable = value -%} {%- endcomment -%}
+                {%- comment -%} {% include gallery %} {%- endcomment -%}
+                {% endfor %}
+            
+            
+        {% endif %}
+
+    {% endfor %}
+</div>
+</div>

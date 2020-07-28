@@ -1,0 +1,16 @@
+{% if section.submission-notes-enabled == "true" %}
+    {% if section.headline %}
+        <h2>{{ section.headline }}</h2>
+    {% endif %}
+    {% if section.content %}
+        <p>{{ section.content }}</p>
+    {% endif %}
+{% endif %}
+{% if section.submission_uploads_enabled == "true" %}
+    <h3>Submission Details</h3>
+    <ul>
+    {% for item in section.submission_item %}
+        <li>{{ item }}</li>
+    {% endfor %}
+     </ul>
+{% endif %}
