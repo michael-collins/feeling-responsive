@@ -11,3 +11,21 @@ fields:
   name: column
   label: Column
   template: text-column
+- name: video
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: url
+    type: text
+    config:
+      required: false
+    label: Video URL
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Video
