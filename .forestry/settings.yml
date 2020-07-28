@@ -4,12 +4,11 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
+- type: directory
+  path: _lessons
+  label: Lessons
   create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
+  match: "**/*"
 - type: directory
   path: _topics
   label: Topics
@@ -21,6 +20,16 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _presentations
+  label: Presentations
+  create: all
+  match: "**/*"
+- type: directory
+  path: _agendas
+  label: Agendas
+  create: all
+  match: "**/*"
+- type: directory
   path: _grading
   label: Grading
   create: all
@@ -28,31 +37,6 @@ sections:
 - type: directory
   path: _assignments
   label: Assignments
-  create: all
-  match: "**/*"
-- type: directory
-  path: _presentations
-  label: Presentations
-  create: all
-  match: "**/*"
-- type: directory
-  path: _projects
-  label: Projects
-  create: all
-  match: "**/*"
-- type: directory
-  path: _exercises
-  label: Exercises
-  create: all
-  match: "**/*"
-- type: directory
-  path: _lessons
-  label: Lessons
-  create: all
-  match: "**/*"
-- type: directory
-  path: _agendas
-  label: Agendas
   create: all
   match: "**/*"
 upload_dir: uploads
