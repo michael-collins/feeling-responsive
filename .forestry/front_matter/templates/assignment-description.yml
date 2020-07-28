@@ -19,11 +19,13 @@ fields:
     config:
       required: false
     label: Title
-  - name: url
+  - name: youtube_url
     type: text
     config:
       required: false
-    label: Video URL
+    label: Youtube URL
+    description: Post a clean Youtube URL or video ID. For instance, <strong><em>https://www.youtube.com/watch?v=dQw4w9WgXcQ</em></strong>
+      and <strong><em>dQw4w9WgXcQ</em></strong> will both work.
   config:
     min: 
     max: 
