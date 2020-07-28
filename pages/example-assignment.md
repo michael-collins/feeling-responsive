@@ -45,6 +45,12 @@ page_sections:
   block: assignment-a-description
   headline: ''
   content: ''
+  rubric_criteria:
+  - criteria_group:
+      criteria_title: Completed each step of the exercise
+      criteria_decription: This criteria measures to what extent you were able to
+        follow the directions.
+      criteria_weight: 50%
 - template: assignment-submission
   block: assignment-a-description
   submission-notes-enabled: true
