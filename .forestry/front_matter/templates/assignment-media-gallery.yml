@@ -20,28 +20,28 @@ fields:
       required: false
     label: Gallery Title
   - name: image
-    type: field_group
-    config: {}
+    type: field_group_list
     fields:
     - name: caption
       type: text
       config:
         required: false
       label: Caption
-      description: Add a caption. This is very important for web accessibility standards.
+    - name: enable_caption
+      type: boolean
+      label: Enable Caption
+      default: true
     - name: image_url
       type: file
       config:
-        maxSize: 2
+        maxSize: 64
       label: Image File
-      description: Add an image
-    - name: enable_caption
-      type: boolean
-      label: Enable caption
-      description: Enable this to display that caption with the image. Otherwise the
-        caption will be hidden.
-    label: image
-    description: A new image
+      description: Upload an image under 2MB.
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Image
   config:
     min: 
     max: 
