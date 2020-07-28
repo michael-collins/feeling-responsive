@@ -21,6 +21,9 @@ page_sections:
   image-gallery:
   - gallery_title: Blender open movies
     image:
+    - caption: Open Blender Movie Coffee Run
+      enable_caption: true
+      image_url: "/uploads/maxresdefault-1.jpg"
     - caption: Spring the Open Blender Film
       enable_caption: true
       image_url: "/uploads/download.jpg"
