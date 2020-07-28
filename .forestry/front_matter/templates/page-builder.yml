@@ -51,5 +51,20 @@ fields:
   - assignment-rubric
   - assignment-submission
   - assignment-media-gallery
+- name: prerequisite_skills
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: assignments
+      file: 
+      path: 
+  label: Prerequisite Skills
+  description: This option determines what pre-requisite skills are needed to accomplish
+    this assignment, given that they are options within this course. This does not
+    refer to outside pre-requisite knowledge.
 pages:
 - _assignments/example-assignment.md
