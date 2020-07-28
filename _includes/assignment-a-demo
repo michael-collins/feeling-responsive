@@ -18,6 +18,7 @@
 
             {%- endif -%}
             {%- if video.youtube != "" and video.youtube != null and video.youtube != empty -%}
+                {% assign url =  (video.youtube | remove: "https://www.youtube.com/watch?v=" | remove: "") %}
                 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/{{video.youtube_url}}" frameborder="0" allowfullscreen></iframe>
             {%- endif -%}
             {%- if video.custom != "" and video.custom != null and video.custom != empty -%}
