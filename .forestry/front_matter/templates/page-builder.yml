@@ -30,3 +30,5 @@ fields:
   - assignment-rubric
   - assignment-submission
   - assignment-media-gallery
+pages:
+- _assignments/example-assignment.md
