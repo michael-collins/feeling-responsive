@@ -18,14 +18,7 @@ page_sections:
   block: assignment-h-media-gallery
   headline: ''
   content: ''
-  image-gallery:
-  - gallery_title: Examples
-    images:
-    - "/uploads/blender-infographic-lowres-preview.jpg"
-  - gallery_title: Past student work
-    images:
-    - "/uploads/download.jpg"
-    - "/uploads/blender-infographic-lowres-preview.jpg"
+  image-gallery: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   headline: ''
