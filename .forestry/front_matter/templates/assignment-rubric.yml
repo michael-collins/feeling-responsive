@@ -29,6 +29,12 @@ fields:
       schema:
         format: markdown
     label: Criteria Description
+  - name: criteria_weight
+    type: text
+    config:
+      required: false
+    label: Criteria Weight
+    description: Typically written as points or a percentage.
   config:
     min: 
     max: 
