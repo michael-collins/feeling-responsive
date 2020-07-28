@@ -16,15 +16,9 @@ page_sections:
   - Gain understanding in deploying your own hosted course
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
-  headline: Example images
-  content: I've collected some images to help you get a better understanding of what
-    this is supposed to look like.
-  image-gallery:
-  - gallery_title: Good Blender Renders
-    image:
-      caption: Spring the Open Blender Movie
-      enable_caption: true
-      image_url: "/uploads/download.jpg"
+  headline: Media gallery
+  content: I've found some images that will help you get a better understanding.
+  image-gallery: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   headline: ''
