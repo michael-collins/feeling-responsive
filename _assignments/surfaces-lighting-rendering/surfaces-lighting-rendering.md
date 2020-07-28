@@ -65,7 +65,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 5. In the render window, Image --> Save As **_{{ page.submission-id }}_**.png in the project folder.
 9. Save the 3D scene file as **_{{ page.submission-id }}_** in the project folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+11. Upload the .zip file to the [submission dropbox]()
 12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-2"></a>Level 2:
@@ -87,7 +87,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 5. In the render window, Image --> Save As **_{{ page.submission-id }}_**.png in the project folder.
 9. Save the 3D scene file as **_{{ page.submission-id }}_** in the project folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+11. Upload the .zip file to the [submission dropbox]()
 12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-3"></a>Level 3:

@@ -39,6 +39,6 @@ Examples:
 9. Save all 3D scene file in the project folder called **_{{ page.submission-id }}_**.
 10. Inlude a .txt file of the SketchFab.com url in the scene folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
-11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+11. Upload the .zip file to the [submission dropbox]()
 12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 13. Paste the url of the SketchFab project in exercise discussion forum on Canvas.

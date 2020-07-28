@@ -7,19 +7,11 @@
         <p>{{ section.content }}</p>
     {% endif %}
 
-    {% for gallery in section.image-gallery %}
-        {% assign gallery-size = gallery | size %}
-        
-        {% if gallery-size > 0 %}
-            
-            {% if gallery.gallery_title %}
-            <h3>{{ gallery.gallery_title }}</h3>
-            {% endif %}
-
-            {% include gallery %}
-            
+    {% for gallery in section.image-gallery %}            
+        {% if gallery.gallery_title %}
+        <h3>{{ gallery.gallery_title }}</h3>
         {% endif %}
-
+        {% include assignment-gallery %}
     {% endfor %}
 </div>
 </div>
