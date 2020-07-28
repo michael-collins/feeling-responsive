@@ -8,6 +8,12 @@ page_sections:
   block: assignment-a-description
   headline: Exercise 1 Description
   content: In this exercise, we will learn how to make an exercise.
+- template: assignment-learningobjectives
+  block: assignment-b-learningobjectives
+  numbered-items-list:
+  - Gain understanding of typical assignment components
+  - Gain mastery in assignment building
+  - Gain understanding in deploying your own hosted course
 - template: assignment-demo
   block: assignment-a-demo
   headline: Video Tutorial
@@ -19,12 +25,6 @@ page_sections:
     custom: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/371483780?title=0&byline=0&portrait=0"
       style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
       allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-- template: assignment-learningobjectives
-  block: assignment-b-learningobjectives
-  numbered-items-list:
-  - Gain understanding of typical assignment components
-  - Gain mastery in assignment building
-  - Gain understanding in deploying your own hosted course
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
   headline: Media gallery
