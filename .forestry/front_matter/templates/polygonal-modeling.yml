@@ -8,18 +8,35 @@ fields:
   - name: presentation
     type: field_group_list
     fields:
-    - name: title
+    - name: external_link
       type: text
       config:
         required: false
-      label: Title
+      label: External Link
+      description: Link to lecture slides hosted at an external URL.
+    - name: enable_markdown_slides
+      type: boolean
+      label: Enable Markdown Slides
+      default: false
     - name: slides
-      type: field_group_list
+      type: textarea
+      default: |2-
+            ## Slide 1    A paragraph with some text and a [link](https://revealjs.com/markdown/).
+            ---
+            ## Slide 2
+            ---
+            ## Slide 3
       config:
-        min: 
-        max: 
-        labelField: 
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
       label: Slides
+      description: Use <a href="https://revealjs.com/markdown/" title="" target="_blank">Reveal
+        JS Markdown</a> to create slides.
+      showOnly:
+        field: enable_markdown_slides
+        value: true
     config:
       min: 
       max: 
