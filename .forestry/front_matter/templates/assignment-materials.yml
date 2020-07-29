@@ -1,0 +1,13 @@
+---
+label: Assignment Supporting Material
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: assignment-c-supportingmaterial
+- type: include
+  name: column
+  label: Column
+  template: text-column
