@@ -5,14 +5,14 @@ fields:
 - name: lesson
   type: field_group_list
   fields:
-  - name: presentation
+  - name: lecture
     type: field_group_list
     fields:
     - name: external_link
       type: text
       config:
         required: false
-      label: External Link
+      label: External Slides Link
       description: Link to lecture slides hosted at an external URL.
     - name: enable_markdown_slides
       type: boolean
@@ -41,11 +41,11 @@ fields:
       min: 
       max: 
       labelField: 
-    label: Presentation
+    label: Lecture
   - name: readings
     type: field_group_list
     fields:
-    - name: readings
+    - name: reading
       type: field_group_list
       fields:
       - name: title
@@ -74,7 +74,7 @@ fields:
         min: 
         max: 
         labelField: 
-      label: Readings
+      label: Reading
     config:
       min: 
       max: 
