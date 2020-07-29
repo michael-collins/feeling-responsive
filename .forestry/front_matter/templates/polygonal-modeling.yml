@@ -42,6 +42,44 @@ fields:
       max: 
       labelField: 
     label: Presentation
+  - name: readings
+    type: field_group_list
+    fields:
+    - name: readings
+      type: field_group_list
+      fields:
+      - name: title
+        type: text
+        config:
+          required: false
+        label: Title
+      - name: external_reading_link
+        type: text
+        config:
+          required: false
+        label: External Reading Link
+      - name: upload_reading_file
+        type: boolean
+        label: Upload Reading File
+      - name: reading_url
+        type: file
+        config:
+          maxSize: 4
+        label: Reading File
+        description: Upload a pdf or other text file for students to download.
+        showOnly:
+          field: upload_reading_file
+          value: true
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: Readings
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Readings
   config:
     min: 
     max: 
