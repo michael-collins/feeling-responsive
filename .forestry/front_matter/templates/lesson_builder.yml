@@ -8,7 +8,7 @@ fields:
   - name: lecture
     type: field_group_list
     fields:
-    - name: external_link
+    - name: external_slides_link
       type: text
       config:
         required: false
