@@ -3,11 +3,12 @@ label: lesson
 hide_body: true
 fields:
 - type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
   name: title
   label: title
 - type: text
   name: subtitle
   label: subtitle
-- type: text
-  name: layout
-  label: layout
