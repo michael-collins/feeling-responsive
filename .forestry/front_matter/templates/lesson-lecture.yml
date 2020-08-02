@@ -44,11 +44,10 @@ fields:
     schema:
       format: markdown
   label: Slides
-  description: '## Slide 1    A paragraph with some text and a [link](<a href="https://revealjs.com/markdown/"
-    title="https://revealjs.com/markdown/" target="_blank">https://revealjs.com/markdown/</a>).---##
-    Slide 2---## Slide 3'
   showOnly:
     field: enable_markdown_slides
+    value: true
+  description: Presentation slides in markdown format based on Reveal JS.
 - name: enable_external_links
   type: boolean
   label: Enable External Links
