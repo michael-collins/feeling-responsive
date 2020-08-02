@@ -247,6 +247,9 @@ body {
 	.accordion dd {
 		border-bottom: none;
 	}
+	.accordion dd>.content {
+		margin-left: 1rem;
+	}
 	.accordion .accordion-navigation>a, .accordion dd>a {
 		background: #fff;
 	}
