@@ -141,5 +141,33 @@ fields:
     max: 
     labelField: 
   label: Assignments
+- name: beginner
+  type: field_group
+  config: {}
+  fields:
+  - name: lecture
+    type: blocks
+    label: Lecture
+    template_types:
+    - lesson-lecture
+    config:
+      min: 
+      max: 
+  - name: reading
+    type: blocks
+    label: Reading
+    template_types:
+    - lesson-reading
+    config:
+      min: 
+      max: 
+  - name: assignments
+    type: blocks
+    label: Assignments
+    template_types: []
+    config:
+      min: 
+      max: 
+  label: Beginner
 pages:
 - _lessons/lesson-01.md
