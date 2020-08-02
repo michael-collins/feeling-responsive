@@ -1,4 +1,28 @@
 ---
 label: Lesson Reading
 hide_body: true
-fields: []
+fields:
+- name: reading
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: external_reading_link
+    type: text
+    config:
+      required: false
+    label: External Reading Link
+  - name: upload_reading_file
+    type: boolean
+    label: Upload Reading File
+    default: false
+  - name: reading_file
+    type: file
+    config:
+      maxSize: 3
+    label: Reading File
+  label: Reading
