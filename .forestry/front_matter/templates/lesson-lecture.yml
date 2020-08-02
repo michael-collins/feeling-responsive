@@ -28,7 +28,16 @@ fields:
   label: Enable Markdown Slides
 - name: slides
   type: textarea
-  default: ''
+  default: |-
+    \## Slide 1    A paragraph with some text and a \[link\]([https://revealjs.com/markdown/](https://revealjs.com/markdown/ "https://revealjs.com/markdown/")).
+
+    \---
+
+    \## Slide 2
+
+    \---
+
+    \## Slide 3
   config:
     required: false
     wysiwyg: true
