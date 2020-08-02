@@ -4,9 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Course Setup
 - type: document
-  path: lessons/*
+  path: page/lesson-index.html
   label: Learning Modules
+- type: heading
+  label: Course Content
 - type: directory
   path: _lessons
   label: Lessons
