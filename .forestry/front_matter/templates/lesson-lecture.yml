@@ -83,3 +83,5 @@ fields:
   showOnly:
     field: enable_downloads
     value: true
+pages:
+- _lectures/intermediate-lesson01-lecture.md
