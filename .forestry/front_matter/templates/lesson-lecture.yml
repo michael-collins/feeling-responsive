@@ -5,6 +5,11 @@ fields:
 - name: lecture
   type: field_group_list
   fields:
+  - name: lecture_title
+    type: text
+    config:
+      required: false
+    label: Lecture Title
   - name: external_lecture_link
     type: text
     config:
