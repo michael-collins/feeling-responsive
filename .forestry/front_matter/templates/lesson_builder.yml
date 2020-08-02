@@ -90,6 +90,17 @@ fields:
   fields:
   - name: beginner-assignments
     type: field_group_list
+    fields:
+    - name: beginner-list
+      type: list
+      config:
+        use_select: true
+        min: 
+        max: 
+        source:
+          type: pages
+          section: assignments
+      label: Selected Beginner Assignments
     config:
       min: 
       max: 
@@ -97,6 +108,14 @@ fields:
     label: Beginner
   - name: intermediate-assignments
     type: field_group_list
+    fields:
+    - name: intermediate-list
+      type: list
+      config:
+        use_select: false
+        min: 
+        max: 
+      label: Selected Intermediate Assignments
     config:
       min: 
       max: 
@@ -104,6 +123,14 @@ fields:
     label: Intermediate
   - name: advanced-assignments
     type: field_group_list
+    fields:
+    - name: advanced-list
+      type: list
+      config:
+        use_select: false
+        min: 
+        max: 
+      label: Selected Advanced Assignments
     config:
       min: 
       max: 
