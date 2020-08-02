@@ -85,5 +85,34 @@ fields:
     max: 
     labelField: 
   label: Lesson
+- name: assignments
+  type: field_group_list
+  fields:
+  - name: beginner-assignments
+    type: field_group_list
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Beginner
+  - name: intermediate-assignments
+    type: field_group_list
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Intermediate
+  - name: advanced-assignments
+    type: field_group_list
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Advanced
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Assignments
 pages:
 - _lessons/lesson-01.md
