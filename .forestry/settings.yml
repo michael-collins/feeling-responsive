@@ -4,35 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _lessons
-  label: Lessons
-  create: all
-  match: "**/*"
-- type: directory
-  path: _topics
-  label: Topics
-  create: all
-  match: "**/*"
-- type: directory
-  path: _syllabus
-  label: Syllabus
-  create: all
-  match: "**/*"
-- type: directory
-  path: _presentations
-  label: Presentations
-  create: all
-  match: "**/*"
-- type: directory
-  path: _agendas
-  label: Agendas
-  create: all
-  match: "**/*"
-- type: directory
-  path: _grading
-  label: Grading
-  create: all
+- type: document
+  path: lessons
+  label: Learning Modules
   match: "**/*"
 - type: directory
   path: _assignments
