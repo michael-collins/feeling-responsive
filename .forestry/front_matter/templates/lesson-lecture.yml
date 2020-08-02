@@ -51,17 +51,6 @@ fields:
 - name: enable_external_links
   type: boolean
   label: Enable External Links
-- name: enable_downloads
-  type: boolean
-  label: Enable downloads
-  description: File assets available for download
-- name: download_files
-  type: image_gallery
-  config: {}
-  label: Download Files
-  showOnly:
-    field: enable_downloads
-    value: true
 - name: external_link
   type: field_group_list
   fields:
@@ -82,4 +71,15 @@ fields:
   label: External Link
   showOnly:
     field: enable_external_links
+    value: true
+- name: enable_downloads
+  type: boolean
+  label: Enable downloads
+  description: File assets available for download
+- name: download_files
+  type: image_gallery
+  config: {}
+  label: Download Files
+  showOnly:
+    field: enable_downloads
     value: true
