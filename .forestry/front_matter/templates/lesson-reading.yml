@@ -26,3 +26,5 @@ fields:
       maxSize: 3
     label: Reading File
   label: Reading
+pages:
+- _readings/From the future with love.md
