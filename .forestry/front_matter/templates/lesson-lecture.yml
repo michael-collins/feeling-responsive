@@ -5,16 +5,27 @@ fields:
 - name: lecture
   type: field_group_list
   fields:
+  - name: enable_external_link
+    type: boolean
+    label: Enable External Link
   - name: title
     type: text
     config:
       required: false
-    label: Lecture Title
-  - name: external_lecture_link
+    label: Title
+    showOnly:
+      field: enable_external_link
+      value: true
+    description: Enter the title for the link. This will be the text and alt-text
+      display of the hyperlink.
+  - name: external_url
     type: text
     config:
       required: false
-    label: External Lecture Link
+    label: External URL
+    showOnly:
+      field: enable_external_link
+      value: true
   - name: enable_markdown_slides
     type: boolean
     label: Enable Markdown Slides
