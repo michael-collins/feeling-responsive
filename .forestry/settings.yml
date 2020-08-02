@@ -7,7 +7,6 @@ sections:
 - type: document
   path: lessons
   label: Learning Modules
-  match: "**/*"
 - type: directory
   path: _assignments
   label: Assignments
