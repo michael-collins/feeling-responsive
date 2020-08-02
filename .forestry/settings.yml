@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: lessons/index.html
+  path: lessons/*
   label: Learning Modules
 - type: directory
   path: _assignments
