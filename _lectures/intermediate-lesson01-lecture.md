@@ -17,12 +17,15 @@ slides: |-
 
   \## Slide 3
 enable_markdown_slides: true
-enable_external_links: false
-enable_downloads: false
+enable_external_links: true
+enable_downloads: true
 lecture_description: The first lecture of the course for beginners.
 lecture_image: ''
-external_link: []
-download_files: []
+external_link:
+- title: Google
+  url: https://google.com
+download_files:
+- "/uploads/area-light-hdr.exr"
 
 ---
 This is beginner lecture content.
