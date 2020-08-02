@@ -25,6 +25,9 @@ fields:
     config:
       maxSize: 3
     label: Reading File
+    showOnly:
+      field: upload_reading_file
+      value: true
   label: Reading
 pages:
 - _readings/From the future with love.md
