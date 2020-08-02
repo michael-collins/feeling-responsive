@@ -85,3 +85,5 @@ fields:
     max: 
     labelField: 
   label: Lesson
+pages:
+- _lessons/lesson-01.md

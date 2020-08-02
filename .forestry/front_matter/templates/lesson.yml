@@ -24,5 +24,3 @@ fields:
       max: 
     label: Lecture List
   label: Lectures
-pages:
-- _lessons/lesson-01.md

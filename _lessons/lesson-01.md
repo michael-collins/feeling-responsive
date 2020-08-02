@@ -4,5 +4,6 @@ subtitle: Intoruction to 3D
 layout: lesson
 lectures:
   lecture_list: []
+lesson: []
 
 ---
