@@ -4,22 +4,36 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Course Setup
+- type: document
+  path: page/lesson-index.html
+  label: Learning Modules
+- type: heading
+  label: Course Content
 - type: directory
   path: _lessons
   label: Lessons
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
+- type: directory
+  path: _lectures
+  label: Lectures
   create: all
-- type: document
-  path: lessons/*
-  label: Learning Modules
+  match: "**/*"
+- type: directory
+  path: _readings
+  label: Readings
+  create: all
+  match: "**/*"
 - type: directory
   path: _assignments
   label: Assignments
   create: all
   match: "**/*"
+- type: jekyll-pages
+  label: Pages
+  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
