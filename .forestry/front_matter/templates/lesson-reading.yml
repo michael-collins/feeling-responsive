@@ -3,7 +3,7 @@ label: Lesson Reading
 hide_body: true
 fields:
 - name: reading
-  type: field_group
+  type: field_group_list
   config: {}
   fields:
   - name: title
