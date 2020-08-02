@@ -20,7 +20,7 @@ enable_markdown_slides: true
 enable_external_links: true
 enable_downloads: true
 lecture_description: The first lecture of the course for beginners.
-lecture_image: ''
+lecture_image: "/uploads/maxresdefault-1.jpg"
 external_link:
 - title: Google
   url: https://google.com
