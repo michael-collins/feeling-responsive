@@ -12,3 +12,15 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
+- name: lectures
+  type: field_group
+  config: {}
+  fields:
+  - name: lecture_list
+    type: list
+    config:
+      use_select: false
+      min: 
+      max: 
+    label: Lecture List
+  label: Lectures
