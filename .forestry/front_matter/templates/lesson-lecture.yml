@@ -1,4 +1,41 @@
 ---
 label: Lesson Lecture
 hide_body: true
-fields: []
+fields:
+- name: lecture
+  type: field_group_list
+  fields:
+  - name: external_lecture_link
+    type: text
+    config:
+      required: false
+    label: External Lecture Link
+  - name: enable_markdown_slides
+    type: boolean
+    label: Enable Markdown Slides
+  - name: slides
+    type: textarea
+    default: |-
+      \## Slide 1    A paragraph with some text and a \[link\]([https://revealjs.com/markdown/](https://revealjs.com/markdown/ "https://revealjs.com/markdown/")).
+
+      \---
+
+      \## Slide 2
+
+      \---
+
+      \## Slide 3
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Slides
+    showOnly:
+      field: enable_markdown_slides
+      value: true
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Lecture
