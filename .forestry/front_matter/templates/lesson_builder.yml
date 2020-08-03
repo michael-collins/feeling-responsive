@@ -48,11 +48,6 @@ fields:
   showOnly:
     field: enable_active_dates
     value: true
-- name: weight
-  type: text
-  config:
-    required: false
-  label: weight
 - name: all
   type: field_group
   config: {}
