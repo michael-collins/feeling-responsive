@@ -33,3 +33,5 @@ fields:
   showOnly:
     field: upload_reading_file
     value: true
+pages:
+- _readings/beginner-lesson-1-reading.md
