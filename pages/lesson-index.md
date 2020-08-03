@@ -12,5 +12,9 @@ weeks:
   - week_number: "2"
     lessons:
     - _lessons/polygonal-modelling.md
+  - week_number: "3"
+    lessons: []
+  - week_number: "4"
+    lessons: []
 
 ---
