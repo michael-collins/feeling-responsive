@@ -42,6 +42,9 @@ page_sections:
   block: assignment-c-supportingmaterial
   headline: ''
   content: ''
+  material:
+  - readings:
+    - _readings/beginner-lesson-1-reading.md
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   headline: ''
