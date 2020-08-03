@@ -14,6 +14,7 @@ page_sections:
   - Gain understanding of typical assignment components
   - Gain mastery in assignment building
   - Gain understanding in deploying your own hosted course
+  list-item: []
 - template: assignment-demo
   block: assignment-a-demo
   headline: Video Tutorial
@@ -59,6 +60,7 @@ page_sections:
   - Read the reading
   - Upload your work using the link in the submission details.
   - Follow the tutorials in the supporting materials.
+  list-item: []
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
@@ -82,10 +84,13 @@ page_sections:
   headline: ''
   content: ''
   submission_item: []
+  submission: []
 topics_covered:
-- example topic
+- tries
+- face normals
+- " modular"
+- " object instances"
 prerequisites: []
 difficulty_level: " beginner"
-published: false
 
 ---
