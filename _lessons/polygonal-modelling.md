@@ -1,6 +1,6 @@
 ---
 title: Polygonal Modelling
-subtitle: Introduction to 3D Studio
+subtitle: 3D's most essential skill
 layout: lesson
 lectures:
   lecture_list: []
@@ -34,6 +34,5 @@ all:
   - _readings/beginner-lesson-1-reading.md
   assignments:
   - _assignments/modeling-intro/modeling-intro.md
-published: false
 
 ---
