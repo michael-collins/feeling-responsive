@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Course Setup
 - type: document
-  path: pages/lesson-index.html
+  path: pages/lesson-index.md
   label: Learning Modules
 - type: heading
   label: Course Content
