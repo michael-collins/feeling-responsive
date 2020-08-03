@@ -1,5 +1,5 @@
 ---
-title: Introduction to Texturing
+title: Introduction Texturing
 subtitle: 
 layout: page
 
