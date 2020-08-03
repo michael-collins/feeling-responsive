@@ -33,5 +33,3 @@ fields:
   showOnly:
     field: upload_reading_file
     value: true
-pages:
-- _readings/sci-fi-film.md
