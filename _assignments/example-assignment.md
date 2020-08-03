@@ -82,7 +82,8 @@ page_sections:
   headline: ''
   content: ''
   submission_item: []
-topics_covered: []
+topics_covered:
+- example topic
 prerequisites: []
 difficulty_level: " beginner"
 
