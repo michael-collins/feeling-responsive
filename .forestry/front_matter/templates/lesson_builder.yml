@@ -21,6 +21,21 @@ fields:
   config:
     maxSize: 64
   label: lesson-image
+- name: enable_active_dates
+  type: boolean
+  label: Enable active dates
+- name: lesson_begin_date
+  type: datetime
+  label: Lesson begin date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  showOnly:
+    field: enable_active_dates
+    value: true
 - name: weight
   type: text
   config:
