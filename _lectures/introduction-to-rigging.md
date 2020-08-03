@@ -17,6 +17,5 @@ enable_external_links: false
 external_link: []
 enable_downloads: false
 download_files: []
-published: false
 
 ---
