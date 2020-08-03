@@ -2,145 +2,6 @@
 label: lesson-builder
 hide_body: true
 fields:
-- name: lesson
-  type: field_group_list
-  fields:
-  - name: lecture
-    type: field_group_list
-    fields:
-    - name: external_slides_link
-      type: text
-      config:
-        required: false
-      label: External Slides Link
-      description: Link to lecture slides hosted at an external URL.
-    - name: enable_markdown_slides
-      type: boolean
-      label: Enable Markdown Slides
-      default: false
-    - name: slides
-      type: textarea
-      default: |2-
-            ## Slide 1    A paragraph with some text and a [link](https://revealjs.com/markdown/).
-            ---
-            ## Slide 2
-            ---
-            ## Slide 3
-      config:
-        required: false
-        wysiwyg: true
-        schema:
-          format: markdown
-      label: Slides
-      description: Use <a href="https://revealjs.com/markdown/" title="" target="_blank">Reveal
-        JS Markdown</a> to create slides.
-      showOnly:
-        field: enable_markdown_slides
-        value: true
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Lecture
-  - name: readings
-    type: field_group_list
-    fields:
-    - name: reading
-      type: field_group_list
-      fields:
-      - name: title
-        type: text
-        config:
-          required: false
-        label: Title
-      - name: external_reading_link
-        type: text
-        config:
-          required: false
-        label: External Reading Link
-      - name: upload_reading_file
-        type: boolean
-        label: Upload Reading File
-      - name: reading_url
-        type: file
-        config:
-          maxSize: 4
-        label: Reading File
-        description: Upload a pdf or other text file for students to download.
-        showOnly:
-          field: upload_reading_file
-          value: true
-      config:
-        min: 
-        max: 
-        labelField: 
-      label: Reading
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Readings
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Lesson
-- name: assignments
-  type: field_group_list
-  fields:
-  - name: beginner-assignments
-    type: field_group_list
-    fields:
-    - name: beginner-list
-      type: list
-      config:
-        use_select: true
-        min: 
-        max: 
-        source:
-          type: pages
-          section: assignments
-      label: Selected Beginner Assignments
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Beginner
-  - name: intermediate-assignments
-    type: field_group_list
-    fields:
-    - name: intermediate-list
-      type: list
-      config:
-        use_select: false
-        min: 
-        max: 
-      label: Selected Intermediate Assignments
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Intermediate
-  - name: advanced-assignments
-    type: field_group_list
-    fields:
-    - name: advanced-list
-      type: list
-      config:
-        use_select: false
-        min: 
-        max: 
-      label: Selected Advanced Assignments
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Advanced
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Assignments
 - name: beginner
   type: field_group
   config: {}
@@ -166,17 +27,13 @@ fields:
         section: assignments
     label: Assignments
   - name: readings
-    type: select
-    default: []
+    type: list
     config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: readings
-        file: 
-        path: 
+      use_select: false
+      min: 
+      max: 
     label: Readings
+    description: Choose readings for this lesson
   label: Beginner
 pages:
 - _lessons/lesson-01.md
