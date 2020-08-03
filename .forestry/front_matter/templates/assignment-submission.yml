@@ -35,18 +35,10 @@ fields:
       required: false
     label: Title
   - name: url
-    type: select
-    default: []
+    type: text
     config:
       required: false
-      options: []
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
     label: URL
-    description: URL of the submission dropbox. This is typically a Canvas assignment.
   config:
     min: 
     max: 
