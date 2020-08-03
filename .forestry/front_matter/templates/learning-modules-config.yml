@@ -21,5 +21,9 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: enable_lessons_by_week
+  type: boolean
+  label: Enable Lessons By Week
+  default: true
 pages:
 - pages/lesson-index.md
