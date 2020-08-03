@@ -2,6 +2,16 @@
 label: lesson-builder
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Lesson Title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
 - name: beginner
   type: field_group
   config: {}
