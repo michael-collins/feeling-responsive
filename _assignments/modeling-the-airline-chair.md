@@ -83,8 +83,8 @@ page_sections:
   content: ''
   submission_item: []
   submission:
-  - title: Canvas Dropbox
-    url: ''
+  - title: Blender File (.blend)
+    url: google.com
 topics_covered:
 - modeling
 prerequisites: []
