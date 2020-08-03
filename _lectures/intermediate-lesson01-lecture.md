@@ -1,5 +1,5 @@
 ---
-title: Introduction to Texturing
+title: Introduction to Modeling
 subtitle: 
 layout: page
 slides: |-
