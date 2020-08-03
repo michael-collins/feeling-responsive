@@ -1,6 +1,6 @@
 ---
-title: Lesson 01
-subtitle: Introuction to 3D
+title: DART 303 Introduction
+subtitle: Introduction to 3D Studio
 layout: lesson
 lectures:
   lecture_list: []
