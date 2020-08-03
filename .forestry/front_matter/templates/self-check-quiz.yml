@@ -1,4 +1,22 @@
 ---
 label: self-check-quiz
 hide_body: true
-fields: []
+fields:
+- name: self-check
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: false
+    label: Question
+  - name: answer
+    type: text
+    config:
+      required: false
+    label: Answer
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Self-check
