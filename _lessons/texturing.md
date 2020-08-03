@@ -12,7 +12,8 @@ all:
   - _readings/beginner-lesson-2.md
   assignments: []
 beginner:
-  lectures: []
+  lectures:
+  - _lectures/advanced-lesson01-lecture.md
   readings: []
   assignments: []
 intermediate:
