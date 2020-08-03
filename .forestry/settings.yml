@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: _quizzes
-  label: Quizzes
-  create: all
-  match: "**/*"
-  templates:
-  - self-check-quiz
 - type: heading
   label: Course Setup
 - type: document
@@ -23,21 +16,36 @@ sections:
   label: Lessons
   create: all
   match: "**/*"
+  templates:
+  - lesson_builder
 - type: directory
   path: _lectures
   label: Lectures
   create: all
   match: "**/*"
+  templates:
+  - lesson-lecture
 - type: directory
   path: _readings
   label: Readings
   create: all
   match: "**/*"
+  templates:
+  - lesson-reading
 - type: directory
   path: _assignments
   label: Assignments
   create: all
   match: "**/*"
+  templates:
+  - assignment-builder
+- type: directory
+  path: _quizzes
+  label: Quizzes
+  create: all
+  match: "**/*"
+  templates:
+  - self-check-quiz
 - type: jekyll-pages
   label: Pages
   create: all
