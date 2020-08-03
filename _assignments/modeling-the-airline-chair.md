@@ -66,6 +66,11 @@ page_sections:
     - item: Sub Item
       sub-sub-item:
       - item: Sub sub item
+  - item: Step 2
+    sub-item:
+    - item: Step 2 Sub item
+      sub-sub-item:
+      - item: Step 2 sub sub item
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
