@@ -9,3 +9,50 @@ fields:
     min: 
     max: 
   label: Numbered List
+- name: list-item
+  type: field_group_list
+  fields:
+  - name: item
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Item
+  - name: sub-item
+    type: field_group_list
+    fields:
+    - name: item
+      type: text
+      config:
+        required: false
+      label: Item
+    - name: sub-sub-item
+      type: field_group_list
+      fields:
+      - name: item
+        type: textarea
+        default: ''
+        config:
+          required: false
+          wysiwyg: false
+          schema:
+            format: markdown
+        label: Item
+      config:
+        min: 
+        max: 
+        labelField: 
+      label: sub-sub-item
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: sub-item
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: list-item
