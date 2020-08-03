@@ -1,0 +1,19 @@
+---
+label: learning-modules-config
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: breadcrumb
+  label: breadcrumb
+- type: boolean
+  name: header
+  label: header
+- type: text
+  name: permalink
+  label: permalink
