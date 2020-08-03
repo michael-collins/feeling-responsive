@@ -56,7 +56,9 @@ page_sections:
   headline: Instructions
   content: Follow these instructions to complete the assignment.
   numbered-items-list: []
-  list-item: []
+  list-item:
+  - item: "<p>Watch the tutorials.</p>"
+    sub-item: []
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
