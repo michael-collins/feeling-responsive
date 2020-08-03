@@ -84,6 +84,7 @@ fields:
     field: enable_downloads
     value: true
 pages:
+- _lectures/advanced-animation.md
 - _lectures/advanced-polygonal-modeling.md
 - _lectures/advanced-rigging.md
 - _lectures/advanced-texturing.md
