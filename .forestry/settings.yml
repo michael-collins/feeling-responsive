@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: _quizzes
+  label: Quizzes
+  create: all
+  match: "**/*"
+  templates:
+  - self-check-quiz
 - type: heading
   label: Course Setup
 - type: document
