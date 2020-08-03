@@ -1,5 +1,5 @@
 ---
-title: Intermediate to Texturing
+title: Intermediate Texturing
 subtitle: 
 layout: page
 
