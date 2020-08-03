@@ -2,7 +2,7 @@
 label: self-check-quiz
 hide_body: true
 fields:
-- name: self-check
+- name: self-check-quiz
   type: field_group_list
   fields:
   - name: question
@@ -19,4 +19,4 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Self-check
+  label: Self-check Quiz
