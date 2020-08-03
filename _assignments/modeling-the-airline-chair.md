@@ -61,7 +61,7 @@ page_sections:
   - Upload your work using the link in the submission details.
   - Follow the tutorials in the supporting materials.
   list-item:
-  - item: Item
+  - item: Step 1
     sub-item:
     - item: Sub Item
       sub-sub-item:
