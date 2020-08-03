@@ -22,6 +22,5 @@ advanced:
   lectures: []
   readings: []
   assignments: []
-published: false
 
 ---
