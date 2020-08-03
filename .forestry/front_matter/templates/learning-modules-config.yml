@@ -43,9 +43,12 @@ fields:
     - name: lessons
       type: list
       config:
-        use_select: false
+        use_select: true
         min: 
         max: 
+        source:
+          type: pages
+          section: lessons
       label: Lessons
       description: Choose lessons for the week.
     config:
