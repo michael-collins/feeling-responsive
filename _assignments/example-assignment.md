@@ -45,6 +45,7 @@ page_sections:
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
+  readings: []
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   headline: ''
