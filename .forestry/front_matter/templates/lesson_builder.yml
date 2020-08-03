@@ -5,6 +5,7 @@ fields:
 - name: enable_lesson
   type: boolean
   label: Enable Lesson
+  default: true
 - name: title
   type: text
   config:
