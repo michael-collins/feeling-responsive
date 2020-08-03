@@ -65,4 +65,5 @@ fields:
   - assignment-media-gallery
 pages:
 - _assignments/example-assignment.md
+- _assignments/modeling-game-assets.md
 - _assignments/modeling-the-airline-chair.md
