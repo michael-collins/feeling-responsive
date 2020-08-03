@@ -26,26 +26,3 @@ fields:
   label: Submission Uploads Enabled
   description: Enable if this submission has media for uploading
   default: true
-- name: submission_item
-  type: field_group_list
-  fields:
-  - name: submission_item_title
-    type: text
-    config:
-      required: false
-    label: Submission Item Title
-    description: The title of the submission item
-  - name: submission_configuration
-    type: text
-    config:
-      required: false
-    label: Submission Item URL
-    description: Enter the url for the submission item. This is typically a dropbox
-      or link to an LMS assignment.
-  config:
-    min: 
-    max:
-  label: Submission Item
-  showOnly:
-    field: submission_upload_enabled
-    value: true
