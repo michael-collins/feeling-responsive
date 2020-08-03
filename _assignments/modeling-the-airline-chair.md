@@ -55,22 +55,8 @@ page_sections:
   block: assignment-e-instructions
   headline: Instructions
   content: Follow these instructions to complete the assignment.
-  numbered-items-list:
-  - Watch the videos
-  - Read the reading
-  - Upload your work using the link in the submission details.
-  - Follow the tutorials in the supporting materials.
-  list-item:
-  - item: Step 1
-    sub-item:
-    - item: Sub Item
-      sub-sub-item:
-      - item: Sub sub item
-  - item: Step 2
-    sub-item:
-    - item: Step 2 Sub item
-      sub-sub-item:
-      - item: Step 2 sub sub item
+  numbered-items-list: []
+  list-item: []
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
