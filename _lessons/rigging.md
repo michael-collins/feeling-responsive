@@ -11,15 +11,18 @@ all:
   readings: []
   assignments: []
 beginner:
-  lectures: []
+  lectures:
+  - _lectures/introduction-to-rigging.md
   readings: []
   assignments: []
 intermediate:
-  lectures: []
+  lectures:
+  - _lectures/intermediate-rigging.md
   readings: []
   assignments: []
 advanced:
-  lectures: []
+  lectures:
+  - _lectures/advanced-rigging.md
   readings: []
   assignments: []
 
