@@ -1,5 +1,5 @@
 ---
-title: Introduction to Modeling
+title: Introduction to Polygonal Modeling
 subtitle: 
 layout: page
 slides: |-
