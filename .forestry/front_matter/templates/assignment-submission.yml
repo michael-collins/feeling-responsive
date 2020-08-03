@@ -44,8 +44,7 @@ fields:
       or link to an LMS assignment.
   config:
     min: 
-    max: 
-    labelField: 
+    max:
   label: Submission Item
   showOnly:
     field: submission_upload_enabled
