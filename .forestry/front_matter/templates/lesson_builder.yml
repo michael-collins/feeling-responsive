@@ -35,5 +35,25 @@ fields:
     template: lesson
     label: Lesson
   label: Beginner
+- name: intermediate
+  type: field_group
+  config: {}
+  fields:
+  - name: lesson
+    type: include
+    config: {}
+    template: lesson
+    label: Lesson
+  label: Intermediate
+- name: advanced
+  type: field_group
+  config: {}
+  fields:
+  - name: lesson
+    type: include
+    config: {}
+    template: lesson
+    label: Lesson
+  label: Advanced
 pages:
 - _lessons/lesson-01.md
