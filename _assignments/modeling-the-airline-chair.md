@@ -83,9 +83,8 @@ page_sections:
   content: ''
   submission_item: []
 topics_covered:
-- example topic
+- modeling
 prerequisites: []
 difficulty_level: " beginner"
-published: false
 
 ---
