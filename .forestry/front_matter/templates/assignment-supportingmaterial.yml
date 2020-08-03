@@ -11,3 +11,8 @@ fields:
   name: column
   label: Column
   template: text-column
+- name: reading
+  type: include
+  config: {}
+  template: lesson-reading
+  label: Reading
