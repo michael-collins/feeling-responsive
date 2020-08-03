@@ -1,7 +1,7 @@
 ---
 label: Assignment Instructions
 hide_body: false
-display_field: content
+display_field: headline
 fields:
 - type: text
   hidden: true
