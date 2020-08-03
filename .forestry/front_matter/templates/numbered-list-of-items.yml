@@ -19,7 +19,7 @@ fields:
       required: false
       wysiwyg: true
       schema:
-        format: markdown
+        format: html-blocks
     label: Item
   - name: sub-item
     type: field_group_list
@@ -31,7 +31,7 @@ fields:
         required: false
         wysiwyg: true
         schema:
-          format: markdown
+          format: html-blocks
       label: Item
     - name: sub-sub-item
       type: field_group_list
@@ -43,7 +43,7 @@ fields:
           required: false
           wysiwyg: true
           schema:
-            format: markdown
+            format: html-blocks
         label: Item
       config:
         min: 
