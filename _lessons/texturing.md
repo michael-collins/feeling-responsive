@@ -17,7 +17,8 @@ beginner:
   readings: []
   assignments: []
 intermediate:
-  lectures: []
+  lectures:
+  - _lectures/intermediate-to-texturing.md
   readings: []
   assignments: []
 advanced:
