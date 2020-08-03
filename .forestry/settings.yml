@@ -10,7 +10,7 @@ sections:
   path: pages/lesson-index.md
   label: Lessons Index
 - type: heading
-  label: Course Content
+  label: Structure
 - type: directory
   path: _lessons
   label: Lessons
@@ -18,6 +18,8 @@ sections:
   match: "**/*"
   templates:
   - lesson_builder
+- type: heading
+  label: Course Content
 - type: directory
   path: _lectures
   label: Lectures
