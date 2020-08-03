@@ -1,5 +1,6 @@
 ---
-title: Lesson 01 Lecture - Beginner
-subtitle:
+title: Introduction to Texturing
+subtitle: 
 layout: page
+
 ---
