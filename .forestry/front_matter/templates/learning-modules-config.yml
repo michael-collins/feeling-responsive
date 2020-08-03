@@ -26,39 +26,34 @@ fields:
   label: Enable Lessons By Week
   default: true
 - name: weeks
-  type: field_group
-  config: {}
+  type: field_group_list
   fields:
-  - name: week
-    type: field_group_list
-    fields:
-    - name: week_number
-      type: text
-      config:
-        required: false
-      label: Week Number
-      default: '1'
-      description: The week the lesson should be displayed. Typically between 1 and
-        15 depending on the length of the semester.
-    - name: lessons
-      type: list
-      config:
-        use_select: true
-        min: 
-        max: 
-        source:
-          type: pages
-          section: lessons
-      label: Lessons
-      description: Choose lessons for the week.
+  - name: week_number
+    type: text
     config:
+      required: false
+    label: Week Number
+    default: '1'
+    description: The week the lesson should be displayed. Typically between 1 and
+      15 depending on the length of the semester.
+  - name: lessons
+    type: list
+    config:
+      use_select: true
       min: 
       max: 
-      labelField: week_number
-    label: Week
-  label: Weeks
+      source:
+        type: pages
+        section: lessons
+    label: Lessons
+    description: Choose lessons for the week.
+  config:
+    min: 
+    max: 
+    labelField: week_number
   showOnly:
     field: enable_lessons_by_week
     value: true
+  label: Week
 pages:
 - pages/lesson-index.md
