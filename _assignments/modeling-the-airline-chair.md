@@ -6,8 +6,9 @@ date-due: 2020-08-08T04:00:00.000+00:00
 page_sections:
 - template: assignment-description
   block: assignment-a-description
-  headline: Exercise 1 Description
-  content: In this exercise, we will learn how to make an exercise.
+  headline: Description
+  content: In this exercise, you will practice modeling fundamentals and software
+    operations to build a polygonal geometry.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
