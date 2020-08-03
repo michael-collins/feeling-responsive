@@ -14,6 +14,7 @@ page_sections:
   numbered-items-list:
   - Practice polygonal modeling workflows
   - Perform fundamental polygonal modeling operations
+  list-item: []
 - template: assignment-demo
   block: assignment-a-demo
   headline: Video Tutorial
@@ -59,6 +60,12 @@ page_sections:
   - Read the reading
   - Upload your work using the link in the submission details.
   - Follow the tutorials in the supporting materials.
+  list-item:
+  - item: Item
+    sub-item:
+    - item: Sub Item
+      sub-sub-item:
+      - item: Sub sub item
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
