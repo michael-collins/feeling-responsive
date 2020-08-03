@@ -57,8 +57,16 @@ page_sections:
   content: Follow these instructions to complete the assignment.
   numbered-items-list: []
   list-item:
-  - item: "<p>Watch the tutorials.</p>"
-    sub-item: []
+  - item: Item 1
+    sub-item:
+    - item: Sub item 1
+      sub-sub-item:
+      - item: Sub sub item 1
+  - item: Item 2
+    sub-item:
+    - item: Sub Item 2
+      sub-sub-item:
+      - item: Sub Sub Item 2
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
