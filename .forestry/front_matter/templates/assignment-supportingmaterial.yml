@@ -11,21 +11,13 @@ fields:
   name: column
   label: Column
   template: text-column
-- name: material
-  type: field_group_list
-  fields:
-  - name: readings
-    type: list
-    config:
-      use_select: true
-      min: 
-      max: 
-      source:
-        type: pages
-        section: readings
-    label: Readings
+- name: readings
+  type: list
   config:
+    use_select: true
     min: 
     max: 
-    labelField: 
-  label: Material
+    source:
+      type: pages
+      section: readings
+  label: Readings
