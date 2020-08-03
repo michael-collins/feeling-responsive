@@ -25,5 +25,12 @@ fields:
   type: boolean
   label: Enable Lessons By Week
   default: true
+- name: weeks
+  type: field_group
+  config: {}
+  label: Weeks
+  showOnly:
+    field: enable_lessons_by_week
+    value: true
 pages:
 - pages/lesson-index.md
