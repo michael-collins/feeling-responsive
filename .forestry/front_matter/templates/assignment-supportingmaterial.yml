@@ -11,8 +11,16 @@ fields:
   name: column
   label: Column
   template: text-column
-- name: reading
-  type: include
-  config: {}
-  template: lesson-reading
-  label: Reading
+- name: material
+  type: field_group_list
+  fields:
+  - name: reading
+    type: include
+    config: {}
+    template: lesson-reading
+    label: Reading
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Material
