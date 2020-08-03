@@ -12,9 +12,8 @@ page_sections:
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
-  - Gain understanding of typical assignment components
-  - Gain mastery in assignment building
-  - Gain understanding in deploying your own hosted course
+  - Practice polygonal modeling workflows
+  - Perform fundamental polygonal modeling operations
 - template: assignment-demo
   block: assignment-a-demo
   headline: Video Tutorial
