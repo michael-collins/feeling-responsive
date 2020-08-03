@@ -53,6 +53,16 @@ fields:
   config:
     required: false
   label: weight
+- name: all
+  type: field_group
+  config: {}
+  fields:
+  - name: lesson
+    type: include
+    config: {}
+    template: lesson
+    label: Lesson
+  label: All levels of experience
 - name: beginner
   type: field_group
   config: {}
