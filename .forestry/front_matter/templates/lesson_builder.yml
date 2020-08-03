@@ -89,6 +89,7 @@ fields:
     label: Lesson
   label: Advanced
 pages:
+- _lessons/animation.md
 - _lessons/camera-lighting-and-rendering.md
 - _lessons/lesson-01.md
 - _lessons/materials.md
