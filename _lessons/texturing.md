@@ -8,7 +8,8 @@ lesson_begin_date:
 lesson_end_date: 
 all:
   lectures: []
-  readings: []
+  readings:
+  - _readings/beginner-lesson-2.md
   assignments: []
 beginner:
   lectures: []
