@@ -20,3 +20,5 @@ fields:
     max: 
     labelField: 
   label: Self-check Quiz
+pages:
+- _quizzes/test-quiz.md
