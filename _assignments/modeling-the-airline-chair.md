@@ -79,8 +79,10 @@ page_sections:
   block: assignment-g-submission
   submission-notes-enabled: true
   submission_uploads_enabled: true
-  headline: ''
-  content: ''
+  headline: Submission
+  content: To complete the assignment, upload your project file to the dropbox in
+    a .zip. If you do not know how to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File"
+    title="">see this webpage</a>.
   submission_item: []
   submission:
   - title: Blender File (.blend)
