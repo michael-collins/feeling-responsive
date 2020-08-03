@@ -22,7 +22,8 @@ intermediate:
   readings: []
   assignments: []
 advanced:
-  lectures: []
+  lectures:
+  - _lectures/advanced-texturing.md
   readings: []
   assignments: []
 
