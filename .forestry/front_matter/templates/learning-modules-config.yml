@@ -32,6 +32,8 @@ fields:
     type: text
     config:
       required: false
+      min: 1
+      max: 2
     label: Week Number
     default: '1'
     description: The week the lesson should be displayed. Typically between 1 and
