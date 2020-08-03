@@ -2,6 +2,13 @@
 label: learning-modules-config
 hide_body: true
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  default: lesson-index
+  hidden: true
 - type: text
   name: title
   label: title
