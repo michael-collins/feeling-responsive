@@ -145,22 +145,16 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: lecture
-    type: blocks
-    label: Lecture
-    template_types:
-    - lesson-lecture
+  - name: lectures
+    type: list
     config:
+      use_select: true
       min: 
       max: 
-  - name: reading
-    type: blocks
-    label: Reading
-    template_types:
-    - lesson-reading
-    config:
-      min: 
-      max: 
+      source:
+        type: pages
+        section: lectures
+    label: Lectures
   - name: assignments
     type: list
     config:
@@ -171,6 +165,18 @@ fields:
         type: pages
         section: assignments
     label: Assignments
+  - name: readings
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: readings
+        file: 
+        path: 
+    label: Readings
   label: Beginner
 pages:
 - _lessons/lesson-01.md
