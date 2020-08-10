@@ -26,7 +26,7 @@ author: Michael Collins
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://michael-collins.github.io'
-baseurl: '/3d-studio-master'
+baseurl: '/3d-digital-studio-master'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
