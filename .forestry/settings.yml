@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Structure
 - type: directory
-  path: _lessons
+  path: collections/_lessons
   label: Lessons
   create: all
   match: "**/*"
@@ -21,28 +21,28 @@ sections:
 - type: heading
   label: Course Content
 - type: directory
-  path: _lectures
+  path: collections/_lectures
   label: Lectures
   create: all
   match: "**/*"
   templates:
   - lesson-lecture
 - type: directory
-  path: _readings
+  path: collections/_readings
   label: Readings
   create: all
   match: "**/*"
   templates:
   - lesson-reading
 - type: directory
-  path: _assignments
+  path: collections/_assignments
   label: Assignments
   create: all
   match: "**/*"
   templates:
   - assignment-builder
 - type: directory
-  path: _quizzes
+  path: collections/_quizzes
   label: Quizzes
   create: all
   match: "**/*"
