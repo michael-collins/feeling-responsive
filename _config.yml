@@ -272,6 +272,7 @@ asciidoctor:
     coderay-css: style
     icons: font
 
+collections_dir: collections
 
 collections:
   agendas:
