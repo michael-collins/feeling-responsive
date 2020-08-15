@@ -7,8 +7,9 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   headline: Description
-  content: In this exercise, you will practice modeling fundamentals and software
-    operations to build a polygonal geometry.
+  content: In this exercise, you will practice polygonal modeling fundamentals and
+    will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
+    Chair.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
