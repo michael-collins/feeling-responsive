@@ -99,26 +99,49 @@ page_sections:
     url: google.com
 topics_covered:
 - modeling
+- project setup
+- edge flow
 prerequisites: []
 difficulty_level: " beginner"
 
 ---
 # Instructions
 
+## Overview
+
 1. Watch tutorials from Lynda on introduction to modeling.
-2. Create a project folder. Save all files to this folder.
-3. Model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/) with your newly learned modeling skills with polygons. (Be careful not to accidentally create nurbs primitives when modeling)
-   * Skills to practice include:
-
-
+2. Create a folder on your computer. This will be your project folder. Save all files to this folder.
+3. Follow the modeling workflow instructions to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
    * polygonal edge flow
    * extruding polygon faces
    * inserting edge loops
    * moving, rotating, and scaling vertices, edges, and faces
    * mirroring and duplicating geometry
 4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**LASTNAME-mb1_'_** _(IE "collins-mb1.blend)_ in the project folder.
-   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions. 
-6. Compress the project folder once you’ve completed the tutorial and rename it **LASTNAME-mb1_.zip._**
+5. Save the 3D scene file as '**_LASTNAME_-mb1.blend'** (I.E. – _collins_-mb1.blend) in the project folder.
+   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-mb1.zip.**
 7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+
+## Modeling workflow
+
+### 1. Import modeling reference image planes
+
+### 2 .Model the chair sides
+
+### 3. Add a mirror modifier
+
+### 4 .Model the cross brace
+
+### 5. Model the seat cushions
+
+### 6. Apply object scale
+
+### 7. Preview with a subdivision modifier
+
+### 8. Add edge loops and bevels
+
+### 9. Re-enable the subdivision modifier
+
+### 10. Clean up the model's edge flow
