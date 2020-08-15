@@ -117,7 +117,8 @@ difficulty_level: " beginner"
    * moving, rotating, and scaling vertices, edges, and faces
    * mirroring and duplicating geometry
 4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**LASTNAME-beginner-modeling_'_** _(IE "collins-beginner-modeling.blend)_ in the project folder.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_modeling-YOURNAME-L1.zip._**
+5. Save the 3D scene file as '**LASTNAME-mb1_'_** _(IE "collins-mb1.blend)_ in the project folder.
+   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions. 
+6. Compress the project folder once you’ve completed the tutorial and rename it **LASTNAME-mb1_.zip._**
 7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
