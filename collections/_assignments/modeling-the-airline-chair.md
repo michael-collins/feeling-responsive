@@ -14,7 +14,8 @@ page_sections:
   block: assignment-b-learningobjectives
   numbered-items-list:
   - Practice polygonal modeling workflows
-  - Perform fundamental polygonal modeling operations
+  - Perform fundamental polygonal modeling operations including extrude, merge, bridge,
+    and bevel.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
