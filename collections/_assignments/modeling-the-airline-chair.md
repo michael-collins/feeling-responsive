@@ -103,3 +103,21 @@ prerequisites: []
 difficulty_level: " beginner"
 
 ---
+# Instructions
+
+1. Watch tutorials from Lynda on introduction to modeling.
+2. Create a project folder. Save all files to this folder.
+3. Model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/) with your newly learned modeling skills with polygons. (Be careful not to accidentally create nurbs primitives when modeling)
+   * Skills to practice include:
+
+
+   * ploygonal edge flow
+   * extruding polygon faces
+   * inserting edge loops
+   * moveing, rotating, and scaling vertecies, edges, and faces
+   * mirroring and duplicating geometry
+4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
+5. Save the 3D scene file as **_modeling-YOURNAME_** in the project folder.
+6. Compress the project folder once you’ve completed the tutorial and rename it **_modeling-YOURNAME-L1.zip._**
+7. Upload the .zip file to the assignment dropbox.
+8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
