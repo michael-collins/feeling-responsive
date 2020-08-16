@@ -11,12 +11,17 @@ fields:
   label: Layout
   hidden: true
   default: blocks-assignment-view
-- name: header_image
-  type: file
-  config:
-    maxSize: 64
-  label: Header Image
-  description: Upload a header image
+- name: header
+  type: field_group
+  config: {}
+  fields:
+  - name: image_fullwidth
+    type: file
+    config:
+      maxSize: 64
+    label: Header Image
+    description: Upload a header image.
+  label: Header
 - name: topics_covered
   type: tag_list
   default: []
