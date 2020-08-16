@@ -89,7 +89,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/airline-chair-header-compressed-1.jpg"
+  image_fullwidth: "/uploads/airline-chair-header-compressed.jpg"
 
 ---
 # Instructions
