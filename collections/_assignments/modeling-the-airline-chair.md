@@ -87,6 +87,7 @@ topics_covered:
 - edge flow
 prerequisites: []
 difficulty_level: " beginner"
+header_image: "/uploads/airline-chair-header-compressed.jpg"
 
 ---
 # Instructions
