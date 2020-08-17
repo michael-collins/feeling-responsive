@@ -23,11 +23,9 @@ page_sections:
   content: In this video, you will watch me learn how to make an exercise.
   video:
   - title: Learning to make an exercise.
-    youtube_url: dQw4w9WgXcQ
+    youtube_url: ''
     vimeo_url: "371483780"
-    custom: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/371483780?title=0&byline=0&portrait=0"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
-      allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+    custom: ''
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
   headline: Media gallery
@@ -87,6 +85,7 @@ topics_covered:
 - edge flow
 prerequisites: []
 difficulty_level: " beginner"
+header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/airline-chair-header-compressed.jpg"
 
