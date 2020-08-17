@@ -113,20 +113,8 @@ header:
 
 ### 1. Import modeling reference image planes
 
-### 2 .Model the chair sides
+### 2 .Model the chair sides, seats, cross brace
 
-### 3. Add a mirror modifier
+### 3. Preview with a subdivision modifier
 
-### 4 .Model the cross brace
-
-### 5. Model the seat cushions
-
-### 6. Apply object scale
-
-### 7. Preview with a subdivision modifier
-
-### 8. Add edge loops and bevels
-
-### 9. Re-enable the subdivision modifier
-
-### 10. Clean up the model's edge flow
+### 8. Clean up the model's edge flow
