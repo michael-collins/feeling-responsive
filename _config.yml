@@ -38,7 +38,7 @@ improve_content: https://michaelcollins.xyz/3d-digital-studio-master/edit/gh-pag
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://michaelcollins.xyz/3d-digital-studio-master/images/'
+urlimg: ''
 
 
 # Logo size is 600x80 pixels

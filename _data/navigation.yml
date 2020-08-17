@@ -6,6 +6,10 @@
   url: "/lessons/"
   side: left
 
+- title: Assignments
+  url: "/assignments/"
+  side: left
+
 - title: Software
   url: "/software/"
   side: left
