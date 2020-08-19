@@ -1,10 +1,10 @@
 ---
-label: Weeks
+label: Weeks-ttt
 hide_body: true
 fields:
 - type: field_group_list
-  name: weeks
-  label: weeks
+  name: week
+  label: week
   fields:
   - type: text
     name: week_number
