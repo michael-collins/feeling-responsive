@@ -84,7 +84,7 @@ topics_covered:
 - project setup
 - edge flow
 prerequisites: []
-difficulty_level: " beginner"
+difficulty_level: " intermediate"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/airline-chair-header-compressed.jpg"
