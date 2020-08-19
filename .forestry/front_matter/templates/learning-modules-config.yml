@@ -49,6 +49,26 @@ fields:
         section: lessons
     label: Lessons
     description: Choose lessons for the week.
+  - name: start_date
+    type: datetime
+    label: start date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+      export_format: YYYY-MM-DDTh:mm:AZZ
+  - name: end_date
+    type: datetime
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+      export_format: YYYY-MM-DDTh:mm:AZZ
+    label: end date
   config:
     min: 
     max: 
