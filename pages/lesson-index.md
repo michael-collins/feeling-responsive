@@ -18,9 +18,10 @@ weeks:
   start_date: 2020-08-31T4:00:AM+0000
   end_date: 2020-09-06T4:00:AM+0000
 - week_number: "3"
-  lessons: []
-  start_date: 
-  end_date: 
+  lessons:
+  - collections/_lessons/camera-lighting-and-rendering.md
+  start_date: 2020-09-07T4:00:AM+0000
+  end_date: 2020-09-14T3:59:AM+0000
 - week_number: "4"
   lessons: []
   start_date: 
