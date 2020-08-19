@@ -1,0 +1,32 @@
+---
+label: Weeks
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: breadcrumb
+  label: breadcrumb
+- type: boolean
+  name: header
+  label: header
+- type: text
+  name: permalink
+  label: permalink
+- type: boolean
+  name: enable_lessons_by_week
+  label: enable_lessons_by_week
+- type: field_group_list
+  name: weeks
+  label: weeks
+  fields:
+  - type: text
+    name: week_number
+    label: week_number
+  - type: list
+    name: lessons
+    label: lessons
