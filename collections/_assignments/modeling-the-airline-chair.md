@@ -22,6 +22,8 @@ page_sections:
   headline: Video Tutorial
   content: In this video, you will watch me learn how to make an exercise.
   video:
+  - title: Modeling the Airline Chair — Part 3
+    vimeo_url: https://vimeo.com/449496246
   - title: Modeling the Airline Chair — Part 1
     youtube_url: ''
     vimeo_url: https://vimeo.com/449481885
