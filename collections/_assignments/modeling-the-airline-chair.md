@@ -22,10 +22,19 @@ page_sections:
   headline: Video Tutorial
   content: In this video, you will watch me learn how to make an exercise.
   video:
-  - title: Learning to make an exercise.
+  - title: Modeling the Airline Chair — Part 1
     youtube_url: ''
-    vimeo_url: "371483780"
-    custom: ''
+    vimeo_url: https://vimeo.com/449481885
+  - title: Modeling the Airline Chair — Part 2
+    vimeo_url: vimeo.com/449493718
+  - title: Modeling the Airline Chair — Part 3
+    vimeo_url: https://vimeo.com/449496246
+  - title: Modeling the Airline Chair — Part 4
+    vimeo_url: https://vimeo.com/449506535
+  - title: Modeling the Airline Chair — Part 5
+    vimeo_url: https://vimeo.com/449510502
+  - title: https://vimeo.com/449512342
+    vimeo_url: Modeling the Airline Chair — Part 6
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
   headline: Media gallery
@@ -84,7 +93,7 @@ topics_covered:
 - project setup
 - edge flow
 prerequisites: []
-difficulty_level: " intermediate"
+difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/airline-chair-header-compressed.jpg"
