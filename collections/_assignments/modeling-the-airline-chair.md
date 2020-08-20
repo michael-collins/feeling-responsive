@@ -31,6 +31,8 @@ page_sections:
     vimeo_url: https://vimeo.com/449496246
   - title: Modeling the Airline Chair — Part 4
     vimeo_url: https://vimeo.com/449506535
+  - title: Modeling the Airline Chair — Part 5
+    vimeo_url: https://vimeo.com/449510502
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
   headline: Media gallery
