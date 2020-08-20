@@ -58,8 +58,9 @@ page_sections:
   readings: []
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  headline: ''
-  content: ''
+  headline: Kem Weber Airline Chair reference images
+  content: <a href="https://collection.cooperhewitt.org/objects/404536651/images/"
+    title="https://collection.cooperhewitt.org/objects/404536651/images/">https://collection.cooperhewitt.org/objects/404536651/images/</a>
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
