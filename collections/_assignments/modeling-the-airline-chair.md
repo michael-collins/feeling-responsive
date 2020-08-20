@@ -20,8 +20,9 @@ page_sections:
 - template: assignment-demo
   block: assignment-a-demo
   headline: Demonstration Videos
-  content: In this video, I demonstrate how to use polygonal modeling techniques to
-    create a model of the Kem Weber Airline Chair using Blender 2.8.
+  content: In this six part video demonstration seres, I show how to use polygonal
+    modeling techniques to create a model of the Kem Weber Airline Chair using Blender
+    2.8.
   video:
   - title: Modeling the Airline Chair Video Playlist
     custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
