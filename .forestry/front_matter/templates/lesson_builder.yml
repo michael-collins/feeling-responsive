@@ -88,3 +88,5 @@ fields:
     template: lesson
     label: Lesson
   label: Advanced
+pages:
+- collections/_lessons/project-1.md
