@@ -51,9 +51,10 @@ weeks:
   start_date: 2020-10-19T4:00:AM+0000
   end_date: 2020-10-26T3:59:AM+0000
 - week_number: "10"
-  lessons: []
-  start_date: 
-  end_date: 
+  lessons:
+  - collections/_lessons/rigging.md
+  start_date: 2020-10-26T4:00:AM+0000
+  end_date: 2020-11-02T4:59:AM+0000
 - week_number: "11"
   lessons: []
   start_date: 
