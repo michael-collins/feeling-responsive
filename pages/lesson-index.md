@@ -28,7 +28,8 @@ weeks:
   start_date: 2020-09-14T4:00:AM+0000
   end_date: 2020-09-21T3:59:AM+0000
 - week_number: "5"
-  lessons: []
+  lessons:
+  - collections/_lessons/animation.md
   start_date: 
   end_date: 
 - week_number: "6"
