@@ -97,27 +97,8 @@ published: false
 
 ## Overview
 
-1. Watch tutorials from Lynda on introduction to modeling.
-2. Create a folder on your computer. This will be your project folder. Save all files to this folder.
-3. Follow the modeling workflow instructions to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
-   * polygonal edge flow
-   * extruding polygon faces
-   * inserting edge loops
-   * moving, rotating, and scaling vertices, edges, and faces
-   * mirroring and duplicating geometry
-4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**_LASTNAME_-modeling-b1.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
-   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-b1.zip.**
-7. Upload the .zip file to the assignment dropbox.
-8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+**Project theme:** Primitive
 
-## Modeling workflow
+In design primitives are 
 
-### 1. Import modeling reference image planes
-
-### 2 .Model the chair sides, seats, cross brace
-
-### 3. Preview with a subdivision modifier
-
-### 8. Clean up the model's edge flow
+In society and culture, we often think of the term _primitive_ to mean "less advanced" in a negative context, meaning, "not as good." There are other ways that we could frame this term. For instance, primitives are the core building blocks upon which we concentrate complexity. In this way, primitives form the foundation of everything we know.
