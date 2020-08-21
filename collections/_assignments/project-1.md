@@ -101,4 +101,4 @@ published: false
 
 In design primitives are 
 
-In society and culture, we often think of the term _primitive_ to mean "less advanced" in a negative context, meaning, "not as good." There are other ways that we could frame this term. For instance, primitives are the core building blocks upon which we concentrate complexity. In this way, primitives form the foundation of everything we know.
+We often think of the term '_primitive'_ negatively to mean "less advanced"or "not as good." There are other ways that we could frame this term. For instance, primitives are the core building blocks upon which we concentrate complexity. In this way, primitives form the foundation upon which everything is built. In
