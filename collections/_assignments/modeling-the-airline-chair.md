@@ -60,13 +60,13 @@ page_sections:
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Kem Weber Airline Chair reference images
-  content: <a href="https://collection.cooperhewitt.org/objects/404536651/images/"
-    title="https://collection.cooperhewitt.org/objects/404536651/images/">https://collection.cooperhewitt.org/objects/404536651/images/</a>
+  content: Download the following images and include them in your project folder.
   links:
   - title: 'Side view of Kem Weber Airline Chair '
     url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
   - title: 'Side view of Kem Weber Airline Chair '
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
+  headline: Airline Chair Reference Images
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
