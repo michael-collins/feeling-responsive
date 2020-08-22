@@ -11,6 +11,10 @@ fields:
   label: Layout
   hidden: true
   default: blocks-assignment-view
+- name: boolean_mode
+  type: boolean
+  label: Accordion display mode
+  description: Enable this to render the page blocks as an accordion.
 - name: header
   type: field_group
   config: {}
