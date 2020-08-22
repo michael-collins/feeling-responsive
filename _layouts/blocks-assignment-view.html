@@ -3,7 +3,7 @@ layout: nav-elements
 ---
 
 <div class= "row small-collpase medium-collpase full-width">
-    <div class= "columns small-5">
+    <div class= "columns small-12 medium-5">
         {% for section in page.page_sections %}
             {% if section.block %}
                 {% unless section.block != "assignment-a-demo" %}
@@ -12,13 +12,49 @@ layout: nav-elements
             {% endif %}
         {% endfor %}
     </div>
-    <div class= "columns small-6 small-offset-1">
-        {% for section in page.page_sections %}
-            {% if section.block %}
-                {% unless section.block == "assignment-a-demo" %}
-                    {% include {{ section.block }} %}
-                {% endunless %}
+    <div class= "columns small-12 medium-6 medium-offset-1">
+        
+            {% if page.accordion_mode == true %}
+                
+
+                <dl class="accordion" data-accordion role="tablist">
+                    {% for section in page.page_sections %}
+                        {% if section.block %}
+                        {% unless section.block == "assignment-a-demo" %}
+                        
+                                {% include {{ section.block }} accordion_mode="true" %}
+                
+                        {% endunless %}
+                        {% endif %}
+                    {% endfor %}
+                </dl>
+
+
+            {% else %}
+
+
+                {% if section.block %}
+                    {% unless section.block == "assignment-a-demo" %}
+                        {% include {{ section.block }} %}
+                    {% endunless %}
+                {% endif %}
+            
+           
             {% endif %}
-        {% endfor %}
+
+    
+    
+    
+    
+    
+        {{ page.content }}
     </div>
 </div>
+
+
+
+
+
+
+
+      

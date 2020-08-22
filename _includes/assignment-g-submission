@@ -1,6 +1,6 @@
 {% if section.submission-notes-enabled == "true" %}
-    {% if section.headline %}
-        <h2>{{ section.headline }}</h2>
+    {% if section.title %}
+        <h2>{{ section.title }}</h2>
     {% endif %}
     {% if section.content %}
         <p>{{ section.content }}</p>

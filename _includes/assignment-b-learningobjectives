@@ -1,14 +1,41 @@
-<div class="row">
-    <div class="columns small-12">
-    {%- if section.numbered-items-list -%}
-    <h2>What you'll learn</h2>
-    <ol>
-        {% for item in section.numbered-items-list %}
-        
-            <li>{{ item }}</li>
-        
-        {%- endfor -%}
-        </ol>
-    {%- endif -%}
-    </div>
-</div>
+{% if include.accordion_mode == "true" %}
+<dd class="accordion-navigation">
+    <a href="#panel-{{ section.title | slugify}}-{{ forloop.index }}" role="tab" id="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading" aria-controls="panel-{{ section.title | slugify}}-{{ forloop.index }}">{{ section.title }}</a>
+        <div id="panel-{{ section.title | slugify}}-{{ forloop.index }}" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading">
+    <p>
+        <div class="row">
+            <div class="columns small-12">
+            {%- if section.numbered-items-list -%}
+            <h2>What you'll learn</h2>
+            <ol>
+                {% for item in section.numbered-items-list %}
+                
+                    <li>{{ item }}</li>
+                
+                {%- endfor -%}
+                </ol>
+            {%- endif -%}
+            </div>
+        </div>
+        </p>
+</dd>
+
+{% else %}
+
+        <div class="row">
+            <div class="columns small-12">
+            {%- if section.numbered-items-list -%}
+            <h2>{{ section.title }}</h2>
+            <ol>
+                {% for item in section.numbered-items-list %}
+                
+                    <li>{{ item }}</li>
+                
+                {%- endfor -%}
+                </ol>
+            {%- endif -%}
+            </div>
+        </div>
+
+
+{% endif %}

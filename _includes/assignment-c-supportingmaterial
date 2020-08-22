@@ -1,12 +1,38 @@
+{% if include.accordion_mode == "true" %}
+<dd class="accordion-navigation">
+    <a href="#panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" role="tab" id="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading" aria-controls="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks">{{ section.title }}</a>
+        <div id="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading">
+    <p>
+
 <div class="row">
     <div class="columns small-12">
     {%- if section.numbered-items-list -%}
     {% endif %}
-    {% if section.headline %}
-        <h2>{{ section.headline }}</h2>
+    {% if section.title %}
+        <h2>{{ section.title }}</h2>
     {% endif %}
     {% if section.content %}
         <p>{{ section.content }}</p>
     {% endif %}
     </div>
 </div>
+
+        </p>
+</dd>
+
+{% else %}
+
+<div class="row">
+    <div class="columns small-12">
+    {%- if section.numbered-items-list -%}
+    {% endif %}
+    {% if section.title %}
+        <h2>{{ section.title }}</h2>
+    {% endif %}
+    {% if section.content %}
+        <p>{{ section.content }}</p>
+    {% endif %}
+    </div>
+</div>
+
+{% endif %}
