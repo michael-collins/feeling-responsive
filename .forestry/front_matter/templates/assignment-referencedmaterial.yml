@@ -8,10 +8,10 @@ fields:
   name: block
   default: assignment-d-referencedmaterial
 - name: title
-    type: text
-    config:
-      required: false
-    label: Title
+  type: text
+  config:
+    required: false
+  label: Title
 - type: include
   name: column
   label: Column
