@@ -12,6 +12,7 @@ page_sections:
     Chair.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
+  title: Learning Objectives
   numbered-items-list:
   - Become familiarized with 3D software terminology
   - Practice polygonal modeling workflows
