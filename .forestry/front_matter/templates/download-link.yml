@@ -12,4 +12,9 @@ fields:
   type: text
   config:
     required: false
-  label: URL
+  label: External URL
+- name: file_download
+  type: file
+  config:
+    maxSize: 64
+  label: File download
