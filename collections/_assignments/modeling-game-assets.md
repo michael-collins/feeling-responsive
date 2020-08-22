@@ -94,3 +94,16 @@ prerequisites: []
 difficulty_level: " beginner"
 
 ---
+1. Watch the modeling tutorials.
+2. Create a project folder. Save all assets to the project folder.
+3. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your project folder called **_objects-modeling-YOURNAME.jpg (or .png)_**
+4. Create a new file for each object and save in the project folder.  
+   _Naming:_  
+   **_obj1-modeling-YOURNAME_**  
+   **_obj2-modeling-YOURNAME_**  
+   **_obj3-modeling-YOURNAME_**
+5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
+6. Capture the gesture of the objects with as little detail as needed to describe the shape.
+7. Compress the project folder once you’ve completed the tutorial and rename it **_modeling-YOURNAME-L2.zip._**
+8. Upload the .zip file to the assignment dropbox.
+9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
