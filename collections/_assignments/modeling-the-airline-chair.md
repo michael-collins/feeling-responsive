@@ -43,7 +43,7 @@ page_sections:
       image_url: "/uploads/download.jpg"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  headline: Supporting material
+  headline: Learning materials
   content: ''
   material:
   - readings:
