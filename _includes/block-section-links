@@ -1,0 +1,7 @@
+<ul>
+    {%- for link in include.link -%}
+        {%- if link.title -%}
+            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+        {%- endif -%}
+    {%- endfor -%}
+</ul>

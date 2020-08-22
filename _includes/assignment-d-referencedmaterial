@@ -10,6 +10,9 @@
                 {%- if section.content -%}
                     {% include block-section-content content=section.content %}
                 {%- endif -%}
+                 {% if section.links %}
+                    {% include block-section-links links=section.links %}
+                {%- endif -%}
                 {% if section.video %}
                     {% include block-section-video video=section.video %}
                 {%- endif -%}
@@ -34,6 +37,9 @@
         {%- endif -%}
         {%- if section.content -%}
             {% include block-section-content content=section.content %}
+        {%- endif -%}
+        {% if section.links %}
+            {% include block-section-links links=section.links %}
         {%- endif -%}
         {% if section.video %}
             {% include block-section-video video=section.video %}
