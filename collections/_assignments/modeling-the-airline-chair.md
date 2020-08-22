@@ -62,7 +62,7 @@ page_sections:
     title="https://collection.cooperhewitt.org/objects/404536651/images/">https://collection.cooperhewitt.org/objects/404536651/images/</a>
 - template: assignment-rubric
   block: assignment-f-rubric
-  title: ''
+  title: 'Rubric'
   content: ''
   rubric_criteria:
   - criteria_title: Attention to Detail
@@ -75,7 +75,6 @@ page_sections:
       given set of instructions. This indirectly infers how well you acquired foundational
       skills and theory.
     criteria_weight: 5 pts
-  rubric_title: Exercise Rubric
 - template: assignment-submission
   block: assignment-g-submission
   submission-notes-enabled: true
