@@ -45,7 +45,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: title
   label: Video
 - name: readings
   type: list
