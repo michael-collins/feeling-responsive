@@ -1,37 +1,40 @@
+{% if include.accordion_mode == "true" %}
+<dd class="accordion-navigation">
+    <a href="#panel-{{ section.title | slugify}}-{{ forloop.index }}" role="tab" id="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading" aria-controls="panel-{{ section.title | slugify}}-{{ forloop.index }}">{{ section.title }}</a>
+        <div id="panel-{{ section.title | slugify}}-{{ forloop.index }}" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading">
+    <p>
+
 <div class="row">
     <div class="columns small-12">
     {%- if section.title -%}
-        <h2>{{ section.title }}</h2>
+        {% include block-section-title title=section.title %}
     {%- endif -%}
     {%- if section.content -%}
-        <p>{{ section.content }}</p>
+        {% include block-section-content content=section.content %}
     {%- endif -%}
-    {% if section.video %}
-        {%- for video in section.video -%}
-            {%- if video.title -%}
-                <h3>{{ video.title }}</h3>
-            {%- endif -%}
-            
-            {%- if video.vimeo_url != "" and video.vimeo_url != null and video.vimeo_url != empty -%}
-                
-                <div class="flex-video">
-                    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{ video.vimeo_url | remove: "https://vimeo.com/" }}?title=0&byline=0&portrait=0"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
-      allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-                </div>
-            {%- endif -%}
-            {%- if video.youtube_url != "" and video.youtube_url != null and video.youtube_url != empty -%}
-                <div class="flex-video">
-                    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/{{ video.youtube_url | remove: "https://www.youtube.com/watch?v=" }}" frameborder="0" allowfullscreen></iframe>
-                </div>
-            {%- endif -%}
-            {%- if video.custom != "" and video.custom != null and video.custom != empty -%}
-                <div class="flex-video">
-                    {{ video.custom }}
-                </div>
-            {%- endif -%}
-            
-        {%- endfor -%}
-    {% endif %}
+     {% if section.video %}
+        {% include block-section-video video=section.video %}
+    {%- endif -%}
     </div>
 </div>
+
+</p>
+</dd>
+
+{% else %}
+
+<div class="row">
+    <div class="columns small-12">
+    {%- if section.title -%}
+        {% include block-section-title title=section.title %}
+    {%- endif -%}
+    {%- if section.content -%}
+        {% include block-section-content content=section.content %}
+    {%- endif -%}
+     {% if section.video %}
+        {% include block-section-video video=section.video %}
+    {%- endif -%}
+    </div>
+</div>
+{% endif %}
+

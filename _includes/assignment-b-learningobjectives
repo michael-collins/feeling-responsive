@@ -6,7 +6,6 @@
         <div class="row">
             <div class="columns small-12">
             {%- if section.numbered-items-list -%}
-            <h2>What you'll learn</h2>
             <ol>
                 {% for item in section.numbered-items-list %}
                 
@@ -25,7 +24,9 @@
         <div class="row">
             <div class="columns small-12">
             {%- if section.numbered-items-list -%}
-            <h2>{{ section.title }}</h2>
+            {%- if section.title -%}
+                {% include block-section-title title=section.title %}
+            {%- endif -%}
             <ol>
                 {% for item in section.numbered-items-list %}
                 

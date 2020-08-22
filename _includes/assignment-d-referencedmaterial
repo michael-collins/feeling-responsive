@@ -1,40 +1,48 @@
 {% if include.accordion_mode == "true" %}
 <dd class="accordion-navigation">
-    <a href="#panel-{{ section.title | slugify}}-{{ forloop.index }}" role="tab" id="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading" aria-controls="panel-{{ section.title | slugify}}-{{ forloop.index }}">{{ section.title }}</a>
-        <div id="panel-{{ section.title | slugify}}-{{ forloop.index }}" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading">
+    <a href="#panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" role="tab" id="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading" aria-controls="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks">{{ section.title }}</a>
+        <div id="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading">
     <p>
-
-<div class="row">
-    <div class="columns small-12">
-        {%- if section.numbered-items-list -%}
-        {% endif %}
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
-    </div>
-</div>
-
-</p>
+        <div class="row">
+            <div class="columns small-12">
+                {%- if section.numbered-items-list -%}
+                {% endif %}
+                {%- if section.content -%}
+                    {% include block-section-content content=section.content %}
+                {%- endif -%}
+                {% if section.video %}
+                    {% include block-section-video video=section.video %}
+                {%- endif -%}
+                {%- if section.image-gallery -%}
+                    {% for gallery in section.image-gallery %}            
+                        {% include block-section-imagegallery gallery_title=gallery.gallery_title image=gallery.image  %}
+                    {% endfor %}
+                {%- endif -%}
+            </div>
+        </div>
+        </p>
 </dd>
 
 {% else %}
 
-
-
 <div class="row">
     <div class="columns small-12">
         {%- if section.numbered-items-list -%}
         {% endif %}
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
+        {%- if section.title -%}
+            {% include block-section-title title=section.title %}
+        {%- endif -%}
+        {%- if section.content -%}
+            {% include block-section-content content=section.content %}
+        {%- endif -%}
+        {% if section.video %}
+            {% include block-section-video video=section.video %}
+        {%- endif -%}
+        {%- if section.image-gallery -%}
+            {% for gallery in section.image-gallery %}            
+                {% include block-section-imagegallery gallery_title=gallery.gallery_title image=gallery.image  %}
+            {% endfor %}
+        {%- endif -%}
     </div>
 </div>
-
 {% endif %}

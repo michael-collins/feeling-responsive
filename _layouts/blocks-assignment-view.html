@@ -6,11 +6,12 @@ layout: nav-elements
     <div class= "columns small-12 medium-5">
         {% for section in page.page_sections %}
             {% if section.block %}
-                {% unless section.block != "assignment-a-demo" %}
+                {% unless section.block != "assignment-a-description" %}
                     {% include {{ section.block }} %}
                 {% endunless %}
             {% endif %}
         {% endfor %}
+        {{ page.content }}
     </div>
     <div class= "columns small-12 medium-6 medium-offset-1">
         
@@ -20,7 +21,7 @@ layout: nav-elements
                 <dl class="accordion" data-accordion role="tablist">
                     {% for section in page.page_sections %}
                         {% if section.block %}
-                        {% unless section.block == "assignment-a-demo" %}
+                        {% unless section.block == "assignment-a-description" %}
                         
                                 {% include {{ section.block }} accordion_mode="true" %}
                 
@@ -47,7 +48,7 @@ layout: nav-elements
     
     
     
-        {{ page.content }}
+        
     </div>
 </div>
 

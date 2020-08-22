@@ -5,19 +5,17 @@
     <p>
         <div class="row">
         <div class="columns small-12">
-            {% if section.title %}
-                <h2>{{ section.title }}</h2>
-            {% endif %}
-            {% if section.content %}
-                <p>{{ section.content }}</p>
-            {% endif %}
-
-            {% for gallery in section.image-gallery %}            
-                {% if gallery.gallery_title %}
-                <h3>{{ gallery.gallery_title }}</h3>
-                {% endif %}
-                {% include assignment-gallery %}
-            {% endfor %}
+            {%- if section.title -%}
+                {% include block-section-title title=section.title %}
+            {%- endif -%}
+            {%- if section.content -%}
+                {% include block-section-content content=section.content %}
+            {%- endif -%}
+            {%- if section.image-gallery -%}
+                {% for gallery in section.image-gallery %}            
+                    {% include block-section-imagegallery gallery_title=gallery.gallery_title image=gallery.image  %}
+                {% endfor %}
+            {%- endif -%}
         </div>
         </div>
 
@@ -29,19 +27,17 @@
 
 <div class="row">
     <div class="columns small-12">
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
-
-    {% for gallery in section.image-gallery %}            
-        {% if gallery.gallery_title %}
-        <h3>{{ gallery.gallery_title }}</h3>
-        {% endif %}
-        {% include assignment-gallery %}
-    {% endfor %}
+    {%- if section.title -%}
+        {% include block-section-title title=section.title %}
+    {%- endif -%}
+    {%- if section.content -%}
+        {% include block-section-content content=section.content %}
+    {%- endif -%}
+    {%- if section.image-gallery -%}
+        {% for gallery in section.image-gallery %}            
+            {% include block-section-imagegallery gallery_title=gallery.gallery_title image=gallery.image  %}
+        {% endfor %}
+     {%- endif -%}
 </div>
 </div>
 

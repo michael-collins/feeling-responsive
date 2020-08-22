@@ -7,14 +7,10 @@
 
 <div class="row">
     <div class="columns small-12">
-    
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
 
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
+    {%- if section.content -%}
+        {% include block-section-content content=section.content %}
+    {%- endif -%}
     
     {%- if section.rubric_criteria -%}
         <table class="stack">
@@ -49,17 +45,13 @@
 <div class="row">
     <div class="columns small-12">
     
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
-    
-    {% if section.rubric_title %}
-        <h3>{{ section.rubric_title }}</h3>
-    {% endif %}
+    {%- if section.title -%}
+        {% include block-section-title title=section.title %}
+    {%- endif -%}
 
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
+    {%- if section.content -%}
+        {% include block-section-content content=section.content %}
+    {%- endif -%}
     
     {%- if section.rubric_criteria -%}
         <table class="stack">

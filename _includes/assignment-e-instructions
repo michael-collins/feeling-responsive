@@ -7,12 +7,12 @@
 <div class="row">
     <div class="columns small-12">
     {%- if section.numbered-items-list -%}
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
+   {%- if section.title -%}
+        {% include block-section-title title=section.title %}
+    {%- endif -%}
+    {%- if section.content -%}
+        {% include block-section-content content=section.content %}
+    {%- endif -%}
     <ol>
     {% for item in section.numbered-items-list %}
         <li>{{ item }}</li>
@@ -29,12 +29,12 @@
 <div class="row">
     <div class="columns small-12">
     {%- if section.numbered-items-list -%}
-    {% if section.title %}
-        <h2>{{ section.title }}</h2>
-    {% endif %}
-    {% if section.content %}
-        <p>{{ section.content }}</p>
-    {% endif %}
+    {%- if section.title -%}
+        {% include block-section-title title=section.title %}
+    {%- endif -%}
+    {%- if section.content -%}
+        {% include block-section-content content=section.content %}
+    {%- endif -%}
     <ol>
     {% for item in section.numbered-items-list %}
         <li>{{ item }}</li>
