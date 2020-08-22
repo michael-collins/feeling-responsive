@@ -96,16 +96,11 @@ fields:
 - name: links
   type: field_group_list
   fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Title
-  - name: downloads
+  - name: download_link
     type: include
     config: {}
     template: download-link
-    label: Downloads
+    label: Download link
     description: Link to external or local files for download
   config:
     min: 
