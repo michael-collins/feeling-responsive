@@ -93,3 +93,10 @@ fields:
     max: 
     labelField: 
   label: Image Gallery
+- name: links
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Links
