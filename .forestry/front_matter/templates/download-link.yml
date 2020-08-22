@@ -1,4 +1,15 @@
 ---
 label: Download Link
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Used as the link title
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
