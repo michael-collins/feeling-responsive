@@ -7,13 +7,7 @@ fields:
   label: block
   name: block
   default: assignment-d-referencedmaterial
-- type: text
-  name: title
-  label: Title
-- type: textarea
-  name: content
-  label: Content
-  config:
-    wysiwyg: true
-    schema:
-      format: html
+- type: include
+  name: column
+  label: Column
+  template: text-column

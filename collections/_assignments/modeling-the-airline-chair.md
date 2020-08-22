@@ -1,27 +1,26 @@
 ---
 title: Modeling the Airline Chair
 layout: blocks-assignment-view
-accordion_mode: true
 date-assigned: 2020-08-01T04:00:00.000+00:00
 date-due: 2020-08-08T04:00:00.000+00:00
 page_sections:
 - template: assignment-description
   block: assignment-a-description
-  title: Description
+  headline: Description
   content: In this exercise, you will practice polygonal modeling fundamentals and
     will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
     Chair.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
-  title: Learning Objectives
   numbered-items-list:
+  - Become familiarized with 3D software terminology
   - Practice polygonal modeling workflows
   - Perform fundamental polygonal modeling operations including extrude, merge, bridge,
     and bevel.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
-  title: Demonstration Videos
+  headline: Demonstration Videos
   content: In this six part video demonstration seres, I show how to use polygonal
     modeling techniques to create a model of the Kem Weber Airline Chair using Blender
     2.8.
@@ -31,7 +30,7 @@ page_sections:
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
-  title: Media gallery
+  headline: Media gallery
   content: I've found some images that will help you get a better understanding.
   image-gallery:
   - gallery_title: Blender open movies
@@ -44,7 +43,7 @@ page_sections:
       image_url: "/uploads/download.jpg"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Supporting Materials
+  headline: ''
   content: ''
   material:
   - readings:
@@ -52,12 +51,12 @@ page_sections:
   readings: []
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Kem Weber Airline Chair reference images
+  headline: Kem Weber Airline Chair reference images
   content: <a href="https://collection.cooperhewitt.org/objects/404536651/images/"
     title="https://collection.cooperhewitt.org/objects/404536651/images/">https://collection.cooperhewitt.org/objects/404536651/images/</a>
 - template: assignment-rubric
   block: assignment-f-rubric
-  title: 'Rubric'
+  headline: ''
   content: ''
   rubric_criteria:
   - criteria_title: Attention to Detail
@@ -75,7 +74,7 @@ page_sections:
   block: assignment-g-submission
   submission-notes-enabled: true
   submission_uploads_enabled: true
-  title: Submission
+  headline: Submission
   content: To complete the assignment, upload your project file to the dropbox in
     a .zip. If you do not know how to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File"
     title="">see this webpage</a>.

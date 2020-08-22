@@ -7,16 +7,11 @@ fields:
   label: block
   name: block
   default: assignment-f-rubric
-- type: text
-  name: title
-  label: Title
-- type: textarea
-  name: content
-  label: Content
+- name: rubric_title
+  type: text
   config:
-    wysiwyg: true
-    schema:
-      format: html
+    required: false
+  label: Rubric Title
 - name: rubric_criteria
   type: field_group_list
   fields:
