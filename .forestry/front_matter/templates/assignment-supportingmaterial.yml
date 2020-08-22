@@ -86,12 +86,12 @@ fields:
     config:
       min: 
       max: 
-      labelField: 
+      labelField: caption
     label: Image
   config:
     min: 
     max: 
-    labelField: 
+    labelField: gallery_title
   label: Image Gallery
 - name: links
   type: field_group_list
@@ -105,5 +105,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: title
   label: Links
