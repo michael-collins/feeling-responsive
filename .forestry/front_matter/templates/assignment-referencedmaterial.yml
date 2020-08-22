@@ -11,3 +11,85 @@ fields:
   name: column
   label: Column
   template: text-column
+- name: video
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: youtube_url
+    type: text
+    config:
+      required: false
+    label: Youtube URL
+    description: Post a clean Youtube URL or video ID. For instance, <strong><em>https://www.youtube.com/watch?v=dQw4w9WgXcQ</em></strong>
+      and <strong><em>dQw4w9WgXcQ</em></strong> will both work.
+  - name: vimeo_url
+    type: text
+    config:
+      required: false
+    label: Vimeo URL
+    description: Post a Vimeo.com video url or video id number. For instance, <strong><em>https://vimeo.com/371483780</em></strong>
+      or <strong><em>371483780</em></strong> will both work.
+  - name: custom
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: html
+    label: Custom iFrame Embed
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Video
+- name: readings
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: readings
+  label: Readings
+- name: image-gallery
+  type: field_group_list
+  fields:
+  - name: gallery_title
+    type: text
+    config:
+      required: false
+    label: Gallery Title
+  - name: image
+    type: field_group_list
+    fields:
+    - name: caption
+      type: text
+      config:
+        required: false
+      label: Caption
+    - name: enable_caption
+      type: boolean
+      label: Enable Caption
+      default: true
+    - name: image_url
+      type: file
+      config:
+        maxSize: 64
+      label: Image File
+      description: Upload an image under 2MB.
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Image Gallery
