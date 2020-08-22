@@ -34,11 +34,14 @@ fields:
     description: Post a Vimeo.com video url or video id number. For instance, <strong><em>https://vimeo.com/371483780</em></strong>
       or <strong><em>371483780</em></strong> will both work.
   - name: custom
-    type: text
+    type: textarea
+    default: ''
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
     label: Custom iFrame Embed
-    description: Paste custom iFrame embed code.
   config:
     min: 
     max: 
