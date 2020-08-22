@@ -62,7 +62,7 @@ page_sections:
   title: Kem Weber Airline Chair reference images
   content: Download the following images and include them in your project folder.
   links:
-  - title: 'Side view of Kem Weber Airline Chair '
+  - title: '3/4 view of Kem Weber Airline Chair '
     url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
   - title: 'Side view of Kem Weber Airline Chair '
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
