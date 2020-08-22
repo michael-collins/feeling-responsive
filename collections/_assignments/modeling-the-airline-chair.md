@@ -53,7 +53,7 @@ page_sections:
   readings: []
   video:
   - title: Blender Foundation 2.8 Videos
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/7bHleRTEmZ0"
+    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
 - template: assignment-referencedmaterial
