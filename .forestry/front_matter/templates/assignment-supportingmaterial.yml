@@ -95,6 +95,13 @@ fields:
   label: Image Gallery
 - name: links
   type: field_group_list
+  fields:
+  - name: downloads
+    type: include
+    config: {}
+    template: download-link
+    label: Downloads
+    description: Link to external or local files for download
   config:
     min: 
     max: 
