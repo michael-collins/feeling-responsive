@@ -62,6 +62,9 @@ page_sections:
   title: Kem Weber Airline Chair reference images
   content: <a href="https://collection.cooperhewitt.org/objects/404536651/images/"
     title="https://collection.cooperhewitt.org/objects/404536651/images/">https://collection.cooperhewitt.org/objects/404536651/images/</a>
+  links:
+  - title: 'Side view of Kem Weber Airline Chair '
+    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
