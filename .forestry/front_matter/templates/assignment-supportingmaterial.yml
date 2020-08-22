@@ -96,6 +96,11 @@ fields:
 - name: links
   type: field_group_list
   fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
   - name: downloads
     type: include
     config: {}
