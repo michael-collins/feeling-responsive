@@ -89,8 +89,8 @@ page_sections:
   submission-notes-enabled: true
   submission_uploads_enabled: true
   title: Submission
-  content: To complete the assignment, upload your project file to the dropbox in
-    a .zip. If you do not know how to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File"
+  content: To complete the assignment, upload your project file to your course section
+    dropbox as a .zip file. If you do not know how to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File"
     title="">see this webpage</a>.
   submission_item: []
   submission:
