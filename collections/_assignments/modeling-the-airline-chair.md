@@ -93,9 +93,11 @@ page_sections:
     file(s) to your course section dropbox as a .zip file. If you do not know how
     to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File" title="">see
     this webpage</a>.
+  submission_item: []
   submission:
   - title: World Campus (22081--WC---WBDART----303-------001-)
     url: https://psu.instructure.com/courses/2080832/assignments/12133049
+    section: ''
 topics_covered:
 - modeling
 - project setup
@@ -126,13 +128,3 @@ accordion_mode: true
 6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-b1.zip.**
 7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
-
-## Modeling workflow
-
-### 1. Import modeling reference image planes
-
-### 2 .Model the chair sides, seats, cross brace
-
-### 3. Preview with a subdivision modifier
-
-### 8. Clean up the model's edge flow
