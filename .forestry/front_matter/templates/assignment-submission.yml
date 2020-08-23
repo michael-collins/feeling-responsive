@@ -29,13 +29,6 @@ fields:
 - name: submission
   type: field_group_list
   fields:
-  - name: section
-    type: text
-    config:
-      required: false
-    label: Section
-    description: If you are running multiple sections of a course, you will have different
-      upload locations (IE - Canvas assignments) per section.
   - name: title
     type: text
     config:
@@ -49,7 +42,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: title
   label: Submission
   showOnly:
     field: submission_uploads_enabled
