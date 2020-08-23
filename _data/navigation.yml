@@ -20,22 +20,27 @@
   dropdown:
     - title: "Blender"
       url: "/software/blender/"
-    - title: "Maya"
-      url: "/software/maya/"
-    - title: "ZBrush"
-      url: "/software/zbrush/"
-    - title: "3DS Max"
-      url: "/software/maya/"
-    - title: "C4D"
-      url: "/software/c4d/"
-    - title: "Houdini"
-      url: "/software/houdini/"
+    # - title: "Maya"
+    #   url: "/software/maya/"
+    # - title: "ZBrush"
+    #   url: "/software/zbrush/"
+    # - title: "3DS Max"
+    #   url: "/software/maya/"
+    # - title: "C4D"
+    #   url: "/software/c4d/"
+    # - title: "Houdini"
+    #   url: "/software/houdini/"
     - title: "Substance Painter"
       url: "/software/substance-painter/"
 
 - title: Syllabus
-  url: "/syllabus/"
+  url: "#/"
   side: left
+  dropdown:
+    - title: "World Campus"
+      url: "/syllabus/dart303-fall2020-wc.html"
+    - title: "University Park"
+      url: "/syllabus/dart303-fall2020-up.html"
 
 - title: Calendar
   url: "/calendar/"

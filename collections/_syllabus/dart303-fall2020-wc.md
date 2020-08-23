@@ -42,9 +42,8 @@ course-description-link: "https://bulletins.psu.edu/search/?P=DART%20303"
 
 ### Equipment and materials
 
-1. Given many students are learning remotely, a reliable and relatively well-spec'd computer is ideal for this course. Otherwise, you can 
-1. Hard Drive: Minimum capacity: 100gig, Type: SSD or 7200rpm HDD, Interface: USB 3 or Thunderbolt.
-2. Portable Headphones with standard 3.5mm jack
+1. Given many students are learning remotely, a reliable and relatively well-spec'd computer is ideal for this course.
+2. Optional but recommended: Standalone digital tablet similar to the [Wacom Intuos Pro](https://www.wacom.com/en-ar/products/pen-tablets/wacom-intuos-pro) for drawing and painting.
 3. Sketchbook
 
 ### Accounts and access
@@ -155,6 +154,10 @@ of the material (not a thorough understanding).
 F (Failure)
 Unsatisfactory work which shows insufficient effort or comprehension.
 
+### Calendar
+
+{% include calendar.html calendar=site.data.calendar-fa20 %}
+
 ### Exam Policy
 
 An integral aspect this class is viewing, discussing, and responding to your own work and the work of your peers. The group critique is at all times a comfortable and constructive environment designed for in­depth analysis and evaluation. Through this process, each student will learn how to respond and challenge the formal (aesthetic), conceptual (idea) and interpretative (understanding) characteristics of any given artwork. Most importantly, the critique environment will push you to question and resolve your own artistic production. As with producing work, there are unlimited ways in which art can be approached and considered. If your assignment is not complete for the critique, your grade on that assignment will be lowered by one full letter for each class day it is late. You are required to attend critiques even if your work is not complete.
@@ -207,7 +210,3 @@ Office of the Vice President for Student Affairs: 814-865-0909
 Affirmative Action Office: 814-863-0471
 
 * Dialing 911 in cases where physical injury has occurred or is imminent
-
-* * *
-
-{% include calendar.html calendar=site.data.calendar-fa20 %}

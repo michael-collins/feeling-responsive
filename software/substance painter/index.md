@@ -3,10 +3,6 @@ title: Blender resources
 subtitle: Tutorials, plugins, and more
 layout: page
 ---
-## Download
-
-Download the latest Blender: [https://www.blender.org/download/](https://www.blender.org/download/)
-
 ## Blender Tutorials
 
 ### Youtube
