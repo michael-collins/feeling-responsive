@@ -96,6 +96,7 @@ page_sections:
   submission:
   - title: Blender Project Folder (ZIP)
     url: https://psu.instructure.com/courses/2080832/assignments/12133049
+    section: World Campus (22081--WC---WBDART----303-------001-)
 topics_covered:
 - modeling
 - project setup
