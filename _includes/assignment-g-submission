@@ -12,8 +12,6 @@
             {%- if section.content -%}
                 {% include block-section-content content=section.content %}
             {%- endif -%}
-            
-            <h3>Submission Details</h3>
             <ul>
             {%- if section.submission -%}
                 {% for item in section.submission %}
@@ -37,8 +35,6 @@
             {%- if section.content -%}
                 {% include block-section-content content=section.content %}
             {%- endif -%}
-            
-            <h3>Submission Details</h3>
             <ul>
             {%- if section.submission -%}
                 {% for item in section.submission %}

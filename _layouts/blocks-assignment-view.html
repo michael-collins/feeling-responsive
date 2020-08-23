@@ -4,8 +4,10 @@ layout: nav-elements
 
     
 
-<div class= "row collapse full-width">
-    <div class= "columns small-12 medium-5">
+<div class= "row full-width">
+    <div class= "columns small-12 medium-5 large-6">
+        <div class="row">
+            <div class= "columns small-11 small-centered large-11">
         {% for section in page.page_sections %}
             {% if section.block %}
                 {% unless section.block != "assignment-a-description" %}
@@ -13,13 +15,8 @@ layout: nav-elements
                 {% endunless %}
             {% endif %}
         {% endfor %}
-        <div class="row">
-            <div class="columns small-12">
-            {{ page.content }}
-            </div>
-        </div>
-        <div class="row">
-            <div class= "columns small-12">
+        {{ page.content }} 
+       
                 {% for section in page.page_sections %}
                     {% if section.block %}
                         {% unless section.block != "assignment-g-submission" %}
@@ -31,9 +28,9 @@ layout: nav-elements
         </div>
     </div>
     
-        <div class= "columns small-12 medium-7">
-            <div class="row small-collapse">
-                <div class="columns small-11 small-centered assignment-accordion">
+        <div class= "columns small-12 medium-7 large-6">
+            <div class="row ">
+                <div class="columns small-11 small-centered medium-10 large-9 assignment-accordion">
                 {% if page.accordion_mode == true %}
                     <dl class="accordion" data-accordion role="tablist">
                         {% for section in page.page_sections %}
