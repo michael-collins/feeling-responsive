@@ -93,11 +93,9 @@ page_sections:
     file(s) to your course section dropbox as a .zip file. If you do not know how
     to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File" title="">see
     this webpage</a>.
-  submission_item: []
   submission:
   - title: World Campus (22081--WC---WBDART----303-------001-)
     url: https://psu.instructure.com/courses/2080832/assignments/12133049
-    section: ''
 topics_covered:
 - modeling
 - project setup

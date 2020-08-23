@@ -1,1 +1,1 @@
-<a href="{{ include.url }}" class="button success">{{ include.title }}</a>
+<li class="no-bullet link-list"><a href="{{ include.url }}" target="_blank" class="button success"><i class="material-icons">north</i> {{ include.title }}</a></li>

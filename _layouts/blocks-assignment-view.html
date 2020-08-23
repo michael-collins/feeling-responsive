@@ -1,17 +1,9 @@
 ---
 layout: nav-elements
 ---
-<div class= "row collapse full-width">
-    <div class= "columns small-12">
-        {% for section in page.page_sections %}
-            {% if section.block %}
-                {% unless section.block != "assignment-g-submission" %}
-                    {% include {{ section.block }} %}
-                {% endunless %}
-            {% endif %}
-        {% endfor %}
-    </div>
-</div>
+
+    
+
 <div class= "row collapse full-width">
     <div class= "columns small-12 medium-5">
         {% for section in page.page_sections %}
@@ -26,6 +18,17 @@ layout: nav-elements
             {{ page.content }}
             </div>
         </div>
+        <div class="row">
+            <div class= "columns small-12">
+                {% for section in page.page_sections %}
+                    {% if section.block %}
+                        {% unless section.block != "assignment-g-submission" %}
+                            {% include {{ section.block }} %}
+                        {% endunless %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
     
         <div class= "columns small-12 medium-7">
@@ -35,10 +38,12 @@ layout: nav-elements
                     <dl class="accordion" data-accordion role="tablist">
                         {% for section in page.page_sections %}
                             {% if section.block %}
-                            {% unless section.block == "assignment-a-description" or section.block == "assignment-g-submission" %}
+                            {% unless section.block == "assignment-a-description" %}
+                                {% unless section.block == "assignment-g-submission" %}
                             
                                     {% include {{ section.block }} accordion_mode="true" %}
                     
+                                {% endunless %}
                             {% endunless %}
                             {% endif %}
                         {% endfor %}
