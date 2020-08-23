@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-
+{% include weekly-index.html weeks=page.weeks %}
+<hr>
 {% assign assessments = site.data.schema.learning_components.assessments %}
 {% assign modules = site.data.schema.learning_components.modules %}
 

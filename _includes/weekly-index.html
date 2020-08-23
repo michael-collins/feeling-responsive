@@ -1,0 +1,10 @@
+{% for week in include.weeks %}
+    <hr>
+    <h2>Week {{ week.week_number }} | {{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</h2>
+    {% if week.lessons %}
+    {% for lesson in week.lessons %}
+    {{ lesson }}
+    {% endfor %}
+    {% endif %}
+        
+{% endfor%}

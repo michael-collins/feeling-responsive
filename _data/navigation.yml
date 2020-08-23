@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Pathways
+- title: Lessons
   url: "/lessons/"
   side: left
 
@@ -37,16 +37,16 @@
   url: "/calendar/"
   side: left
 
-- title: Grading
-  url: "/grading/"
-  side: left
-  dropdown:
-  - title: "Simple Assignment"
-    url: "/grading/simple-assignment-description.html"
-  - title: "Project"
-    url: "/grading/project.html"
+# - title: Grading
+#   url: "/grading/"
+#   side: left
+#   dropdown:
+#   - title: "Simple Assignment"
+#     url: "/grading/simple-assignment-description.html"
+#   - title: "Project"
+#     url: "/grading/project.html"
 
-- title: "Contact"
+- title: "Office Hours"
   url: "/contact/"
   side: right
 
