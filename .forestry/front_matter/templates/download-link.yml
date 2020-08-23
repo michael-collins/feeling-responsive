@@ -10,13 +10,13 @@ fields:
   description: Used as the link title
 - name: link_style
   type: select
-  default: new tab
+  default: "new tab"
   config:
     required: false
     options:
-    - " download"
-    - " internal"
-    - new tab
+    - "download"
+    - "internal"
+    - "new tab"
     source:
       type: simple
       section: 

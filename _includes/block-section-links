@@ -1,7 +1,11 @@
 <ul>
-    {%- for link in include.link -%}
-        {%- if link.title -%}
-            <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    {%- for link in include.links -%}
+        {%- if link.link_style == "download" -%}
+            <li class="no-bullet link-list"><a href="{{ link.url }}" download><i class="fi-download"></i> {{ link.title }}</a></li>
+        {% elsif link.link_style == "internal" %}
+            <li class="no-bullet link-list"><a href="{{ link.url }}" >{{ link.title }}</a></li>
+        {% else %}
+            <li class="no bullet link-list"><a href="{{ link.url }}" target="_blank">{{ link.title }}</a></li>
         {%- endif -%}
     {%- endfor -%}
 </ul>

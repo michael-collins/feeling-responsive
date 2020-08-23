@@ -2,54 +2,48 @@
 layout: nav-elements
 ---
 
-<div class= "row small-collpase medium-collpase full-width">
+<div class= "row collapse full-width">
     <div class= "columns small-12 medium-5">
         {% for section in page.page_sections %}
             {% if section.block %}
-                {% unless section.block != "assignment-a-description" %}
+                {% unless section.block != "assignment-a-description" or section.block != "assignment-g-submission" %}
                     {% include {{ section.block }} %}
                 {% endunless %}
             {% endif %}
         {% endfor %}
-        {{ page.content }}
+        <div class="row">
+            <div class="columns small-12">
+            {{ page.content }}
+            </div>
+        </div>
     </div>
-    <div class= "columns small-12 medium-6 medium-offset-1">
-        
-            {% if page.accordion_mode == true %}
-                
-
-                <dl class="accordion" data-accordion role="tablist">
-                    {% for section in page.page_sections %}
-                        {% if section.block %}
-                        {% unless section.block == "assignment-a-description" %}
-                        
-                                {% include {{ section.block }} accordion_mode="true" %}
-                
+    
+        <div class= "columns small-12 medium-7">
+            <div class="row small-collapse">
+                <div class="columns small-11 small-centered assignment-accordion">
+                {% if page.accordion_mode == true %}
+                    <dl class="accordion" data-accordion role="tablist">
+                        {% for section in page.page_sections %}
+                            {% if section.block %}
+                            {% unless section.block == "assignment-a-description" or section.block == "assignment-g-submission" %}
+                            
+                                    {% include {{ section.block }} accordion_mode="true" %}
+                    
+                            {% endunless %}
+                            {% endif %}
+                        {% endfor %}
+                    </dl>
+                {% else %}
+                    {% if section.block %}
+                        {% unless section.block == "assignment-a-demo" %}
+                            {% include {{ section.block }} %}
                         {% endunless %}
-                        {% endif %}
-                    {% endfor %}
-                </dl>
-
-
-            {% else %}
-
-
-                {% if section.block %}
-                    {% unless section.block == "assignment-a-demo" %}
-                        {% include {{ section.block }} %}
-                    {% endunless %}
+                    {% endif %}
                 {% endif %}
-            
-           
-            {% endif %}
-
-    
-    
-    
-    
-    
-        
+            </div>
+        </div>
     </div>
+       
 </div>
 
 
