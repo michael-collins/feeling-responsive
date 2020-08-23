@@ -29,19 +29,6 @@ page_sections:
   - title: Modeling the Airline Chair Video Playlist
     custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
-- template: assignment-media-gallery
-  block: assignment-h-media-gallery
-  title: Media gallery
-  content: I've found some images that will help you get a better understanding.
-  image-gallery:
-  - gallery_title: Blender open movies
-    image:
-    - caption: Open Blender Movie Coffee Run
-      enable_caption: true
-      image_url: "/uploads/maxresdefault-1.jpg"
-    - caption: Spring the Open Blender Film
-      enable_caption: true
-      image_url: "/uploads/download.jpg"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Learning materials
@@ -59,7 +46,7 @@ page_sections:
   links: []
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Kem Weber Airline Chair reference images
+  title: Downloads
   content: Download the following images and include them in your project folder.
   links:
   - title: '3/4 view of Kem Weber Airline Chair '
