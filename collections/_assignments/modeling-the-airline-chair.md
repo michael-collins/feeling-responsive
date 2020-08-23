@@ -127,4 +127,4 @@ accordion_mode: true
    * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
 6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-b1.zip.**
 7. Upload the .zip file to the assignment dropbox.
-8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+8. Double check that you've included all files and that your ZIP file can be downloaded and opened.
