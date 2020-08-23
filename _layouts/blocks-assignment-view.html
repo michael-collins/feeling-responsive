@@ -4,7 +4,7 @@ layout: nav-elements
 
     
 
-<div class= "row full-width">
+<div class= "row full-width poster-style">
     <div class= "columns small-12 medium-5 large-6">
         <div class="row">
             <div class= "columns small-11 small-centered large-11">
@@ -16,11 +16,14 @@ layout: nav-elements
             {% endif %}
         {% endfor %}
         {{ page.content }} 
-       
+            
+        
                 {% for section in page.page_sections %}
                     {% if section.block %}
                         {% unless section.block != "assignment-g-submission" %}
+                        
                             {% include {{ section.block }} %}
+                       
                         {% endunless %}
                     {% endif %}
                 {% endfor %}

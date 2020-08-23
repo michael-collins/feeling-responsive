@@ -1,3 +1,24 @@
+// Material icons support
+//
+// 	@extend .material-icons;
+// 	content: 'label';
+
+.material-icons {
+    direction: ltr;
+    display: inline-block;
+    font-family: 'Material Icons';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    text-transform: none;
+    white-space: nowrap;
+    word-wrap: normal;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
 // Custom theme styles here.
 
 
@@ -288,12 +309,15 @@ body {
 	margin-top:3rem;
 	dl.accordion {
 		border:none;
+		border-top: 4px solid #000;
 	}
 	.accordion dd {
 		border-bottom: none;
 	}
 	.accordion dd>.content {
-		margin-left: 1rem;
+		margin-left: 0;
+		border-bottom: 1px solid #000;
+		border-top: 2px solid #000;
 	}
 	.accordion .accordion-navigation>a, .accordion dd>a {
 		background: transparent;
@@ -322,6 +346,27 @@ body {
 	dd.accordion-navigation:last-child > a {
 		background-color:#fff;
 		border-bottom:1px solid #fff;
+	}
+	.accordion .accordion-navigation > a:after {
+		@extend .material-icons;
+		content: 'add';
+		font-family: Material Icons;
+		float: right;
+		color:#7b7b7b;
+		font-size: 1em;
+		padding: .25em;
+	}
+	.accordion .accordion-navigation.active > a:after {
+		@extend .material-icons;
+		content: 'remove';
+		font-family: Material Icons;
+		float: right;
+		color:#7b7b7b;
+		font-size: 1em;
+		padding: .25em;
+	}
+	.accordion-navigation>.content.active, .accordion dd>.content.active {
+		background:#fafafa
 	}
 	
 }
@@ -385,33 +430,42 @@ max-width: 40%;
 	max-width:100%;
 
 }
-
+ul.link-list {
+	margin-left:0;
+}
 li.link-border {
 	border-bottom:1px #ccc solid;
 	&:last-child {
 		border-bottom:none;
 	}
 }
+li.submission {
+	margin-bottom: 1em;
+}
 li.link-list {
 	padding: 0 0;
 	font-size: 1em;
 	list-style: none;
 	display:flex;
-	margin-bottom:1rem;
+	
 	a {
 		display:flex;
 		padding:0.25rem;
 		align-self: center;
 		align-items:center;
 		margin: 0;
-		width: 100%;
-		border-radius: 18px;
-		background: #efefef;
-		color: #7b7b7b;
-		&:hover {
-			background: #A1D044;
-			color: #fff;
-		} 
+		
+		&.submit-green {
+			width: 100%;
+			border-radius: 18px;
+			background: #efefef;
+			color: #7b7b7b;
+			&:hover {
+				background: #A1D044;
+				color: #fff;
+			} 
+		}
+		
 	}
 	i {
 		margin-right: 1rem;
@@ -421,4 +475,39 @@ li.link-list {
 	span {
 		align-self: center;
 	}
+}
+
+.poster-style {
+	h2 {
+		border-top: 4px solid #000;
+		text-transform: uppercase;
+	}
+	.accordion {
+		border-top: none;
+	}
+
+}
+
+// top bar styling
+.top-bar-section ul li {
+	background:#000;
+}
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+	color: #fff;
+    background: #000;
+}
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+	color: #fff;
+    background: #000;
+}
+.top-bar-section .has-dropdown>a:after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border: inset 5px;
+    border-color: rgba(135, 135, 135, 1) transparent transparent transparent;
+    border-top-style: solid;
+    margin-top: -2.5px;
+	top: 1.5625rem;
 }

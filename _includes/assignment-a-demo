@@ -6,9 +6,7 @@
 
 <div class="row">
     <div class="columns small-12">
-    {%- if section.title -%}
-        {% include block-section-title title=section.title %}
-    {%- endif -%}
+    
     {%- if section.content -%}
         {% include block-section-content content=section.content %}
     {%- endif -%}
