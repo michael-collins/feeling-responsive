@@ -2,9 +2,21 @@
     <hr>
     <h2>Week {{ week.week_number }} | {{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</h2>
     {% if week.lessons %}
-    {% for lesson in week.lessons %}
-    {{ lesson }}
-    {% endfor %}
+        <ul>
+        {% for lesson in week.lessons %}            
+            {% assign current-lesson = lesson | remove: "collections/_" | remove: ".md" %}
+            {% capture lesson_url %}{{current-lesson | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+            <li>
+                <a href="{{lesson_url}}">{{lesson_url}}</a>
+            </li>
+
+            
+
+
+        {% endfor %}
+        </ul>
     {% endif %}
         
 {% endfor%}
+
+
