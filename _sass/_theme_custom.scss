@@ -490,7 +490,7 @@ li.link-list {
 
 // top bar styling
 .top-bar-section ul li {
-	background:#000;
+	background: #10181E;
 }
 .top-bar-section li.active:not(.has-form) a:not(.button) {
 	color: #fff;
@@ -499,6 +499,22 @@ li.link-list {
 .top-bar-section li:not(.has-form) a:not(.button):hover {
 	color: #fff;
     background: #000;
+}
+.top-bar-section li.active:not(.has-form) a:not(.button):hover {
+    background: #10181E;
+	color: #334D5C;
+}
+.top-bar-section .dropdown li:not(.has-form):not(.active)>a:not(.button) {
+    color: #f0ceb4;
+	background: #A05013;
+}
+.top-bar-section ul li:hover:not(.has-form)>a {
+	color: #fff;
+	background: #538798;
+}
+.top-bar-section .dropdown li:not(.has-form):not(.active)>a:not(.button):hover {
+    color: #fff;
+	background: #538798;
 }
 .top-bar-section .has-dropdown>a:after {
     content: "";
@@ -510,4 +526,10 @@ li.link-list {
     border-top-style: solid;
     margin-top: -2.5px;
 	top: 1.5625rem;
+}
+.top-bar-section ul li>a {
+	color: #334D5C;
+}
+.top-bar-section ul li {
+	color: #538798;
 }
