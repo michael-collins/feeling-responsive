@@ -2,9 +2,9 @@
 layout: lesson-index
 title: Lessons
 breadcrumb: true
-header_image: "/uploads/abstract-001-render3.jpg"
+header_image: "/uploads/abstract-001-render6.jpg"
 header:
-  image_fullwidth: "/uploads/abstract-001-render3.jpg"
+  image_fullwidth: "/uploads/abstract-001-render6.jpg"
 permalink: "/lessons/"
 enable_lessons_by_week: true
 weeks:
