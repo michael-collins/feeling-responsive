@@ -112,7 +112,7 @@ header:
 accordion_mode: true
 
 ---
-# Instructions
+## Instructions
 
 1. Watch tutorials from Lynda on introduction to modeling.
 2. Create a folder on your computer. This will be your project folder. Save all files to this folder.
