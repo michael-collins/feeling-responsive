@@ -1,7 +1,7 @@
 ---
 title: Syllabus
 subtitle: Semester Listing
-layout: nav-elements
+layout: page
 permalink: /syllabus/
 ---
 {% include syllabus.html %}
