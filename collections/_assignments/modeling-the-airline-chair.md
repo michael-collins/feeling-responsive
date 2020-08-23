@@ -114,8 +114,6 @@ accordion_mode: true
 ---
 # Instructions
 
-## Overview
-
 1. Watch tutorials from Lynda on introduction to modeling.
 2. Create a folder on your computer. This will be your project folder. Save all files to this folder.
 3. Follow the modeling workflow instructions to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
