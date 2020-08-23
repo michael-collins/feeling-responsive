@@ -6,6 +6,10 @@
   url: "/lessons/"
   side: left
 
+- title: Lesson-index
+  url: "/lessons-index/"
+  side: left
+
 - title: Assignments
   url: "/assignments/"
   side: left

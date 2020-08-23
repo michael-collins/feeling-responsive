@@ -302,3 +302,9 @@ collections:
   topics:
     output: true
     permalink: /topics/:title.html
+  lectures:
+    output: true
+    permalink: /topics/:title.html
+  readings:
+    output: true
+    permalink: /topics/:title.html

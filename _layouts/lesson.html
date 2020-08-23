@@ -1,12 +1,42 @@
 ---
 layout: nav-elements
 ---
-
-<article class="lessons">
-  {{ content }}
-</article>
-
-{% if page.comments %}
-<h3>Discussion</h3>
-{% include disqus.html %}
+<div class="row">
+  
+<div class="columns small-12">
+{{ page.title }}
+{{ content }}
+{% if page.beginner %}
+<ul>
+  {% for item in page.beginner.lectures %}
+items: {{ item }},
+  {%comment%}remove all but filename. get collection item where name matches new name.{%endcomment%}
+            {% assign current-lecture = item | remove: "collections/_lectures/" | remove: ".md" %}
+            lecture: {{current-lecture}}
+            <!-- {% assign lectures = site.lectures %} -->
+            {% assign lecture-slugs = '' | split: '' %}
+            {% for item in site.lectures %}
+              {% assign newItem = site.lectures.title | slugify %}
+              {% assign lecture-slugs = lecture-slugs | push: newItem %}
+            {% endfor %}
+            
+            {% for lecture in lecture-slugs %}
+              {{lecture.title }}
+            {% endfor %}
+            {% capture lecture-name %}{{ lecture-title-slugs | where: "title", current-lecture }}{%endcapture%}
+            <li>
+                <a href="{{lecture-name.url}}">{{lecture-name.title}}</a>
+            </li>
+  {% endfor %}
+</ul>
 {% endif %}
+<hr>
+<p>all lessons</p>
+<ul>
+{% for lesson in site.lessons %}
+  <li><a href="{{lesson.url | prepend: site.baseurl }}">{{ lesson.title}}</a></li>
+{% endfor %}
+</ul>
+
+</div>
+</div>

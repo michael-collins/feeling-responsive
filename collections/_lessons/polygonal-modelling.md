@@ -2,10 +2,7 @@
 title: Polygonal Modelling
 subtitle: 3D's most essential skill
 layout: lesson
-lectures:
-  lecture_list: []
-lesson: []
-assignments: []
+week: 1
 beginner:
   lectures:
   - collections/_lectures/intermediate-lesson01-lecture.md
