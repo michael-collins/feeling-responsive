@@ -94,7 +94,7 @@ page_sections:
     title="">see this webpage</a>.
   submission_item: []
   submission:
-  - title: Blender Project Folder
+  - title: Blender Project Folder (ZIP)
     url: https://psu.instructure.com/courses/2080832/assignments/12133049
 topics_covered:
 - modeling
