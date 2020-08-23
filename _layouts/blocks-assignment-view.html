@@ -1,12 +1,22 @@
 ---
 layout: nav-elements
 ---
-
+<div class= "row collapse full-width">
+    <div class= "columns small-12">
+        {% for section in page.page_sections %}
+            {% if section.block %}
+                {% unless section.block != "assignment-g-submission" %}
+                    {% include {{ section.block }} %}
+                {% endunless %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
 <div class= "row collapse full-width">
     <div class= "columns small-12 medium-5">
         {% for section in page.page_sections %}
             {% if section.block %}
-                {% unless section.block != "assignment-a-description" or section.block != "assignment-g-submission" %}
+                {% unless section.block != "assignment-a-description" %}
                     {% include {{ section.block }} %}
                 {% endunless %}
             {% endif %}
