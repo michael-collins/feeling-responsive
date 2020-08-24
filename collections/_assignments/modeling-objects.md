@@ -31,18 +31,17 @@ page_sections:
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Learning materials
-  content: To get a deeper understanding of how Blender's modeling tools work, have
-    a look at Blender foundation videos 8-15.
+  title: Learning Materials
+  content: Flipped Normals shows you how to approach modeling of different types of
+    objects.
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+  - title: How to Model Anything in 3D - Modeling Fundamentals
+    youtube_url: https://www.youtube.com/watch?v=tTfIo_bezqw
+    custom: ''
   links: []
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
@@ -102,17 +101,19 @@ published: false
 ---
 ## Instructions
 
-1. Watch tutorials from Lynda on introduction to modeling.
-2. Create a folder on your computer. This will be your project folder. Save all files to this folder.
-3. Follow the modeling workflow instructions to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
-   * polygonal edge flow
-   * extruding polygon faces
-   * inserting edge loops
-   * moving, rotating, and scaling vertices, edges, and faces
-   * mirroring and duplicating geometry
-4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**_LASTNAME_-modeling-b1.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
-   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-b1.zip.**
-7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your ZIP file can be downloaded and opened.
+1. Watch the blender foundation videos
+2. Create a project folder. Save all assets to the project folder.
+3. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your project folder called **_objects-modeling-YOURNAME.jpg (or .png)_**
+4. Create a new file for each object and save in the project folder.  
+   _Naming:_  
+   **_obj1-modeling-YOURNAME_**  
+   **_obj2-modeling-YOURNAME_**  
+   **_obj3-modeling-YOURNAME_**
+5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
+6. Capture the gesture of the objects with as little detail as needed to describe the shape.
+   * Do not “smooth” the objects.
+   * Focus on maintaining quads and good [edgeflow](https://www.youtube.com/watch?v=Lip59doQQRk). **See example image of a crowbar below:**  
+     ![Polygon model of crowbar](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-images/maya-modeling-1.jpg)
+7. Compress the project folder once you’ve completed the tutorial and rename it **_modeling-YOURNAME-L2.zip._**
+8. Upload the .zip file to the assignment dropbox.
+9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
