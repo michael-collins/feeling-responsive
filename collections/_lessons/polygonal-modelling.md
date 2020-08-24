@@ -24,7 +24,8 @@ intermediate:
 advanced:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/sculpting-and-retopology.md
 enable_active_dates: false
 lesson_begin_date: 
 lesson_end_date: 
