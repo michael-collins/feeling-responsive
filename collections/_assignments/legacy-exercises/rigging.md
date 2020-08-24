@@ -5,8 +5,10 @@ layout: exercise
 submission-id: rigging-YOURNAME
 assignment-dropbox: 
 exercise: exercise-6
-asset-path: /assets/exercise-images
-download-path: /assets/exercise-downloads
+asset-path: "/assets/exercise-images"
+download-path: "/assets/exercise-downloads"
+published: false
+
 ---
 ![Rig in Blender]({{ site.baseurl }}{{ page.asset-path }}/blender-rigging.png)
 
@@ -90,4 +92,4 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 * * *
 
 ## Grading
-Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
+Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading).

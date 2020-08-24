@@ -3,8 +3,10 @@ title: Animation with Blender
 subtitle: 
 layout: exercise
 submission-id: animation-YOURSTUDENTID
-asset-path: /assets/exercise-images
+asset-path: "/assets/exercise-images"
 exercise: exercise-5
+published: false
+
 ---
 ![cube and sphere in blender 3d]({{ site.baseurl }}{{ page.asset-path }}/blender-animation-intro.png)
 In this exercise, level 1 students will practice keyframing, parenting, animating the camera with a target, and manipulating curves in the graph editor. Level 2 and 3 students will create advanced animations based on the requirements listed in the instructions.
@@ -70,4 +72,4 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 * * *
 
 ## Grading
-Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
+Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading).
