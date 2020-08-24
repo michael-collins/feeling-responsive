@@ -112,7 +112,7 @@ accordion_mode: true
 
 1. Watch tutorials from Blender Foundation on youtube for an introduction to Blender's interface and modeling tools.
 2. Create a folder on your computer. **This will be your project folder.** Save all files to this folder.
-3. Follow the modeling workflow instructions to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
+3. Follow the six-part video demonstration to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
    * polygonal edge flow
    * extruding polygon faces
    * inserting edge loops
