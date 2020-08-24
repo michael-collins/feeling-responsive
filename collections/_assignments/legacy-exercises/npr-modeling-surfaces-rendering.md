@@ -6,6 +6,8 @@ submission-id: npr-YOURNAME
 asset-path: "/assets/exercise-images"
 download-path: "/assets/exercise-downloads"
 exercise: exercise-4
+difficulty_level: " beginner"
+published: false
 
 ---
 ![NPR rendering example]({{site.baseurl}}{{page.asset-path}}/npr-exercise.png)
