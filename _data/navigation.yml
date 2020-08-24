@@ -1,12 +1,12 @@
-- title: Schedule
+- title: Home
   url: "/"
   side: left
 
-- title: Lessons
-  url: "/lessons/"
-  side: left
+# - title: Lessons
+#   url: "/lessons/"
+#   side: left
 
-- title: Lesson-index
+- title: Lessons
   url: "/lessons-index/"
   side: left
 
