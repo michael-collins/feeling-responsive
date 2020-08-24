@@ -73,7 +73,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/modeling-objects-header.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Instructions
