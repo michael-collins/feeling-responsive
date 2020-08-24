@@ -32,6 +32,12 @@ page_sections:
     youtube_url: https://www.youtube.com/watch?v=tTfIo_bezqw
     custom: ''
   links: []
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
+  title: Random Objects Generator
+  links:
+  - url: https://www.randomlists.com/things
+    title: randomlists.com
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
