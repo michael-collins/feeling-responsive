@@ -14,10 +14,10 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with 3D software terminology
-  - Practice polygonal modeling workflows
-  - Perform fundamental polygonal modeling operations including extrude, merge, bridge,
-    and bevel.
+  - Become familiarized with 3D software interface and terminology.
+  - Use modeling workflows to create high quality topology and edge flow.
+  - Perform fundamental polygonal modeling operations including mirror, extrude, loop
+    cut, and subdivide.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
