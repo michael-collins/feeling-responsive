@@ -38,6 +38,8 @@ page_sections:
   links:
   - url: https://www.randomlists.com/things
     title: randomlists.com
+    link_style: new tab
+  content: Use this web generator to find three objects to model.
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
