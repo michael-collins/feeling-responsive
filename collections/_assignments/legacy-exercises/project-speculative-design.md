@@ -2,9 +2,10 @@
 title: Project 1
 subtitle: Speculative Materiality and Structures
 layout: project
-banner-img: /assets/exercise-images/render-01.jpg
----
+banner-img: "/assets/exercise-images/render-01.jpg"
+published: false
 
+---
 In this project, you will explore materiality of the physical and digital world. To do this, you will have to examine the role of materials and structures in the built and designed environment, and how their nature might be altered and recontextualized to highlight, elevate, or interrogate their existence. These 3D works should seek to ask at least one question about the way people have organized the world around them.
 
 You will model, texture, light, and render a set of **three related images** and critically reflect on your work in a 150 word **work statement**. These images do not have to be of the same object(s), but they must have some common conceptual thread that ties them together as a body of work. You will _develop a concept_ by first considering a **subject** like an environment, structure, object, or experience that you find interesting or problematic. Experiment with unexpected materials, proportions, scales, alerations, and additions or subtractions. Since aesthetics are not only concerned with the way that things look, but also the underlying principles used to establish meaning, emotion, and senstation, try to think about the external forces at play shaping the objects of your interest.

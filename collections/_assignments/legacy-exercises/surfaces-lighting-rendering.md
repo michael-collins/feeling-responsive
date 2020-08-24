@@ -3,10 +3,11 @@ title: Surfaces, Lighting, and Rendering
 subtitle: 
 layout: exercise
 submission-id: modeling-03-YOURNAME
-asset-path: /assets/exercise-images
+asset-path: "/assets/exercise-images"
 exercise: exercise-3
----
+published: false
 
+---
 In this exercise, you will add surface materials, additional textures, set up lights, and configure render settings.
 
 ## Learning Resources
