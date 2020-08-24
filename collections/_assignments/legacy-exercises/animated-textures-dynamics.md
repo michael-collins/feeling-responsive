@@ -5,6 +5,7 @@ submission-id: anim-textures-YOURNAME
 asset-path: "/assets/exercise-images"
 exercise: exercise-7
 download-path: "/assets/exercise-downloads"
+published: false
 
 ---
 In this exercise, you will apply an image sequence as texture object in Blender, create dynamics, render a final Blender animation as an image sequence, and import it into after effects. You will create a compressed video in a web streaming format called H.264.

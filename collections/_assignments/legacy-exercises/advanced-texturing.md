@@ -1,10 +1,12 @@
 ---
-title: Advanced Texturing # In the future, change this assignment title to PBR Modeling, Texturing, and Rendering
+title: Advanced Texturing
 subtitle: 
 layout: exercise
 submission-id: advanced-texturing-YOURNAME
-asset-path: /assets/exercise-images
+asset-path: "/assets/exercise-images"
 exercise: exercise-3
+published: false
+
 ---
 ![advanced texturing image]({{site.baseurl}}{{page.asset-path}}/adv-texturing-exercise.jpg)
 
