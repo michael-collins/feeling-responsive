@@ -15,6 +15,7 @@ office-hours: "By appointment via https://calendly.com/msc227"
 instructor-email: msc227@psu.edu
 begin-end-dates: 08/24/20 - 12/11/20
 course-description-link: "https://bulletins.psu.edu/search/?P=DART%20303"
+canvas-link: https://psu.instructure.com/courses/2080832
 ---
 
 **Section:** {{ page.section}}
@@ -26,6 +27,8 @@ course-description-link: "https://bulletins.psu.edu/search/?P=DART%20303"
 **Instructor:** {{ page.instructor-name}}
 
 **Office Hours:** {{ page.office-hours}}
+
+**Canvas:** [{{ page.canvas-link}}]({{ page.canvas-link}})
 
 **E­mail:** {{ page.instructor-email}}
 
