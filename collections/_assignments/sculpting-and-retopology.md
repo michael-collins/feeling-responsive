@@ -93,17 +93,13 @@ published: false
 ---
 ## Instructions
 
-1. Watch tutorials from Blender Foundation on youtube for an introduction to Blender's interface and modeling tools.
-2. Create a folder on your computer. **This will be your project folder.** Save all files to this folder.
-3. Follow the six-part video demonstration to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
-   * polygonal edge flow
-   * extruding polygon faces
-   * inserting edge loops
-   * moving, rotating, and scaling vertices, edges, and faces
-   * mirroring and duplicating geometry
-4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**_LASTNAME_-modeling-chair.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
-   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-chair.zip.**
-7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your .zip file can be downloaded and opened.
+1. Watch the tutorials related to sculpting.
+2. Create a project folder
+3. Find reference images online for your subject and save them to project folder.
+4. Use the techniques learned to create a detailed sculpt of a **real-life aquatic creature**.
+5. Create a second model by retopologizing the sculpt to create a low poly base mesh.
+   * You should have two models: Hi-res sculpt and a low poly base mesh model
+6. Save your blend file in a project folder **_YOURNAME-sculpting.blend_**.
+7. Compress the folder once you’ve completed the tutorial and rename it **_YOURNAME-sculpting.zip._**
+8. Upload the .zip file to the assignment dropbox.
+9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
