@@ -101,19 +101,21 @@ published: false
 ---
 ## Instructions
 
-1. Watch the blender foundation videos
-2. Create a project folder. Save all assets to the project folder.
-3. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your project folder called **_objects-modeling-YOURNAME.jpg (or .png)_**
-4. Create a new file for each object and save in the project folder.  
-   _Naming:_  
-   **_obj1-modeling-YOURNAME_**  
-   **_obj2-modeling-YOURNAME_**  
-   **_obj3-modeling-YOURNAME_**
-5. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
-6. Capture the gesture of the objects with as little detail as needed to describe the shape.
-   * Do not “smooth” the objects.
-   * Focus on maintaining quads and good [edgeflow](https://www.youtube.com/watch?v=Lip59doQQRk). **See example image of a crowbar below:**  
-     ![Polygon model of crowbar](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-images/maya-modeling-1.jpg)
-7. Compress the project folder once you’ve completed the tutorial and rename it **_modeling-YOURNAME-L2.zip._**
-8. Upload the .zip file to the assignment dropbox.
-9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+ 1. Watch the Blender Foundation videos to get a refresher on the Blender's interface.
+ 2. Look at the learning materials to get an understanding of modeling theory.
+ 3. Create a project folder. Save all assets to the project folder.
+ 4. Obtain three randomly generated objects from [this website](http://www.randomlists.com/things). Include a screenshot of the website objects in your project folder called **_YOURNAME-objects-modeling.jpg (or .png)_**
+ 5. If you are unsure about how to proceed with modeling your first, do a quick search to see if someone has a tutorial for starting to model the object. Drawing the object on paper, and then drawing polygons over top is also helpful to plan your topology.
+ 6. Create a new file for each object and save in the project folder.  
+    _Naming:_  
+    **_YOURNAME-modeling-object1_**  
+    **_YOURNAME-modeling-object2_**  
+    **_YOURNAME-modeling-object3_**
+ 7. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
+ 8. Capture the gesture of the objects with as little detail as needed to describe the shape.
+    * Do not “smooth” the objects.
+    * Focus on maintaining quads and good [edgeflow](https://www.youtube.com/watch?v=Lip59doQQRk). **See example image of a crowbar below:**  
+      ![Polygon model of crowbar](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-images/maya-modeling-1.jpg)
+ 9. Compress the project folder once you’ve completed the tutorial and rename it **_YOURNAME-modeling-objects.zip._**
+10. Upload the .zip file to the assignment dropbox.
+11. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
