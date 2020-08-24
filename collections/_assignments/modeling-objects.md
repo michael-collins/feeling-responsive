@@ -8,8 +8,7 @@ page_sections:
   block: assignment-a-description
   title: Description
   content: In this exercise, you will practice polygonal modeling fundamentals and
-    will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
-    Chair.
+    will use 3D software to build a polygonal model of three random objects.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -112,8 +111,7 @@ published: false
     **_YOURNAME-modeling-object2_**  
     **_YOURNAME-modeling-object3_**
  7. Create one polygonal model for each scene file from your set of randomly generated objects in Step 2. (You should be making three objects since you’ve created three scenes.)
- 8. Capture the gesture of the objects with as little detail as needed to describe the shape.
-    * Do not “smooth” the objects.
+ 8. Create a base mesh for each object.
     * Focus on maintaining quads and good [edgeflow](https://www.youtube.com/watch?v=Lip59doQQRk). **See example image of a crowbar below:**  
       ![Polygon model of crowbar](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-images/maya-modeling-1.jpg)
  9. Compress the project folder once you’ve completed the tutorial and rename it **_YOURNAME-modeling-objects.zip._**
