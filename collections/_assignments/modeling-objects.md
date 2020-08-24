@@ -18,16 +18,6 @@ page_sections:
   - Perform fundamental polygonal modeling operations including extrude, merge, bridge,
     and bevel.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this six part video demonstration seres, I show how to use polygonal
-    modeling techniques to create a model of the Kem Weber Airline Chair using Blender
-    2.8.
-  video:
-  - title: Modeling the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Learning Materials
@@ -42,18 +32,6 @@ page_sections:
     youtube_url: https://www.youtube.com/watch?v=tTfIo_bezqw
     custom: ''
   links: []
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: Downloads
-  content: Download the following images and include them in your project folder.
-  links:
-  - title: '3/4 view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: " download"
-  - title: 'Side view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: " download"
-  headline: Airline Chair Reference Images
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
