@@ -46,7 +46,12 @@ page_sections:
   links: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: ''
+  title: Blender Hotkey poster
+  image-gallery: []
+  links:
+  - title: Blender Hotkey Poster
+    link_style: " download"
+    file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Downloads
