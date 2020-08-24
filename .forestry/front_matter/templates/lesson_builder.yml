@@ -21,11 +21,6 @@ fields:
   config:
     maxSize: 64
   label: lesson-image
-- name: week
-  type: text
-  config:
-    required: false
-  label: Week
 - name: enable_active_dates
   type: boolean
   label: Enable active dates
