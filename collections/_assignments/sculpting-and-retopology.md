@@ -7,9 +7,9 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice polygonal modeling fundamentals and
-    will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
-    Chair.
+  content: In this exercise, you will practice sculpting tools and workflows, as well
+    as go through the process of retopology. You will end up with two models, a high
+    resolution sculpt and a base mesh that will be ready for texturing.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -19,30 +19,25 @@ page_sections:
   - Perform fundamental polygonal modeling operations including mirror, extrude, loop
     cut, and subdivide.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this six part video demonstration seres, I show how to use polygonal
-    modeling techniques to create a model of the Kem Weber Airline Chair using Blender
-    2.8.
-  video:
-  - title: Modeling the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Learning materials - Blender Foundation Videos
-  content: To get a deeper understanding of how Blender's modeling tools work, have
-    a look at Blender foundation videos 8-15.
+  content: To get a deeper understanding of how Blender's sculpting tools work, have
+    a look at the following tutorials.
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+  - title: Blender Sculpting Workflow
+    youtube_url: https://youtu.be/L3XtAFUWNuk
+    custom: ''
+  - title: Intro to Sculpt Brushes
+    youtube_url: https://www.youtube.com/watch?v=L3XtAFUWNuk
+    custom: ''
+  - title: Retopology tutorial
+    youtube_url: https://www.youtube.com/watch?v=CuQzPDs99yM
+    custom: ''
   links: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
