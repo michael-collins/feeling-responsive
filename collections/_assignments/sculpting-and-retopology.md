@@ -14,10 +14,9 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with 3D software interface and terminology.
-  - Use modeling workflows to create high quality topology and edge flow.
-  - Perform fundamental polygonal modeling operations including mirror, extrude, loop
-    cut, and subdivide.
+  - Become familiarized with 3D sculpting tools and terminology.
+  - Use sculpting tools and workflows to create high resolution sculpt and retopology
+    workflows to create a base mesh.
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
@@ -48,18 +47,6 @@ page_sections:
     link_style: " download"
     file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
     url: https://www.giudansky.com/illustration/infographics/blender-map
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: Downloads
-  content: Download the following images and include them in your project folder.
-  links:
-  - title: '3/4 view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: " download"
-  - title: 'Side view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: " download"
-  headline: Airline Chair Reference Images
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
