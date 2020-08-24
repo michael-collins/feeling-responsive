@@ -80,8 +80,8 @@ page_sections:
     section: ''
 topics_covered:
 - modeling
-- project setup
-- edge flow
+- sculpting
+- retopology
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
