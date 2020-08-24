@@ -32,7 +32,7 @@ page_sections:
     youtube_url: https://www.youtube.com/watch?v=E79SLGdOGPw
     custom: ''
   - title: Blender Sculpting Workflow
-    youtube_url: https://youtu.be/L3XtAFUWNuk
+    youtube_url: https://www.youtube.com/watch?v=L3XtAFUWNuk
     custom: ''
   - title: Intro to Sculpt Brushes
     youtube_url: https://www.youtube.com/watch?v=L3XtAFUWNuk
