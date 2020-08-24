@@ -4,6 +4,7 @@ subtitle: An experimental 3D animated short film
 layout: project
 theme: Calling _______ Into Question
 asset-path: "/assets/exercise-downloads"
+difficulty_level: " beginner"
 published: false
 
 ---
