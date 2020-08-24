@@ -99,7 +99,7 @@ published: false
 1. Watch the tutorials related to sculpting.
 2. Create a project folder
 3. Find reference images online for your subject and save them to project folder.
-4. Use the techniques learned to create a detailed sculpt of a **real-life aquatic creature**.
+4. Use the techniques learned to create a detailed sculpt of an **aquatic sea creature**.
 5. Create a second model by retopologizing the sculpt to create a low poly base mesh.
    * You should have two models: Hi-res sculpt and a low poly base mesh model
 6. Save your blend file in a project folder **_YOURNAME-sculpting.blend_**.
