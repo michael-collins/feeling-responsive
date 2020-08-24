@@ -6,7 +6,9 @@ submission-id: texture-YOURNAME
 asset-path: "/assets/exercise-images"
 exercise: exercise-2
 project-file: "/assets/exercise-downloads/airline-chair-2-8.blend"
+difficulty_level: " beginner"
 published: false
+
 ---
 ![Chair render]({{ site.baseurl }}{{ page.asset-path }}/chair-render-compressed.jpg)
 
