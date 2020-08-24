@@ -31,7 +31,7 @@ page_sections:
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Learning materials
+  title: Learning materials - Blender Foundation Videos
   content: To get a deeper understanding of how Blender's modeling tools work, have
     a look at Blender foundation videos 8-15.
   material:
@@ -44,6 +44,9 @@ page_sections:
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
   links: []
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
+  title: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Downloads
@@ -101,8 +104,8 @@ accordion_mode: true
 ---
 ## Instructions
 
-1. Watch tutorials from Lynda on introduction to modeling.
-2. Create a folder on your computer. This will be your project folder. Save all files to this folder.
+1. Watch tutorials from Blender Foundation on youtube for an introduction to Blender's interface and modeling tools.
+2. Create a folder on your computer. **This will be your project folder.** Save all files to this folder.
 3. Follow the modeling workflow instructions to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
    * polygonal edge flow
    * extruding polygon faces
@@ -110,8 +113,8 @@ accordion_mode: true
    * moving, rotating, and scaling vertices, edges, and faces
    * mirroring and duplicating geometry
 4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**_LASTNAME_-modeling-b1.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
+5. Save the 3D scene file as '**_LASTNAME_-modeling-chair.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
    * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-b1.zip.**
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-chair.zip.**
 7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your ZIP file can be downloaded and opened.
+8. Double check that you've included all files and that your .zip file can be downloaded and opened.
