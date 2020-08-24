@@ -52,6 +52,7 @@ page_sections:
   - title: Blender Hotkey Poster
     link_style: " download"
     file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
+    url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Downloads
