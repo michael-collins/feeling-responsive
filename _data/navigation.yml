@@ -6,9 +6,9 @@
 #   url: "/lessons/"
 #   side: left
 
-- title: Lessons
-  url: "/lessons-index/"
-  side: left
+# - title: Lessons
+#   url: "/lessons-index/"
+#   side: left
 
 - title: Assignments
   url: "/assignments/"
