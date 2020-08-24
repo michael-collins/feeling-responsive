@@ -28,6 +28,9 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: Sculpting an Octopus Follow Along Tutorial
+    youtube_url: https://youtu.be/E79SLGdOGPw
+    custom: ''
   - title: Blender Sculpting Workflow
     youtube_url: https://youtu.be/L3XtAFUWNuk
     custom: ''
