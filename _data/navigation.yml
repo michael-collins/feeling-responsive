@@ -31,8 +31,8 @@
     #   url: "/software/c4d/"
     # - title: "Houdini"
     #   url: "/software/houdini/"
-    - title: "Substance Painter"
-      url: "/software/substance-painter/"
+    # - title: "Substance Painter"
+    #   url: "/software/substance-painter/"
 
 - title: Syllabus
   url: "#"
@@ -43,9 +43,9 @@
     - title: "University Park"
       url: "/syllabus/dart303-fall2020-up.html"
 
-- title: Calendar
-  url: "/calendar/"
-  side: left
+# - title: Calendar
+#   url: "/calendar/"
+#   side: left
 
 
 # - title: Grading

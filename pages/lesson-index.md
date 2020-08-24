@@ -3,8 +3,11 @@ layout: lesson-index
 title: Lessons
 breadcrumb: true
 header: false
-permalink: "/lessons/"
 enable_lessons_by_week: true
+header_image: "/uploads/abstract-001-render6.jpg"
+header:
+  image_fullwidth: "/uploads/abstract-001-render6.jpg"
+permalink: "/lessons-index/"
 weeks:
 - week_number: "1"
   lessons:
