@@ -92,6 +92,7 @@ topics_covered:
 - " object instances"
 prerequisites: []
 difficulty_level: " beginner"
+published: false
 
 ---
 1. Watch the modeling tutorials.
