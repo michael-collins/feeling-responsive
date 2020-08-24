@@ -3,10 +3,10 @@ title: Animation Project
 subtitle: An experimental 3D animated short film
 layout: project
 theme: Calling _______ Into Question
-asset-path: /assets/exercise-downloads
-published: true
----
+asset-path: "/assets/exercise-downloads"
+published: false
 
+---
 ## Description
 
 For this project, you produce an experimental animation centered around the theme, **"{{ page.theme }}"**. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
