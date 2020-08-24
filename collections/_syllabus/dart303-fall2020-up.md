@@ -31,11 +31,6 @@ course-description-link: "https://bulletins.psu.edu/search/?P=DART%20303"
 
 **Office Hours:** {{ page.office-hours}}
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/msc227/office-hours" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
-
 **E­mail:** {{ page.instructor-email}}
 
 **Class Location:** {{ page.meeting-location}}
@@ -66,16 +61,11 @@ Autodesk software is free to students: [Autodesk.com](http://www.autodesk.com/ed
 
 There is no required textbook for this course. Freely available online websites and videos will be used for technical reference and training. All supplemental texts will be provided.
 
-#### ALWAYS BACK UP YOUR WORK
+#### Digital files
 
-Keep a copy of your work files on box.psu.edu. Ensure that you have multiple copies of your data at all times AND are __saving iteratively__ (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
+Your "work" in this course is largely expressed as digital data. You should take every effort to prevent data loss. Keep a copy of your work on a cloud service like such as box.psu.edu. Ensure that you have multiple copies of your data at all times AND are __saving iteratively__ (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
 
-### Textbooks
-
-No textbooks required. Technical tutorials are provided at no cost through lynda.psu.edu. Students may optionally purchase from a variety of textbooks availble online to aid thier specific learning goals. Discuss with the instructor if this is of interest. 
-
-
-## Course Objectives
+### Course Objectives
 
 **Upon completing the course each student will have:**
 

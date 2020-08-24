@@ -15,7 +15,8 @@
   side: left
 
 - title: Software
-  url: "/software/"
+  # url: "/software/"
+  url: "#"
   side: left
   dropdown:
     - title: "Blender"
@@ -34,7 +35,7 @@
       url: "/software/substance-painter/"
 
 - title: Syllabus
-  url: "#/"
+  url: "#"
   side: left
   dropdown:
     - title: "World Campus"
@@ -45,6 +46,7 @@
 - title: Calendar
   url: "/calendar/"
   side: left
+
 
 # - title: Grading
 #   url: "/grading/"
@@ -58,6 +60,7 @@
 - title: "Office Hours"
   url: "/contact/"
   side: right
+
 
 # - title: "Templates"
 #   url: "/design/"
