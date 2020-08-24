@@ -3,10 +3,11 @@ title: NPR Realtime Rendering
 subtitle: 
 layout: exercise
 submission-id: sketchfab-4-YOURNAME
-asset-path: /assets/exercise-images
+asset-path: "/assets/exercise-images"
 exercise: exercise-4
----
+published: false
 
+---
 In this exercise, you use practice preparing 3D models for realtime rendering on the web.
 
 ## Learning Resources

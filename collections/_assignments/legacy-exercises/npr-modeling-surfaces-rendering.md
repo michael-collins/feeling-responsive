@@ -3,9 +3,10 @@ title: Non-Photorealistic Rendering
 subtitle: 
 layout: exercise
 submission-id: npr-YOURNAME
-asset-path: /assets/exercise-images
-download-path: /assets/exercise-downloads
+asset-path: "/assets/exercise-images"
+download-path: "/assets/exercise-downloads"
 exercise: exercise-4
+
 ---
 ![NPR rendering example]({{site.baseurl}}{{page.asset-path}}/npr-exercise.png)
 

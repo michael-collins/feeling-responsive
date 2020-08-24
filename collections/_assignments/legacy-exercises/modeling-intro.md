@@ -3,10 +3,11 @@ title: Modeling Introduction
 subtitle: 
 layout: exercise
 submission-id: modeling-YOURNAME
-asset-path: /assets/exercise-images
+asset-path: "/assets/exercise-images"
 exercise: exercise-1
----
+published: false
 
+---
 In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
 ## Learning Resources
@@ -91,5 +92,3 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 6. Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 7. Upload the .zip file to the assignment dropbox.
 8. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
-
-
