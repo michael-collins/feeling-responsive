@@ -1,7 +1,7 @@
 ---
 layout: lesson-index
 title: Lessons
-breadcrumb: true
+breadcrumb: false
 header: false
 enable_lessons_by_week: true
 header_image: "/uploads/abstract-001-render6.jpg"

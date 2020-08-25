@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Learning Resources
 comments: false
 asset-path: /assets/resources
+header_image: "/uploads/abstract-001-render6.jpg"
+header:
+  image_fullwidth: "/uploads/abstract-001-render6.jpg"
 ---
 ## 3D Resources
 

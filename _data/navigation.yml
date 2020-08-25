@@ -46,6 +46,12 @@
 # - title: Calendar
 #   url: "/calendar/"
 #   side: left
+- title: Resources
+  url: "/resources/"
+  side: left
+  dropdown:
+    - title: "Inspiration"
+      url: "/resources/inspiration/"
 
 
 # - title: Grading
