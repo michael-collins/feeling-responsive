@@ -7,7 +7,12 @@ header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
 ---
 
-The only way to network is to meet other people!
+Find your people!
+
+## Conference Volunteering
+
+- [SIGGRAPH SV Program](https://sv.siggraph.org/)
+- [IDGA](https://igda.org/gdc2020-2/volunteer/)
 
 
 ## Groups
