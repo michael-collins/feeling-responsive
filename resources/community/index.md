@@ -12,6 +12,8 @@ The only way to network is to meet other people!
 
 ## Groups
 
+- Penn State University Park: [Penn State Digital Media Group](https://www.facebook.com/PSUDigitalMedia/)
+- Penn State World Campus: [DMD Program Club](https://www.facebook.com/psudmdclub/)
 - [Meetup.com](https://www.meetup.com/topics/3d-animation/)
 - [3D Modeling and Animation Facebook Group](https://www.facebook.com/groups/3dmodelingandanimation/)
 - [ACM SIGGRAPH Facebook Group](https://www.facebook.com/ACMSIGGRAPH/)
