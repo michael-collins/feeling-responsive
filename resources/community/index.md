@@ -1,0 +1,30 @@
+---
+layout: page
+title: Community
+comments: false
+header_image: "/uploads/abstract-001-render6.jpg"
+header:
+  image_fullwidth: "/uploads/abstract-001-render6.jpg"
+---
+
+The only way to network is to meet other people!
+
+
+## Groups
+
+- [Meetup.com](https://www.meetup.com/topics/3d-animation/)
+- [3D Modeling and Animation Facebook Group](https://www.facebook.com/groups/3dmodelingandanimation/)
+- [ACM SIGGRAPH Facebook Group](https://www.facebook.com/ACMSIGGRAPH/)
+- [SIGGRAPH S3 Facebook Group](https://www.facebook.com/ACMSIGGRAPHS3/)
+
+## Animtion societies
+
+- [ASIFA International](https://www.facebook.com/ASIFAInternational/)
+- [ASIFA South](https://www.facebook.com/groups/asifasouth/)
+
+## Underrepresented groups
+
+- [Women in Animation:](https://www.facebook.com/wia.animation/)
+- [http://greatwomenanimators.com/](http://greatwomenanimators.com/)
+- [Black Women Animate Studios](https://www.bwastudios.com/)
+- [Trans, Non-binary Motion Graphics Artist Directory](http://www.panimation.tv/) 
