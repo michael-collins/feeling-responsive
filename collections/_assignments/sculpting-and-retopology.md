@@ -37,6 +37,9 @@ page_sections:
   - title: Intro to Sculpt Brushes
     youtube_url: https://www.youtube.com/watch?v=L3XtAFUWNuk
     custom: ''
+  - title: Retopology Using New Polybuild Tool in Blender
+    youtube_url: https://www.youtube.com/watch?v=BEwEWKOH5ws
+    custom: ''
   - title: Retopology tutorial
     youtube_url: https://www.youtube.com/watch?v=CuQzPDs99yM
     custom: ''
