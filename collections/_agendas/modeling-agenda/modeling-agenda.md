@@ -11,7 +11,7 @@ permalink: "/agenda/modeling/"
 
 1. **Video Screening**
    * [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
-   * Ed Catmull and Fred Parke: [A Computer Animated Hand](https://vimeo.com/16292363)
+   * Ed Catmull and Fred Parke (1972): [A Computer Animated Hand](https://vimeo.com/16292363)
    * [The Adventures of André & Wally B.](https://www.youtube.com/watch?v=C-L-WA-nQzI), The Graphics Group at Lucasfilm, renamed Pixar, (1984)
    * [3D Portrait](https://www.youtube.com/watch?time_continue=9&v=4GiLAOtjHNo)
 2. **Terminology**
