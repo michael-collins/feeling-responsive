@@ -20,7 +20,7 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Learning materials - Blender Foundation Videos
+  title: Sculpting and Retopology Tutorials
   content: To get a deeper understanding of how Blender's sculpting tools work, have
     a look at the following tutorials.
   material:
