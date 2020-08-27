@@ -21,6 +21,11 @@ sections:
 - type: heading
   label: Course Content
 - type: directory
+  path: collections/_agendas
+  label: Agendas
+  create: all
+  match: "**/*"
+- type: directory
   path: collections/_lectures
   label: Lectures
   create: all
