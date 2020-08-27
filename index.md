@@ -15,6 +15,14 @@ Welcome to the course website for DART 303. I will be updating the site over the
 
 ### Week 1
 
+---
+
+#### Lecture Agenda
+
+[Modeling]({{site.baseurl}}/agenda/modeling/)
+
+#### Exercises
+
 Beginner assignment: [Modeling the Airline Chair]({{site.baseurl}}/assignments/modeling-the-airline-chair.html)
 
 Intermediate Assignment: [Modeling Objects]({{site.baseurl}}/assignments/modeling-objects.html)
