@@ -4,6 +4,7 @@ title: Introduction to Modeling
 categories: agenda
 comments: false
 excerpt: Introduction to modeling.
+permalink: /agenda/modeling/
 ---
 
 ### Agenda
@@ -28,15 +29,15 @@ excerpt: Introduction to modeling.
    - Non-manifold Geometry
      - Typically causes render and rigging errors
    - [Platonic Solid](https://www.youtube.com/watch?v=C36h00d7xGs)
+   - [3D Modeling Primitives](https://docs.blender.org/manual/en/latest/modeling/meshes/primitives.html)
 4. **Modeling Demo**
-   - Comonent Editor
    - Snapping
    - Extrude
    - Bevel
    - [Subdivide](http://youtu.be/mX0NB9IyYpU?t=1m27s)
    - Quads
      - Best for rendering, deformation, and general modeling
-   - Instance vs copy
+   - Duplicate Linked (instance) vs Duplicate (copy/paste)
    - Mirror Geometry
    - Curve Tool (CV - Control Vertext, EP - Edit Points)
    - Convert Nurbs to Polygons
