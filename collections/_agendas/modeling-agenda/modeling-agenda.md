@@ -30,7 +30,8 @@ permalink: /agenda/modeling/
      - Typically causes render and rigging errors
    - [Platonic Solid](https://www.youtube.com/watch?v=C36h00d7xGs)
    - [3D Modeling Primitives](https://docs.blender.org/manual/en/latest/modeling/meshes/primitives.html)
-4. **Modeling Demo**
+4. Modeling Assignment
+5. **Modeling Demo**
    - Snapping
    - Extrude
    - Bevel
@@ -41,4 +42,4 @@ permalink: /agenda/modeling/
    - Mirror Geometry
    - Curve Tool (CV - Control Vertext, EP - Edit Points)
    - Convert Nurbs to Polygons
-5. Modeling Assignment
+
