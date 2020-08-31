@@ -1,8 +1,8 @@
 ---
 title: Texturing the Airline Chair
 layout: blocks-assignment-view
-date-assigned: 2020-08-31 04:00:00 +0000
-date-due: 2020-09-08 03:59:00 +0000
+date-assigned: 2020-08-31T04:00:00.000+00:00
+date-due: 2020-09-08T03:59:00.000+00:00
 page_sections:
 - template: assignment-description
   block: assignment-a-description
@@ -58,7 +58,7 @@ page_sections:
   links:
   - title: Airline Chair Base Model
     link_style: " download"
-    url: '/uploads/airline-chair-2-8.blend'
+    url: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Downloads
@@ -112,7 +112,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/airline-chair-texturing-header.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Instructions
