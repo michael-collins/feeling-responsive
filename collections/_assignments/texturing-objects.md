@@ -29,6 +29,9 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: 'Decals with the Shrink Wrap Modifier '
+    youtube_url: https://www.youtube.com/watch?v=htV_BhUZwcI
+    custom: ''
   - title: 'UV Unwrapping — Blender 2.80 Fundamentals '
     youtube_url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
     custom: ''
