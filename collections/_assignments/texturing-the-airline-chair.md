@@ -31,14 +31,17 @@ page_sections:
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Learning materials - Blender Foundation Videos
-  content: To get a deeper understanding of how Blender's modeling tools work, have
-    a look at Blender foundation videos 16-19.
+  content: To get a deeper understanding of how Blender's texturing tools work, have
+    a look these tutorials
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos
+  - title: Blender Beginner UV Unwrapping Tutorial
+    youtube_url: https://www.youtube.com/watch?v=XeBUfMKKZDo
+    custom: ''
+  - title: Blender Foundation 2.8 Videos (16-19)
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
