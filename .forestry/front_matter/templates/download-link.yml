@@ -14,9 +14,8 @@ fields:
   config:
     required: false
     options:
-    - "download"
-    - "internal"
-    - "hosted_file"
+    - " download"
+    - " internal"
     - new tab
     source:
       type: simple

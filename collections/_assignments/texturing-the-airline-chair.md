@@ -49,7 +49,7 @@ page_sections:
   image-gallery: []
   links:
   - title: Blender Hotkey Poster
-    link_style: "download"
+    link_style: " download"
     file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
     url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-supportingmaterial
@@ -57,19 +57,19 @@ page_sections:
   title: Airline Chair Model
   links:
   - title: Airline Chair Base Model
-    link_style: "hosted_file"
-    url: '/uploads/airline-chair-2-8.blend'
+    link_style: " download"
+    url: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Downloads
+  title: References
   content: Download the following images and include them in your project folder.
   links:
   - title: '3/4 view of Kem Weber Airline Chair '
     url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: "download"
+    link_style: " download"
   - title: 'Side view of Kem Weber Airline Chair '
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: "download"
+    link_style: " download"
   headline: Airline Chair Reference Images
 - template: assignment-rubric
   block: assignment-f-rubric
