@@ -23,7 +23,7 @@ page_sections:
   block: assignment-a-demo
   title: Demonstration Videos
   content: In this five part video demonstration seres, I show a basic texturing workflow
-    to color and detail to the Kem Weber Airline Chair using Blender 2.8.
+    to add color and detail to the Kem Weber Airline Chair using Blender 2.8.
   video:
   - title: Texturing the Airline Chair Video Playlist
     custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7499107/embed'
