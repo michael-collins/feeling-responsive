@@ -1,15 +1,15 @@
 ---
 title: Texturing the Airline Chair
 layout: blocks-assignment-view
-date-assigned: 2020-08-01T04:00:00.000+00:00
-date-due: 2020-08-08T04:00:00.000+00:00
+date-assigned: 2020-08-31 04:00:00 +0000
+date-due: 2020-09-08 03:59:00 +0000
 page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice polygonal modeling fundamentals and
-    will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
-    Chair.
+  content: In this exercise, you will practice unwrapping UVs, exporting a UV map,
+    and creating textures in 2D image editing software like Photoshop. You will then
+    apply your textures to a polygonal model of the 1927 Kem Weber Airline Chair.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -97,9 +97,9 @@ page_sections:
     url: https://psu.instructure.com/courses/2080832/assignments/12133049
     section: ''
 topics_covered:
-- modeling
-- project setup
-- edge flow
+- uvs
+- " texturing"
+- " seams"
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
