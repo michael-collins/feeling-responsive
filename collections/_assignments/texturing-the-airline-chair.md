@@ -56,7 +56,7 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Airline Chair Model
   links:
-  - title: Airline Chair Base Model
+  - title: Airline Chair Base Model Download
     link_style: hosted_file
     url: "/uploads/airline-chair-2-8.blend.zip"
 - template: assignment-referencedmaterial
