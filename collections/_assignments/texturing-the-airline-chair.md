@@ -64,6 +64,16 @@ page_sections:
     url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
+  links:
+  - title: CC0 Textures
+    url: https://cc0textures.com/
+    link_style: new tab
+  - title: Textures.com
+    link_style: new tab
+    url: https://www.textures.com/
+  title: Textures websites
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
   title: Image References
   content: Download the following images and include them in your project folder.
   links:
@@ -74,16 +84,6 @@ page_sections:
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
     link_style: " download"
   headline: Airline Chair Reference Images
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  links:
-  - title: CC0 Textures
-    url: https://cc0textures.com/
-    link_style: new tab
-  - title: Textures.com
-    link_style: new tab
-    url: https://www.textures.com/
-  title: Textures websites
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
