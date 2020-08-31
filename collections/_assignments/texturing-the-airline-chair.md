@@ -53,6 +53,8 @@ page_sections:
   - title: Airline Chair Base Model
     link_style: hosted_file
     url: "/uploads/airline-chair-2-8.blend.zip"
+  content: If you had trouble with your model's mesh, you can complete the assignment
+    by texturing this simplified model.
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
