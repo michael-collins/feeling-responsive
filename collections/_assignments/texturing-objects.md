@@ -19,15 +19,6 @@ page_sections:
   - Perform fundamental UV unwrapping operations including UV unwrap, mark seams,
     and project from view.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this five part video demonstration seres, I show a basic texturing workflow
-    to add color and detail to the Kem Weber Airline Chair using Blender 2.8.
-  video:
-  - title: Texturing the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7499107/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: UV Mapping Tutorials
@@ -38,13 +29,9 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Beginner UV Unwrapping Tutorial
-    youtube_url: https://www.youtube.com/watch?v=XeBUfMKKZDo
+  - title: Blender Guru Intermediate UV Unwrapping Tutorial
+    youtube_url: https://www.youtube.com/watch?v=scPSP_U858k
     custom: ''
-  - title: Blender Foundation 2.8 Videos (16-19)
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
   links: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
