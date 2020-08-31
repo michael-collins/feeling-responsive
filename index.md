@@ -1,13 +1,9 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: page
 header_image: "/uploads/abstract-001-render6.jpg"
 header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
+
 ---
 {%comment%}{% include assignment-schedule.md mode='table' %}{%endcomment%}
 
@@ -15,7 +11,7 @@ Welcome to the course website for DART 303. I will be updating the site over the
 
 ### Week 1
 
----
+***
 
 #### Lecture Agenda
 
@@ -28,3 +24,19 @@ Beginner assignment: [Modeling the Airline Chair]({{site.baseurl}}/assignments/m
 Intermediate Assignment: [Modeling Objects]({{site.baseurl}}/assignments/modeling-objects.html)
 
 Advanced Assignment: [Sculpting and Retopology]({{site.baseurl}}/assignments/sculpting-and-retopology.html)
+
+### Week 2
+
+***
+
+#### Lecture Agenda
+
+[Texturing]({{site.baseurl}}/agenda/texturing/)
+
+#### Exercises
+
+Beginner assignment: [Texturing the Airline Chair]({{site.baseurl}}/assignments/texturing-the-airline-chair.html)
+
+Intermediate Assignment: [Texturing Objects]({{site.baseurl}}/assignments/texturing-objects.html)
+
+Advanced Assignment: [Texturing for Sculpts]({{site.baseurl}}/assignments/texturing-for-sculpts.html)
