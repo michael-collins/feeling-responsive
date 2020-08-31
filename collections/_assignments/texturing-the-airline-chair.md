@@ -63,6 +63,7 @@ page_sections:
     link_style: new tab
     url: https://www.textures.com/
   title: Texture resources
+  content: 'Use these websites to find textures to apply to your model. '
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Image References
