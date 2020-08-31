@@ -29,8 +29,8 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Guru Intermediate UV Unwrapping Tutorial
-    youtube_url: https://www.youtube.com/watch?v=scPSP_U858k
+  - title: Blender Guru UV Unwrapping Tutorial
+    youtube_url: https://www.youtube.com/watch?v=XeBUfMKKZDo
     custom: ''
   links: []
 - template: assignment-supportingmaterial
