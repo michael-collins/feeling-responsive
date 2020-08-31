@@ -83,6 +83,7 @@ page_sections:
   - title: Textures.com
     link_style: new tab
     url: https://www.textures.com/
+  title: Textures websites
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
