@@ -15,9 +15,9 @@ page_sections:
   title: Learning Objectives
   numbered-items-list:
   - Become familiarized with 3D software interface and terminology.
-  - Use modeling workflows to create high quality topology and edge flow.
-  - Perform fundamental polygonal modeling operations including mirror, extrude, loop
-    cut, and subdivide.
+  - Use texturing workflows to add color and texture to your polygonal models.
+  - Perform fundamental UV unwrapping operations including UV unwrap, mark seams,
+    and project from view.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
