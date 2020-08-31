@@ -29,14 +29,17 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: 'UV Unwrapping — Blender 2.80 Fundamentals '
+    youtube_url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
+    custom: ''
+  - title: Unwrapping a face
+    youtube_url: https://www.youtube.com/watch?v=iKpixDzilR4
+    custom: ''
   - title: Baking Normal Maps Using a Cage
     youtube_url: https://www.youtube.com/watch?v=nJ0PM7m9TJc
     custom: ''
   - title: How to bake textures
     youtube_url: https://www.youtube.com/watch?v=2ClzsuExtCo
-    custom: ''
-  - title: 'UV Unwrapping — Blender 2.80 Fundamentals '
-    youtube_url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
     custom: ''
   - title: Blender Guru UV Unwrapping Tutorial
     youtube_url: https://www.youtube.com/watch?v=XeBUfMKKZDo
