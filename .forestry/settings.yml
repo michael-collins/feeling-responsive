@@ -9,11 +9,6 @@ sections:
 - type: document
   path: pages/lesson-index.md
   label: Lessons Index
-- type: directory
-  path: assets
-  label: Assets
-  create: all
-  match: "**/*"
 - type: heading
   label: Structure
 - type: directory
