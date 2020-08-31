@@ -112,6 +112,7 @@ published: false
 
  1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with texturing tools.
  2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
+    * If you were unable to produce a polygonal model, you can download this scene file, and use it to complete the assignment.
  3. Follow the video demonstration to create UV maps to texture the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
  4. Apply the scale transform to reset each polygonal object.
  5. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
