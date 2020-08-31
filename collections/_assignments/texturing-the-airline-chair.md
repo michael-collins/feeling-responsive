@@ -53,15 +53,6 @@ page_sections:
   - title: Airline Chair Base Model
     link_style: hosted_file
     url: "/uploads/airline-chair-2-8.blend.zip"
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Extras
-  image-gallery: []
-  links:
-  - title: Blender Hotkey Poster
-    link_style: " download"
-    file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
-    url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
@@ -84,6 +75,15 @@ page_sections:
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
     link_style: " download"
   headline: Airline Chair Reference Images
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
+  title: Extras
+  image-gallery: []
+  links:
+  - title: Blender Hotkey Poster
+    link_style: " download"
+    file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
+    url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
