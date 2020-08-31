@@ -29,7 +29,7 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: UV Mapping
+  - title: 'UV Unwrapping — Blender 2.80 Fundamentals '
     youtube_url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
     custom: ''
   - title: Blender Guru UV Unwrapping Tutorial
