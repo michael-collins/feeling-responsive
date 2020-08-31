@@ -32,7 +32,7 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Learning materials - Blender Foundation Videos
   content: To get a deeper understanding of how Blender's modeling tools work, have
-    a look at Blender foundation videos 8-15.
+    a look at Blender foundation videos 16-19.
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
