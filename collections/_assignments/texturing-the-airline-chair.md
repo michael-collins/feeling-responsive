@@ -62,7 +62,7 @@ page_sections:
   - title: Textures.com
     link_style: new tab
     url: https://www.textures.com/
-  title: Textures websites
+  title: Texture resources
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Image References
