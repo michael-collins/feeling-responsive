@@ -104,24 +104,23 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/airline-chair-header-compressed.jpg"
+  image_fullwidth: "/uploads/airline-chair-texturing-header.jpg"
 accordion_mode: true
 published: false
 
 ---
 ## Instructions
 
-1. Watch tutorials from Blender Foundation on youtube for an introduction to Blender's interface and modeling tools.
-2. Create a folder on your computer. **This will be your project folder.** Save all files to this folder.
-3. Follow the six-part video demonstration to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
-   * polygonal edge flow
-   * extruding polygon faces
-   * inserting edge loops
-   * moving, rotating, and scaling vertices, edges, and faces
-   * mirroring and duplicating geometry
-4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**_LASTNAME_-modeling-chair.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
-   * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-chair.zip.**
-7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with texturing tools.
+ 2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
+ 3. Follow the video demonstration to create UV maps to texture the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
+ 4. Apply the scale transform to reset each polygonal object.
+ 5. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
+ 6. Export a UV map for each part and save it in the project folder as **_uv-arm.jpg_**, **_uv-cushion.jpg_**_,_ etc.
+ 7. Import the UV maps into Photoshop and create textures to match the Airline Chair as closely as possible.
+ 8. Save the textures as **_arm_color.jpg_**, **_cushion1_color.jpg_**, etc. in the project folder. Name the files in an organized in a logical way.
+ 9. In Blender, set up the chair’s textures so they are visible on the model.
+10. Save the 3D scene file as **_LASTNAME_-texturing-chair** in the project folder.
+11. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-chair.zip.**
+12. Upload the .zip file to the assignment dropbox.
+13. Double check that you've included all files and that your .zip file can be downloaded and opened.
