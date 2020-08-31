@@ -7,9 +7,9 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice unwrapping UVs, exporting a UV map,
-    and creating textures in 2D image editing software like Photoshop. You will then
-    apply your textures to a polygonal model of the 1927 Kem Weber Airline Chair.
+  content: In this exercise, you will continue working on your objects. Practice unwrapping
+    UVs, exporting UV maps, and create textures in 2D image editing software like
+    Photoshop.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
