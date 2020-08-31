@@ -77,6 +77,9 @@ page_sections:
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
+  - title: CC0 Textures
+    url: https://cc0textures.com/
+    link_style: new tab
   - title: Textures.com
     link_style: new tab
     url: https://www.textures.com/
