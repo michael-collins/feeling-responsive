@@ -58,7 +58,7 @@ page_sections:
   links:
   - title: Airline Chair Base Model
     link_style: " download"
-    url: ''
+    url: '/uploads/airline-chair-2-8.blend'
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Downloads
