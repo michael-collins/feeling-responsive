@@ -128,24 +128,22 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/airline-chair-texturing-header.jpg"
+  image_fullwidth: "/uploads/texturing-objects-header.jpg"
 accordion_mode: true
 published: false
 
 ---
 ## Instructions
 
- 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with texturing tools.
+ 1. Watch the tutorials in Learning Resources.
  2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
-    * If you were unable to produce a polygonal model, you can download this scene file, and use it to complete the assignment.
- 3. Follow the video demonstration to create UV maps to texture the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
- 4. Apply the scale transform to reset each polygonal object.
- 5. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
- 6. Export a UV map for each part and save it in the project folder as **_uv-arm.jpg_**, **_uv-cushion.jpg_**_,_ etc.
- 7. Import the UV maps into Photoshop and create textures to match the Airline Chair as closely as possible.
- 8. Save the textures as **_arm_color.jpg_**, **_cushion1_color.jpg_**, etc. in the project folder. Name the files in an organized in a logical way.
- 9. In Blender, set up the chair’s textures so they are visible on the model.
-10. Save the 3D scene file as **_LASTNAME_-texturing-chair** in the project folder.
-11. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-chair.zip.**
-12. Upload the .zip file to the assignment dropbox.
-13. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 3. Apply the scale transform to reset each polygonal object.
+ 4. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
+ 5. Export a UV map for each of the three objects and save it in the project folder as **_uv-object-1.png_**, **_uv-object-2.png_**_, and **uv-object-3.png**_. If you have more than one UV map per object, use a logical naming scheme.
+ 6. Import the UV maps into Photoshop and create textures.
+ 7. Save the textures as **object1-color.png**, **object2-color.png**, and **object3-color.png**, etc. in the project folder.
+ 8. In Blender, set up the chair’s textures so they are visible on the model.
+ 9. Save the 3D scene file as **_LASTNAME_-texturing-objects** in the project folder.
+10. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-objects.zip.**
+11. Upload the .zip file to the assignment dropbox.
+12. Double check that you've included all files and that your .zip file can be downloaded and opened.
