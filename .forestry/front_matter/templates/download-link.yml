@@ -17,6 +17,7 @@ fields:
     - " download"
     - " internal"
     - new tab
+    - hosted_file
     source:
       type: simple
       section: 
