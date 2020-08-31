@@ -55,7 +55,7 @@ page_sections:
     url: "/uploads/airline-chair-2-8.blend.zip"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Blender Hotkey poster
+  title: Extras
   image-gallery: []
   links:
   - title: Blender Hotkey Poster
