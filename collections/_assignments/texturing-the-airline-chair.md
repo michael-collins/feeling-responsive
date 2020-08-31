@@ -91,9 +91,9 @@ page_sections:
   submission_item: []
   submission:
   - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133049
+    url: https://psu.instructure.com/courses/2059597/assignments/12193172
   - title: World Campus (22081--WC---WBDART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133049
+    url: https://psu.instructure.com/courses/2080832/assignments/12133050
     section: ''
 topics_covered:
 - uvs
