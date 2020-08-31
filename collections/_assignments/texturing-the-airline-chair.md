@@ -74,6 +74,12 @@ page_sections:
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
     link_style: " download"
   headline: Airline Chair Reference Images
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
+  links:
+  - title: Textures.com
+    link_style: new tab
+    url: https://www.textures.com/
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
