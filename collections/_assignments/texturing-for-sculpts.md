@@ -29,6 +29,12 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: Baking Normal Maps Using a Cage
+    youtube_url: https://www.youtube.com/watch?v=nJ0PM7m9TJc
+    custom: ''
+  - title: How to bake textures
+    youtube_url: https://www.youtube.com/watch?v=2ClzsuExtCo
+    custom: ''
   - title: 'UV Unwrapping — Blender 2.80 Fundamentals '
     youtube_url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
     custom: ''
@@ -97,7 +103,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/texturing-objects-header.jpg"
+  image_fullwidth: "/uploads/sculpt-uvs-header.jpg"
 accordion_mode: true
 published: false
 
@@ -105,14 +111,18 @@ published: false
 ## Instructions
 
  1. Watch the tutorials in Learning Resources.
- 2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
- 3. Apply the scale transform to reset each polygonal object.
- 4. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
- 5. Export a UV map for each of the three objects and save it in the project folder as **_uv-object-1.png_**, **_uv-object-2.png_**_, and **uv-object-3.png**_. If you have more than one UV map per object, use a logical naming scheme.
- 6. Import the UV maps into Photoshop and create textures.
- 7. Save the textures as **object1-color.png**, **object2-color.png**, and **object3-color.png**, etc. in the project folder.
- 8. In Blender, set up the chair’s textures so they are visible on the model.
- 9. Save the 3D scene file as **_LASTNAME_-texturing-objects** in the project folder.
-10. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-objects.zip.**
-11. Upload the .zip file to the assignment dropbox.
-12. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 2. Continue working from your model.
+ 3. Duplicate the sculpting assignment folder on your computer. **This will be your project folder.** Save all files to this folder.
+ 4. If you have not done so, retopologize the mesh.
+ 5. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
+ 6. Export a UV map and name it **_LASTNAME-uv-creature.png_**. If you have more than one UV map per object, use a logical naming scheme.
+ 7. Import the UV maps into Photoshop and create the color map.
+ 8. Create two maps: A **color map** and a **normal map**.
+ 9. Follow the **Normal Maps** and **Nodes** tutorial to connect the textures to the creature’s shader.
+10. Save your diffuse map in the project folder as **_LASTNAME-creature-color.png_**.
+11. Save your normal map in the project folder as **_LASTNAME-creature-normal.png_**.
+12. In Blender, set up the chair’s textures so they are visible on the model.
+13. Save the 3D scene file as **_LASTNAME_-texturing-objects** in the project folder.
+14. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-objects.zip.**
+15. Upload the .zip file to the assignment dropbox.
+16. Double check that you've included all files and that your .zip file can be downloaded and opened.
