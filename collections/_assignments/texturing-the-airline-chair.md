@@ -52,6 +52,13 @@ page_sections:
     link_style: " download"
     file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
     url: https://www.giudansky.com/illustration/infographics/blender-map
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
+  title: Airline Chair Model
+  links:
+  - title: Airline Chair Base Model
+    link_style: " download"
+    url: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Downloads
