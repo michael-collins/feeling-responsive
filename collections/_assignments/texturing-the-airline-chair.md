@@ -122,6 +122,8 @@ topics_covered:
 - uvs
 - " texturing"
 - " seams"
+- unwrapping
+- uv projection
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
