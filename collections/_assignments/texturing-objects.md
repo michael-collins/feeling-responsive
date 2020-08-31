@@ -36,15 +36,6 @@ page_sections:
     youtube_url: https://www.youtube.com/watch?v=XeBUfMKKZDo
     custom: ''
   links: []
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Airline Chair Model Download
-  links:
-  - title: Airline Chair Base Model
-    link_style: hosted_file
-    url: "/uploads/airline-chair-2-8.blend.zip"
-  content: If you had trouble with your model's mesh, you can complete the assignment
-    by texturing this simplified model.
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
@@ -56,18 +47,6 @@ page_sections:
     url: https://www.textures.com/
   title: Texture resources
   content: 'Use these websites to find textures to apply to your model. '
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: Image References
-  content: Download the following images and include them in your project folder.
-  links:
-  - title: '3/4 view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: " download"
-  - title: 'Side view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: " download"
-  headline: Airline Chair Reference Images
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Extras
