@@ -54,9 +54,9 @@ page_sections:
     url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Airline Chair Model
+  title: Airline Chair Model Download
   links:
-  - title: Airline Chair Base Model Download
+  - title: Airline Chair Base Model
     link_style: hosted_file
     url: "/uploads/airline-chair-2-8.blend.zip"
 - template: assignment-referencedmaterial
