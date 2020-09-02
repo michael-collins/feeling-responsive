@@ -21,14 +21,6 @@ page_sections:
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
-  headline: 'UV unwrapping: Live demo recording'
-  video:
-  - title: Simple Airline Chair UV Unwrapping in Blender
-    vimeo_url: https://vimeo.com/454111709
-  content: 'This was recorded in class over zoom and is not edited. The position of
-    the mouse was not recorded by Zoom. '
-- template: assignment-demo
-  block: assignment-a-demo
   title: Demonstration Videos
   content: In this five part video demonstration seres, I show a basic texturing workflow
     to add color and detail to the Kem Weber Airline Chair using Blender 2.8.
