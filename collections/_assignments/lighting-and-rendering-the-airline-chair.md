@@ -139,16 +139,16 @@ published: false
 ## Instructions
 
  1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with texturing tools.
- 2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
-    * If you were unable to produce a polygonal model, you can download the Airline Chair Model, and use it to complete the assignment.
- 3. Follow the video demonstration to create UV maps to texture the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
- 4. Apply the scale transform to reset each polygonal object.
- 5. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
- 6. Export a UV map for each part and save it in the project folder as **_uv-arm.jpg_**, **_uv-cushion.jpg_**_,_ etc.
- 7. Import the UV maps into Photoshop and create textures to match the Airline Chair as closely as possible.
- 8. Save the textures as **_arm_color.jpg_**, **_cushion1_color.jpg_**, etc. in the project folder. Name the files in an organized in a logical way.
- 9. In Blender, set up the chair’s textures so they are visible on the model.
-10. Save the 3D scene file as **_LASTNAME_-texturing-chair** in the project folder.
-11. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-chair.zip.**
-12. Upload the .zip file to the assignment dropbox.
-13. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 2. Duplicate the texturing folder on your computer. **This will be your project folder.** Save all files to this folder.
+ 3. Follow the video demonstrations to light and render the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
+ 4. Enable **Cycles** rendering mode.
+ 5. Add a backdrop and three point lighting setup.
+ 6. Configure your render camera with a pleasing focal length and compose your layout.
+ 7. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
+ 8. Render and import the image into Photoshop to adjust saturation, contrast, and the background if you like.
+ 9. Save the render as **_LASTNAME_-rendering-chair_.png_**, etc. in the project folder. Name the files in an organized in a logical way.
+10. Try not to include large Photoshop files in the project folder, or remove them for when you are compressing for upload.
+11. Save the 3D scene file as **_LASTNAME_-rendering-chair** in the project folder.
+12. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
+13. Upload the .zip file to the assignment dropbox.
+14. Double check that you've included all files and that your .zip file can be downloaded and opened.
