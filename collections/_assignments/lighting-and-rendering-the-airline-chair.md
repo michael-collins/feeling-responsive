@@ -7,9 +7,10 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice unwrapping UVs, exporting a UV map,
-    and creating textures in 2D image editing software like Photoshop. You will then
-    apply your textures to a polygonal model of the 1927 Kem Weber Airline Chair.
+  content: In this exercise, you will create a final render of the Kem Weber Airline
+    Chair. You will practice setting up 3-point lighting, adding cameras, creating
+    a backdrop, optionally adding additional textures to the materials, configuring
+    render settings, and doing some post-production cleanup in Photoshop.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -130,7 +131,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/airline-chair-texturing-header.jpg"
+  image_fullwidth: "/uploads/rendering-banner.jpg"
 accordion_mode: true
 published: false
 
