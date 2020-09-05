@@ -26,11 +26,9 @@ page_sections:
   content: In this five part video demonstration seres, I show a basic texturing workflow
     to add color and detail to the Kem Weber Airline Chair using Blender 2.8.
   video:
-  - title: Texturing the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7499107/embed'
+  - title: Lighting and Rendering the Airline Chair Video Playlist
+    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7520325/embed'
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
-  - title: Live demo for alternate model workflow
-    vimeo_url: https://vimeo.com/454111709
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: UV Mapping Tutorials
