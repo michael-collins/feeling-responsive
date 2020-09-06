@@ -21,22 +21,16 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: UV Mapping Tutorials
-  content: To get a deeper understanding of how Blender's texturing tools work, have
+  title: Rendering Tutorials
+  content: To get a deeper understanding of how Blender's rendering tools work, have
     a look these tutorials
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: 'UV Unwrapping — Blender 2.80 Fundamentals '
-    youtube_url: https://www.youtube.com/watch?v=Y7M-B6xnaEM
-    custom: ''
-  - title: Blender Guru UV Unwrapping Tutorial
-    youtube_url: https://www.youtube.com/watch?v=XeBUfMKKZDo
-    custom: ''
-  - title: 'Adding Decals with the Shrink Wrap Modifier '
-    youtube_url: https://www.youtube.com/watch?v=htV_BhUZwcI
+  - title: 'Blender Guru:  Rendering - Blender Beginner Tutorial'
+    youtube_url: https://www.youtube.com/watch?v=ZTxBrjN1ugA
     custom: ''
   links: []
 - template: assignment-referencedmaterial
