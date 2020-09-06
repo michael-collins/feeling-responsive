@@ -98,11 +98,12 @@ page_sections:
     url: https://psu.instructure.com/courses/2080832/assignments/12133051
     section: ''
 topics_covered:
-- uvs
-- " texturing"
-- " seams"
-- unwrapping
-- uv projection
+- rendering
+- sampling
+- " camera"
+- " focal length"
+- compositing
+- " light"
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
