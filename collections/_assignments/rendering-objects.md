@@ -7,9 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will continue working on your objects. Practice unwrapping
-    UVs, exporting UV maps, and create textures in 2D image editing software like
-    Photoshop.
+  content: In this exercise, you will continue working on your objects and create
+    a lighting and background setup for final rendering.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
