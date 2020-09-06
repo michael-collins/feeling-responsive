@@ -29,6 +29,9 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: Depth of Field
+    youtube_url: https://www.youtube.com/watch?v=61xw2Z3LTIs
+    custom: ''
   - title: Render Output Settings - Blender 2.80 Fundamentals
     youtube_url: https://www.youtube.com/watch?v=Gifto41kpJw
     custom: ''
@@ -104,10 +107,11 @@ published: false
  2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
  3. Create a 3-point lighting setup.
  4. Create a backdrop to out render each object. If you would like to reuse the backdrop, you can choose **File** → **Append**  and choose the  Blend file with the backdrop. Navigate through the folders to find the backdrop object to import bring it into the project file.
- 5. Rendering using **Cycles** and high **sample** settings.
- 6. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder.
- 7. In Blender, set up the chair’s textures so they are visible on the model.
- 8. Save the 3D scene file as **_LASTNAME_-render-objects** in the project folder.
- 9. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-render-objects.zip.**
-10. Upload the .zip file to the assignment dropbox.
-11. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 5. Create a new camera. Configure this camera as the render camera and adjust the focal length and **depth of field** settings.
+ 6. Rendering using **Cycles** and high **sample** settings.
+ 7. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder.
+ 8. In Blender, set up the chair’s textures so they are visible on the model.
+ 9. Save the 3D scene file as **_LASTNAME_-render-objects** in the project folder.
+10. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-render-objects.zip.**
+11. Upload the .zip file to the assignment dropbox.
+12. Double check that you've included all files and that your .zip file can be downloaded and opened.
