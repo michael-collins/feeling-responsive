@@ -5,6 +5,8 @@ categories: agenda
 comments: false
 published: true
 excerpt: Introduction to lighting and rendering
+permalink: "/agenda/lighting-rendering/"
+
 ---
 
 ### Agenda
@@ -15,7 +17,6 @@ excerpt: Introduction to lighting and rendering
   - [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
   - [FX Guide: "State of Rendering"](https://www.fxguide.com/fxfeatured/the-state-of-rendering/)
 3. **Terminology**
-   - 
    - **Lighting setups**
       - [3 point lighting](https://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/) (key, fill, rim)
       - Light types: Area, Spot, Directional or Sun, Point, Volumetric
@@ -43,4 +44,3 @@ excerpt: Introduction to lighting and rendering
       - [EEVEE Lighting](https://www.youtube.com/watch?v=MFNurQ1AF2I)
       - Enable render settings including: Ambient Occlusion, Depth of Field, and Screen Space Reflections
       - Shadows: Increase the shadow map to 4K
-4. **Lighting and Rendering Demo**
