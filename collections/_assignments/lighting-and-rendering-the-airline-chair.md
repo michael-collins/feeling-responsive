@@ -62,6 +62,7 @@ page_sections:
     - caption: 3D Render of Airline Chair from side
       enable_caption: true
       image_url: "/uploads/chair-render-compressed.jpg"
+    gallery_title: Example Blender Rendering
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Image References
