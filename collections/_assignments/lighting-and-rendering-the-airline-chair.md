@@ -54,6 +54,14 @@ page_sections:
     url: https://www.textures.com/
   title: Texture resources
   content: 'Use these websites to find textures to apply to your model. '
+- template: assignment-media-gallery
+  block: assignment-h-media-gallery
+  headline: Example render
+  image-gallery:
+  - image:
+    - caption: 3D Render of Airline Chair from side
+      enable_caption: true
+      image_url: "/uploads/chair-render-compressed.jpg"
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: Image References
