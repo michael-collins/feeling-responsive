@@ -15,10 +15,9 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with 3D software interface and terminology.
-  - Use texturing workflows to add color and texture to your polygonal models.
-  - Perform fundamental UV unwrapping operations including UV unwrap, mark seams,
-    and project from view.
+  - Become familiarized with the rendering process.
+  - Become familiarized with setting up and configuring lights and a backdrop.
+  - Practice color grading in Photoshop
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
