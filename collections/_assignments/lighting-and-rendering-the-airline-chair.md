@@ -132,16 +132,16 @@ published: false
 ---
 ## Instructions
 
- 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with texturing tools.
+ 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with rendering tools.
  2. Duplicate the texturing folder on your computer. **This will be your project folder.** Save all files to this folder.
  3. Follow the video demonstrations to light and render the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
  4. Enable **Cycles** rendering mode.
  5. Add a backdrop and three point lighting setup.
  6. Configure your render camera with a pleasing focal length and compose your layout.
  7. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
- 8. Render and import the image into Photoshop to adjust saturation, contrast, and the background if you like.
+ 8. Render and import the image into Photoshop to adjust saturation, contrast.
  9. Save the render as **_LASTNAME_-rendering-chair_.png_**, etc. in the project folder. Name the files in an organized in a logical way.
-10. Try not to include large Photoshop files in the project folder, or remove them for when you are compressing for upload.
+10. Remove large Photoshop files that you may have in the project folder before compressing for upload.
 11. Save the 3D scene file as **_LASTNAME_-rendering-chair** in the project folder.
 12. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
 13. Upload the .zip file to the assignment dropbox.
