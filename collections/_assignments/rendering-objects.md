@@ -96,8 +96,9 @@ topics_covered:
 - " seams"
 - unwrapping
 - uv projection
-prerequisites: []
-difficulty_level: " beginner"
+prerequisites:
+- collections/_assignments/texturing-objects.md
+difficulty_level: " intermediate"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/texturing-objects-header.jpg"
