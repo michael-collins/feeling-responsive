@@ -103,7 +103,7 @@ published: false
  1. Watch the tutorials in Learning Resources.
  2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
  3. Create a 3-point lighting setup.
- 4. Create a backdrop.
+ 4. Create a backdrop to out render each object. If you would like to reuse the backdrop, you can choose **File** → **Append**  and choose the  Blend file with the backdrop. Navigate through the folders to find the backdrop object to import bring it into the project file.
  5. Rendering using **Cycles** and high **sample** settings.
  6. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder.
  7. In Blender, set up the chair’s textures so they are visible on the model.
