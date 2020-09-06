@@ -43,15 +43,6 @@ page_sections:
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
   links: []
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Airline Chair Model Download
-  links:
-  - title: Airline Chair Base Model
-    link_style: hosted_file
-    url: "/uploads/airline-chair-2-8.blend.zip"
-  content: If you had trouble with your model's mesh, you can complete the assignment
-    by texturing this simplified model.
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
@@ -75,15 +66,6 @@ page_sections:
     url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
     link_style: " download"
   headline: Airline Chair Reference Images
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Extras
-  image-gallery: []
-  links:
-  - title: Blender Hotkey Poster
-    link_style: " download"
-    file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
-    url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
@@ -111,9 +93,9 @@ page_sections:
   submission_item: []
   submission:
   - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2059597/assignments/12193172
+    url: https://psu.instructure.com/courses/2059597/assignments/12193173
   - title: World Campus (22081--WC---WBDART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133050
+    url: https://psu.instructure.com/courses/2080832/assignments/12133051
     section: ''
 topics_covered:
 - uvs
