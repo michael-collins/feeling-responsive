@@ -90,12 +90,7 @@ page_sections:
   - title: World Campus (22081--WC---WBDART----303-------001-)
     url: https://psu.instructure.com/courses/2080832/assignments/12133050
     section: ''
-topics_covered:
-- uvs
-- " texturing"
-- " seams"
-- unwrapping
-- uv projection
+topics_covered: []
 prerequisites:
 - collections/_assignments/texturing-objects.md
 difficulty_level: " intermediate"
@@ -110,13 +105,12 @@ published: false
 
  1. Watch the tutorials in Learning Resources.
  2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
- 3. Apply the scale transform to reset each polygonal object.
- 4. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
- 5. Export a UV map for each of the three objects and save it in the project folder as **_uv-object-1.png_**, **_uv-object-2.png_**_, and **uv-object-3.png**_. If you have more than one UV map per object, use a logical naming scheme.
- 6. Import the UV maps into Photoshop and create textures.
- 7. Save the textures as **object1-color.png**, **object2-color.png**, and **object3-color.png**, etc. in the project folder.
- 8. In Blender, set up the chair’s textures so they are visible on the model.
- 9. Save the 3D scene file as **_LASTNAME_-texturing-objects** in the project folder.
-10. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-objects.zip.**
-11. Upload the .zip file to the assignment dropbox.
-12. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 3. Create a 3-point lighting setup.
+ 4. Create a backdrop.
+ 5. Rendering using **Cycles** and high **sample** settings.
+ 6. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder.
+ 7. In Blender, set up the chair’s textures so they are visible on the model.
+ 8. Save the 3D scene file as **_LASTNAME_-render-objects** in the project folder.
+ 9. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-render-objects.zip.**
+10. Upload the .zip file to the assignment dropbox.
+11. Double check that you've included all files and that your .zip file can be downloaded and opened.
