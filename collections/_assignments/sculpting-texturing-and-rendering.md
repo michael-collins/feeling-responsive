@@ -85,11 +85,12 @@ page_sections:
     url: https://psu.instructure.com/courses/2080832/assignments/12133049
     section: ''
 topics_covered:
-- modeling
-- sculpting
 - retopology
-prerequisites: []
-difficulty_level: " beginner"
+- normal map
+- " rendering"
+prerequisites:
+- collections/_assignments/sculpting-and-retopology.md
+difficulty_level: advanced
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/sculpt-header.jpg"
@@ -99,13 +100,16 @@ published: false
 ---
 ## Instructions
 
-1. Watch the tutorials related to sculpting.
-2. Create a project folder
-3. Find reference images online for your subject and save them to project folder.
-4. Use the techniques learned to create a detailed sculpt of an **aquatic sea creature**.
-5. Create a second model by retopologizing the sculpt to create a low poly base mesh.
-   * You should have two models: Hi-res sculpt and a low poly base mesh model
-6. Save your blend file in a project folder **_YOURNAME-sculpting.blend_**.
-7. Compress the folder once you’ve completed the tutorial and rename it **_YOURNAME-sculpting.zip._**
-8. Upload the .zip file to the assignment dropbox.
-9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+ 1. Continue your work from the previous exercises. You should have a hi-res sculpt and a retopologized base mesh.
+ 2. You can duplicate and subdivide the base mesh to increase its resolution.
+ 3. Add a material to the basemesh.
+ 4. Unwrap the base mesh UVs.
+ 5. Create and apply a detailed normal map from your hi-res sculpt and configure it to work on your base mesh.
+ 6. Create a **base color** texture map for the base mesh and apply it to the material's base color channel.
+ 7. Create a **roughness** texture and apply it to the material roughness channel.
+ 8. Create a 1920px by 1080px (Blender's default) Cycles render of your creature with high **sampling** (250 or higher)**.**
+ 9. Save your render to the project folder and name it **_LASTNAME-rendering.png_**
+10. Save your blend file in a project folder **_LASTNAME-rendering.blend_**.
+11. Compress the folder once you’ve completed the tutorial and rename it **_LASTNAME-rendering.zip._**
+12. Upload the .zip file to the assignment dropbox.
+13. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
