@@ -29,6 +29,9 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: Render Output Settings - Blender 2.80 Fundamentals
+    youtube_url: https://www.youtube.com/watch?v=Gifto41kpJw
+    custom: ''
   - title: 'Blender Guru:  Rendering - Blender Beginner Tutorial'
     youtube_url: https://www.youtube.com/watch?v=ZTxBrjN1ugA
     custom: ''
