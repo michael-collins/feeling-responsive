@@ -13,10 +13,11 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with 3D software interface and terminology.
-  - Use texturing workflows to add color and texture to your polygonal models.
-  - Perform fundamental UV unwrapping operations including UV unwrap, mark seams,
-    and project from view.
+  - Practice configuring render settings to create a high quality render in Blender.
+  - Practice setting up normal and specular maps to increase the realism for principled
+    rendering.
+  - Gain familiarity with adding depth of field effects to renders
+  - Understand how to set up 3-point studio lighting
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
@@ -97,7 +98,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/texturing-objects-header.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Instructions
