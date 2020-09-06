@@ -7,16 +7,16 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice sculpting tools and workflows, as well
-    as go through the process of retopology. You will end up with two models, a high
-    resolution sculpt and a base mesh that will be ready for texturing.
+  content: In this exercise, you will render your sculpted creature by configuring
+    Cycles render settings and using color, normal, and specular maps to increase
+    realism.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with 3D sculpting tools and terminology.
-  - Use sculpting tools and workflows to create high resolution sculpt and retopology
-    workflows to create a base mesh.
+  - Become familiarized rendering workflows for principled rendering
+  - Gain understanding of the impact of normal maps, specular maps, and other settings
+    for principled materials.
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
