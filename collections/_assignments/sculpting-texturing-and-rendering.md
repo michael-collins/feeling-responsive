@@ -102,8 +102,8 @@ published: false
 
  1. Continue your work from the previous exercises. You should have a hi-res sculpt and a retopologized base mesh.
  2. You can duplicate and subdivide the base mesh to increase its resolution.
- 3. Add a material to the basemesh.
- 4. Unwrap the base mesh UVs.
+ 3. Add a material to the base mesh.
+ 4. Unwrap the base mesh UVs if you have not done so already.
  5. Create and apply a detailed normal map from your hi-res sculpt and configure it to work on your base mesh.
  6. Create a **base color** texture map for the base mesh and apply it to the material's base color channel.
  7. Create a **roughness** texture and apply it to the material roughness channel.
