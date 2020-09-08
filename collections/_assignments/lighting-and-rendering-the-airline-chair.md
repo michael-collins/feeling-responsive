@@ -30,7 +30,7 @@ page_sections:
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: UV Mapping Tutorials
+  title: Blender Foundation 2.8 Tutorials
   content: To get a deeper understanding of how Blender's rendering system works,
     have a look these tutorials
   material:
