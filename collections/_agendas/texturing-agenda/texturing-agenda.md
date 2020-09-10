@@ -4,7 +4,6 @@ title: Introduction to Texturing
 categories: agenda
 comments: false
 excerpt: Introduction to texturing.
-permalink: "/agenda/texturing/"
 
 ---
 ### Agenda
@@ -17,14 +16,17 @@ permalink: "/agenda/texturing/"
    * [Classroom scene - making of](https://vimeo.com/12888604)
    * [Oblivion GFX montage](https://vimeo.com/64377100)
    * [Substance painter trailer](https://youtu.be/ZwotHwt-YWk?t=26)
-2. **Terminology**
+2. **Books**
+   * [The Language of New Media](http://manovich.net/index.php/projects/language-of-new-media) By Lev Manovich
+   * [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command) By Lev Manovich
+3. **Terminology**
    * [UV Mapping](https://en.wikipedia.org/wiki/UV_mapping)
    * Non-manifold Geometry
    * Unfolding tools
    * UV "island"
    * UV Export
-3. **Prepping mesh for UV Mapping**
+4. **Prepping mesh for UV Mapping**
    * Reset scale to 1. Use '**Apply**' in Blender.  (Translation and rotation is also sometimes needed)
    * Check mesh for problems
-4. **UV Unwrapping Tips**
+5. **UV Unwrapping Tips**
    * [UV Unwrapping - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=Y7M-B6xnaEM)
