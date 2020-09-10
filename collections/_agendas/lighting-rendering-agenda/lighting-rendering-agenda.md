@@ -13,13 +13,9 @@ permalink: "/agenda/lighting-rendering/"
    * ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
 2. **Books on New Media and Computational Aesthetics**
    * [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command) by Lev Manovich
-
-
    * [The Language of New Media](http://manovich.net/index.php/projects/language-of-new-media) by Lev Manovich
 3. **Technical Readings for 3D Rendering**
    * [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
-
-
    * [FX Guide: "State of Rendering"](https://www.fxguide.com/fxfeatured/the-state-of-rendering/)
 4. **Terminology**
    * **Lighting setups**
