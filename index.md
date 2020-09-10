@@ -49,6 +49,10 @@ Advanced Assignment: [Texturing for Sculpts]({{site.baseurl}}/assignments/textur
 
 [Lighting and Rendering]({{site.baseurl}}/agenda/lighting-rendering/)
 
+#### Video
+
+[Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
+
 #### Exercises
 
 Beginner assignment: [Lighting and Rendering the Airline Chair]({{site.baseurl}}/assignments/lighting-and-rendering-the-airline-chair.html)
