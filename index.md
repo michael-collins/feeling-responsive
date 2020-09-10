@@ -33,6 +33,10 @@ Advanced Assignment: [Sculpting and Retopology]({{site.baseurl}}/assignments/scu
 
 [Texturing]({{site.baseurl}}/agenda/texturing/)
 
+#### Video
+
+[Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
+
 #### Exercises
 
 Beginner assignment: [Texturing the Airline Chair]({{site.baseurl}}/assignments/texturing-the-airline-chair.html)
@@ -40,19 +44,3 @@ Beginner assignment: [Texturing the Airline Chair]({{site.baseurl}}/assignments/
 Intermediate Assignment: [Texturing Objects]({{site.baseurl}}/assignments/texturing-objects.html)
 
 Advanced Assignment: [Texturing for Sculpts]({{site.baseurl}}/assignments/texturing-for-sculpts.html)
-
-### Week 3
-
-***
-
-#### Lecture Agenda
-
-[Lighting and Rendering]({{site.baseurl}}/agenda/lighting-rendering/)
-
-#### Exercises
-
-Beginner assignment: [Lighting and Rendering the Airline Chair]({{site.baseurl}}/assignments/lighting-and-rendering-the-airline-chair.html)
-
-Intermediate Assignment: [Rendering Objects]({{site.baseurl}}/assignments/rendering-objects.html)
-
-Advanced Assignment: [Sculpting, Texturing, and Rendering]({{site.baseurl}}/assignments/sculpting-texturing-and-rendering.html)
