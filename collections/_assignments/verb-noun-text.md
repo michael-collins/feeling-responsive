@@ -24,7 +24,7 @@ page_sections:
   video:
   - title: The Secret of Making High-Quality Art (in Blender and Everywhere) by Gleb
       Alexandrov
-    youtube_url: https://www.youtube.com/watch?v=qMH_J_vcoqE&list=PL-V2nChTadrVGjT8mlAxGH9nOk2C2H91H&index=8&t=0s
+    youtube_url: https://www.youtube.com/watch?v=qMH_J_vcoqE
     custom: ''
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
