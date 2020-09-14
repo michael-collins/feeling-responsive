@@ -105,7 +105,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/npr-comic-banner-compressed.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Instructions
