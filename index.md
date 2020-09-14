@@ -67,7 +67,7 @@ Advanced Assignment: [Sculpting, Texturing, and Rendering]({{site.baseurl}}/assi
 
 #### Lecture Agenda
 
-[Lighting and Rendering]({{site.baseurl}}/agenda/pbr-npr-rendering/)
+[PBR and NPR Rendering]({{site.baseurl}}/agenda/pbr-npr-rendering/)
 
 
 #### Exercises
