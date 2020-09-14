@@ -27,6 +27,9 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: Adding Type
+    youtube_url: https://www.youtube.com/watch?v=Lrhwq3cxz_c
+    custom: ''
   - title: PBR and the Principled BSDF Shader
     youtube_url: https://www.youtube.com/watch?v=cvu5XYrZT6Q
     custom: ''
@@ -142,21 +145,22 @@ published: false
  1. Watch linked tutorials in learning resources.
  2. Create a new project folder.
  3. Use the [random material generator](https://perchance.org/building-material) to get a minimum of three material ideas to use in your scene. You can use these as your materials for your scene models, and can also choose additional materials that you are interested in using in your scene (IE - if you really want to use gold as a material, you can it in addition to the materials from the generator website)
- 4. Create a single letter or number by combining 3D primitives and modeling shapes. Try to avoid using Blender's type tool unless you significantly transform the type.
- 5. Inspiration:
+ 4. Add abstract shapes and primitives. You can experiment with boolean modifiers, curve tools.
+ 5. Add text using the Text tool in Blender.
+ 6. Inspiration:
     * [Behance.net](https://www.behance.net/search?search=3d%20type)
     * [36 Days of Type](https://www.instagram.com/36daysoftype/)
     * [Course Website Artist List](https://michaelcollins.xyz/3d-digital-studio-master/resources/inspiration/)
- 6. At least one of the objects must use a PBR texture pack that includes a **base color**, **normal**, **roughness**, and may also include other textures as well like **metalness** and **ambient occlusion**, and **height**. Follow tutorials to learn how to apply them to your model.
- 7. Save your material texture packs to a folder called **textures** in your project folder.
- 8. Add lights and adjust the background elements or color to enhance the composition.
- 9. Render using cycles
-10. Configure your render camera with a pleasing focal length and compose your layout.
-11. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
-12. Render and import the image into Photoshop to adjust saturation, contrast.
-13. Save the render as **_LASTNAME_-type-material.png**, etc. in the project folder. Name the files in an organized in a logical way.
-14. Remove large Photoshop files that you may have in the project folder before compressing for upload.
-15. Save the 3D scene file as **_LASTNAME_-type-material** in the project folder.
-16. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
-17. Upload the .zip file to the assignment dropbox.
-18. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 7. At least one of the objects must use a PBR texture pack that includes a **base color**, **normal**, **roughness**, and may also include other textures as well like **metalness** and **ambient occlusion**, and **height**. Follow tutorials to learn how to apply them to your model.
+ 8. Save your material texture packs to a folder called **textures** in your project folder.
+ 9. Add lights and adjust the background elements or color to enhance the composition.
+10. Render using cycles
+11. Configure your render camera with a pleasing focal length and compose your layout.
+12. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
+13. Render and import the image into Photoshop to adjust saturation, contrast.
+14. Save the render as **_LASTNAME_-type-material.png**, etc. in the project folder. Name the files in an organized in a logical way.
+15. Remove large Photoshop files that you may have in the project folder before compressing for upload.
+16. Save the 3D scene file as **_LASTNAME_-type-material** in the project folder.
+17. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
+18. Upload the .zip file to the assignment dropbox.
+19. Double check that you've included all files and that your .zip file can be downloaded and opened.
