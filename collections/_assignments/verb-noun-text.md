@@ -19,6 +19,14 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Composition Theory
+  links:
+  - url: https://www.youtube.com/watch?v=qMH_J_vcoqE&list=PL-V2nChTadrVGjT8mlAxGH9nOk2C2H91H&index=8&t=0s
+    link_style: new tab
+    title: The Secret of Making High-Quality Art (in Blender and Everywhere) by Gleb
+      Alexandrov
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Blender PBR Tutorials
   content: To get a deeper understanding of how Blender's rendering system works,
     have a look these tutorials
