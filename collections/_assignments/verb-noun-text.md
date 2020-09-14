@@ -17,15 +17,6 @@ page_sections:
   - Become familiarized with the PBR workflow.
   - Practice good composition from art and design theory.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this five part video demonstration seres, I show a basic texturing workflow
-    to add color and detail to the Kem Weber Airline Chair using Blender 2.8.
-  video:
-  - title: Lighting and Rendering the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7520325/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Foundation 2.8 Tutorials
@@ -40,7 +31,10 @@ page_sections:
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
-  links: []
+  links:
+  - title: What is a BSDF?
+    link_style: new tab
+    url: https://cgcookie.com/tutorial/what-in-the-world-is-a-bsdf-cgc-weekly-16
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
