@@ -4,6 +4,8 @@ title: Introduction to Texturing
 categories: agenda
 comments: false
 excerpt: Introduction to texturing.
+permalink: /agenda/texturing/
+published: true
 
 ---
 ### Agenda
