@@ -59,7 +59,10 @@ page_sections:
   - title: Textures.com
     link_style: new tab
     url: https://www.textures.com/
-  title: Texture resources
+  - title: PBR Material Add-on
+    url: https://3d-wolf.com/products/materials.html
+    link_style: new tab
+  title: Texture and material resources
   content: Use these websites to find textures to apply to your model.
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
