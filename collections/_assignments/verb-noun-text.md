@@ -31,6 +31,9 @@ page_sections:
     youtube_url: https://www.youtube.com/watch?v=cvu5XYrZT6Q
     custom: ''
   links:
+  - title: PBR Blender Add-on
+    url: https://3d-wolf.com/products/materials.html
+    link_style: new tab
   - title: What is a BSDF?
     link_style: new tab
     url: https://cgcookie.com/tutorial/what-in-the-world-is-a-bsdf-cgc-weekly-16
