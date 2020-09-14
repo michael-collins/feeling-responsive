@@ -32,9 +32,15 @@ page_sections:
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
   links:
+  - title: PBR and the Principled BSDF Shader
+    url: https://www.youtube.com/watch?v=cvu5XYrZT6Q
+    link_style: new tab
   - title: What is a BSDF?
     link_style: new tab
     url: https://cgcookie.com/tutorial/what-in-the-world-is-a-bsdf-cgc-weekly-16
+  - title: Index of Refraction list
+    link_style: new tab
+    url: https://pixelandpoly.com/ior.html
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
@@ -106,6 +112,7 @@ topics_covered:
 - " focal length"
 - compositing
 - " light"
+- PBR
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
