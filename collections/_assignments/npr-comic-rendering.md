@@ -7,8 +7,9 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice modeling a character in a T-pose and
-    rendering using an NPR workflow.
+  content: In this exercise, you will model an environment for your creature from
+    the previous exercises. You will also set up NPR shaders, Freestyle lines, and
+    use the compositor to achieve a comic visual style.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -107,11 +108,13 @@ published: false
 ---
 ## Instructions
 
-1. Model a polygonal character in the [T pose](https://www.animatorisland.com/the-t-pose-all-about-the-mighty-blueprint/?v=7516fd43adaa). Choose a ‘sci-fi’ theme or ‘zombie apocalypse’ theme for the character.
-2. Follow the tutorials.
-3. Create shaders, materials, and freestyle lines to create a manga or comic book visual style.
-4. Save a 1920x1080 render as **_LASTNAME_-npr-character_.png_** in the project folder.
-5. Save your file as **_LASTNAME_-npr-character.blend** in the project folder.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-npr-character_.zip._**
-7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 1. Continue using your creature from the previous exercise. Model an indoor or outdoor environment and props.
+ 2. Follow the tutorials to add NPR shaders to your creature and the environment.
+ 3. Create shaders, materials, and freestyle lines to create a manga or comic book visual style.
+ 4. Choose an interesting composition.
+ 5. Use the compositing system in Blender to use blending modes and post-effects to enhance the visual quality as seen in the tutorials.
+ 6. Save a 1920x1080 render as **_LASTNAME_-npr-creature.png** in the project folder.
+ 7. Save your file as **_LASTNAME_-npr-creature.blend** in the project folder.
+ 8. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-npr-creature.zip.**
+ 9. Upload the .zip file to the assignment dropbox.
+10. Double check that you've included all files and that your .zip file can be downloaded and opened.
