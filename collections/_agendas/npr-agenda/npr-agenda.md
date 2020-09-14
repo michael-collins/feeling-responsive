@@ -3,14 +3,13 @@ layout: page
 title: Non-photorealistic Rendering (NPR)
 categories: agenda
 comments: false
-excerpt: Techniques for NPR rendering.
+excerpt: Techniques for NPR rendering
+permalink: /agenda/npr-rendering/
 ---
 
 ### Agenda
 
-1. **Event**
-   - [Unreal Film Jam](https://www.unrealengine.com/en-US/events/unreal-film-jam)
-2. **Video Screenings and Examples**
+1. **Video Screenings and Examples**
    - [NPR Experiments](https://cgsociety.org/c/featured/yjge/npr-expreiments)
    - [Gifs](http://syntheticimagination.tumblr.com/post/181589274195/summer-daze-my-first-and-ironically-last-post)
    - [Avacado animation test](https://vimeo.com/78060303)
@@ -20,20 +19,18 @@ excerpt: Techniques for NPR rendering.
    - NPR
    - Freestyle
    - Surface shader
+     - Emission
+     - Diffuse BSDF
+     - Transparent     
    - Blender Materials
    - Nodes mode: Compositing (RenderLayers) 
    - Blender Nodes
       - Material Output
-      - Diffuse BSDF
       - geometry node
       - ColorRamp node
       - Fresnel node
       - MixRGB node
-      - ShaderToRGB node
-      - fresnel
-   - Ramp
-   - Emission
+      - ShaderTo RGB node
    - Ambient Occlusion
 3. **Resources**
   - [blendernpr.org](http://blendernpr.org/)
-5. **Demo**
