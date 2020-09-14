@@ -97,7 +97,8 @@ page_sections:
 topics_covered:
 - rendering
 - npr
-- character modeling
+- comic style
+- freestyle
 prerequisites: []
 difficulty_level: " intermediate"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
