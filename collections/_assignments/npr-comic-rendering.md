@@ -15,21 +15,22 @@ page_sections:
   title: Learning Objectives
   numbered-items-list:
   - Become familiarized with the NPR workflow.
-  - Learn the character modeling workflow
+  - Gain familiarity with compositing system in Blender.
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Character Modeling and Texturing
+  title: Texture Painting and NPR Shading Tutorials
   video:
-  - title: 'Blender Low Poly Character Creation : Modeling'
-    youtube_url: https://www.youtube.com/watch?v=qhvlVJ3MEGo
+  - title: Texture Painting in Blender and rendering for Comics
+    youtube_url: https://www.youtube.com/watch?v=vIBmH8rVoIA
     custom: ''
-  - title: 'Blender Low Poly Character Creation : Reference Images'
-    youtube_url: https://www.youtube.com/watch?v=7dA2yGeU2eQ
+  - title: Comic Shading using the Compositor in Blender
+    youtube_url: https://www.youtube.com/watch?v=anIFTskTUKI
     custom: ''
-  - title: How to texture a low poly character with Blender 2.8
-    youtube_url: https://www.youtube.com/watch?v=afjGodkdp4U
-    custom: ''
+  links:
+  - url: https://blendernpr.org/
+    link_style: new tab
+    title: BlenderNPR.org
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender NPR Tutorials
