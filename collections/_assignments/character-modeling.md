@@ -50,7 +50,7 @@ page_sections:
     url: https://pixelandpoly.com/ior.html
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Modeling with Curves and Booleans
+  title: Character Modeling and Texturing
   video:
   - title: 'Blender Low Poly Character Creation : Modeling'
     youtube_url: https://www.youtube.com/watch?v=qhvlVJ3MEGo
