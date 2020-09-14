@@ -59,6 +59,9 @@ page_sections:
   - title: Textures.com
     link_style: new tab
     url: https://www.textures.com/
+  - title: HDRI Haven
+    url: https://hdrihaven.com/hdris/
+    link_style: new tab
   - title: PBR Material Add-on
     url: https://3d-wolf.com/products/materials.html
     link_style: new tab
