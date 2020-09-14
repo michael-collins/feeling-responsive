@@ -40,6 +40,16 @@ page_sections:
   - title: Index of Refraction list
     link_style: new tab
     url: https://pixelandpoly.com/ior.html
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
+  title: Modeling with Curves and Booleans
+  video:
+  - title: Blender 2.8 Subsurf & Boolean Modifier Tutorial
+    youtube_url: https://www.youtube.com/watch?v=bUWZqiXY2lg
+    custom: ''
+  - title: Blender Make Pipes Horns Spouts with Curve Beveling Blender 2.8
+    youtube_url: https://www.youtube.com/watch?v=VtSDpIZ6DiE
+    custom: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   links:
