@@ -7,19 +7,18 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice using PBR materials, modeling, lighting,
-    and rendering. You will also use compositional theory from art and design to organize
-    elements in a 3D scene to create an image.
+  content: In this exercise, you will practice modeling a character in a T-pose and
+    rendering using an NPR workflow.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with the PBR workflow.
-  - Practice good composition from art and design theory.
+  - Become familiarized with the NPR workflow.
+  - Learn the character modeling workflow
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Blender PBR Tutorials
+  title: Blender NPR Tutorials
   content: To get a deeper understanding of how Blender's rendering system works,
     have a look these tutorials
   material:
@@ -27,11 +26,17 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Adding Type
-    youtube_url: https://www.youtube.com/watch?v=Lrhwq3cxz_c
+  - title: Texture Painting in Blender and rendering for Comics
+    youtube_url: https://www.youtube.com/watch?v=vIBmH8rVoIA
     custom: ''
-  - title: PBR and the Principled BSDF Shader
-    youtube_url: https://www.youtube.com/watch?v=cvu5XYrZT6Q
+  - title: blender 2.8 Freestyle Eevee
+    youtube_url: https://www.youtube.com/results?search_query=blender+2.8+freestyle+eevee
+    custom: ''
+  - title: NPR Blender 2.8 - Comic book/ Manga ink shader / Toon Shader
+    youtube_url: https://www.youtube.com/watch?v=19yXM13sw6A
+    custom: ''
+  - title: Blender freestyle tutorial
+    youtube_url: https://www.youtube.com/watch?v=6Tm3yQHrqbE
     custom: ''
   links:
   - title: PBR Blender Add-on
@@ -47,11 +52,14 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Modeling with Curves and Booleans
   video:
-  - title: Blender 2.8 Subsurf & Boolean Modifier Tutorial
-    youtube_url: https://www.youtube.com/watch?v=bUWZqiXY2lg
+  - title: 'Blender Low Poly Character Creation : Modeling'
+    youtube_url: https://www.youtube.com/watch?v=qhvlVJ3MEGo
     custom: ''
-  - title: Blender Make Pipes Horns Spouts with Curve Beveling Blender 2.8
-    youtube_url: https://www.youtube.com/watch?v=VtSDpIZ6DiE
+  - title: 'Blender Low Poly Character Creation : Reference Images'
+    youtube_url: https://www.youtube.com/watch?v=7dA2yGeU2eQ
+    custom: ''
+  - title: How to texture a low poly character with Blender 2.8
+    youtube_url: https://www.youtube.com/watch?v=afjGodkdp4U
     custom: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
@@ -126,32 +134,18 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/type-material-banner-compressed-1.jpg"
+  image_fullwidth: "/uploads/character-modeling-banner-compressed.jpg"
 accordion_mode: true
 published: false
 
 ---
 ## Instructions
 
- 1. Watch linked tutorials in learning resources.
- 2. Create a new project folder.
- 3. Use the [random material generator](https://perchance.org/building-material) to get a minimum of three material ideas to use in your scene. You can use these as your materials for your scene models, and can also choose additional materials that you are interested in using in your scene (IE - if you really want to use gold as a material, you can it in addition to the materials from the generator website)
- 4. Add abstract shapes and primitives. You can experiment with boolean modifiers, curve tools.
- 5. Add text using the Text tool in Blender.
- 6. Inspiration:
-    * [Behance.net](https://www.behance.net/search?search=3d%20type)
-    * [36 Days of Type](https://www.instagram.com/36daysoftype/)
-    * [Course Website Artist List](https://michaelcollins.xyz/3d-digital-studio-master/resources/inspiration/)
- 7. At least one of the objects must use a PBR texture pack that includes a **base color**, **normal**, **roughness**, and may also include other textures as well like **metalness** and **ambient occlusion**, and **height**. Follow tutorials to learn how to apply them to your model.
- 8. Save your material texture packs to a folder called **textures** in your project folder.
- 9. Add lights and adjust the background elements or color to enhance the composition.
-10. Render using cycles
-11. Configure your render camera with a pleasing focal length and compose your layout.
-12. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
-13. Render and import the image into Photoshop to adjust saturation, contrast.
-14. Save the render as **_LASTNAME_-type-material.png**, etc. in the project folder. Name the files in an organized in a logical way.
-15. Remove large Photoshop files that you may have in the project folder before compressing for upload.
-16. Save the 3D scene file as **_LASTNAME_-type-material** in the project folder.
-17. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
-18. Upload the .zip file to the assignment dropbox.
-19. Double check that you've included all files and that your .zip file can be downloaded and opened.
+1. Model a polygonal character in the [T pose](https://www.animatorisland.com/the-t-pose-all-about-the-mighty-blueprint/?v=7516fd43adaa). Choose a ‘sci-fi’ theme or ‘zombie apocalypse’ theme for the character.
+2. Follow the tutorials.
+3. Create shaders, materials, and freestyle lines to create a manga or comic book visual style.
+4. Save a 1920x1080 render as **_LASTNAME_-npr-character_.png_** in the project folder.
+5. Save your file as **_LASTNAME_-npr-character.blend** in the project folder.
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-npr-character_.zip._**
+7. Upload the .zip file to the assignment dropbox.
+8. Double check that you've included all files and that your .zip file can be downloaded and opened.
