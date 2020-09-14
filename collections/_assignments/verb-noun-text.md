@@ -70,15 +70,6 @@ page_sections:
     link_style: new tab
   title: Texture and material resources
   content: Use these websites to find textures to apply to your model.
-- template: assignment-media-gallery
-  block: assignment-h-media-gallery
-  headline: Example render
-  image-gallery:
-  - image:
-    - caption: 3D Render of Airline Chair from side
-      enable_caption: true
-      image_url: "/uploads/chair-render-compressed.jpg"
-    gallery_title: Example Blender Rendering
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   title: PBR Theory
@@ -119,9 +110,9 @@ page_sections:
   submission_item: []
   submission:
   - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2059597/assignments/12193173
+    url: https://psu.instructure.com/courses/2059597/assignments/12193174
   - title: World Campus (22081--WC---WBDART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133051
+    url: https://psu.instructure.com/courses/2080832/assignments/12133052
     section: ''
 topics_covered:
 - rendering
