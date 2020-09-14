@@ -19,7 +19,7 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Blender Foundation 2.8 Tutorials
+  title: Blender PBR Tutorials
   content: To get a deeper understanding of how Blender's rendering system works,
     have a look these tutorials
   material:
