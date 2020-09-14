@@ -27,14 +27,10 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos (16-27)
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-  links:
   - title: PBR and the Principled BSDF Shader
-    url: https://www.youtube.com/watch?v=cvu5XYrZT6Q
-    link_style: new tab
+    youtube_url: https://www.youtube.com/watch?v=cvu5XYrZT6Q
+    custom: ''
+  links:
   - title: What is a BSDF?
     link_style: new tab
     url: https://cgcookie.com/tutorial/what-in-the-world-is-a-bsdf-cgc-weekly-16
