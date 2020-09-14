@@ -55,6 +55,19 @@ page_sections:
     custom: ''
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
+  title: Inspiration
+  links:
+  - title: Behance.net
+    link_style: new tab
+    url: https://www.behance.net/search?search=3d%20type
+  - title: 36 Days of Type
+    link_style: new tab
+    url: https://www.instagram.com/36daysoftype/
+  - title: Course Website Artist List
+    url: https://michaelcollins.xyz/3d-digital-studio-master/resources/inspiration/
+    link_style: new tab
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
   links:
   - title: CC0 Textures
     url: https://cc0textures.com/
