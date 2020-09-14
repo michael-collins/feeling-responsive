@@ -94,14 +94,10 @@ page_sections:
     section: ''
 topics_covered:
 - rendering
-- sampling
-- " camera"
-- " focal length"
-- compositing
-- " light"
-- PBR
+- npr
+- character modeling
 prerequisites: []
-difficulty_level: " beginner"
+difficulty_level: " intermediate"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/character-modeling-banner-compressed.jpg"
