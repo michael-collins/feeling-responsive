@@ -1,5 +1,5 @@
 ---
-title: Verb Noun Text
+title: Type and Material
 layout: blocks-assignment-view
 date-assigned: 2020-08-31T04:00:00.000+00:00
 date-due: 2020-09-08T03:59:00.000+00:00
@@ -7,17 +7,15 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will create a final render of the Kem Weber Airline
-    Chair. You will practice setting up 3-point lighting, adding cameras, creating
-    a backdrop, optionally adding additional textures to the materials, configuring
-    render settings, and doing some post-production cleanup in Photoshop.
+  content: In this exercise, you will practice using PBR materials, modeling, lighting,
+    and rendering. You will also use compositional theory from art and design to organize
+    elements in a 3D scene to create an image.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with the rendering process.
-  - Become familiarized with setting up and configuring lights and a backdrop.
-  - Practice color grading in Photoshop
+  - Become familiarized with the PBR workflow.
+  - Practice good composition from art and design theory.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
@@ -53,7 +51,7 @@ page_sections:
     link_style: new tab
     url: https://www.textures.com/
   title: Texture resources
-  content: 'Use these websites to find textures to apply to your model. '
+  content: Use these websites to find textures to apply to your model.
 - template: assignment-media-gallery
   block: assignment-h-media-gallery
   headline: Example render
@@ -65,16 +63,17 @@ page_sections:
     gallery_title: Example Blender Rendering
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Image References
-  content: Download the following images and include them in your project folder.
+  title: PBR Theory
+  content: These guides discuss some of the physics behind the physical properties
+    of materials and how various texture maps in 3D applications can mimic these properties.
   links:
-  - title: '3/4 view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: " download"
-  - title: 'Side view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: " download"
-  headline: Airline Chair Reference Images
+  - link_style: new tab
+    url: https://academy.substance3d.com/courses/the-pbr-guide-part-1
+    title: PBR Guide Part 1
+  - title: PBR Guide Part 2
+    link_style: new tab
+    url: https://academy.substance3d.com/courses/the-pbr-guide-part-2
+  headline: PBR Guides
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
@@ -124,17 +123,24 @@ published: false
 ---
 ## Instructions
 
- 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with rendering tools.
- 2. Duplicate the texturing folder on your computer. **This will be your project folder.** Save all files to this folder.
- 3. Follow the video demonstrations to light and render the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
- 4. Enable **Cycles** rendering mode.
- 5. Add a backdrop and three point lighting setup.
- 6. Configure your render camera with a pleasing focal length and compose your layout.
- 7. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
- 8. Render and import the image into Photoshop to adjust saturation, contrast.
- 9. Save the render as **_LASTNAME_-rendering-chair_.png_**, etc. in the project folder. Name the files in an organized in a logical way.
-10. Remove large Photoshop files that you may have in the project folder before compressing for upload.
-11. Save the 3D scene file as **_LASTNAME_-rendering-chair** in the project folder.
-12. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
-13. Upload the .zip file to the assignment dropbox.
-14. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 1. Watch linked tutorials in learning resources.
+ 2. Create a new project folder.
+ 3. Use the [random material generator](https://perchance.org/building-material) to get a minimum of three material ideas to use in your scene. You can use these as your materials for your scene models, and can also choose additional materials that you are interested in using in your scene (IE - if you really want to use gold as a material, you can it in addition to the materials from the generator website)
+ 4. Create a single letter or number by combining 3D primitives and modeling shapes. Try to avoid using Blender's type tool unless you significantly transform the type.
+ 5. Inspiration:
+    * [Behance.net](https://www.behance.net/search?search=3d%20type)
+    * [36 Days of Type](https://www.instagram.com/36daysoftype/)
+    * [Course Website Artist List](https://michaelcollins.xyz/3d-digital-studio-master/resources/inspiration/)
+ 6. At least one of the objects must use a PBR texture pack that includes a **base color**, **normal**, **roughness**, and may also include other textures as well like **metalness** and **ambient occlusion**, and **height**. Follow tutorials to learn how to apply them to your model.
+ 7. Save your material texture packs to a folder called **textures** in your project folder.
+ 8. Add lights and adjust the background elements or color to enhance the composition.
+ 9. Render using cycles
+10. Configure your render camera with a pleasing focal length and compose your layout.
+11. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
+12. Render and import the image into Photoshop to adjust saturation, contrast.
+13. Save the render as **_LASTNAME_-type-material.png**, etc. in the project folder. Name the files in an organized in a logical way.
+14. Remove large Photoshop files that you may have in the project folder before compressing for upload.
+15. Save the 3D scene file as **_LASTNAME_-type-material** in the project folder.
+16. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
+17. Upload the .zip file to the assignment dropbox.
+18. Double check that you've included all files and that your .zip file can be downloaded and opened.
