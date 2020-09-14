@@ -61,36 +61,6 @@ page_sections:
   - title: How to texture a low poly character with Blender 2.8
     youtube_url: https://www.youtube.com/watch?v=afjGodkdp4U
     custom: ''
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  links:
-  - title: CC0 Textures
-    url: https://cc0textures.com/
-    link_style: new tab
-  - title: Textures.com
-    link_style: new tab
-    url: https://www.textures.com/
-  - title: HDRI Haven
-    url: https://hdrihaven.com/hdris/
-    link_style: new tab
-  - title: PBR Material Add-on
-    url: https://3d-wolf.com/products/materials.html
-    link_style: new tab
-  title: Texture and material resources
-  content: Use these websites to find textures to apply to your model.
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: PBR Theory
-  content: These guides discuss some of the physics behind the physical properties
-    of materials and how various texture maps in 3D applications can mimic these properties.
-  links:
-  - link_style: new tab
-    url: https://academy.substance3d.com/courses/the-pbr-guide-part-1
-    title: PBR Guide Part 1
-  - title: PBR Guide Part 2
-    link_style: new tab
-    url: https://academy.substance3d.com/courses/the-pbr-guide-part-2
-  headline: PBR Guides
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
