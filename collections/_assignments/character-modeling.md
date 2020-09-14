@@ -18,6 +18,19 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Character Modeling and Texturing
+  video:
+  - title: 'Blender Low Poly Character Creation : Modeling'
+    youtube_url: https://www.youtube.com/watch?v=qhvlVJ3MEGo
+    custom: ''
+  - title: 'Blender Low Poly Character Creation : Reference Images'
+    youtube_url: https://www.youtube.com/watch?v=7dA2yGeU2eQ
+    custom: ''
+  - title: How to texture a low poly character with Blender 2.8
+    youtube_url: https://www.youtube.com/watch?v=afjGodkdp4U
+    custom: ''
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Blender NPR Tutorials
   content: To get a deeper understanding of how Blender's rendering system works,
     have a look these tutorials
@@ -48,19 +61,6 @@ page_sections:
   - title: Index of Refraction list
     link_style: new tab
     url: https://pixelandpoly.com/ior.html
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Character Modeling and Texturing
-  video:
-  - title: 'Blender Low Poly Character Creation : Modeling'
-    youtube_url: https://www.youtube.com/watch?v=qhvlVJ3MEGo
-    custom: ''
-  - title: 'Blender Low Poly Character Creation : Reference Images'
-    youtube_url: https://www.youtube.com/watch?v=7dA2yGeU2eQ
-    custom: ''
-  - title: How to texture a low poly character with Blender 2.8
-    youtube_url: https://www.youtube.com/watch?v=afjGodkdp4U
-    custom: ''
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
