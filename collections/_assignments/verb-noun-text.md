@@ -56,6 +56,9 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Modeling with Curves and Booleans
   video:
+  - title: Blender 2.8. Modelling with Curves, how to make pipes
+    youtube_url: https://www.youtube.com/watch?v=F2SIbAxLftc
+    custom: ''
   - title: Blender 2.8 Subsurf & Boolean Modifier Tutorial
     youtube_url: https://www.youtube.com/watch?v=bUWZqiXY2lg
     custom: ''
