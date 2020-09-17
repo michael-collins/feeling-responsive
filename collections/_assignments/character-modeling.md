@@ -51,16 +51,7 @@ page_sections:
   - title: Blender freestyle tutorial
     youtube_url: https://www.youtube.com/watch?v=6Tm3yQHrqbE
     custom: ''
-  links:
-  - title: PBR Blender Add-on
-    url: https://3d-wolf.com/products/materials.html
-    link_style: new tab
-  - title: What is a BSDF?
-    link_style: new tab
-    url: https://cgcookie.com/tutorial/what-in-the-world-is-a-bsdf-cgc-weekly-16
-  - title: Index of Refraction list
-    link_style: new tab
-    url: https://pixelandpoly.com/ior.html
+  links: []
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
