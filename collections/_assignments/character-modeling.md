@@ -100,8 +100,8 @@ accordion_mode: true
 1. Model a polygonal character in the [T pose](https://www.animatorisland.com/the-t-pose-all-about-the-mighty-blueprint/?v=7516fd43adaa). Choose a ‘sci-fi’ theme or ‘zombie apocalypse’ theme for the character.
 2. Follow the tutorials.
 3. Create shaders, materials, and freestyle lines to create a manga or comic book visual style.
-4. Save a 1920x1080 render as **_LASTNAME_-npr-character_.png_** in the project folder.
+4. Save a 1920x1080 render as **_LASTNAME_-npr-character.png** in the project folder.
 5. Save your file as **_LASTNAME_-npr-character.blend** in the project folder.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-npr-character_.zip._**
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-npr-character.zip.**
 7. Upload the .zip file to the assignment dropbox.
 8. Double check that you've included all files and that your .zip file can be downloaded and opened.
