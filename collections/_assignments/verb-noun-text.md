@@ -176,6 +176,6 @@ accordion_mode: true
 14. Save the render as **_LASTNAME_-type-material.png**, etc. in the project folder. Name the files in an organized in a logical way.
 15. Remove large Photoshop files that you may have in the project folder before compressing for upload.
 16. Save the 3D scene file as **_LASTNAME_-type-material** in the project folder.
-17. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
+17. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-type-material.zip.**
 18. Upload the .zip file to the assignment dropbox.
 19. Double check that you've included all files and that your .zip file can be downloaded and opened.
