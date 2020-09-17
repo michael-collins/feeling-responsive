@@ -69,6 +69,13 @@ Advanced Assignment: [Sculpting, Texturing, and Rendering]({{site.baseurl}}/assi
 
 [PBR and NPR Rendering]({{site.baseurl}}/agenda/pbr-npr-rendering/)
 
+#### Video
+
+[PBR Demo Part 1](https://vimeo.com/458809958)
+
+[PBR Demo Part 2](https://vimeo.com/458831363)
+
+[Fixing Mesh Problems](https://vimeo.com/457984249)
 
 #### Exercises
 
