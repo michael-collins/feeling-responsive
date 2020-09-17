@@ -41,9 +41,6 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Texture Painting in Blender and rendering for Comics
-    youtube_url: https://www.youtube.com/watch?v=vIBmH8rVoIA
-    custom: ''
   - title: blender 2.8 Freestyle Eevee
     youtube_url: https://www.youtube.com/results?search_query=blender+2.8+freestyle+eevee
     custom: ''
@@ -53,16 +50,7 @@ page_sections:
   - title: Blender freestyle tutorial
     youtube_url: https://www.youtube.com/watch?v=6Tm3yQHrqbE
     custom: ''
-  links:
-  - title: PBR Blender Add-on
-    url: https://3d-wolf.com/products/materials.html
-    link_style: new tab
-  - title: What is a BSDF?
-    link_style: new tab
-    url: https://cgcookie.com/tutorial/what-in-the-world-is-a-bsdf-cgc-weekly-16
-  - title: Index of Refraction list
-    link_style: new tab
-    url: https://pixelandpoly.com/ior.html
+  links: []
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
