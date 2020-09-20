@@ -100,25 +100,27 @@ For this project, I would like you to imagine physical or conceptual building bl
 1. **Bounding approach:** Consider an object, system, or other thing that you are interested in.
    * Conceptually or physically identify the subject's core primitives. identify how these primitives are combined to create the end result.
    * How might these primitives be recombined in new ways, or how might the primitives be presented to viewers to help them change their understanding of your subject?
-   * What can be edited out or subtracted to convey ideas?
-   * How will you visually present your ideas?
-2. **Revealing approach:** Identify some objects that you are interested in. These could be characters, environments, vehicles, products, architecture, aspects of the environment or ecosystem, etc.
+   * What can be edited out or subtracted?
+2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, products, architecture, aspects of the environment or ecosystem, etc.
    *  What shapes, patterns, structures, materials, etc., are they made from?
    * What context or setting are these objects typically found?
-   * How can you describe and convey about the subject(s)?
    * Explore how you could recombine or juxtapose elements in unexpected ways to create something new or establish a new context.
+   * Consider using a process like photography, audio recording, sketching, scanning, 3D scanning or photogrammetry to incorporate analog process or elements.
 3. **Intervening approach:** Consider the larger picture of a particular social or cultural 'system' in which you are interested. For example, you might be interested in the justice system, the economy, etc.
-   * What are the components that construct these systems? Who or what are the system participants?
+   * What are the components that comprise these systems? How are these systems established? Who or what are the system participants?
    * How might changes to their core function or disfunction change outcomes?
    * Think of ways to visualize these ideas literally and abstractly.
-4. Activating approach: Incorporate an analog process into your project.
-   * 
+4. **Activating approach:** Participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
+   * What is the function of a 3D primitive in this context?
+   * Will you be creating objects or images?
+   * How will those who view or interact with your work
 5. Situating approach:
 
 ### Choose a format
 
 1. Poster design
 2. Magazine or book illustration
-3. 3D Prints with high quality photo documentation and accompanying renders
+3. 3D prints with high quality photo documentation and accompanying renders
+   * These can be ordered through Penn State Maker Commons or 3D printing service websites such as Sculpteo or Shapeways.
 4. Realtime display on Sketchfab.com
 5. 
