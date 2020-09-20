@@ -43,11 +43,16 @@ page_sections:
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   headline: ''
-  content: ''
+  content: Listen to this 99% Invisible Podcast episode
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
+  links:
+  - url: https://99percentinvisible.org/episode/froebels-gifts/
+    link_style: new tab
+    title: Froebels Gifts
+  title: 99 Percent Invisible
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
   headline: Kem Weber Airline Chair reference images
@@ -93,12 +98,22 @@ header:
 published: false
 
 ---
-# Instructions
-
 ## Overview
 
 **Project theme:** Primitives
 
-Primitives are starting points. These are objects that act as elements that you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives have no context and no meaning until it is instilled and it is through the manipulation and transformation of these elements that meaning and context can be constructed. Take the toy building block created by . 
+Primitives are simple starting points. These are objects that act as elements that you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (exist without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
 
-We often think of the term '_primitive'_ negatively to mean "less advanced"or "not as good." There are other ways that we could frame this term. For instance, primitives are the core building blocks upon which we concentrate complexity. In this way, primitives form the foundation upon which everything is built. In
+For this project, I would like you to imagine or define physical or conceptual building blocks and present them in a poster format.
+
+### Approaches
+
+1. **Deconstruction approach:** Consider an object, system, or other thing that you are interested in.
+   * Conceptually or physically identify the subject's core primitives. identify how these primitives are combined to create the end result.
+   * How might these primitives be recombined in new ways, or how might the primitives be presented to viewers to help them change their understanding of your subject?
+   * How will you visually present your ideas?
+2. **Formal approach:** Identify some objects that you are interested in. These could be characters, environments, vehicles, products, architecture, aspects of the environment or ecosystem, etc.
+   *  What shapes, patterns, structures, materials, etc., are they made from?
+   * What context or setting are these objects typically found?
+   * Explore how you could recombine these elements in unexpected ways.
+3. **Social systems approach:** Consider the larger picture of a particular social or cultural 'system' in which you are interested. For example, you might be interested in the justice system, the economy, housing, etc.
