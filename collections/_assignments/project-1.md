@@ -13,10 +13,12 @@ page_sections:
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
+  - Apply fundamental principles of color and composition theory.
   - Practice concept development skills
   - 'Demonstrate understanding of 3D modeling skills including many of the following:
     Lighting and camera setup, materials and shaders, UV maps and texturing, and rendering.'
   list-item: []
+  title: Learning Objectives
 - template: assignment-demo
   block: assignment-a-demo
   headline: Demonstration Videos
