@@ -7,9 +7,9 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   headline: Description
-  content: In this exercise, you will practice polygonal modeling fundamentals and
-    will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
-    Chair.
+  content: In this project, you will apply creative thinking skills to develop images
+    using 3D software tools. The project theme that should be accounted for while
+    pursuing individual content interests.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   numbered-items-list:
@@ -91,9 +91,9 @@ published: false
 
 **Project theme:** Primitives
 
-Primitives are simple starting points. These are objects that act as elements that you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (exist without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
+Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
 
-For this project, I would like you to imagine or define physical or conceptual building blocks and present them in a poster format.
+For this project, I would like you to imagine physical or conceptual building blocks.  Define, describe, and  your ideas in a poster format.
 
 ### Approaches
 
