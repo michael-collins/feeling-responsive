@@ -97,8 +97,8 @@ published: false
 
 ## Overview
 
-**Project theme:** Primitive
+**Project theme:** Primitives
 
-In art and design, primitives are starting points. They are heuristic devices that enable
+In art and design, primitives are starting points. These objects are the starting point for a larger, more complex thing. Either in the 
 
 We often think of the term '_primitive'_ negatively to mean "less advanced"or "not as good." There are other ways that we could frame this term. For instance, primitives are the core building blocks upon which we concentrate complexity. In this way, primitives form the foundation upon which everything is built. In
