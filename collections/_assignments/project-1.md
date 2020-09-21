@@ -142,7 +142,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 #### Week 2: Production begins
 
-1. Submit screenshots showing wireframes
+1. Submit screenshots showing significant progress.
 
 #### Week 3: Production continues
 
@@ -154,3 +154,16 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 1. Upload final materials
 2. Submit final work statement
 3. Participate in work critique
+
+#### Writing a work statement
+
+A work statement is a clear articulation about what you've made. This is not a journal entry, where you might feel compelled to complain about problems you've had with software, or that it didn't turn out how you wanted. Instead, imagine this is being printed in a magazine, or put on the side of a gallery. What do you want your viewers to come away with?
+
+**Include the following to create a clear work statement:**
+
+* Work title
+* What did you literally create?
+* Why did you make it?
+* What is the work about?
+* How is what you did in your work demonstrating what what you've said the work is about?
+* Were there any unexpected, interesting, or strange outcomes?
