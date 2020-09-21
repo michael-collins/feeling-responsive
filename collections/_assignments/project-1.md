@@ -91,9 +91,11 @@ published: false
 
 **Project theme:** Primitives
 
-Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
+Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed. For this project, I would like you to imagine physical or conceptual building blocks. 
 
-For this project, I would like you to imagine physical or conceptual building blocks.
+You will also critically reflect on your work and the project theme in a 150 word work statement.
+
+A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
 ### Project models (Choose one)
 
@@ -136,23 +138,30 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 #### Week 1: Concept development
 
-1. Develop concept: Sketch, label, and write ideas in sketchbook.
-2. Create Mood board: Find reference images and put them into a large canvas. Save as a single image
-3. Create a  
+What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
+
+1. Develop concept(s): Sketch, label, and write ideas in sketchbook.
+   * Upload `jpg` or `png` images of sketchbook pages
+   * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
+2. Create Mood board: Find reference images and put them into a large canvas. Save as a single image.
+   * Save as a `png` or `jpg`
+   * [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg)
 
 #### Week 2: Production begins
 
-1. Submit screenshots showing significant progress.
+1. Submit screenshots from Blender showing significant progress.
 
 #### Week 3: Production continues
 
 1. Write a work statement draft
-2. Submit screenshots showing significant progress
+2. Submit screenshots from Blender showing significant progress
 
 #### Week 4: Finish production and present work
 
 1. Upload final materials
 2. Submit final work statement
+   * MS Word .doc format
+   * 150 words minimum
 3. Participate in work critique
 
 ### Writing a work statement
@@ -170,3 +179,4 @@ A work statement is a clear articulation about what you've made. This is not a j
 * What is the work about?
 * How is what you did in your work demonstrating what what you've said the work is about?
 * Were there any unexpected, interesting, or strange outcomes?
+* Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
