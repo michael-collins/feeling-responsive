@@ -160,12 +160,13 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 Use one of the five models to develop a concept. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
 
-1. **Develop concept(s):** Sketch, label, and write ideas in sketchbook.
+1. **Concept(s):** Sketch, label, and write ideas in sketchbook.
+   * Fill 3 to 5 pages of your sketchbook with project ideas
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
-2. **Create Mood board:** Find reference images and put them into a large canvas. Save as a single image.
-   * Save as a `png` or `jpg`
-   * [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg)
+2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
+   * You can use Photoshop or [Mural.co](https://mural..co)
+   * Submit as a `png` or `jpg`
 3. **Work intent:** Describe what you will be doing
    * Include name, date, chosen project model, and project format
    * Short one sentence description of what you intend to make.
@@ -183,15 +184,17 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 
 #### Week 4: Finish production and present work
 
-1. Upload final materials
-2. Submit final work statement
-   * MS Word .doc format
-   * 150 words minimum
-3. Participate in work critique with peers
+1. Upload final materials as a `LASTNAME-project1-files.zip` file
+   1. Include final work statement
+      * MS Word .doc format
+      * 150 words minimum
+      * file name: `LASTNAME-project1-statement.doc`
+   2. Include the media you created
+2. Participate in work critique with peers
 
 #### Week 5: (Optional)
 
-1. Submit work revisions based on peer and instructor feedback. This is optional.
+1. If all work was completed and submitted on time, you may submit work revisions based on peer and instructor feedback. This is not required.
 
 ### Writing a work statement
 
