@@ -19,20 +19,10 @@ page_sections:
     Lighting and camera setup, materials and shaders, UV maps and texturing, and rendering.'
   list-item: []
   title: Learning Objectives
-- template: assignment-demo
-  block: assignment-a-demo
-  headline: Demonstration Videos
-  content: In this six part video demonstration seres, I show how to use polygonal
-    modeling techniques to create a model of the Kem Weber Airline Chair using Blender
-    2.8.
-  video:
-  - title: Modeling the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   headline: ''
-  content: Listen to this 99% Invisible Podcast episode
+  content: Listen to this 99% Invisible Podcast episode about Froebels Gifts.
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
@@ -42,26 +32,32 @@ page_sections:
     link_style: new tab
     title: Froebels Gifts
   title: 99 Percent Invisible Podcast
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  headline: Kem Weber Airline Chair reference images
-  content: <a href="https://collection.cooperhewitt.org/objects/404536651/images/"
-    title="https://collection.cooperhewitt.org/objects/404536651/images/">https://collection.cooperhewitt.org/objects/404536651/images/</a>
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
   content: ''
   rubric_criteria:
-  - criteria_title: Attention to Detail
-    criteria_description: This criteria looks at if the assignment was submitted on
-      time, if each step was completed to a high degree of accuracy, and if file naming
-      conventions were followed.
-    criteria_weight: 5 pts
-  - criteria_title: Learning by doing (Completed all steps)
-    criteria_description: This criteria assess whether you completed the assignment's
-      given set of instructions. This indirectly infers how well you acquired foundational
-      skills and theory.
-    criteria_weight: 5 pts
+  - criteria_title: Concept Development
+    criteria_description: This criterion attempts to measure your ability to respond
+      to the project theme through creative thinking processes, account for technical
+      and causal relationships through systems thinking, and show awareness of cultural
+      contexts and philosophical or ideological mappings through critical thinking.
+    criteria_weight: 35 %
+  - criteria_title: Technical mastery
+    criteria_description: This grading criterion measures your ability to quickly
+      gain and apply necessary technical understanding. Working with new digital formats,
+      following technical instructions, using digital and analog tools, and applying
+      formal elements and principles of design can all be considered aspects of technical
+      mastery. Often, learning resources outside of provided course content will need
+      to be consulted to acquire pre-requisite knowledge and skills that may be lacking.
+      Your ability to quickly and efficiently locate and absorb technical knowledge
+      is essential for success after your studies. Consult with instructor where necessary.
+    criteria_weight: 35 %
+  - criteria_title: File Submissions
+    criteria_description: This grading criteria measures your ability to use proper
+      naming conventions and formats, meet submission deadlines, and fulfill other
+      specified requirements.
+    criteria_weight: 30%
   rubric_title: Exercise Rubric
 - template: assignment-submission
   block: assignment-g-submission
