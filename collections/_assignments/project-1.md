@@ -222,8 +222,9 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 #### Week 3: Production continues
 
 1. Submit screenshots from Blender showing significant progress
-2. Meet with instructor if needed
+2. Submit a draft of your 150 word minimum work statement 
 3. Participate in peer reviews
+4. Meet with instructor if needed
 
 #### Week 4: Finish production and present work
 
