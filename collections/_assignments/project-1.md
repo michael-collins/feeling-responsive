@@ -133,9 +133,9 @@ accordion_mode: true
 
 **Project theme:** Primitives
 
-Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed. For this project, I would like you to imagine physical or conceptual building blocks.
+Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
 
-You will also critically reflect on your work and the project theme in a 150 word work statement.
+For this project, I would like you to imagine physical or conceptual building blocks. You will need to choose a project model to frame and develop your project, choose a project format that corresponds with your media interests, and follow the weekly production process. You will be asked to conduct peer reviews throughout the process and will be afforded the opportunity to submit work revisions based on feedback. You will also critically reflect on your work and the project theme in a 150 word work statement.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
@@ -204,6 +204,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 
 1. Submit screenshots from Blender showing significant progress
 2. Meet with instructor if needed
+3. Participate in peer reviews
 
 #### Week 4: Finish production and present work
 
