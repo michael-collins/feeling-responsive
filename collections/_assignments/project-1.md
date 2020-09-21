@@ -101,7 +101,7 @@ For this project, I would like you to imagine physical or conceptual building bl
    * Conceptually or physically identify the subject's core primitives. identify how these primitives are combined to create the end result.
    * How might these primitives be recombined in new ways, or how might the primitives be presented to viewers to help them change their understanding of your subject?
    * What can be edited out or subtracted?
-2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, products, architecture, aspects of the environment or ecosystem, etc.
+2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, shapes, materials, products, architecture, aspects of the environment or ecosystem, etc.
    *  What shapes, patterns, structures, materials, etc., are they made from?
    * What context or setting are these objects typically found?
    * Explore how you could recombine or juxtapose elements in unexpected ways to create something new or establish a new context.
@@ -110,17 +110,20 @@ For this project, I would like you to imagine physical or conceptual building bl
    * What are the components that comprise these systems? How are these systems established? Who or what are the system participants?
    * How might changes to their core function or disfunction change outcomes?
    * Think of ways to visualize these ideas literally and abstractly.
-4. **Activating approach:** Participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
-   * What is the function of a 3D primitive in this context?
+4. **Activating approach:** Create primitives as a means to participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
+   * What is the function of a primitive in this context?
+   * How might primitives be used as a teaching tool, or a tool or designing solutions to problems?
    * Will you be creating objects or images?
-   * How will those who view or interact with your work
-5. Situating approach:
+   * How will those who view or interact with your work?
+5. **Situating approach:** Establish a framework, story, or narrative within which your project ideas live.
+   * How might you use a curatorial process to present relationships between objects or ideas?
+   * What is the framework that helps structure your ideas?
 
 ### Choose a format
 
 1. Poster design
-2. Magazine or book illustration
+2. Magazine or book illustration format
 3. 3D prints with high quality photo documentation and accompanying renders
    * These can be ordered through Penn State Maker Commons or 3D printing service websites such as Sculpteo or Shapeways.
 4. Realtime display on Sketchfab.com
-5. 
+5. Modular game assets
