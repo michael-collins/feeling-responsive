@@ -111,6 +111,15 @@ page_sections:
       specified requirements.
     criteria_weight: 20%
   rubric_title: Project Rubric
+- template: assignment-submission
+  block: assignment-g-submission
+  submission-notes-enabled: true
+  submission_uploads_enabled: true
+  submission:
+  - title: UP (22081--UP---P-DART----303-------001-)
+    url: https://psu.instructure.com/courses/2059597/assignments/12193179
+  - title: World Campus (22081--WC---WBDART----303-------001-)
+    url: https://psu.instructure.com/courses/2080832/assignments/12133057
 topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
