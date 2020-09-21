@@ -64,7 +64,7 @@ page_sections:
   - title: Zeitguised – Sim/Stim
     url: https://vimeo.com/100894012
     link_style: new tab
-  title: Inspiration
+  title: Project Inspiration
   video:
   - title: 'MAK Design Salon 4: Meinong’s Taxonomy of Objects'
     vimeo_url: https://vimeo.com/133160620
