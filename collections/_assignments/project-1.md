@@ -119,11 +119,31 @@ For this project, I would like you to imagine physical or conceptual building bl
    * How might you use a curatorial process to present relationships between objects or ideas?
    * What is the framework that helps structure your ideas?
 
-### Choose a format
+### Format (Choose one)
 
-1. Poster design
-2. Magazine or book illustration format
-3. 3D prints with high quality photo documentation and accompanying renders
+Choose a format that you can reasonable accomplish within the timeframe of the project.
+
+1. High resolution: 3000 x 3000 image
+2. Poster design (follows a particular poster format)
+3. Magazine or book illustration
+4. 3D prints with high quality photo documentation and accompanying renders
    * These can be ordered through Penn State Maker Commons or 3D printing service websites such as Sculpteo or Shapeways.
-4. Realtime display on Sketchfab.com
-5. Modular game assets
+5. Paper-craft object
+6. Realtime display on Sketchfab.com
+7. Modular game assets
+
+### Production Process
+
+**Week 1: Concept development**
+
+1. Develop concept: Sketch, label, and write ideas.
+2. Create Mood board: Find reference images and put them into a large canvas. Save as a single image
+3. Create a  
+
+**Week 2:** Production begins
+
+**Week 3:** 
+
+**Week 4:** Finish production and present work
+
+Upload materials
