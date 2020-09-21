@@ -84,3 +84,9 @@ Beginner assignment: [Type and Material]({{site.baseurl}}/assignments/verb-noun-
 Intermediate Assignment: [Character Modeling]({{site.baseurl}}/assignments/character-modeling.html)
 
 Advanced Assignment: [NPR Comic Rendering]({{site.baseurl}}/assignments/npr-comic-rendering.html)
+
+### Week 5-8
+
+***
+
+Assignment documentation: [Project 1](/assignments/project-1.html)
