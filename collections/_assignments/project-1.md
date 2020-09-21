@@ -140,6 +140,7 @@ page_sections:
     url: https://psu.instructure.com/courses/2059597/assignments/12272930
   - title: Project 1 Final Submission
     url: https://psu.instructure.com/courses/2059597/assignments/12193179
+  content: 'Submissions only for UP section: UP (22081--UP---P-DART----303-------001-)'
 topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
