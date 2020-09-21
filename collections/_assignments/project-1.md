@@ -30,8 +30,45 @@ page_sections:
   links:
   - url: https://99percentinvisible.org/episode/froebels-gifts/
     link_style: new tab
-    title: Froebels Gifts
-  title: 99 Percent Invisible Podcast
+    title: 99% Invisible Podcast - Froebels Gifts
+  - title: Baden Pailthorpe
+    link_style: new tab
+    url: https://www.badenpailthorpe.com/asset_pack/
+  - url: https://jonmonaghan.com/work/
+    link_style: new tab
+    title: Jon Monaghan
+  - url: https://vimeo.com/user3946359
+    link_style: new tab
+    title: John Butler
+  - title: Speculative Product Design (Pinterest)
+    link_style: new tab
+    url: https://www.pinterest.com/visualbloke/speculative-design/
+  - title: Neri Oxman
+    url: https://neri.media.mit.edu/projects.html
+    link_style: new tab
+  - title: NastPlas
+    url: https://www.behance.net/drfranken
+    link_style: new tab
+  - url: https://www.maakemagazine.com/nina-sarnelle
+    link_style: new tab
+    title: The Institute for New Feeling
+  - url: https://www.behance.net/materialimmaterial/
+    link_style: new tab
+    title: Material Immaterial
+  - title: Chengtao Yi
+    url: https://www.behance.net/YiDesign
+    link_style: new tab
+  - url: https://www.behance.net/nemanjapesic
+    link_style: new tab
+    title: Nemanja Pesic
+  - title: Zeitguised – Sim/Stim
+    url: https://vimeo.com/100894012
+    link_style: new tab
+  title: Inspiration
+  video:
+  - title: 'MAK Design Salon 4: Meinong’s Taxonomy of Objects'
+    vimeo_url: https://vimeo.com/133160620
+    custom: ''
 - template: assignment-rubric
   block: assignment-f-rubric
   headline: ''
