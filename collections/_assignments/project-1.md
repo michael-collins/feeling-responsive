@@ -184,9 +184,9 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 ### Project formats (Choose one)
 
-Choose a format that you can reasonable accomplish within the timeframe of the project.
+Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
-1. High resolution: 3000 x 3000 image
+1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
 2. Poster design (follows a particular poster format)
 3. Magazine or book illustration
 4. 3D prints with high quality photo documentation and accompanying renders
