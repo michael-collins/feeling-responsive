@@ -89,4 +89,4 @@ Advanced Assignment: [NPR Comic Rendering]({{site.baseurl}}/assignments/npr-comi
 
 ***
 
-Assignment documentation: [Project 1](/assignments/project-1.html)
+Assignment documentation: [Project 1]({{site.baseurl}}/assignments/project-1.html)
