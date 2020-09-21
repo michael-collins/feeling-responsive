@@ -132,18 +132,25 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 6. Realtime display on Sketchfab.com
 7. Modular game assets
 
-### Production Process
+### Production Process (All steps required)
 
-**Week 1: Concept development**
+#### Week 1: Concept development
 
-1. Develop concept: Sketch, label, and write ideas.
+1. Develop concept: Sketch, label, and write ideas in sketchbook.
 2. Create Mood board: Find reference images and put them into a large canvas. Save as a single image
 3. Create a  
 
-**Week 2:** Production begins
+#### Week 2: Production begins
 
-**Week 3:** 
+1. Submit screenshots showing wireframes
 
-**Week 4:** Finish production and present work
+#### Week 3: Production continues
 
-Upload materials
+1. Write a work statement draft
+2. Submit screenshots showing significant progress
+
+#### Week 4: Finish production and present work
+
+1. Upload final materials
+2. Submit final work statement
+3. Participate in work critique
