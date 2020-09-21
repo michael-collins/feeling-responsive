@@ -125,6 +125,7 @@ page_sections:
   - title: Project 1 Final Submission
     url: https://psu.instructure.com/courses/2080832/assignments/12133057
   headline: 'Submissions: World Campus (22081--WC---WBDART----303-------001-)'
+  content: 'Submissions only for WC section: World Campus (22081--WC---WBDART----303-------001-)'
 - template: assignment-submission
   block: assignment-g-submission
   submission-notes-enabled: true
