@@ -44,7 +44,7 @@ page_sections:
       contexts and philosophical or ideological mappings through critical thinking.
       It also measures your ability to synthesize and articulate ideas through a work
       statement and to meet the minimum statement requirements.
-    criteria_weight: 35%
+    criteria_weight: 40%
   - criteria_title: Technical mastery
     criteria_description: This grading criterion measures your ability to quickly
       gain and apply necessary technical understanding. Working with new digital formats,
@@ -54,12 +54,12 @@ page_sections:
       to be consulted to acquire pre-requisite knowledge and skills that may be lacking.
       Your ability to quickly and efficiently locate and absorb technical knowledge
       is essential for success after your studies. Consult with instructor where necessary.
-    criteria_weight: 35%
+    criteria_weight: 40%
   - criteria_title: File Submissions
     criteria_description: This grading criteria measures your ability to use proper
       naming conventions and formats, meet submission deadlines, and fulfill other
       specified requirements.
-    criteria_weight: 30%
+    criteria_weight: 20%
   rubric_title: Exercise Rubric
 topics_covered:
 - modeling
