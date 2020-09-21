@@ -98,10 +98,7 @@ page_sections:
       specified requirements.
     criteria_weight: 20%
   rubric_title: Exercise Rubric
-topics_covered:
-- modeling
-- project setup
-- edge flow
+topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
