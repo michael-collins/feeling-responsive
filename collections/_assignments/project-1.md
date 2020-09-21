@@ -73,13 +73,15 @@ page_sections:
     url: https://vimeo.com/100894012
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Blender Hotkey poster
+  title: Concept Development Worksheet
   image-gallery: []
   links:
-  - title: Blender Hotkey Poster
+  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/art314-project-1-ideation.pdf
     link_style: " download"
-    file_download: "/uploads/blender-infographic-lowres-preview-giudansky.jpg"
-    url: https://www.giudansky.com/illustration/infographics/blender-map
+    title: Project 1 Ideation Sheet
+  content: If you are having trouble developing a concept, please use the provided
+    worksheet as a guided method for exploring potential ideas. You may need to try
+    it a few times before interesting ideas emerge.
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
