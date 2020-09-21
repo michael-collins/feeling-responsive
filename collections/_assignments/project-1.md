@@ -116,10 +116,29 @@ page_sections:
   submission-notes-enabled: true
   submission_uploads_enabled: true
   submission:
-  - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2059597/assignments/12193179
-  - title: World Campus (22081--WC---WBDART----303-------001-)
+  - title: Concept
+    url: https://psu.instructure.com/courses/2080832/assignments/12133058
+  - title: Progress 1
+    url: https://psu.instructure.com/courses/2080832/assignments/12133061
+  - title: Progress 2
+    url: https://psu.instructure.com/courses/2080832/assignments/12272632
+  - title: Project 1 Final Submission
     url: https://psu.instructure.com/courses/2080832/assignments/12133057
+  headline: 'Submissions: World Campus (22081--WC---WBDART----303-------001-)'
+- template: assignment-submission
+  block: assignment-g-submission
+  submission-notes-enabled: true
+  submission_uploads_enabled: true
+  headline: 'Submissions: UP (22081--UP---P-DART----303-------001-)'
+  submission:
+  - title: Concept
+    url: https://psu.instructure.com/courses/2059597/assignments/12193180
+  - title: Progress 1
+    url: https://psu.instructure.com/courses/2059597/assignments/12193183
+  - title: Progress 2
+    url: https://psu.instructure.com/courses/2059597/assignments/12272930
+  - title: Project 1 Final Submission
+    url: https://psu.instructure.com/courses/2059597/assignments/12193179
 topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
