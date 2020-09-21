@@ -95,7 +95,7 @@ Primitives are simple starting points. These are objects that act as elements wi
 
 For this project, I would like you to imagine physical or conceptual building blocks.
 
-### Approaches (Choose one)
+### Project models (Choose one)
 
 1. **Bounding approach:** Consider an object, system, or other thing that you are interested in.
    * Conceptually or physically identify the subject's core primitives. identify how these primitives are combined to create the end result.
@@ -155,14 +155,17 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 2. Submit final work statement
 3. Participate in work critique
 
-#### Writing a work statement
+### Writing a work statement
 
 A work statement is a clear articulation about what you've made. This is not a journal entry, where you might feel compelled to complain about problems you've had with software, or that it didn't turn out how you wanted. Instead, imagine this is being printed in a magazine, or put on the side of a gallery. What do you want your viewers to come away with?
 
 **Include the following to create a clear work statement:**
 
-* Work title
+* The name of your work
+* Which of the five project models you used
+  * IE - "For this project, I used the "bounding" model."
 * What did you literally create?
+  * IE - "I created images that depict ..."
 * Why did you make it?
 * What is the work about?
 * How is what you did in your work demonstrating what what you've said the work is about?
