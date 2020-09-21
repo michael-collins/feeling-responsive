@@ -193,6 +193,10 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * 150 words minimum
 3. Participate in work critique with peers
 
+#### Week 5: (Optional)
+
+1. Submit work revisions based on peer and instructor feedback. This is optional.
+
 ### Writing a work statement
 
 A work statement is a clear articulation about what you've made. This is not a journal entry, where you might feel compelled to complain about problems you've had with software, or that it didn't turn out how you wanted. Instead, imagine this is being printed in a magazine, or put on the side of a gallery. What do you want your viewers to come away with?
@@ -203,7 +207,7 @@ A work statement is a clear articulation about what you've made. This is not a j
 2. Title of your work
 3. Which of the five project models you used
    * IE - "For this project, I used the "bounding" model."
-4. What did you literally create?
+4. What did you create?
    * IE - "I created images that depict ..."
 5. Why did you make it?
    * IE - "I created this work because I am interested in exploring ..."
@@ -213,3 +217,7 @@ A work statement is a clear articulation about what you've made. This is not a j
    * IE - "You can see an example of this in the work where I have used ... to reference ..."
 8. Were there any unexpected, interesting, or strange outcomes?
 9. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+
+### Constraints
+
+All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset.
