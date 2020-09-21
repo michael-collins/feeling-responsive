@@ -121,7 +121,7 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
    * How might you use a curatorial process to present relationships between objects or ideas?
    * What is the framework that helps structure your ideas?
 
-### Format (Choose one)
+### Project formats (Choose one)
 
 Choose a format that you can reasonable accomplish within the timeframe of the project.
 
@@ -138,23 +138,28 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 #### Week 1: Concept development
 
-What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
+Use one of the five models to develop a concept. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
 
-1. Develop concept(s): Sketch, label, and write ideas in sketchbook.
+1. **Develop concept(s):** Sketch, label, and write ideas in sketchbook.
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
-2. Create Mood board: Find reference images and put them into a large canvas. Save as a single image.
+2. **Create Mood board:** Find reference images and put them into a large canvas. Save as a single image.
    * Save as a `png` or `jpg`
    * [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg)
+3. **Work intent:** Describe what you will be doing
+   * Include name, date, chosen project model, and project format
+   * Short one sentence description of what you intend to make.
+   * Upload this in an MS Word `doc` format
 
 #### Week 2: Production begins
 
 1. Submit screenshots from Blender showing significant progress.
+2. Meet with instructor if needed
 
 #### Week 3: Production continues
 
-1. Write a work statement draft
-2. Submit screenshots from Blender showing significant progress
+1. Submit screenshots from Blender showing significant progress
+2. Meet with instructor if needed
 
 #### Week 4: Finish production and present work
 
@@ -162,7 +167,7 @@ What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w
 2. Submit final work statement
    * MS Word .doc format
    * 150 words minimum
-3. Participate in work critique
+3. Participate in work critique with peers
 
 ### Writing a work statement
 
@@ -170,13 +175,17 @@ A work statement is a clear articulation about what you've made. This is not a j
 
 **Include the following to create a clear work statement:**
 
-* The name of your work
-* Which of the five project models you used
-  * IE - "For this project, I used the "bounding" model."
-* What did you literally create?
-  * IE - "I created images that depict ..."
-* Why did you make it?
-* What is the work about?
-* How is what you did in your work demonstrating what what you've said the work is about?
-* Were there any unexpected, interesting, or strange outcomes?
-* Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+1. Your name and date
+2. Title of your work
+3. Which of the five project models you used
+   * IE - "For this project, I used the "bounding" model."
+4. What did you literally create?
+   * IE - "I created images that depict ..."
+5. Why did you make it?
+   * IE - "I created this work because I am interested in exploring ..."
+6. What is the work about?
+   * IE - "This work is primarily focused on ..."
+7. How is what you did in your work demonstrating what what you've said the work is about?
+   * IE - "You can see an example of this in the work where I have used ... to reference ..."
+8. Were there any unexpected, interesting, or strange outcomes?
+9. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
