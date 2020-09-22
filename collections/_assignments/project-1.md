@@ -163,7 +163,7 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 ### Project models (Choose one)
 
 1. **Bounding approach:** Consider an object, system, or other thing that you are interested in.
-   * Conceptually or physically identify the subject's core primitives. identify how these primitives are combined to create the end result.
+   * Conceptually or physically identify the subject's core primitives. Identify how these primitives are combined to create the end result.
    * How might these primitives be recombined in new ways, or how might the primitives be presented to viewers to help them change their understanding of your subject?
    * What can be edited out or subtracted?
 2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, shapes, materials, products, architecture, aspects of the environment or ecosystem, etc.
@@ -208,8 +208,9 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
    * If you used the concept development worksheet linked in the assignment, you may submit scans or well cropped photos of the concept development worksheet page.
+   * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests! 
 2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
-   * You can use Photoshop or [Mural.co](https://mural..co)
+   * You can use Photoshop or [Mural.co](https://www.mural.co/)
    * Submit as a `png` or `jpg`
 3. **Work intent:** Describe what you will be doing
    * Include name, date, chosen project model, and project format
@@ -224,7 +225,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 #### Week 3: Production continues
 
 1. Submit screenshots from Blender showing significant progress
-2. Submit a draft of your 150 word minimum work statement 
+2. Submit a draft of your 150 word minimum work statement
 3. Participate in peer reviews
 4. Meet with instructor if needed
 
