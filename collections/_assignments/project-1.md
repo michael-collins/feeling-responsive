@@ -269,4 +269,10 @@ A work statement is a clear articulation about what you've made. This is not a j
 
 ### Constraints
 
-All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset.
+All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset. For example, you can use a texture pack you downloaded from a texture website, however, if you render an image of just a flat plane with the texture applied, this is not really creative transformation since the entirety of the image is work from someone else. Your transformation and contextualization is what's important. A render with a background that uses an image from Google image search (please don't do this) that comprises more than 50% of the work is also not really enough creative transformation. If someone reviews your work and says that the image's background is their favorite part of the image, you'll have to then explain how you didn't make the background, which is not a great situation to be in.
+
+### Frequently asked questions
+
+**Q: Do I have to use only 3D primitives in making this project?**
+
+**A:** No, you can interpret the project theme however you like. You could of course take a literal approach and use only primitives that are available in 3D software, but it may be more interesting to use a more conceptual approach and use complex models and materials that are conceptually something you've defined as a "primitive" for something else. Be sure to talk about this in your work statement.
