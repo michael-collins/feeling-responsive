@@ -204,7 +204,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 Use one of the five models to develop a concept. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
 
 1. **Concept(s):** Sketch, label, and write ideas in sketchbook.
-   * Fill 3 to 5 pages of your sketchbook with project ideas
+   * Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
    * If you used the concept development worksheet linked in the assignment, you may submit scans or well cropped photos of the concept development worksheet page.
