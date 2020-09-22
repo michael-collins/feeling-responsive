@@ -84,7 +84,7 @@ page_sections:
     it a few times before interesting ideas emerge.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Tutorials for media types
+  title: Tutorials for project format types
   video:
   - title: Modular level or environment design
     youtube_url: https://www.youtube.com/watch?v=SgEbUgA7jVo
