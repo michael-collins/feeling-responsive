@@ -86,7 +86,10 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Tutorials for project format types
   video:
-  - title: Modular level or environment design
+  - title: Rendering 3D for Illustration
+    youtube_url: https://www.youtube.com/watch?v=5tJWH58bIpI
+    custom: ''
+  - title: Modular game level or environment design
     youtube_url: https://www.youtube.com/watch?v=SgEbUgA7jVo
     custom: ''
   - title: SketchFab Tutorial
@@ -95,9 +98,18 @@ page_sections:
   - title: Papercraft
     youtube_url: https://www.youtube.com/watch?v=klran7MH5Yw
     custom: ''
-  content: I've linked to some tutorials for some of the media types. You'll need
-    to do your own research and technical investigations to learn how to do other
+  - title: 3D Printing
+    youtube_url: https://www.youtube.com/watch?v=-y5r2mTlUWA
+    custom: ''
+  content: Please explore the Blender Resources Page to explore what it possible in
+    Blender (and has tutorials to support your training). I've also posted links to
+    some tutorials for other media types like 3D printing and paper craft. You'll
+    need to do your own research and technical investigations to learn how to do other
     things that you are interested in, but aren't covered in the course materials.
+  links:
+  - title: Blender Learning Resources Page
+    link_style: new tab
+    url: https://michaelcollins.xyz/3d-digital-studio-master/software/blender/
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
