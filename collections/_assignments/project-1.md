@@ -82,6 +82,22 @@ page_sections:
   content: If you are having trouble developing a concept, please use the provided
     worksheet as a guided method for exploring potential ideas. You may need to try
     it a few times before interesting ideas emerge.
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
+  title: Tutorials for media types
+  video:
+  - title: Modular level or environment design
+    youtube_url: https://www.youtube.com/watch?v=SgEbUgA7jVo
+    custom: ''
+  - title: SketchFab Tutorial
+    youtube_url: https://www.youtube.com/watch?v=HmjBi4v_Whc
+    custom: ''
+  - title: Papercraft
+    youtube_url: https://www.youtube.com/watch?v=klran7MH5Yw
+    custom: ''
+  content: I've linked to some tutorials for some of the media types. You'll need
+    to do your own research and technical investigations to learn how to do other
+    things that you are interested in, but aren't covered in the course materials.
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
