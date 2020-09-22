@@ -235,7 +235,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
-   * If you used the concept development worksheet linked in the assignment, you may submit scans or well cropped photos of the concept development worksheet page.
+   * If you used the concept development worksheet linked in the assignment, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
    * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests! 
 2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
    * You can use Photoshop or [Mural.co](https://www.mural.co/)
