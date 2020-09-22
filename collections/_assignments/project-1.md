@@ -86,7 +86,7 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Tutorials for project format types
   video:
-  - title: Rendering 3D for Illustration
+  - title: 3D Rendering for Illustration
     youtube_url: https://www.youtube.com/watch?v=5tJWH58bIpI
     custom: ''
   - title: Modular game level or environment design
