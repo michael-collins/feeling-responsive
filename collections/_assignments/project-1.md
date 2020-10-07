@@ -236,7 +236,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
    * **If you used the concept development worksheet** linked in the assignment rather than a sketchbook, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
-   * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests! 
+   * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
 2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
    * You can use Photoshop or [Mural.co](https://www.mural.co/)
    * Submit as a `png` or `jpg`
@@ -277,6 +277,12 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 ### Writing a work statement
 
 A work statement is a clear articulation about what you've made. This is not a journal entry, where you might feel compelled to complain about problems you've had with software, or that it didn't turn out how you wanted. Instead, imagine this is being printed in a magazine, or put on the side of a gallery. What do you want your viewers to come away with?
+
+**Example projects with work and artist statements:**
+
+* [geist.xyz](https://vimeo.com/150824660) by Zeitguised
+* [Mushtari](https://neri.media.mit.edu/projects/details/mushtari.html) by Neri Oxman
+* [Institute for New Feeling](https://www.maakemagazine.com/nina-sarnelle) by Nina Sarnelle
 
 **Include the following to create a clear work statement:**
 
