@@ -107,6 +107,9 @@ page_sections:
     need to do your own research and technical investigations to learn how to do other
     things that you are interested in, but aren't covered in the course materials.
   links:
+  - title: p3d.in (A Sketchfab.com Alternative)
+    link_style: new tab
+    url: https://p3d.in/b
   - title: Blender Learning Resources Page
     link_style: new tab
     url: https://michaelcollins.xyz/3d-digital-studio-master/software/blender/
