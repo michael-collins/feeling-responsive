@@ -225,7 +225,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 4. 3D prints with high quality photo documentation and accompanying renders
    * These can be ordered through Penn State Maker Commons or 3D printing service websites such as Sculpteo or Shapeways.
 5. Paper-craft object
-6. Realtime display on Sketchfab.com
+6. Realtime display on Sketchfab.com or p3d.in websites.
 7. Modular game assets
 
 ### Production Process (All steps required)
