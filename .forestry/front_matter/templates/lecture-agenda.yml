@@ -1,0 +1,22 @@
+---
+label: lecture-agenda
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: categories
+  label: categories
+- type: boolean
+  name: comments
+  label: comments
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: permalink
+  label: permalink
