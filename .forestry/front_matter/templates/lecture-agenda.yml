@@ -20,3 +20,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- collections/_agendas/animation-agenda/animation-agenda.md

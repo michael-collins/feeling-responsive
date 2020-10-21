@@ -4,6 +4,7 @@ title: Introduction to Animation
 categories: agenda
 comments: false
 excerpt: Introduction to animation in Blender.
+permalink: "/agenda/animation/"
 published: false
 
 ---
