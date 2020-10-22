@@ -7,8 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, level 1 students will practice keyframe animation, parenting,
-    animating the camera with a target, and manipulating curves in the graph editor.
+  content: In this exercise, students will practice animation techniques by recreating
+    creatures from the classic technical demo, Evolved Virtual Creatures by Karl Sims.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -17,11 +17,13 @@ page_sections:
   - Practice keyframe animation of translation, rotation, and scale properties.
   - Practice applying camera effects.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this video demonstration, I show a basic keyframe animation workflow.
-  video: []
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
+  video:
+  - title: 'Evolved Virtual Creatures '
+    youtube_url: https://www.youtube.com/watch?v=JBgG_VSP7f8
+    custom: ''
+  title: Inspiration
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
@@ -97,14 +99,13 @@ published: false
 ## Instructions
 
 1. Watch the animation tutorials.
-2. Create an animated scene inspired by [Tetris](https://www.youtube.com/watch?v=qIAAmaS9n0Q). It must include the following:
-   * At least 8 moving pieces
+2. Create a creature animation using only primitives inspired by [Evolved Virtual Creatures](https://www.youtube.com/watch?v=JBgG_VSP7f8). It must include the following:
+   * At least 2 creatures with at least 3 moving pieces appendages
    * Camera movement
    * Easing applied to keyframes of moving objects (non-linear tangents in graph editor)
-   * Camera shake
    * At least 10 seconds of animation at 24 frames per second (240 frames)
 3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
-4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Test that the animation file was created.
-5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-tetris.zip.**
+4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
+5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-creatures.zip.**
 6. Upload the .zip file to the assignment dropbox.
 7. Double check that you've included all files and that your .zip file can be downloaded and opened.
