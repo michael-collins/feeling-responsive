@@ -7,17 +7,15 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will create a final render of the Kem Weber Airline
-    Chair. You will practice setting up 3-point lighting, adding cameras, creating
-    a backdrop, optionally adding additional textures to the materials, configuring
-    render settings, and doing some post-production cleanup in Photoshop.
+  content: In this exercise, level 1 students will practice keyframe animation, parenting,
+    animating the camera with a target, and manipulating curves in the graph editor.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Become familiarized with the rendering process.
-  - Become familiarized with setting up and configuring lights and a backdrop.
-  - Practice color grading in Photoshop
+  - Become familiarized with keyframe animation.
+  - Become familiarized with the purpose of pivot points and parent objects.
+  - Practice keyframe animation of translation, rotation, and scale properties.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
@@ -38,43 +36,11 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos (16-27)
+  - title: Blender Foundation 2.8 Videos (28-41)
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
   links: []
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  links:
-  - title: CC0 Textures
-    url: https://cc0textures.com/
-    link_style: new tab
-  - title: Textures.com
-    link_style: new tab
-    url: https://www.textures.com/
-  title: Texture resources
-  content: 'Use these websites to find textures to apply to your model. '
-- template: assignment-media-gallery
-  block: assignment-h-media-gallery
-  headline: Example render
-  image-gallery:
-  - image:
-    - caption: 3D Render of Airline Chair from side
-      enable_caption: true
-      image_url: "/uploads/chair-render-compressed.jpg"
-    gallery_title: Example Blender Rendering
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: Image References
-  content: Download the following images and include them in your project folder.
-  links:
-  - title: '3/4 view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: " download"
-  - title: 'Side view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: " download"
-  headline: Airline Chair Reference Images
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
@@ -102,9 +68,9 @@ page_sections:
   submission_item: []
   submission:
   - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2059597/assignments/12193173
+    url: https://psu.instructure.com/courses/2059597/assignments/12193175
   - title: World Campus (22081--WC---WBDART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133051
+    url: https://psu.instructure.com/courses/2080832/assignments/12133053
     section: ''
 topics_covered:
 - rendering
@@ -124,7 +90,7 @@ published: false
 ---
 ## Instructions
 
- 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with rendering tools.
+ 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with animation tools.
  2. Duplicate the texturing folder on your computer. **This will be your project folder.** Save all files to this folder.
  3. Follow the video demonstrations to light and render the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
  4. Enable **Cycles** rendering mode.
@@ -138,3 +104,19 @@ published: false
 12. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
 13. Upload the .zip file to the assignment dropbox.
 14. Double check that you've included all files and that your .zip file can be downloaded and opened.
+
+1. Watch the animation tutorials.
+2. Create an animation in Blender with the following:
+   * The duration of the animation should be 120 frames.
+   * Create a centered cube.
+   * Create a sphere [parented](https://www.youtube.com/watch?v=kd1O0oqQ3Uw) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
+   * Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
+   * Go into the Graph Editor and set **interpolation mode** to **linear**.
+   * Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
+   * Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
+   * Create a new perspective camera.
+   * Create an ‘empty’ and use it at as a [camera tracking constraint](https://www.youtube.com/watch?v=ageV_llb0Hk).
+   * Parent the ‘empty’ to the cube so the camera aims at the cube as it moves up and down.
+   * Select the camera and choose **View** ⟶ **Camera** ⟶ **Set active object as camera** and choose “Lock Camera to viewport .
+3. Save as **_animation-YOURSTUDENTID-L1.blend_** and upload to the submission dropbox.
+4. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
