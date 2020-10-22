@@ -83,8 +83,8 @@ topics_covered:
 - tracking constraint
 - keyframe
 - graph editor
-- linear keyframe interpolation
 - bezier
+- 12 principles of animation
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
@@ -104,7 +104,7 @@ published: false
    * Camera shake
    * At least 10 seconds of animation at 24 frames per second (240 frames)
 3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
-4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Test that the animation file was created.
+4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
 5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-tetris.zip.**
 6. Upload the .zip file to the assignment dropbox.
 7. Double check that you've included all files and that your .zip file can be downloaded and opened.
