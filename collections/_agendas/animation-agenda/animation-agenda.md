@@ -13,6 +13,7 @@ permalink: "/agenda/animation/"
    * [Fairytales of motion by Alan Warburton](https://www.youtube.com/watch?v=Hk6SXggQ_QQ)
    * [Illusion of Life](https://vimeo.com/93206523)
    * [Newton's 3 laws of motion](https://vimeo.com/159043081)
+   * [Eadweard Muybridge](https://en.wikipedia.org/wiki/Eadweard_Muybridge)
    * [Animation Mentor](https://www.youtube.com/watch?v=CtRBOI0PVgI)
    * [Karl Sims - Evolved Virtual Creatures, Evolution Simulation, 1994](https://www.youtube.com/watch?v=JBgG_VSP7f8)
    * [Berlin Tetris](https://vimeo.com/6736261)
