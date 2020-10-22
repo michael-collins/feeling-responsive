@@ -87,7 +87,7 @@ topics_covered:
 - bezier
 - 12 principles of animation
 prerequisites: []
-difficulty_level: " beginner"
+difficulty_level: advanced
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
