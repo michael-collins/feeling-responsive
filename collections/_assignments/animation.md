@@ -13,9 +13,10 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
+  - Practice keyframe animation of translation, rotation, and scale properties.
   - Become familiarized with keyframe animation.
   - Become familiarized with the purpose of pivot points and parent objects.
-  - Practice keyframe animation of translation, rotation, and scale properties.
+  - Practice applying camera constraints.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
@@ -76,12 +77,12 @@ page_sections:
     url: https://psu.instructure.com/courses/2080832/assignments/12133053
     section: ''
 topics_covered:
-- rendering
-- sampling
 - " camera"
-- " focal length"
-- compositing
-- " light"
+- tracking constraint
+- keyframe
+- graph editor
+- linear keyframe interpolation
+- bezier
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
