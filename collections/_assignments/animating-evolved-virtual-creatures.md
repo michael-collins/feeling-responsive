@@ -82,11 +82,10 @@ page_sections:
     section: ''
 topics_covered:
 - " camera"
-- tracking constraint
 - keyframe
 - graph editor
-- linear keyframe interpolation
 - bezier
+- 12 principles of animation
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
