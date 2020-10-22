@@ -40,6 +40,9 @@ page_sections:
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
+  - title: Adding a tracking constraint
+    youtube_url: https://www.youtube.com/watch?v=ageV_llb0Hk
+    custom: ''
   links: []
 - template: assignment-rubric
   block: assignment-f-rubric
@@ -109,19 +112,3 @@ published: false
 6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-animation.zip.**
 7. Upload the .zip file to the assignment dropbox.
 8. Double check that you've included all files and that your .zip file can be downloaded and opened.
-
-1. Watch the animation tutorials.
-2. Create an animation in Blender with the following:
-   * The duration of the animation should be 120 frames.
-   * Create a centered cube.
-   * Create a sphere [parented](https://www.youtube.com/watch?v=kd1O0oqQ3Uw) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
-   * Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
-   * Go into the Graph Editor and set **interpolation mode** to **linear**.
-   * Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
-   * Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
-   * Create a new perspective camera.
-   * Create an ‘empty’ and use it at as a [camera tracking constraint](https://www.youtube.com/watch?v=ageV_llb0Hk).
-   * Parent the ‘empty’ to the cube so the camera aims at the cube as it moves up and down.
-   * Select the camera and choose **View** ⟶ **Camera** ⟶ **Set active object as camera** and choose “Lock Camera to viewport .
-3. Save as **_animation-YOURSTUDENTID-L1.blend_** and upload to the submission dropbox.
-4. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
