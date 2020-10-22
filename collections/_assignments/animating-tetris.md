@@ -25,7 +25,7 @@ page_sections:
   video: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Blender Foundation 2.8 Tutorials
+  title: Blender Tutorials
   content: To get a deeper understanding of how Blender's rendering system works,
     have a look these tutorials
   material:
@@ -33,10 +33,17 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: 12 Principles of Animation
+    custom: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: Blender Foundation 2.8 Videos (28-41)
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
+  - title: Parenting in Blender
+    youtube_url: https://www.youtube.com/watch?v=kd1O0oqQ3Uw
+    custom: ''
   - title: Adding a tracking constraint
     youtube_url: https://www.youtube.com/watch?v=ageV_llb0Hk
     custom: ''
@@ -90,22 +97,15 @@ published: false
 ---
 ## Instructions
 
-1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with animation tools.
-2. Create a project folder on your computer and save a new `.blend` file called **_LASTNAME_-animation.blend**.
-3. Follow the video demonstrations to animate a camera, cube, and sphere.
-   * The duration of the animation should be 120 frames.
-   * Create a centered cube.
-   * Create a sphere [parented](https://www.youtube.com/watch?v=kd1O0oqQ3Uw) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
-   * Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
-   * Go into the Graph Editor and set **interpolation mode** to **linear**.
-   * Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
-   * Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
-   * Create a new perspective camera.
-   * Create an ‘empty’ and use it at as a [camera tracking constraint](https://www.youtube.com/watch?v=ageV_llb0Hk).
-   * Parent the ‘empty’ to the cube so the camera aims at the cube as it moves up and down.
-   * Select the camera and choose **View** ⟶ **Camera** ⟶ **Set active object as camera** and choose “Lock Camera to viewport .
-4. To create a video of the viewport's animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
-5. Choose **View** ⟶ **Viewport Render Animation** to create the animation file.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-animation.zip.**
-7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your .zip file can be downloaded and opened.
+1. Watch the animation tutorials.
+2. Create an animated scene inspired by [Tetris](https://www.youtube.com/watch?v=qIAAmaS9n0Q). It must include the following:
+   * At least 8 moving pieces
+   * Camera movement
+   * Easing applied to keyframes of moving objects (non-linear tangents in graph editor)
+   * Camera shake
+   * At least 10 seconds of animation at 24 frames per second (240 frames)
+3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
+4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Test that the animation file was created.
+5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-animation.zip.**
+6. Upload the .zip file to the assignment dropbox.
+7. Double check that you've included all files and that your .zip file can be downloaded and opened.
