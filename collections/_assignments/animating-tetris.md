@@ -13,10 +13,9 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
+  - Practice applying the 12 principles of animation
   - Practice keyframe animation of translation, rotation, and scale properties.
-  - Become familiarized with keyframe animation.
-  - Become familiarized with the purpose of pivot points and parent objects.
-  - Practice applying camera constraints.
+  - Practice applying camera effects.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
