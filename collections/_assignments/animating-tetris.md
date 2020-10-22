@@ -17,11 +17,14 @@ page_sections:
   - Practice keyframe animation of translation, rotation, and scale properties.
   - Practice applying camera effects.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this video demonstration, I show a basic keyframe animation workflow.
-  video: []
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
+  title: Inspiration
+  video:
+  - custom: ''
+  - title: Blender Tutorial - Tetris With Soft Body - Animation & Physics Tips
+    youtube_url: https://www.youtube.com/watch?v=0_lxDN55Fa8
+    custom: ''
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
