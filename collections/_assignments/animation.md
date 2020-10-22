@@ -90,20 +90,25 @@ published: false
 ---
 ## Instructions
 
- 1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with animation tools.
- 2. Duplicate the texturing folder on your computer. **This will be your project folder.** Save all files to this folder.
- 3. Follow the video demonstrations to light and render the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/).
- 4. Enable **Cycles** rendering mode.
- 5. Add a backdrop and three point lighting setup.
- 6. Configure your render camera with a pleasing focal length and compose your layout.
- 7. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
- 8. Render and import the image into Photoshop to adjust saturation, contrast.
- 9. Save the render as **_LASTNAME_-rendering-chair_.png_**, etc. in the project folder. Name the files in an organized in a logical way.
-10. Remove large Photoshop files that you may have in the project folder before compressing for upload.
-11. Save the 3D scene file as **_LASTNAME_-rendering-chair** in the project folder.
-12. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-rendering-chair.zip.**
-13. Upload the .zip file to the assignment dropbox.
-14. Double check that you've included all files and that your .zip file can be downloaded and opened.
+1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with animation tools.
+2. Create a project folder on your computer and save a new `.blend` file called **_LASTNAME_-animation.blend**.
+3. Follow the video demonstrations to animate a camera, cube, and sphere.
+   * The duration of the animation should be 120 frames.
+   * Create a centered cube.
+   * Create a sphere [parented](https://www.youtube.com/watch?v=kd1O0oqQ3Uw) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
+   * Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
+   * Go into the Graph Editor and set **interpolation mode** to **linear**.
+   * Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
+   * Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
+   * Create a new perspective camera.
+   * Create an ‘empty’ and use it at as a [camera tracking constraint](https://www.youtube.com/watch?v=ageV_llb0Hk).
+   * Parent the ‘empty’ to the cube so the camera aims at the cube as it moves up and down.
+   * Select the camera and choose **View** ⟶ **Camera** ⟶ **Set active object as camera** and choose “Lock Camera to viewport .
+4. To create a video of the viewport's animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
+5. Choose **View** ⟶ **Viewport Render Animation** to create the animation file.
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-animation.zip.**
+7. Upload the .zip file to the assignment dropbox.
+8. Double check that you've included all files and that your .zip file can be downloaded and opened.
 
 1. Watch the animation tutorials.
 2. Create an animation in Blender with the following:
