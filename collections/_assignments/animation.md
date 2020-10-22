@@ -1,5 +1,5 @@
 ---
-title: Animation
+title: Introduction to animation
 layout: blocks-assignment-view
 date-assigned: 2020-08-31T04:00:00.000+00:00
 date-due: 2020-09-08T03:59:00.000+00:00
