@@ -124,6 +124,9 @@ page_sections:
   - url: http://www2.gvsu.edu/hipshean/resources/Feldman%27s%20Model%20Crit.pdf
     link_style: new tab
     title: Feldman’s Model of Art Criticism
+  - title: Formal Analysis
+    url: https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html
+    link_style: new tab
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
