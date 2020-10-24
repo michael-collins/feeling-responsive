@@ -113,6 +113,14 @@ page_sections:
   - title: Blender Learning Resources Page
     link_style: new tab
     url: https://michaelcollins.xyz/3d-digital-studio-master/software/blender/
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
+  title: Peer Review Resources
+  content: ''
+  links:
+  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/crit-feedback-worksheet.pdf
+    title: Critique Worksheet
+    link_style: " download"
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
