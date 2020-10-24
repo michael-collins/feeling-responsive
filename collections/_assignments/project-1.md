@@ -118,12 +118,12 @@ page_sections:
   title: Peer Review Resources
   content: ''
   links:
-  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/crit-feedback-worksheet.pdf
-    title: Art and Design Critique Worksheet
-    link_style: " download"
   - url: http://www2.gvsu.edu/hipshean/resources/Feldman%27s%20Model%20Crit.pdf
     link_style: new tab
     title: Feldman’s Model of Art Criticism
+  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/crit-feedback-worksheet.pdf
+    title: Art and Design Critique Worksheet
+    link_style: " download"
   - title: Formal Analysis
     url: https://www.getty.edu/education/teachers/building_lessons/formal_analysis.html
     link_style: new tab
