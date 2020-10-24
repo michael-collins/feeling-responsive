@@ -118,8 +118,11 @@ page_sections:
   title: Peer Review Resources
   content: ''
   links:
+  - url: http://www2.gvsu.edu/hipshean/resources/Feldman%27s%20Model%20Crit.pdf
+    link_style: " download"
+    title: Feldman’s Model of Art Criticism
   - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/crit-feedback-worksheet.pdf
-    title: Critique Worksheet
+    title: Art and Design Critique Worksheet
     link_style: " download"
 - template: assignment-rubric
   block: assignment-f-rubric
