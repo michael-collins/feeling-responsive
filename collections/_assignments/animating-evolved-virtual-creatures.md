@@ -7,8 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, students will practice animation techniques by recreating
-    creatures from the classic technical demo, Evolved Virtual Creatures by Karl Sims.
+  content: In this exercise, you will practice animation techniques by recreating
+    creatures from Evolved Virtual Creatures by Karl Sims.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
