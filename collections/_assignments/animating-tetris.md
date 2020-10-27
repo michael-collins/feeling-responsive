@@ -24,6 +24,9 @@ page_sections:
   - custom: ''
     youtube_url: https://www.youtube.com/watch?v=_fQtxKmgJC8
     title: The Story of Tetris
+  - title: 2010 Classic Tetris World Championship-Final Round
+    youtube_url: https://www.youtube.com/watch?v=qIAAmaS9n0Q
+    custom: ''
   - title: The Classic Tetris World Championships Explained
     youtube_url: https://www.youtube.com/watch?v=9RaqVGzhQTM
     custom: ''
