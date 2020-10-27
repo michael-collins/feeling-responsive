@@ -44,7 +44,7 @@ page_sections:
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
   - title: Adding Camera Shake
-    youtube_url: https://www.youtube.com/watch?v=bejrCsPD52Q
+    youtube_url: https://www.youtube.com/watch?v=DJ8RSnozV0A
     custom: ''
   - title: Parenting in Blender
     youtube_url: https://www.youtube.com/watch?v=kd1O0oqQ3Uw
