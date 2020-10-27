@@ -100,3 +100,9 @@ Assignment documentation: [Project 1]({{site.baseurl}}/assignments/project-1.htm
 [Animation]({{site.baseurl}}/agenda/animation/)
 
 #### Exercises
+
+Beginner assignment: [Introduction to Animation](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animation.html)
+
+Intermediate Assignment: [Animating Tetris](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-tetris.html)
+
+Advanced Assignment: [Animating Evolved Virtual Creatures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-evolved-virtual-creatures.html)
