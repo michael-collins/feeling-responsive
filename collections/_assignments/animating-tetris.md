@@ -22,14 +22,20 @@ page_sections:
   title: Inspiration
   video:
   - custom: ''
-  - title: Blender Tutorial - Tetris With Soft Body - Animation & Physics Tips
-    youtube_url: https://www.youtube.com/watch?v=0_lxDN55Fa8
+    youtube_url: https://www.youtube.com/watch?v=_fQtxKmgJC8
+    title: The Story of Tetris
+  - title: The Story of the Tetris World Championship’s Oldest Player
+    youtube_url: https://www.youtube.com/watch?v=9CRYxZey5Mk
     custom: ''
+  links:
+  - url: https://www.cnn.com/style/article/tetris-video-game-history/index.html
+    link_style: new tab
+    title: 'Tetris: The Soviet ''mind game'' that took over the world'
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
-  content: To get a deeper understanding of how Blender's rendering system works,
-    have a look these tutorials
+  content: To get a deeper understanding of how Blender's animation system works,
+    have a look these tutorials.
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
@@ -54,6 +60,9 @@ page_sections:
     custom: ''
   - title: Adding a tracking constraint
     youtube_url: https://www.youtube.com/watch?v=ageV_llb0Hk
+    custom: ''
+  - title: Blender Tutorial - Tetris With Soft Body - Animation & Physics Tips
+    youtube_url: https://www.youtube.com/watch?v=0_lxDN55Fa8
     custom: ''
   links: []
 - template: assignment-rubric
