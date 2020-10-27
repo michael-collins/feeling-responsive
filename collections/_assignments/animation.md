@@ -26,6 +26,10 @@ page_sections:
   - title: 'Introduction to Animation Tutorials: Vimeo Playlist'
     custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7727314/embed'
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  - title: 'Introduction to Animation Tutorials: Youtube Playlist'
+    custom: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-V2nChTadrUCq3o-AvWZ3A6mQTd8O9uJ"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   headline: Demonstration videos
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
