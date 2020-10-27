@@ -22,7 +22,11 @@ page_sections:
   block: assignment-a-demo
   title: Demonstration Videos
   content: In this video demonstration, I show a basic keyframe animation workflow.
-  video: []
+  video:
+  - title: 'Introduction to Animation Tutorials: Vimeo Playlist'
+    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7727314/embed'
+      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  headline: Demonstration videos
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
