@@ -43,6 +43,9 @@ page_sections:
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
+  - title: Adding Camera Shake
+    youtube_url: https://www.youtube.com/watch?v=bejrCsPD52Q
+    custom: ''
   - title: Parenting in Blender
     youtube_url: https://www.youtube.com/watch?v=kd1O0oqQ3Uw
     custom: ''
