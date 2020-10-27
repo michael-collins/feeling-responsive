@@ -28,6 +28,9 @@ page_sections:
     custom: ''
   title: Inspiration
   links:
+  - url: https://www.karlsims.com/evolved-virtual-creatures.html
+    link_style: new tab
+    title: Karl Sims Website
   - url: https://www.karlsims.com/papers/siggraph94.pdf
     title: Evolving Virtual Creatures SIGGRAPH Paper
     link_style: new tab
