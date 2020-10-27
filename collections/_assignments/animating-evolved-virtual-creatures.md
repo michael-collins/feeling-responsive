@@ -23,7 +23,14 @@ page_sections:
   - title: 'Evolved Virtual Creatures '
     youtube_url: https://www.youtube.com/watch?v=JBgG_VSP7f8
     custom: ''
+  - title: Virtual Creature Bloopers (1994)
+    youtube_url: https://www.youtube.com/watch?v=pxgLHuWfMS8
+    custom: ''
   title: Inspiration
+  links:
+  - url: https://www.karlsims.com/papers/siggraph94.pdf
+    title: Evolving Virtual Creatures SIGGRAPH Paper
+    link_style: new tab
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
