@@ -24,8 +24,8 @@ page_sections:
   - custom: ''
     youtube_url: https://www.youtube.com/watch?v=_fQtxKmgJC8
     title: The Story of Tetris
-  - title: The Story of the Tetris World Championship’s Oldest Player
-    youtube_url: https://www.youtube.com/watch?v=9CRYxZey5Mk
+  - title: The Classic Tetris World Championships Explained
+    youtube_url: https://www.youtube.com/watch?v=9RaqVGzhQTM
     custom: ''
   links:
   - url: https://www.cnn.com/style/article/tetris-video-game-history/index.html
