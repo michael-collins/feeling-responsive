@@ -23,6 +23,9 @@ page_sections:
   - title: 'Evolved Virtual Creatures '
     youtube_url: https://www.youtube.com/watch?v=JBgG_VSP7f8
     custom: ''
+  - title: Karl Sims - Virtual creatures
+    youtube_url: https://www.youtube.com/watch?v=WmrTNrtE-Lk
+    custom: ''
   - title: Virtual Creature Bloopers (1994)
     youtube_url: https://www.youtube.com/watch?v=pxgLHuWfMS8
     custom: ''
