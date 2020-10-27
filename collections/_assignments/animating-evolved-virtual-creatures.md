@@ -90,7 +90,7 @@ prerequisites: []
 difficulty_level: advanced
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/abstract-001-render6.jpg"
+  image_fullwidth: "/uploads/banner-creatures-compressed.jpg"
 accordion_mode: true
 
 ---
