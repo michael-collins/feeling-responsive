@@ -7,8 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, level 1 students will practice keyframe animation, parenting,
-    animating the camera with a target, and manipulating curves in the graph editor.
+  content: In this exercise, students will creatively interpret the game, Tetris created
+    in 1984 by Alexey Pajitnov, into a 10 seconds or longer animation.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
