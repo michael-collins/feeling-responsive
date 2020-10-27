@@ -31,6 +31,7 @@ page_sections:
   - url: https://www.cnn.com/style/article/tetris-video-game-history/index.html
     link_style: new tab
     title: 'Tetris: The Soviet ''mind game'' that took over the world'
+  headline: Inspiration
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
