@@ -46,6 +46,9 @@ page_sections:
   - title: Adding Camera Shake
     youtube_url: https://www.youtube.com/watch?v=DJ8RSnozV0A
     custom: ''
+  - title: 'Realistic Camera Shake in Blender - CGC Weekly #2'
+    youtube_url: https://www.youtube.com/watch?v=OpGK31Xe3Lw
+    custom: ''
   - title: Parenting in Blender
     youtube_url: https://www.youtube.com/watch?v=kd1O0oqQ3Uw
     custom: ''
