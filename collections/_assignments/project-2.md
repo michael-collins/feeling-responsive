@@ -198,19 +198,19 @@ published: false
 ---
 ## Overview
 
-**Project theme:** Primitives
+**Project theme:** Obstructed
 
-Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
+For this project, you produce an experimental animation centered around the theme, **“Obstructed”**. This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to the project theme. Locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
-For this project, I would like you to imagine physical or conceptual building blocks. You will need to choose a project model to frame and develop your project, choose a project format that corresponds with your media interests, and follow the weekly production process. You will be asked to conduct peer reviews throughout the process and will be afforded the opportunity to submit work revisions based on feedback. You will also critically reflect on your work and the project theme in a 150 word work statement.
+You will also critically reflect on your work and the project theme in a 150 word work statement.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
 ### Project models (Choose one)
 
 1. **Bounding approach:** Consider an object, system, or other thing that you are interested in.
-   * Conceptually or physically identify the subject's core primitives. Identify how these primitives are combined to create the end result.
-   * How might these primitives be recombined in new ways, or how might the primitives be presented to viewers to help them change their understanding of your subject?
+   * Conceptually or physically identify the subject's core elements. Identify how these elements are combined to create the end result.
+   * How might these elements be recombined in new ways, or how might the elements be presented to viewers to help them change their understanding of your subject?
    * What can be edited out or subtracted?
 2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, shapes, materials, products, architecture, aspects of the environment or ecosystem, etc.
    * What shapes, patterns, structures, materials, etc., are they made from?
@@ -221,9 +221,9 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
    * What are the components that comprise these systems? How are these systems established? Who or what are the system participants?
    * How might changes to their core function or disfunction change outcomes?
    * Think of ways to visualize these ideas literally and abstractly.
-4. **Activating approach:** Create primitives as a means to participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
-   * What is the function of a primitive in this context?
-   * How might primitives be used as a teaching tool, or a tool or designing solutions to problems?
+4. **Activating approach:** Create work as a means to participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
+   * What is the function of a work in this context?
+   * How might the work be used as a teaching tool, or a tool or designing solutions to problems?
    * Will you be creating objects or images?
    * How will those who view or interact with your work?
 5. **Situating approach:** Establish a framework, story, or narrative within which your project ideas live.
@@ -260,7 +260,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * Submit as a `png` or `jpg`
 3. **Work intent:** Describe what you will be doing
    * Include name, date, chosen project model, and project format
-   * Short one sentence description of what you intend to make.
+   * Write a **paragraph** description of what you intend to make.
    * Upload this in an MS Word `doc` format
 
 #### Week 2: Production begins
@@ -279,18 +279,41 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 
 #### Week 4: Finish production and present work
 
-1. Upload final materials as a `LASTNAME-project1-files.zip` file
-   1. Include final work statement
-      * MS Word .doc format
-      * 150 words minimum
-      * file name: `LASTNAME-project1-statement.doc`
-   2. Include the media you created
-2. Post your screenshots to the **Project: 1 submission images show and tell** discussion thread
-3. Participate in work critique with peers
-
-#### Week 5: (Optional)
-
-1. If all work was completed and submitted on time, you may submit work revisions based on peer and instructor feedback. This is not required.
+1. When uploading files to the dropboxes, ensure that you use the naming conventions and folder structure, listed below.
+   1. **Week 1: Concepts**
+      * Requirements:
+        * 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
+        * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
+        * Visual reference sheet(s): [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
+        * Concept drawings: Add scans or photographs. These must be ‘well-photographed’ and cropped/straightened photos of your concept drawings and text.
+   2. **Week 2: Storyboard**
+      * Template download: [storyboard-template.pdf](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/storyboard-template.pdf)
+      * Tutorial: [LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fanimation-foundations-storyboarding%3Ftrk%3Dshare_ent_url&account=76811570)
+      * Requirements:
+        * Create thumbnail sketches with descriptions to show how your animation will work. If you had to pitch the storyboards
+        * 1080 HD preset
+   3. **Week 3: Animatic**
+      * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
+      * Requirements:
+        * Create a 15-30 second compressed .mp4 of your playblasts edited with sound. Please consider relevant aspects of camera, composition, staging, pacing, and animation.
+        * 1080 HD preset
+   4. **Week 4: Test Renders**
+      * Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
+      * Requirements:
+        * 3 to 5 test renders, each from a different part of the animation
+        * 1080 HD preset
+        * Render time must be under a minute (unless you plan to pay for an online render farm)
+   5. **Statement**
+      * Requirements:
+        * Write and add upload a statement format named (min 150 words) called **_statement.doc_**
+   6. **Final Submission**
+      * Requirements:
+        * Upload .mp4 video file in compressed H.264 format
+        * `.txt` file with link to Vimeo.com
+   7. **Revision (optional)**
+      * Requirements:
+        * Upload revised .mp4 video file in compressed H.264 format
+        * `.txt` file with link to Vimeo.com
 
 ### Writing a work statement
 
@@ -322,15 +345,3 @@ A work statement is a clear articulation about what you've made. This is not a j
 ### Constraints
 
 All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset. For example, you can use a texture pack you downloaded from a texture website, however, if you render an image of just a flat plane with the texture applied, this is not really creative transformation since the entirety of the image is work from someone else. Your transformation and contextualization is what's important. A render with a background that uses an image from Google image search (please don't do this) that comprises more than 50% of the work is also not really enough creative transformation. If someone reviews your work and says that the image's background is their favorite part of the image, you'll have to then explain how you didn't make the background, which is not a great situation to be in.
-
-### Frequently asked questions
-
-**Q: Do I have to use only 3D primitives in making this project?**
-
-**A:** No, you can interpret the project theme however you like. You could of course take a literal approach and use only primitives that are available in 3D software, but it may be more interesting to use a more conceptual approach and use complex models and materials that are conceptually something you've defined as a "primitive" for something else. Be sure to talk about this in your work statement.
-
-**Q: I'm having trouble coming up with a project concept. What do I do?**
-
-**A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, download and try the concept development worksheet. Many people are able to generate ideas from this worksheet. If the worksheet isn't helping you come up with any ideas that you are interested in, the third recommendation I have is to use your environment to generate ideas for you. Through observation, ideas can come to you. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't matter. The important thing is that you are going through some kind of creative or generative process to articulate a concept, and can then respond to it by creating creative works. I often find that listening to other artists and designers talk about their process inspires my own. Often, the stranger the process, the more interesting the work is.
-
-[Here you can see Andrew Jones demoing Alchemy](https://www.youtube.com/watch?v=zYYSxZZzgjc), a drawing tool, to generate shapes for his character designs.
