@@ -1,5 +1,5 @@
 ---
-title: Project 2
+title: Project 2 - Obstructions
 layout: blocks-assignment-view
 date-assigned: 2020-08-01T04:00:00.000+00:00
 date-due: 2020-08-08T04:00:00.000+00:00
@@ -198,50 +198,31 @@ published: false
 ---
 ## Overview
 
-**Project theme:** Obstructed
+**Project theme:** Obstructions
 
-For this project, you produce an experimental animation centered around the theme, **“Obstructed”**. This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to the project theme. Locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you produce an experimental animation centered around the theme, **“Obstructions”**. This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
-### Project models (Choose one)
+#### About the theme:
 
-1. **Bounding approach:** Consider an object, system, or other thing that you are interested in.
-   * Conceptually or physically identify the subject's core elements. Identify how these elements are combined to create the end result.
-   * How might these elements be recombined in new ways, or how might the elements be presented to viewers to help them change their understanding of your subject?
-   * What can be edited out or subtracted?
-2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, shapes, materials, products, architecture, aspects of the environment or ecosystem, etc.
-   * What shapes, patterns, structures, materials, etc., are they made from?
-   * What context or setting are these objects typically found?
-   * Explore how you could recombine or juxtapose elements in unexpected ways to create something new or establish a new context.
-   * Consider using a process like photography, audio recording, sketching, scanning, 3D scanning or photogrammetry to incorporate analog process or elements.
-3. **Intervening approach:** Consider the larger picture of a particular social or cultural 'system' in which you are interested. For example, you might be interested in the justice system, the economy, etc.
-   * What are the components that comprise these systems? How are these systems established? Who or what are the system participants?
-   * How might changes to their core function or disfunction change outcomes?
-   * Think of ways to visualize these ideas literally and abstractly.
-4. **Activating approach:** Create work as a means to participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
-   * What is the function of a work in this context?
-   * How might the work be used as a teaching tool, or a tool or designing solutions to problems?
-   * Will you be creating objects or images?
-   * How will those who view or interact with your work?
-5. **Situating approach:** Establish a framework, story, or narrative within which your project ideas live.
-   * How might you use a curatorial process to present relationships between objects or ideas?
-   * What is the framework that helps structure your ideas?
+An obstruction is simply a constraint, but one conceived as a means to get you out of a comfort zone or habit. Open-ended creative projects are very difficult to produce because if you are able to do anything, then choosing what to do becomes an impossible burden, and many creative often fall into a rut where they start producing work they are comfortable with. Constraints are a creative person's best friend. However, you don't always have the luxury of getting handed constraints, and therefore the art of the task becomes about how you develop and choose your own constraints, or as we will refer to them, obstructions.
 
-### Project formats (Choose one)
+#### Obstructions worksheet:
 
-Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
+What is a **_thing_** (not a person) you love, are obsessed with, purchase or think about purchasing, or can't stop thinking about?
 
-1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
-2. Poster design (follows a particular poster format)
-3. Magazine or book illustration
-4. 3D prints with high quality photo documentation and accompanying renders
-   * These can be ordered through Penn State Maker Commons or 3D printing service websites such as Sculpteo or Shapeways.
-5. Paper-craft object
-6. Realtime display on Sketchfab.com or p3d.in websites.
-7. Modular game assets
+**Obstruction 1:** Include the thing in your animation.
+
+Obstruction 2: 
+
+### Project format
+
+Choose a format that you can reasonable accomplish within the timeframe of the project
+
+T**he video should contain exactly 30 seconds of animation ±5 seconds**. While this may not seem like a very long time for an animation, I assure you it's actually quite a lot of work to make 30 seconds well crafted and polished in terms of animation, modeling and materials , and rendering quality.  
 
 ### Production Process (All steps required)
 
@@ -249,16 +230,16 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 Use one of the five models to develop a concept. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
 
-1. **Concept(s):** Sketch, label, and write ideas in sketchbook.
-   * Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
+1. **Concept(s):** 
+   * Sketch, label, and write ideas in sketchbook. Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
    * Upload `jpg` or `png` images of sketchbook pages
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
    * **If you used the concept development worksheet** linked in the assignment rather than a sketchbook, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
    * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
-2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
+2. **Storyboard:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
    * You can use Photoshop or [Mural.co](https://www.mural.co/)
    * Submit as a `png` or `jpg`
-3. **Work intent:** Describe what you will be doing
+3. **Animatic:** Describe what you will be doing
    * Include name, date, chosen project model, and project format
    * Write a **paragraph** description of what you intend to make.
    * Upload this in an MS Word `doc` format
