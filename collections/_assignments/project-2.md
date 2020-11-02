@@ -22,13 +22,13 @@ page_sections:
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Five Obstructions
-  content: Lars von Trier now enters the world of documentary filmmaking alongside
-    his idol, Danish filmmaker Jorgen Leth. In 1967, Leth made a 12 minute feature
-    film called The Perfect Human. In the year 2000, von Trier challenged Jorgen Leth
-    to remake his film five times, each time with a new obstruction to force Leth
-    to rethink the story and characters of the original film. Lars von Trier sets
-    a game in motion that is full of traps and vicious turns hoping each time Leth
-    will fail but it turns out to have a surprising outcome.<br>ons
+  content: "<strong>Synopsis:</strong> Lars von Trier now enters the world of documentary
+    filmmaking alongside his idol, Danish filmmaker Jorgen Leth. In 1967, Leth made
+    a 12 minute feature film called The Perfect Human. In the year 2000, von Trier
+    challenged Jorgen Leth to remake his film five times, each time with a new obstruction
+    to force Leth to rethink the story and characters of the original film. Lars von
+    Trier sets a game in motion that is full of traps and vicious turns hoping each
+    time Leth will fail but it turns out to have a surprising outcome."
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
@@ -38,8 +38,14 @@ page_sections:
     custom: "<iframe allow='encrypted-media;' width='640' height='390' src='https://pennstate.kanopy.com/embed/114028?v=20190405'
       frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>"
   links:
+  - title: 'Five Obstructions: Link to Film on Kanopy (PSU Login)'
+    url: https://pennstate.kanopy.com/video/five-obstructions
+    link_style: new tab
   - url: https://observer.com/2016/10/how-constraints-breed-creativity/
     title: How Constraints Breed Creativity
+    link_style: new tab
+  - url: http://www.ephemerajournal.org/contribution/five-obstructions-experiencing-human-side-enterprise
+    title: "'The Five Obstructions': Experiencing the human side of enterprise"
     link_style: new tab
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
@@ -55,22 +61,7 @@ page_sections:
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Tutorials for project format types
-  video:
-  - title: 3D Rendering for Illustration
-    youtube_url: https://www.youtube.com/watch?v=5tJWH58bIpI
-    custom: ''
-  - title: Modular game level or environment design
-    youtube_url: https://www.youtube.com/watch?v=SgEbUgA7jVo
-    custom: ''
-  - title: SketchFab Tutorial
-    youtube_url: https://www.youtube.com/watch?v=HmjBi4v_Whc
-    custom: ''
-  - title: Papercraft
-    youtube_url: https://www.youtube.com/watch?v=klran7MH5Yw
-    custom: ''
-  - title: 3D Printing
-    youtube_url: https://www.youtube.com/watch?v=-y5r2mTlUWA
-    custom: ''
+  video: []
   content: Please explore the Blender Resources Page to explore what it possible in
     Blender (and has tutorials to support your training). I've also posted links to
     some tutorials for other media types like 3D printing and paper craft. You'll
@@ -168,9 +159,9 @@ published: false
 ---
 ## Overview
 
-**Project theme:** Obstructions
+**Project theme:** Weapons of Mass Obstruction
 
-For this project, you produce an experimental animation centered around the theme, **“Obstructions”**. This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you produce an experimental animation centered around the theme, **“Weapons of Mass Obstruction”**. This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
@@ -178,11 +169,17 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 #### About the theme:
 
-An obstruction is simply a constraint or rule, but one conceived as a means to get you out of a comfort zone or habit. Open-ended creative projects are very difficult to produce because if you are able to do anything, then choosing what to do becomes an impossible burden, and many creative often fall into a rut where they start producing work they are comfortable with. Constraints allow a person to focus on solving a problem rather than spending time trying to understand what the problem is. However, you don't always have the luxury of getting handed constraints, and therefore the art of the task becomes about how you develop and choose your own constraints, or as we will refer to them, obstructions.
+In the film, Five Obstructions, Lars von Trier, a friend and former student of famed but reclusive filmmaker, Jorgen Leth, challenges Leth to get back into filmmaking by asking him to re-produce his film, the "Perfect Human," but with obstacles meant to encourage a creative response.
+
+An **obstruction** is simply a constraint or rule, but one conceived as a means to get you out of a comfort zone or habit, an obstacle for growth. Open-ended creative projects are very difficult to produce because if you are able to do anything, then choosing what to do becomes an impossible burden, and many creative often fall into a rut where they start producing work they are comfortable with. Constraints allow a person to focus on solving a problem rather than spending time trying to understand what the problem is. However, you don't always have the luxury of getting handed constraints, and therefore the art of the task becomes about how you develop and choose your own constraints, or as we will refer to them, obstructions.
+
+While generally thought of a thing to hurt people, in the spirit of this project, **_a weapon is a vehicle designed to wedge in place an obstruction_**, and therefore, its role is relatively positive. In the film, the conversation between Lars von Trier and Jorgen Leth becomes the weapon that generates the obstructions used to create new films.
 
 #### Generating Obstructions:
 
-What is a **_thing_** (not a person) you love, are obsessed with, purchase or think about purchasing, or can't stop thinking about?
+What is a behavior or loop that you find yourself stuck in? How can you use obstructions for force an uncomfortable change in habit?
+
+What is some **_thing_** (not a person) you love, are obsessed with, purchase or think about purchasing, or can't stop thinking about? 
 
 **Obstruction 1:** Include the thing in your animation.
 
