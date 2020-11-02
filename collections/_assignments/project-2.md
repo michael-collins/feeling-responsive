@@ -21,56 +21,26 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Project Inspiration
-  content: Investigate linked media to try to develop a sense of how other artists
-    and designers assemble creative projects, develop conceptual frameworks, and write
-    and talk about their work.
+  title: Five Obstructions
+  content: Lars von Trier now enters the world of documentary filmmaking alongside
+    his idol, Danish filmmaker Jorgen Leth. In 1967, Leth made a 12 minute feature
+    film called The Perfect Human. In the year 2000, von Trier challenged Jorgen Leth
+    to remake his film five times, each time with a new obstruction to force Leth
+    to rethink the story and characters of the original film. Lars von Trier sets
+    a game in motion that is full of traps and vicious turns hoping each time Leth
+    will fail but it turns out to have a surprising outcome.<br>ons
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: 'MAK Design Salon 4: Meinong’s Taxonomy of Objects'
-    youtube_url: ''
-    custom: ''
-    vimeo_url: https://vimeo.com/133160620
+  - title: Five Obstructions by Lars Von Trier
+    custom: "<iframe allow='encrypted-media;' width='640' height='390' src='https://pennstate.kanopy.com/embed/114028?v=20190405'
+      frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>"
   links:
-  - title: 99% Invisible Podcast - Froebels Gifts
+  - url: https://observer.com/2016/10/how-constraints-breed-creativity/
+    title: How Constraints Breed Creativity
     link_style: new tab
-    url: https://99percentinvisible.org/episode/froebels-gifts/
-  - title: Baden Pailthorpe
-    link_style: new tab
-    url: https://www.badenpailthorpe.com/asset_pack/
-  - title: Jon Monaghan
-    link_style: new tab
-    url: https://jonmonaghan.com/work/
-  - title: John Butler
-    link_style: new tab
-    url: https://vimeo.com/user3946359
-  - title: Speculative Product Design (Pinterest)
-    link_style: new tab
-    url: https://www.pinterest.com/visualbloke/speculative-design/
-  - title: Neri Oxman
-    link_style: new tab
-    url: https://neri.media.mit.edu/projects.html
-  - title: NastPlas
-    link_style: new tab
-    url: https://www.behance.net/drfranken
-  - url: https://www.maakemagazine.com/nina-sarnelle
-    title: The Institute for New Feeling
-    link_style: new tab
-  - title: Material Immaterial
-    link_style: new tab
-    url: https://www.behance.net/materialimmaterial/
-  - title: Chengtao Yi
-    link_style: new tab
-    url: https://www.behance.net/YiDesign
-  - title: Nemanja Pesic
-    link_style: new tab
-    url: https://www.behance.net/nemanjapesic
-  - title: Zeitguised – Sim/Stim
-    link_style: new tab
-    url: https://vimeo.com/100894012
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Concept Development Worksheet
@@ -208,9 +178,9 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 #### About the theme:
 
-An obstruction is simply a constraint, but one conceived as a means to get you out of a comfort zone or habit. Open-ended creative projects are very difficult to produce because if you are able to do anything, then choosing what to do becomes an impossible burden, and many creative often fall into a rut where they start producing work they are comfortable with. Constraints are a creative person's best friend. However, you don't always have the luxury of getting handed constraints, and therefore the art of the task becomes about how you develop and choose your own constraints, or as we will refer to them, obstructions.
+An obstruction is simply a constraint or rule, but one conceived as a means to get you out of a comfort zone or habit. Open-ended creative projects are very difficult to produce because if you are able to do anything, then choosing what to do becomes an impossible burden, and many creative often fall into a rut where they start producing work they are comfortable with. Constraints allow a person to focus on solving a problem rather than spending time trying to understand what the problem is. However, you don't always have the luxury of getting handed constraints, and therefore the art of the task becomes about how you develop and choose your own constraints, or as we will refer to them, obstructions.
 
-#### Obstructions worksheet:
+#### Generating Obstructions:
 
 What is a **_thing_** (not a person) you love, are obsessed with, purchase or think about purchasing, or can't stop thinking about?
 
