@@ -14,8 +14,8 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - 'Demonstrate understanding of 3D modeling skills including many of the following:
-    Lighting and camera setup, materials and shaders, UV maps and texturing, and rendering.'
+  - Demonstrate understanding of 3D modeling, rendering, and animation skills.
+  - Apply animation principles
   - Apply fundamental principles of color and composition theory.
   - Practice concept development skills
   list-item: []
