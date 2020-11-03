@@ -7,8 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, students will practice correcting a character model's
-    edge-flow and set up an armature rig to pose the character in a sitting position.
+  content: In this exercise, students will practice modeling, rigging, and animating
+    a quadruped animal.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -17,28 +17,6 @@ page_sections:
   - Practice modeling to good edge flow for deformation.
   - Become familiarized with creating and binding an armature using the Rigify add-on.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this video demonstration, I show how to create a basic armature rigging
-    workflow.
-  video:
-  - title: 'Introduction to Rigging Tutorials: Youtube Playlist'
-    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrX4lOk4gv0XjdSVpB31qOtJ"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title: 'Introduction to Rigging Tutorials: Vimeo Playlist'
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7753495/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
-  headline: Demonstration videos
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: Base Mesh Model Download
-  links:
-  - url: https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/biped-base-mesh.fbx
-    title: biped-base-mesh.fbx
-    link_style: hosted_file
-  content: Download this model to complete the assignment.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
