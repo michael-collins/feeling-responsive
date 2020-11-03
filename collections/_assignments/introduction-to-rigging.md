@@ -42,20 +42,10 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: 12 Principles of Animation
-    custom: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: Blender Foundation 2.8 Videos (28-41)
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
-  - title: Parenting in Blender
-    youtube_url: https://www.youtube.com/watch?v=kd1O0oqQ3Uw
-    custom: ''
-  - title: Adding a tracking constraint
-    youtube_url: https://www.youtube.com/watch?v=ageV_llb0Hk
-    custom: ''
   links: []
 - template: assignment-rubric
   block: assignment-f-rubric
