@@ -7,8 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, level 1 students will practice keyframe animation, parenting,
-    animating the camera with a target, and manipulating curves in the graph editor.
+  content: In this exercise, students will practice correcting a character model's
+    edge-flow and set up an armature rig to pose the character in a sitting position.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
