@@ -1,5 +1,5 @@
 ---
-title: Introduction to rigging
+title: Introduction to Rigging
 layout: blocks-assignment-view
 date-assigned: 2020-08-31T04:00:00.000+00:00
 date-due: 2020-09-08T03:59:00.000+00:00
@@ -87,13 +87,7 @@ page_sections:
   - title: World Campus (22081--WC---WBDART----303-------001-)
     url: https://psu.instructure.com/courses/2080832/assignments/12133053
     section: ''
-topics_covered:
-- " camera"
-- tracking constraint
-- keyframe
-- graph editor
-- linear keyframe interpolation
-- bezier
+topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
