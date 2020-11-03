@@ -32,6 +32,13 @@ page_sections:
     custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7753495/embed'
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
   headline: Demonstration videos
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
+  title: Model Download
+  links:
+  - url: https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/biped-base-mesh.fbx
+    title: biped-base-mesh.fbx
+    link_style: hosted_file
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
