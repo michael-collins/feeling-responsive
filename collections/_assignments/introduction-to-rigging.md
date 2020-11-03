@@ -33,7 +33,7 @@ page_sections:
   headline: Demonstration videos
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Model Download
+  title: Base Mesh Model Download
   links:
   - url: https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/biped-base-mesh.fbx
     title: biped-base-mesh.fbx
@@ -97,22 +97,16 @@ published: false
 ---
 ## Instructions
 
-1. Watch linked tutorials in Learning Resources from Blender Foundation and others to get acquainted with animation tools.
-2. Create a project folder on your computer and save a new `.blend` file called **_LASTNAME_-animation.blend**.
-3. Follow the video demonstrations to animate a camera, cube, and sphere.
-   * The duration of the animation should be 120 frames.
-   * Create a centered cube.
-   * Create a sphere [parented](https://www.youtube.com/watch?v=kd1O0oqQ3Uw) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
-   * Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
-   * Go into the Graph Editor and set **interpolation mode** to **linear**.
-   * Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
-   * Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
-   * Create a new perspective camera.
-   * Create an ‘empty’ and use it at as a [camera tracking constraint](https://www.youtube.com/watch?v=ageV_llb0Hk).
-   * Parent the ‘empty’ to the cube so the camera aims at the cube as it moves up and down.
-   * Select the camera and choose **View** ⟶ **Camera** ⟶ **Set active object as camera** and choose “Lock Camera to viewport .
-4. To create a video of the viewport's animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
-5. Choose **View** ⟶ **Viewport Render Animation** to create the animation file.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-animation.zip.**
-7. Upload the .zip file to the assignment dropbox.
-8. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 1. Watch the rigging character rigging tutorials.
+ 2. Download the base mesh model FBX file.
+ 3. **File** → **Import** the FBX file into a new Blender scene.
+ 4. Scale up the model.
+ 5. Model the T-pose for armature deformation. Do not model the character into a sitting pose, it must be modeled in a T pose, and posed in a seated position via the armature rig.
+ 6. Watch the demo video series to learn how to add and create good edge flow for deformation. Add geometry to articulate the head, torso, legs, and arms.
+ 7. **Object** → **Apply** all transforms including scale, rotation, and location.
+ 8. Create an armature with bones for the pelvis, lower back, upper back, lower legs, upper legs, feet, shoulders, arms, hands, neck, and head. Name and number them for your reference. You must put a “.L” or “.R” at the end of your bones for them to symmetrize properly.
+ 9. Parent (bind) the mesh to the armature. Do this by selecting the mesh first, select the armature, and then press ‘CTRL-P,’ and choose “with automatic weights.” If you do not see this option, you have selected in the reverse order.
+10. If you are getting any unwanted deformation, watch the weight paint tutorials and use the weight painting tool to clean up the vertex weights.
+11. Pose the biped to be in a sitting pose on a prop like a bench or chair.
+12. Save as **_rigging-LASTNAME.blend_** and upload to the submission dropbox.
+13. Double check that you've included all files and that your .zip file can be downloaded and opened.
