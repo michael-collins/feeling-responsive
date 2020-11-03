@@ -13,10 +13,9 @@ page_sections:
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Practice keyframe animation of translation, rotation, and scale properties.
-  - Become familiarized with keyframe animation.
-  - Become familiarized with the purpose of pivot points and parent objects.
-  - Practice applying camera constraints.
+  - Practice setting up Inverse Kinematics (IK) bone constraints.
+  - Practice modeling to good edge flow for deformation.
+  - Become familiarized with creating and binding a character armature.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
