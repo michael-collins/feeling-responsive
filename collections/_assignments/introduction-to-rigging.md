@@ -98,7 +98,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/ex-6-beginner-banner-compressed.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Instructions
