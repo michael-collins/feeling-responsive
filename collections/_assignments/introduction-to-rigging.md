@@ -39,6 +39,7 @@ page_sections:
   - url: https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/biped-base-mesh.fbx
     title: biped-base-mesh.fbx
     link_style: hosted_file
+  content: Download this model to complete the assignment.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
