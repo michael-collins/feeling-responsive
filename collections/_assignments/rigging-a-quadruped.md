@@ -49,11 +49,14 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: 'Rigging using the Rigify Add-on '
-    youtube_url: https://www.youtube.com/watch?v=MZg97cmTcIs
-    custom: ''
   - title: Low Poly Animals
     youtube_url: https://www.youtube.com/watch?v=6mT4XFJYq-4
+    custom: ''
+  - title: Quadruped Locomotion
+    youtube_url: https://www.youtube.com/watch?v=tLrRlXxM5Yw
+    custom: ''
+  - title: 'Rigging using the Rigify Add-on '
+    youtube_url: https://www.youtube.com/watch?v=MZg97cmTcIs
     custom: ''
   links: []
 - template: assignment-rubric
@@ -99,12 +102,12 @@ published: false
 ---
 ## Instructions
 
- 1. Watch the rigging tutorials.
- 2. Model a quadruped (four-footed animal). 
+ 1. Watch the tutorials.
+ 2. Create a polygonal model a quadruped (four-footed animal) from scratch. I suggest a variation of a cat or dog.
  3. Use the Rigify add-on to add an animal rig.
  4. Make sure you adjust and paint vertex weights to create pleasing deformation.
- 5. Create a 1-5 second animation of the animal jumping up onto a ledge.
- 6. Se up a camera to frame the shot.
+ 5. Create an animated walk cycle for the animal.
+ 6. Set up a camera to frame the shot.
  7. To create a video of the viewport’s animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
  8. Choose **View** ⟶ **Viewport Render Animation** to create the animation.
  9. Save as **_LASTNAME_-animal-rig-animation_.zip_** and upload to the submission dropbox.
