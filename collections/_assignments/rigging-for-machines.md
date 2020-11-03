@@ -8,36 +8,36 @@ page_sections:
   block: assignment-a-description
   title: Description
   content: In this exercise, students will practice modeling, rigging, and animating
-    a quadruped animal.
+    a hard-surface robot arm.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
   - Practice setting up Inverse Kinematics (IK) bone constraints.
-  - Practice modeling to good edge flow for deformation.
-  - Become familiarized with creating and binding an armature using the Rigify add-on.
+  - Practice hard surface modeling.
+  - Become familiarized with creating and binding an armature for hard surface models.
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
-  content: To get a deeper understanding of how Blender's rendering system works,
-    have a look these tutorials
+  content: To get a deeper understanding of how Blender's rigging tools work, have
+    a look these tutorials
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Low Poly Animals
-    youtube_url: https://www.youtube.com/watch?v=6mT4XFJYq-4
+  - title: Introduction To IK Part 1
+    youtube_url: https://www.youtube.com/watch?v=LYqsEEgan7s
     custom: ''
-  - title: Quadruped Locomotion
-    youtube_url: https://www.youtube.com/watch?v=tLrRlXxM5Yw
+  - title: Rig A Multi Stage-Piston
+    youtube_url: https://www.youtube.com/watch?v=3smICn4l-d4
     custom: ''
-  - title: Rig ANYTHING with Rigify
-    youtube_url: https://www.youtube.com/watch?v=6LM50gJJOrQ
+  - title: How To Rig A Piston Part 1
+    youtube_url: https://www.youtube.com/watch?v=QEUVgS3Ag-g
     custom: ''
-  - title: 'Rigging using the Rigify Add-on '
-    youtube_url: https://www.youtube.com/watch?v=MZg97cmTcIs
+  - title: How To Rig A Piston Part 2
+    youtube_url: https://www.youtube.com/watch?v=F6eBF76heYg
     custom: ''
   links: []
 - template: assignment-rubric
@@ -83,16 +83,16 @@ published: false
 ---
 ## Instructions
 
- 1. Watch the tutorials.
- 2. Create a polygonal model a quadruped (four-footed animal) from scratch. I suggest a variation of a cat or dog.
- 3. Use the Rigify add-on to add an animal rig.
- 4. Generate or create the relevant IK/FK bone constraints and controllers.
- 5. Make sure you adjust and paint vertex weights to create pleasing deformation.
- 6. Create an animated walk cycle for the animal.
- 7. Set up a camera to frame the shot.
- 8. To create a video of the viewport’s animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
- 9. Choose **View** ⟶ **Viewport Render Animation** to create the animation.
-10. Save as **_LASTNAME_-animal-rig-animation_.zip_** and upload to the submission dropbox.
-11. Double check that you've included all files and that your .zip file can be downloaded and opened. This should include:
-    * `.blend` file
-    * `.mp4` video file
+1. Watch the tutorials.
+2. Design a unique robot arm made of at least 4 main parts, including a gripper, a forearm, an upper arm, and a piston. You may add additional elements as you see fit.
+   * Create a rig for hard objects (do not download an existing rig)
+   * include at least one rigged piston.
+   * Include and IK system to control and animate the arm.
+3. Create a short animation that shows off the capability of your robot arm design and rig.
+4. Set up a camera to frame the shot.
+5. To create a video of the viewport’s animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
+6. Choose **View** ⟶ **Viewport Render Animation** to create the animation.
+7. Save as **_LASTNAME_-robot-rig-animation.zip** and upload to the submission dropbox.
+8. Double check that you've included all files and that your .zip file can be downloaded and opened. This should include:
+   * `.blend` file
+   * `.mp4` video file
