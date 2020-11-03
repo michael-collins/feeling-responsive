@@ -21,15 +21,16 @@ page_sections:
 - template: assignment-demo
   block: assignment-a-demo
   title: Demonstration Videos
-  content: In this video demonstration, I show a basic keyframe animation workflow.
+  content: In this video demonstration, I show how to create a basic armature rigging
+    workflow.
   video:
-  - title: 'Introduction to Animation Tutorials: Vimeo Playlist'
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7727314/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
-  - title: 'Introduction to Animation Tutorials: Youtube Playlist'
-    custom: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-V2nChTadrUCq3o-AvWZ3A6mQTd8O9uJ"
+  - title: 'Introduction to Rigging Tutorials: Youtube Playlist'
+    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrX4lOk4gv0XjdSVpB31qOtJ"
       frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
+  - title: 'Introduction to Rigging Tutorials: Vimeo Playlist'
+    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7753495/embed'
+      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
   headline: Demonstration videos
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
