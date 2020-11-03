@@ -22,3 +22,4 @@ fields:
   label: permalink
 pages:
 - collections/_agendas/animation-agenda/animation-agenda.md
+- collections/_agendas/rigging-agenda/rigging-agenda.md

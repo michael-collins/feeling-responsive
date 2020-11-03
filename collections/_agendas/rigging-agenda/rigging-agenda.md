@@ -3,7 +3,7 @@ layout: page
 title: Introduction to Rigging in Blender
 categories: agenda
 comments: false
-excerpt: 
+excerpt: ''
 
 ---
 ### Agenda
