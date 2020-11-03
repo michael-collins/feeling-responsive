@@ -4,6 +4,7 @@ title: Introduction to Rigging in Blender
 categories: agenda
 comments: false
 excerpt: ''
+permalink: "/agenda/rigging/"
 
 ---
 ### Agenda
