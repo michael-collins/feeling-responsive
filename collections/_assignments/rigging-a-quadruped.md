@@ -49,15 +49,11 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos (28-41)
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-  - title: Weight painting – Part 1
-    youtube_url: https://www.youtube.com/watch?v=v6_m3xFSlIU
+  - title: 'Rigging using the Rigify Add-on '
+    youtube_url: https://www.youtube.com/watch?v=MZg97cmTcIs
     custom: ''
-  - title: Weight painting – Part 2
-    youtube_url: https://www.youtube.com/watch?v=rG82fogtuCg
+  - title: Low Poly Animals
+    youtube_url: https://www.youtube.com/watch?v=6mT4XFJYq-4
     custom: ''
   links: []
 - template: assignment-rubric
@@ -103,16 +99,15 @@ published: false
 ---
 ## Instructions
 
- 1. Watch the rigging character rigging tutorials.
- 2. Download the base mesh model FBX file.
- 3. **File** → **Import** the FBX file into a new Blender scene.
- 4. Scale up the model.
- 5. Model the T-pose for armature deformation. Do not model the character into a sitting pose, it must be modeled in a T pose, and posed in a seated position via the armature rig.
- 6. Watch the demo video series to learn how to add and create good edge flow for deformation. Add geometry to articulate the head, torso, legs, and arms.
- 7. **Object** → **Apply** all transforms including scale, rotation, and location.
- 8. Create an armature with bones for the pelvis, lower back, upper back, lower legs, upper legs, feet, shoulders, arms, hands, neck, and head. Name and number them for your reference. You must put a “.L” or “.R” at the end of your bones for them to symmetrize properly.
- 9. Parent (bind) the mesh to the armature. Do this by selecting the mesh first, select the armature, and then press ‘CTRL-P,’ and choose “with automatic weights.” If you do not see this option, you have selected in the reverse order.
-10. If you are getting any unwanted deformation, watch the weight paint tutorials and use the weight painting tool to clean up the vertex weights.
-11. Pose the biped to be in a sitting pose on a prop like a bench or chair.
-12. Save as **_rigging-LASTNAME.blend_** and upload to the submission dropbox.
-13. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 1. Watch the rigging tutorials.
+ 2. Model a quadruped (four-footed animal). 
+ 3. Use the Rigify add-on to add an animal rig.
+ 4. Make sure you adjust and paint vertex weights to create pleasing deformation.
+ 5. Create a 1-5 second animation of the animal jumping up onto a ledge.
+ 6. Se up a camera to frame the shot.
+ 7. To create a video of the viewport’s animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
+ 8. Choose **View** ⟶ **Viewport Render Animation** to create the animation.
+ 9. Save as **_LASTNAME_-animal-rig-animation_.zip_** and upload to the submission dropbox.
+10. Double check that you've included all files and that your .zip file can be downloaded and opened. This should include:
+    * `.blend` file
+    * `.mp4` video file
