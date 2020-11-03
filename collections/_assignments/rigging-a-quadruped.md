@@ -55,6 +55,9 @@ page_sections:
   - title: Quadruped Locomotion
     youtube_url: https://www.youtube.com/watch?v=tLrRlXxM5Yw
     custom: ''
+  - title: Rig ANYTHING with Rigify
+    youtube_url: https://www.youtube.com/watch?v=6LM50gJJOrQ
+    custom: ''
   - title: 'Rigging using the Rigify Add-on '
     youtube_url: https://www.youtube.com/watch?v=MZg97cmTcIs
     custom: ''
