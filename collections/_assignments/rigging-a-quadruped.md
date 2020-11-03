@@ -73,7 +73,7 @@ page_sections:
     section: ''
 topics_covered: []
 prerequisites: []
-difficulty_level: " beginner"
+difficulty_level: " intermediate"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/ex-6-intermediate-banner-compressed.jpg"
