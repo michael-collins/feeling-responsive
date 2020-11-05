@@ -8,8 +8,8 @@ page_sections:
   block: assignment-a-description
   title: Description
   content: In this project, you will apply creative 3D production workflows to develop
-    images or other media using 3D software tools. You will pursue your own interests
-    while balance solving for the project's theme.
+    a 30 second animation. You will pursue your own interests while balance solving
+    for the project's theme.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -21,45 +21,6 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Five Obstructions
-  content: "<strong>Synopsis:</strong> Lars von Trier now enters the world of documentary
-    filmmaking alongside his idol, Danish filmmaker Jorgen Leth. In 1967, Leth made
-    a 12 minute feature film called The Perfect Human. In the year 2000, von Trier
-    challenged Jorgen Leth to remake his film five times, each time with a new obstruction
-    to force Leth to rethink the story and characters of the original film. Lars von
-    Trier sets a game in motion that is full of traps and vicious turns hoping each
-    time Leth will fail but it turns out to have a surprising outcome."
-  material:
-  - readings:
-    - _readings/beginner-lesson-1-reading.md
-  readings: []
-  video:
-  - title: Five Obstructions by Lars Von Trier
-    custom: "<iframe allow='encrypted-media;' width='640' height='390' src='https://pennstate.kanopy.com/embed/114028?v=20190405'
-      frameborder='0' allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>"
-  links:
-  - title: 'Five Obstructions: Link to Film on Kanopy (PSU Login)'
-    url: https://pennstate.kanopy.com/video/five-obstructions
-    link_style: new tab
-  - url: https://observer.com/2016/10/how-constraints-breed-creativity/
-    title: How Constraints Breed Creativity
-    link_style: new tab
-  - url: http://www.ephemerajournal.org/contribution/five-obstructions-experiencing-human-side-enterprise
-    title: "'The Five Obstructions': Experiencing the human side of enterprise"
-    link_style: new tab
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Concept Development Worksheet
-  image-gallery: []
-  links:
-  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/art314-project-1-ideation.pdf
-    link_style: " download"
-    title: Project 1 Ideation Sheet
-  content: If you are having trouble developing a concept, please use the provided
-    worksheet as a guided method for exploring potential ideas. You may need to try
-    it a few times before interesting ideas emerge.
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
   title: Tutorials for project format types
   video: []
   content: Please explore the Blender Resources Page to explore what it possible in
@@ -68,9 +29,6 @@ page_sections:
     need to do your own research and technical investigations to learn how to do other
     things that you are interested in, but aren't covered in the course materials.
   links:
-  - title: p3d.in (A Sketchfab.com Alternative)
-    link_style: new tab
-    url: https://p3d.in/b
   - title: Blender Learning Resources Page
     link_style: new tab
     url: https://michaelcollins.xyz/3d-digital-studio-master/software/blender/
