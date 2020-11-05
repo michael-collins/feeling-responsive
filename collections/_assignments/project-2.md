@@ -21,13 +21,22 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Tutorials for project format types
-  video: []
+  title: Tutorials for creating shots and edits
+  video:
+  - title: Camera Movement
+    youtube_url: https://www.youtube.com/watch?v=9LkKgoq584M
+    custom: ''
+  - title: Shot Layout and Composition - By D4Darious
+    youtube_url: https://www.youtube.com/watch?v=cIvGRytmRaw
+    custom: ''
+  - title: Camera Angles
+    youtube_url: https://www.youtube.com/watch?v=SlNviMsi0K0
+    custom: ''
+  - title: Cuts and Transitions 101
+    youtube_url: https://www.youtube.com/watch?v=OAH0MoAv2CI
+    custom: ''
   content: Please explore the Blender Resources Page to explore what it possible in
-    Blender (and has tutorials to support your training). I've also posted links to
-    some tutorials for other media types like 3D printing and paper craft. You'll
-    need to do your own research and technical investigations to learn how to do other
-    things that you are interested in, but aren't covered in the course materials.
+    Blender (and has tutorials to support your training)
   links:
   - title: Blender Learning Resources Page
     link_style: new tab
