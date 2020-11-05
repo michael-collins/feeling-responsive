@@ -106,3 +106,19 @@ Beginner assignment: [Introduction to Animation](https://michaelcollins.xyz/3d-d
 Intermediate Assignment: [Animating Tetris](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-tetris.html)
 
 Advanced Assignment: [Animating Evolved Virtual Creatures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-evolved-virtual-creatures.html)
+
+### Week 10
+
+***
+
+#### Lecture agenda
+
+[Rigging]({{site.baseurl}}/agenda/animation/)
+
+#### Exercises
+
+Beginner assignment: [Introduction to Rigging](https://michaelcollins.xyz/3d-digital-studio-master/assignments/introduction-to-rigging.html)
+
+Intermediate Assignment: [Rigging a Quadruped](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-a-quadruped.html)
+
+Advanced Assignment: [Rigging for Machines](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-for-machines.html)
