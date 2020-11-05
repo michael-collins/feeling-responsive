@@ -1,5 +1,5 @@
 ---
-title: Project 2 - Obstructions
+title: Project 2 - Cycles
 layout: blocks-assignment-view
 date-assigned: 2020-08-01T04:00:00.000+00:00
 date-due: 2020-08-08T04:00:00.000+00:00
@@ -159,109 +159,71 @@ published: false
 ---
 ## Overview
 
-**Project theme:** Weapons of Mass Obstruction
+**Project theme:** "______ cycles"
 
-For this project, you produce an experimental animation centered around the theme, **“Weapons of Mass Obstruction”**. This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you produce an animation centered around a theme that you create by choosing a pair word and combining it with **“cycles”**. For example, if your pair word is "light", then your project theme would be "light cycles". This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
-#### About the theme:
-
-In the film, Five Obstructions, Lars von Trier, a friend and former student of famed but reclusive filmmaker, Jorgen Leth, challenges Leth to get back into filmmaking by asking him to re-produce his film, the "Perfect Human," but with obstacles meant to encourage a creative response.
-
-An **obstruction** is simply a constraint or rule, but one conceived as a means to get you out of a comfort zone or habit, an obstacle for growth. Open-ended creative projects are very difficult to produce because if you are able to do anything, then choosing what to do becomes an impossible burden, and many creative often fall into a rut where they start producing work they are comfortable with. Constraints allow a person to focus on solving a problem rather than spending time trying to understand what the problem is. However, you don't always have the luxury of getting handed constraints, and therefore the art of the task becomes about how you develop and choose your own constraints, or as we will refer to them, obstructions.
-
-While generally thought of a thing to hurt people, in the spirit of this project, **_a weapon is a vehicle designed to wedge in place an obstruction_**, and therefore, its role is relatively positive. In the film, the conversation between Lars von Trier and Jorgen Leth becomes the weapon that generates the obstructions used to create new films.
-
-#### Generating Obstructions:
-
-What is a behavior or loop that you find yourself stuck in? How can you use obstructions for force an uncomfortable change in habit?
-
-What is some **_thing_** (not a person) you love, are obsessed with, purchase or think about purchasing, or can't stop thinking about? 
-
-**Obstruction 1:** Include the thing in your animation.
-
-Obstruction 2: 
-
 ### Project format
 
 Choose a format that you can reasonable accomplish within the timeframe of the project
 
-T**he video should contain exactly 30 seconds of animation ±5 seconds**. While this may not seem like a very long time for an animation, I assure you it's actually quite a lot of work to make 30 seconds well crafted and polished in terms of animation, modeling and materials , and rendering quality.  
+T**he video should contain 30 seconds of animation ±5 seconds**. While this may not seem like a very long time for an animation, it's actually quite a lot of work to make 30 well crafted and polished seconds in terms of animation, modeling and materials, and rendering quality.
 
 ### Production Process (All steps required)
 
-#### Week 1: Concept development
+#### Week 1: Pre-production
 
-Use one of the five models to develop a concept. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
+1. **Concept(s):**
+   * Resources
+     * What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
+   * Requirements:
+     * 3 to 5 different written ideas. 
+     * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
+     * Visual reference sheet(s): [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
+     * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
+2. **Storyboard**
+   * Resources
+     * Template download: [storyboard-template.pdf](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/storyboard-template.pdf)
+     * Tutorial 1: [LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fanimation-foundations-storyboarding%3Ftrk%3Dshare_ent_url&account=76811570)
+     * Tutorial 2: [Storyboarding](https://www.youtube.com/watch?v=NPrkxj2MyZI)
+   * Requirements:
+     * Create thumbnail sketches with descriptions to show how your animation will work.
+     * Upload storyboards to assignment dropbox
 
-1. **Concept(s):** 
-   * Sketch, label, and write ideas in sketchbook. Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
-   * Upload `jpg` or `png` images of sketchbook pages
-   * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
-   * **If you used the concept development worksheet** linked in the assignment rather than a sketchbook, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
-   * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
-2. **Storyboard:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
-   * You can use Photoshop or [Mural.co](https://www.mural.co/)
-   * Submit as a `png` or `jpg`
-3. **Animatic:** Describe what you will be doing
-   * Include name, date, chosen project model, and project format
-   * Write a **paragraph** description of what you intend to make.
-   * Upload this in an MS Word `doc` format
+#### Week 2-4: Production
 
-#### Week 2: Production begins
-
-1. Submit screenshots from Blender showing significant progress.
-2. Post your screenshots to the **Project 1: Progress 1 screenshots** discussion thread
+1. **Animatic**
+   * Tutorial: [Shot composition advice](https://www.youtube.com/watch?v=cIvGRytmRaw) 
+   * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
+   * Requirements:
+     * Create a 15-30 second compressed .mp4 of your viewport animation videos edited with sound. Please consider relevant aspects of camera, composition, staging, pacing, and animation.
+     * 1080 HD preset
+     * Post your in-process work to the **Project 2: Progress report** discussion thread
+2. **Test Renders**
+   * Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
+   * Requirements:
+     * 3 to 5 test renders, each from a different part of the animation
+     * 1080 HD preset
+     * Render time must be under a minute (unless you plan to pay for an online render farm)
 3. Meet with instructor if needed
 
-#### Week 3: Production continues
+#### Week 4-5: Finish production
 
-1. Submit screenshots from Blender showing significant progress
-2. Submit a draft of your 150 word minimum work statement
-3. Participate in peer reviews for statement drafts
-4. Post your screenshots to the **Project 1: Progress 2 screenshots** discussion thread
-5. Meet with instructor if needed
-
-#### Week 4: Finish production and present work
-
-1. When uploading files to the dropboxes, ensure that you use the naming conventions and folder structure, listed below.
-   1. **Week 1: Concepts**
-      * Requirements:
-        * 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
-        * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
-        * Visual reference sheet(s): [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
-        * Concept drawings: Add scans or photographs. These must be ‘well-photographed’ and cropped/straightened photos of your concept drawings and text.
-   2. **Week 2: Storyboard**
-      * Template download: [storyboard-template.pdf](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/storyboard-template.pdf)
-      * Tutorial: [LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fanimation-foundations-storyboarding%3Ftrk%3Dshare_ent_url&account=76811570)
-      * Requirements:
-        * Create thumbnail sketches with descriptions to show how your animation will work. If you had to pitch the storyboards
-        * 1080 HD preset
-   3. **Week 3: Animatic**
-      * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
-      * Requirements:
-        * Create a 15-30 second compressed .mp4 of your playblasts edited with sound. Please consider relevant aspects of camera, composition, staging, pacing, and animation.
-        * 1080 HD preset
-   4. **Week 4: Test Renders**
-      * Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
-      * Requirements:
-        * 3 to 5 test renders, each from a different part of the animation
-        * 1080 HD preset
-        * Render time must be under a minute (unless you plan to pay for an online render farm)
-   5. **Statement**
-      * Requirements:
-        * Write and add upload a statement format named (min 150 words) called **_statement.doc_**
-   6. **Final Submission**
-      * Requirements:
-        * Upload .mp4 video file in compressed H.264 format
-        * `.txt` file with link to Vimeo.com
-   7. **Revision (optional)**
-      * Requirements:
-        * Upload revised .mp4 video file in compressed H.264 format
-        * `.txt` file with link to Vimeo.com
+1. **Statement**
+   * Requirements:
+     * Write and add upload a statement format named (min 150 words) called **_statement.doc_**
+2. **Final Submission**
+   * Requirements:
+     * Upload .mp4 video file in compressed H.264 format
+     * `.txt` file with link to Vimeo.com
+3. **Revision (optional)**
+   * Requirements:
+     * Upload revised .mp4 video file in compressed H.264 format
+     * `.txt` file with link to Vimeo.com
 
 ### Writing a work statement
 
@@ -277,18 +239,16 @@ A work statement is a clear articulation about what you've made. This is not a j
 
 1. Your name and date
 2. Title of your work
-3. Which of the five project models you used
-   * IE - "For this project, I used the "bounding" model."
-4. What did you create?
-   * IE - "I created images that depict ..."
-5. Why did you make it?
+3. What did you create?
+   * IE - "I created an animation that depict ..."
+4. Why did you make it?
    * IE - "I created this work because I am interested in exploring ..."
-6. What is the work about?
+5. What is the work about?
    * IE - "This work is primarily focused on ..."
-7. How is what you did in your work demonstrating what what you've said the work is about?
+6. How is what you did in your work demonstrating what what you've said the work is about?
    * IE - "You can see an example of this in the work where I have used ... to reference ..."
-8. Were there any unexpected, interesting, or strange outcomes?
-9. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+7. Were there any unexpected, interesting, or strange outcomes?
+8. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
 
 ### Constraints
 
