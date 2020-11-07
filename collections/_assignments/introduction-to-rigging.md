@@ -35,7 +35,7 @@ page_sections:
   block: assignment-d-referencedmaterial
   title: Base Mesh Model Download
   links:
-  - url: https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/biped-base-mesh.fbx
+  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/exercise-downloads/biped-base-mesh.fbx
     title: biped-base-mesh.fbx
     link_style: " download"
   content: Download this model to complete the assignment.
