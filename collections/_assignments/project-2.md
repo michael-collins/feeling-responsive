@@ -127,7 +127,7 @@ accordion_mode: true
 
 **Project theme:** "______ cycles"
 
-For this project, you produce an animation centered around a theme that you create by choosing a pair word and combining it with **“cycles”**. For example, if your pair word is "light", then your project theme would be "light cycles". This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you will produce an animation centered around a theme that you create by choosing a pair word and combining it with **“cycles”**. For example, if your pair word is "light", then your project theme would be "light cycles". This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
@@ -147,7 +147,7 @@ T**he video should contain 30 seconds of animation ±5 seconds**. While this may
    * Resources
      * What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
    * Requirements:
-     * 3 to 5 different written ideas. 
+     * 3 to 5 different written ideas.
      * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
      * Visual reference sheet(s): [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
      * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
@@ -163,7 +163,7 @@ T**he video should contain 30 seconds of animation ±5 seconds**. While this may
 #### Week 2-4: Production
 
 1. **Animatic**
-   * Tutorial: [Shot composition advice](https://www.youtube.com/watch?v=cIvGRytmRaw) 
+   * Tutorial: [Shot composition advice](https://www.youtube.com/watch?v=cIvGRytmRaw)
    * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
    * Requirements:
      * Create a 15-30 second compressed .mp4 of your viewport animation videos edited with sound. Please consider relevant aspects of camera, composition, staging, pacing, and animation.
