@@ -85,7 +85,7 @@ Intermediate Assignment: [Character Modeling]({{site.baseurl}}/assignments/chara
 
 Advanced Assignment: [NPR Comic Rendering]({{site.baseurl}}/assignments/npr-comic-rendering.html)
 
-### Week 5-8
+### Week 5 – 8
 
 ***
 
@@ -122,3 +122,9 @@ Beginner assignment: [Introduction to Rigging](https://michaelcollins.xyz/3d-dig
 Intermediate Assignment: [Rigging a Quadruped](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-a-quadruped.html)
 
 Advanced Assignment: [Rigging for Machines](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-for-machines.html)
+
+### Week 11 – 15
+
+***
+
+Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-studio-master/assignments/project-2.html)
