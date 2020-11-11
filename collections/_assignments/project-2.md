@@ -21,6 +21,53 @@ page_sections:
   list-item: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Inspiration
+  video:
+  - title: 'FORMS IN NATURE: Understanding Our Universe'
+    vimeo_url: https://vimeo.com/155262093
+    custom: ''
+  - title: Childhood - [Adult Swim] - David OReilly
+    youtube_url: https://www.youtube.com/watch?v=PmPwU5ytgVw
+    custom: ''
+  - title: Walk Cycles
+    vimeo_url: https://vimeo.com/100592289
+    custom: ''
+  - title: 30 motion tests in 30 seconds
+    vimeo_url: https://vimeo.com/17411241
+    custom: ''
+  - title: Bloom
+    vimeo_url: https://vimeo.com/141974554
+    custom: ''
+  - title: Spherical Harmonics
+    vimeo_url: https://vimeo.com/86701416
+    custom: ''
+  - title: FITC presents FORM // Chicago 2015 Titles
+    vimeo_url: https://vimeo.com/143914234
+    custom: ''
+  - title: Squares 2017 | Digital Invitation
+    vimeo_url: https://vimeo.com/217314168
+    custom: ''
+  - title: geist.xyz
+    vimeo_url: https://vimeo.com/150824660
+    custom: ''
+  - title: Simple Shapes in Motion
+    vimeo_url: https://vimeo.com/150594088
+    custom: ''
+  - title: Spherikal
+    vimeo_url: https://vimeo.com/39792837
+    custom: ''
+  - title: 30 Seconds / Edition One / Tomas Garcia
+    vimeo_url: https://vimeo.com/130886893
+    custom: ''
+  links:
+  - url: https://www.11secondclub.com/competitions
+    link_style: new tab
+    title: 11 Second Club
+  - title: Free Farm
+    url: http://www.freefarm.co.uk/art
+    link_style: new tab
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Tutorials for creating shots and edits
   video:
   - title: Camera Movement
@@ -84,36 +131,6 @@ page_sections:
       specified requirements.
     criteria_weight: 20%
   rubric_title: Project Rubric
-- template: assignment-submission
-  block: assignment-g-submission
-  submission-notes-enabled: true
-  submission_uploads_enabled: true
-  submission:
-  - title: Concept
-    url: https://psu.instructure.com/courses/2080832/assignments/12133058
-  - title: Progress 1
-    url: https://psu.instructure.com/courses/2080832/assignments/12133061
-  - title: Progress 2
-    url: https://psu.instructure.com/courses/2080832/assignments/12272632
-  - title: Project 1 Final Submission
-    url: https://psu.instructure.com/courses/2080832/assignments/12133057
-  headline: 'Submissions: World Campus (22081--WC---WBDART----303-------001-)'
-  content: 'Submissions only for WC section: World Campus (22081--WC---WBDART----303-------001-)'
-- template: assignment-submission
-  block: assignment-g-submission
-  submission-notes-enabled: true
-  submission_uploads_enabled: true
-  headline: 'Submissions: UP (22081--UP---P-DART----303-------001-)'
-  submission:
-  - title: Concept
-    url: https://psu.instructure.com/courses/2059597/assignments/12193180
-  - title: Progress 1
-    url: https://psu.instructure.com/courses/2059597/assignments/12193183
-  - title: Progress 2
-    url: https://psu.instructure.com/courses/2059597/assignments/12272930
-  - title: Project 1 Final Submission
-    url: https://psu.instructure.com/courses/2059597/assignments/12193179
-  content: 'Submissions only for UP section: UP (22081--UP---P-DART----303-------001-)'
 topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
