@@ -152,9 +152,17 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 ### Project format
 
-Choose a format that you can reasonable accomplish within the timeframe of the project
+Choose a format that you can reasonable accomplish within the timeframe of the project. Examples include:
 
-T**he video should contain 30 seconds of animation ±5 seconds**. While this may not seem like a very long time for an animation, it's actually quite a lot of work to make 30 well crafted and polished seconds in terms of animation, modeling and materials, and rendering quality.
+* Narrative short film
+* Motion graphics for branding and identity
+* Explainer animation
+* VJ loops for live performances
+* Experimental or non-narrative content: [Examples on vimeo.com](https://vimeo.com/categories/experimental)
+* Scientific or data-driven simulations and visualizations
+* Projection mapping (projecting video onto structures or surfaces).
+
+**The video should contain 30 seconds of animation ±5 seconds.** While this may not seem like a very long time for an animation, it's actually quite a lot of work to make 30 well crafted and polished seconds in terms of animation, modeling and materials, and rendering quality.
 
 ### Production Process (All steps required)
 
