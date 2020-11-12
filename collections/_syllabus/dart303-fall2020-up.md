@@ -80,21 +80,23 @@ Your "work" in this course is largely expressed as digital data. You should take
 
 ### Course Requirements
 
-Each class will meet in 401 Paterson. Attendance is mandatory; as this time will be used for critiques, reading discussions, presentations, video screenings, collaborative or group work, and the dissemination of general information. These sessions will at all times emphasize critical analysis and in­class discussion. In terms of studio production, whole class meetings may review work­in­progress; assess ongoing technical concerns; assist with immediate needs of a project concept and execution all the while continuing to develop a language appropriate for evaluation and critique. While there will be a limited amount of in­class time to experiment and complete work, you will be required to spend many hours working outside of class­ time.
+Attendance is mandatory; as this time will be used for critiques, reading discussions, presentations, video screenings, collaborative or group work, and the dissemination of general information. These sessions will at all times emphasize critical analysis and in­class discussion. In terms of studio production, whole class meetings may review work­in­progress; assess ongoing technical concerns; assist with immediate needs of a project concept and execution all the while continuing to develop a language appropriate for evaluation and critique. While there will be in­-class time to experiment and complete work, you will be required to spend many hours working outside of class­ time.
 
 ### Course Prerequisites
 
-ART 201, ART 211, and enrollment in the ART BA, ART BFA, Art Education, or Integrative Arts degree program or IDS program.
+DART 202, and enrollment in the Art BA, Art BFA, Art Education BS, Digital Arts and Media Design BDes or Photo BDes degree program.
 
 ### Attendance Policy
 
-LATE EXERCISES AND PROJECTS WILL NOT BE GRADED. Attendance is mandatory and professionalism both in and outside of class is a MUST. You are expected to participate in class discussions and critiques. Respect for others and class materials (cameras, decks etc) is expected. Students will be allowed three (3) absences without penalty. Any absences in excess of three (3) will result in a half letter grade reduction of the final grade for the course per absence. All absences will be counted. A student who will acquire absences due to a University sponsored activities must meet with me prior to the absences to make any special arrangements for missed work. A student who does not meet with me before the absences are incurred will be counted as absent. Any special medical or personal problems that occur, where absenteeism will exceed the allowed three may require course withdrawal or incomplete status on the final grade. Seven (7) absences mandates an automatic grade of F.
+Attendance is mandatory and professionalism both in and outside of class is a MUST. You are expected to participate in class discussions and critiques. Respect for others and class materials (cameras, decks etc) is expected. Students will be allowed three (3) absences without penalty. Any absences in excess of three (3) will result in a half letter grade reduction of the final grade for the course per absence. All absences will be counted. A student who will acquire absences due to a University sponsored activities must meet with me prior to the absences to make any special arrangements for missed work. A student who does not meet with me before the absences are incurred will be counted as absent. Any special medical or personal problems that occur, where absenteeism will exceed the allowed three may require course withdrawal or incomplete status on the final grade. Seven (7) absences mandates an automatic grade of F.
 
 ### Grading
 
+Unforseen cicumstances or changes in technology can influence how many exercises are assigned. Sometimes, changes mid-semester are made, but never at the detrement for a student's ability to complete the assigned work.  
+
 #### Exercises
 
-Approximately 8 exercises (~45% Total) 
+Approximately 6-7 exercises (~45% Total) 
 
 #### Projects
 
