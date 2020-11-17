@@ -24,14 +24,7 @@ page_sections:
   title: Demonstration Videos
   content: In this video demonstration, I show how to create a basic armature rigging
     workflow.
-  video:
-  - title: 'Introduction to Rigging Tutorials: Youtube Playlist'
-    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrX4lOk4gv0XjdSVpB31qOtJ"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title: 'Introduction to Rigging Tutorials: Vimeo Playlist'
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7753495/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  video: []
   headline: Demonstration videos
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
@@ -99,7 +92,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/ex-6-beginner-banner-compressed.jpg"
+  image_fullwidth: "/uploads/ex-7-intro-banner-compressed.jpg"
 accordion_mode: true
 published: false
 
