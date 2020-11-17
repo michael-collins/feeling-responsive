@@ -7,15 +7,17 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, students will practice correcting a character model's
-    edge-flow and set up an armature rig to pose the character in a sitting position.
+  content: In this exercise, you will apply an image sequence as texture object in
+    Blender, render a final Blender animation as an image sequence, and import it
+    into after effects. You will create a compressed video in a web streaming format
+    called H.264.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
   numbered-items-list:
-  - Practice setting up Inverse Kinematics (IK) bone constraints.
-  - Practice modeling to good edge flow for deformation.
-  - Become familiarized with creating and binding a character armature.
+  - Become familiarized with adding animation sequences as moving textures on 3D geometry.
+  - Practice rendering image sequences and producing video files capable to be streamed
+    online.
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
@@ -33,10 +35,10 @@ page_sections:
   headline: Demonstration videos
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Base Mesh Model Download
+  title: Image Sequence Download
   links:
-  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/exercise-downloads/biped-base-mesh.fbx
-    title: biped-base-mesh.fbx
+  - url: https://drive.google.com/file/d/1ak9N8mCqSPvSQetO7ldxMjGmCVo2JI1e/view?usp=sharing
+    title: image-sequence.zip (Large ~82MB file)
     link_style: " download"
   content: Download this model to complete the assignment.
 - template: assignment-supportingmaterial
@@ -49,16 +51,17 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: Blender Foundation 2.8 Videos (28-41)
+  - title: 'Blender 2.8 Tutorial: Rendering an Animation'
+    youtube_url: https://www.youtube.com/watch?v=LPbUuMs2i20
+    custom: ''
+  - title: Blender 2.8 Tutorial | Alpha Transparency in the EEVEE engine
+    youtube_url: https://www.youtube.com/watch?v=lFWiU0a5CiQ
+    custom: ''
+  - title: Importing an image sequence into AfterEffects and exporting to H.264
     custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
       frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
-  - title: Weight painting – Part 1
-    youtube_url: https://www.youtube.com/watch?v=v6_m3xFSlIU
-    custom: ''
-  - title: Weight painting – Part 2
-    youtube_url: https://www.youtube.com/watch?v=rG82fogtuCg
-    custom: ''
+    vimeo_url: https://vimeo.com/301944187
   links: []
 - template: assignment-rubric
   block: assignment-f-rubric
@@ -87,9 +90,9 @@ page_sections:
   submission_item: []
   submission:
   - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2059597/assignments/12193176
+    url: https://psu.instructure.com/courses/2059597/assignments/12193177
   - title: World Campus (22081--WC---WBDART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133054
+    url: https://psu.instructure.com/courses/2080832/assignments/12133055
     section: ''
 topics_covered: []
 prerequisites: []
@@ -103,16 +106,15 @@ published: false
 ---
 ## Instructions
 
- 1. Watch the rigging character rigging tutorials.
- 2. Download the base mesh model FBX file.
- 3. **File** → **Import** the FBX file into a new Blender scene.
- 4. Scale up the model.
- 5. Model the T-pose for armature deformation. Do not model the character into a sitting pose, it must be modeled in a T pose, and posed in a seated position via the armature rig.
- 6. Watch the demo video series to learn how to add and create good edge flow for deformation. Add geometry to articulate the head, torso, legs, and arms.
- 7. **Object** → **Apply** all transforms including scale, rotation, and location.
- 8. Create an armature with bones for the pelvis, lower back, upper back, lower legs, upper legs, feet, shoulders, arms, hands, neck, and head. Name and number them for your reference. You must put a “.L” or “.R” at the end of your bones for them to symmetrize properly.
- 9. Parent (bind) the mesh to the armature. Do this by selecting the mesh first, select the armature, and then press ‘CTRL-P,’ and choose “with automatic weights.” If you do not see this option, you have selected in the reverse order.
-10. If you are getting any unwanted deformation, watch the weight paint tutorials and use the weight painting tool to clean up the vertex weights.
-11. Pose the biped to be in a sitting pose on a prop like a bench or chair.
-12. Save as **_rigging-LASTNAME.blend_** and upload to the submission dropbox.
-13. Double check that you've included all files and that your .zip file can be downloaded and opened.
+1. Watch the tutorials.
+2. Create and set a project folder called **_LASTNAME-animated-textures_** save your .blend file in the project folder.
+3. Create an animation with the following:
+   * EEVEE render engine (Cycles is fine, but it may require too much time to render for this exercise)
+   * A polygonal model of a television set with an animated screen texture.
+   * At least 1 second (24 frames of animation)
+4. Render your animation as an image sequence (not a video file) to a folder.
+5. Following the video importing and exporting tutorials. Import your image sequence to After Effects –> Interpret Footage –> Main and change the framerate to 24FPS.
+6. Export an H.264 MP4 movie file with the Vimeo preset. (It should be well under 1MB in total file size). (See tutorials).
+7. Save your animation file as **_LASTNAME-animated-textures.mp4_**.
+8. Save as **_LASTNAME-animated-textures.blend_** and upload to the submission dropbox.
+9. Double check that you've included all files and that your .zip file can be downloaded and opened.
