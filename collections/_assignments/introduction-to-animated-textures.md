@@ -106,7 +106,7 @@ published: false
    * A polygonal model of a television set with an animated screen texture.
    * 3 seconds (72 frames of animation)
 4. Render your animation as an image sequence (not a video file) to a folder.
-5. Following the video importing and exporting tutorials. Import your image sequence to After Effects –> Interpret Footage –> Main and change the framerate to 24FPS.
+5. Following the video importing and exporting tutorials. Import your image sequence to After Effects. The sequence defaults at 30 FPS. Right click on the image sequence footage and choose **Interpret Footage** → **Main**. Change the frame rate to 24FPS.
 6. Export an H.264 MP4 movie file with the Vimeo preset. (It should be well under 1MB in total file size). (See tutorials).
 7. Save your animation file as **_LASTNAME-animated-textures.mp4_**.
 8. Save as **_LASTNAME-animated-textures.blend_** and upload to the submission dropbox.
