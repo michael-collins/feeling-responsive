@@ -30,8 +30,8 @@ page_sections:
   block: assignment-d-referencedmaterial
   title: Image Sequence Download
   links:
-  - url: https://drive.google.com/file/d/1ak9N8mCqSPvSQetO7ldxMjGmCVo2JI1e/view?usp=sharing
-    title: image-sequence.zip (Large ~82MB file)
+  - url: https://drive.google.com/file/d/1b76RfhJXkYOcGn4wCPtNed6XFYwjR6nG/view?usp=sharing
+    title: image-sequence.zip (Large ~57MB file)
     link_style: " download"
   content: Download this model to complete the assignment.
 - template: assignment-supportingmaterial
@@ -104,7 +104,7 @@ published: false
 3. Create an animation with the following:
    * EEVEE render engine (Cycles is fine, but it may require too much time to render for this exercise)
    * A polygonal model of a television set with an animated screen texture.
-   * At least 1 second (24 frames of animation)
+   * 3 seconds (72 frames of animation)
 4. Render your animation as an image sequence (not a video file) to a folder.
 5. Following the video importing and exporting tutorials. Import your image sequence to After Effects –> Interpret Footage –> Main and change the framerate to 24FPS.
 6. Export an H.264 MP4 movie file with the Vimeo preset. (It should be well under 1MB in total file size). (See tutorials).
