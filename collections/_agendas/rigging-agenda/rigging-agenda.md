@@ -19,6 +19,7 @@ permalink: "/agenda/rigging/"
    * Mechanical Rigs: [Decepticon Rig](https://vimeo.com/151246391), [Mechanical Cat](https://vimeo.com/51740519)
    * [Medical Muscle rigging](https://www.youtube.com/watch?v=VqC52ZxYDi4)
    * [Understanding IK/FK](https://www.youtube.com/watch?v=1-5ZR45y9RM)
+   * [Fest](https://vimeo.com/257761642) by Nikita Diakur
 2. **Terminology**
    * Armature
    * IK/FK
