@@ -3,10 +3,10 @@ layout: page
 title: Animated textures, motion paths, Batch Rendering
 categories: agenda
 comments: false
+excerpt: ''
 published: false
-excerpt:
----
 
+---
 ### Agenda
 
 1. **Terminology**
