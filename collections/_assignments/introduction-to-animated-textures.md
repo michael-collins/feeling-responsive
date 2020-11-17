@@ -22,8 +22,8 @@ page_sections:
 - template: assignment-demo
   block: assignment-a-demo
   title: Demonstration Videos
-  content: In this video demonstration, I show how to create a basic armature rigging
-    workflow.
+  content: In this video demonstration, I show how to create a workflow for creating
+    an object with animated textures.
   video: []
   headline: Demonstration videos
 - template: assignment-referencedmaterial
