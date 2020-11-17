@@ -127,4 +127,28 @@ Advanced Assignment: [Rigging for Machines](https://michaelcollins.xyz/3d-digita
 
 ***
 
+#### Project
+
 Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-studio-master/assignments/project-2.html)
+
+### Week 12
+
+***
+
+#### Lecture agenda
+
+Coming soon.
+
+#### Project
+
+Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-studio-master/assignments/project-2.html)
+
+#### Exercises
+
+Beginner assignment: Coming soon.
+
+Intermediate Assignment: Coming soon.
+
+Advanced Assignment: Coming soon.
+
+### 
