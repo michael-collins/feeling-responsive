@@ -102,15 +102,16 @@ accordion_mode: true
 ---
 ## Instructions
 
-1. Watch the tutorials.
-2. Create and set a project folder called **_LASTNAME-animated-textures_** save your .blend file in the project folder.
-3. Create an animation with the following:
-   * EEVEE render engine (Cycles is fine, but it may require too much time to render for this exercise)
-   * A polygonal model of a television set with an animated screen texture.
-   * 3 seconds (72 frames of animation)
-4. Render your animation as an image sequence (not a video file) to a folder.
-5. Following the video importing and exporting tutorials. Import your image sequence to After Effects. The sequence defaults at 30 FPS. Right click on the image sequence footage and choose **Interpret Footage** → **Main**. Change the frame rate to 24FPS.
-6. Export an H.264 MP4 movie file with the Vimeo preset. (It should be well under 1MB in total file size). (See tutorials).
-7. Save your animation file as **_LASTNAME-animated-textures.mp4_**.
-8. Save as **_LASTNAME-animated-textures.blend_** and upload to the submission dropbox.
-9. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 1. Watch the tutorials.
+ 2. Create and set a project folder called **_LASTNAME-animated-textures_** save your .blend file in the project folder.
+ 3. Download the image sequence ZIP file.
+ 4. Create an animation with the following:
+    * EEVEE render engine (Cycles is fine, but it may require too much time to render for this exercise)
+    * A polygonal model of a television set to use with the animated screen texture image sequence.
+    * 3 seconds (72 frames of animation)
+ 5. Render your animation as an image sequence (not a video file) to a folder.
+ 6. Following the video importing and exporting tutorials. Import your image sequence to After Effects. The sequence defaults at 30 FPS, which is incorrect. Right click on the image sequence footage and choose **Interpret Footage** → **Main**. Change the frame rate to 24FPS.
+ 7. Export an H.264 MP4 movie file with the Vimeo preset. (It should be well under 1MB in total file size). (See tutorials).
+ 8. Save your animation file as **_LASTNAME-animated-textures.mp4_**.
+ 9. Save as **_LASTNAME-animated-textures.blend_** and upload to the submission dropbox.
+10. Double check that you've included all files and that your .zip file can be downloaded and opened.
