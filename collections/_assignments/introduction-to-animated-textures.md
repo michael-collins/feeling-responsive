@@ -24,7 +24,11 @@ page_sections:
   title: Demonstration Videos
   content: In this video demonstration, I show how to create a workflow for creating
     an object with animated textures.
-  video: []
+  video:
+  - title: Animated Textures Demo (2 Parts)
+    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrUWRugAsFhfYkUojjO1iZWH"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   headline: Demonstration videos
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
