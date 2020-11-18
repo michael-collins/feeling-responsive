@@ -87,7 +87,7 @@ accordion_mode: true
 
 1. Watch the tutorials.
 2. Create and set a project folder called **_LASTNAME-animated-expression_** save your .blend file in the project folder.
-3. Download the image sequence ZIP file.
+3. Use AfterEffects to create an image sequence of a facial expression changing.
 4. Create an animation with the following:
    * EEVEE render engine (Cycles is fine, but takes too long to render for this exercise)
    * A polygonal model of a character with an animated face. UV map the character.
