@@ -1,5 +1,5 @@
 ---
-title: Animated Textures – Character
+title: Animated Character Expression
 layout: blocks-assignment-view
 date-assigned: 2020-08-31T04:00:00.000+00:00
 date-due: 2020-09-08T03:59:00.000+00:00
@@ -104,14 +104,15 @@ published: false
 ## Instructions
 
 1. Watch the tutorials.
-2. Create and set a project folder called **_LASTNAME-animated-textures_** save your .blend file in the project folder.
+2. Create and set a project folder called **_LASTNAME-animated-expression_** save your .blend file in the project folder.
 3. Download the image sequence ZIP file.
 4. Create an animation with the following:
-   * EEVEE render engine (Cycles is fine, but it may require too much time to render for this exercise)
-   * A polygonal model of a television set to use with the animated screen texture image sequence.
+   * EEVEE render engine (Cycles is fine, but takes too long to render for this exercise)
+   * A polygonal model of a character with an animated face. UV map the character.
+   * **Animate an expression, like sadness or surprise!**
    * 3 seconds (72 frames of animation)
 5. Render your animation as an image sequence (not a video file) to a folder.
 6. Following the video importing and exporting tutorials. Import your image sequence to After Effects. The sequence defaults at 30 FPS, which is incorrect. Right click on the image sequence footage and choose **Interpret Footage** → **Main**. Change the frame rate to 24FPS.
 7. Export an H.264 MP4 movie file with the Vimeo preset. (It should be well under 1MB in total file size). (See tutorials).
-8. Save your animation file as **_LASTNAME-animated-textures.mp4_** and upload to the submission dropbox. Do not upload your blend file and image sequence, the files are too large in size.
+8. Save your animation file as **_LASTNAME-animated-expression.mp4_** and upload to the submission dropbox. Do not upload your blend file and image sequence, the files are too large in size.
 9. Double check that you've included all files and that your files can be downloaded and opened.
