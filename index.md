@@ -145,6 +145,4 @@ Beginner assignment: [Introduction to Animated Textures](https://michaelcollins.
 
 Intermediate Assignment: [Animated Character Expression](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animated-textures-character.html)
 
-Advanced Assignment:
-
-### 
+Advanced Assignment: Contact instructor if you need a more advanced exercise.
