@@ -19,25 +19,6 @@ page_sections:
   - Practice rendering image sequences and producing video files capable to be streamed
     online.
   list-item: []
-- template: assignment-demo
-  block: assignment-a-demo
-  title: Demonstration Videos
-  content: In this video demonstration, I show how to create a workflow for creating
-    an object with animated textures.
-  video:
-  - title: Animated Textures Demo (2 Parts)
-    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrUWRugAsFhfYkUojjO1iZWH"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-  headline: Demonstration videos
-- template: assignment-referencedmaterial
-  block: assignment-d-referencedmaterial
-  title: Image Sequence Download
-  links:
-  - url: https://drive.google.com/file/d/1b76RfhJXkYOcGn4wCPtNed6XFYwjR6nG/view?usp=sharing
-    title: image-sequence.zip (Large ~57MB file)
-    link_style: " download"
-  content: Download this model to complete the assignment.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
@@ -48,17 +29,19 @@ page_sections:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
+  - title: 'Blender Character Animation Tutorial: Model and Rig a Cute Robot'
+    youtube_url: https://www.youtube.com/watch?v=ufvM2ixj2FI
+    custom: ''
+  - title: Animated Textures (2 Parts)
+    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrUWRugAsFhfYkUojjO1iZWH"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
   - title: 'Blender 2.8 Tutorial: Rendering an Animation'
     youtube_url: https://www.youtube.com/watch?v=LPbUuMs2i20
     custom: ''
   - title: Blender 2.8 Tutorial | Alpha Transparency in the EEVEE engine
     youtube_url: https://www.youtube.com/watch?v=lFWiU0a5CiQ
     custom: ''
-  - title: Importing an image sequence into AfterEffects and exporting to H.264
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-    vimeo_url: https://vimeo.com/301944187
   links: []
 - template: assignment-rubric
   block: assignment-f-rubric
