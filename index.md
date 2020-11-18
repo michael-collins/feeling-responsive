@@ -135,20 +135,16 @@ Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-stud
 
 ***
 
-#### Lecture agenda
-
-Coming soon.
-
 #### Project
 
 Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-studio-master/assignments/project-2.html)
 
 #### Exercises
 
-Beginner assignment: Coming soon.
+Beginner assignment: [Introduction to Animated Textures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/introduction-to-animated-textures.html)
 
-Intermediate Assignment: Coming soon.
+Intermediate Assignment: [Animated Character Expression](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animated-textures-character.html)
 
-Advanced Assignment: Coming soon.
+Advanced Assignment:
 
 ### 
