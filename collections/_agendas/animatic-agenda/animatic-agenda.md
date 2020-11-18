@@ -3,10 +3,10 @@ layout: page
 title: Editing Animatics – Camera shots and animating to sound
 categories: agenda
 comments: false
-published: true
-excerpt:
----
+excerpt: ''
+permalink: "/agenda/animatic/"
 
+---
 ### Agenda
 
 1. Framing and composition theory for film
