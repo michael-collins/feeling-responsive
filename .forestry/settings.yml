@@ -25,6 +25,8 @@ sections:
   label: Agendas
   create: all
   match: "**/*"
+  templates:
+  - lecture-agenda
 - type: directory
   path: collections/_lectures
   label: Lectures
