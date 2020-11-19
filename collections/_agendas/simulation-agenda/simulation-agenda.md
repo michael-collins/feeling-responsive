@@ -19,4 +19,7 @@ permalink: "/agenda/simulation/"
    * Rigid Bodies
      * [Marble Run](https://youtu.be/_-JN53Yv45U)
      * [Cell Fracture Explosion](https://www.youtube.com/watch?v=ZG_ZMnKzVTQ)
-     * [Simple Gravity Simulation](https://www.youtube.com/watch?v=-4uFt0m5I-U)
+     * [Dropping a bunch of things](https://www.youtube.com/watch?v=KtjJfWlQ8oE)
+   * Softbody
+     * [Easy Soft Body Animation in Blender 2.8](https://www.youtube.com/watch?v=p8rEHCGfTNs)
+     * 
