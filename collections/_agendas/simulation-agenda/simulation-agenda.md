@@ -1,9 +1,10 @@
 ---
 layout: page
-title: ''
+title: Simulation Agenda
 categories: ''
 comments: false
 excerpt: ''
+permalink: "/agenda/simulation/"
 published: false
 
 ---
