@@ -23,3 +23,4 @@ permalink: "/agenda/simulation/"
      * [Easy Soft Body Animation in Blender 2.8](https://www.youtube.com/watch?v=p8rEHCGfTNs)
      * [NEW Improved Cloth Simulation ( Internal Air Pressure and Cloth Springs )](https://www.youtube.com/watch?v=N2F0poaqhtc)
      * [Cloth Animation in EEVEE](https://www.youtube.com/watch?v=j7TdEzRwgzs)
+     * [Vacuum Packing](https://www.youtube.com/watch?v=gFOJ7ul19AE)
