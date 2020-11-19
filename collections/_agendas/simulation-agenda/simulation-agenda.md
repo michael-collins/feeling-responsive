@@ -5,7 +5,6 @@ categories: ''
 comments: false
 excerpt: ''
 permalink: "/agenda/simulation/"
-published: false
 
 ---
 1. Selected Simulation Tutorials from Olav3D
