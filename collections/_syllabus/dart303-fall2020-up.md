@@ -19,8 +19,6 @@ course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2059597
 
 ---
-**Course Name: {{ page.title }}**
-
 **Section:** {{ page.section}}
 
 **Course Credits:** {{ page.credits}}
