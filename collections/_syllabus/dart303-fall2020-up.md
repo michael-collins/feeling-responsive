@@ -4,7 +4,7 @@ title: DART 303 – Fall 2020
 subtitle: 3D Studio
 course-abbrv: DART
 course-number: "303"
-course-title: 3D Digital Studio
+course-title: 3D Studio
 semester: Fall
 year: "2020"
 section: UP Section 1
