@@ -1,25 +1,24 @@
 ---
 layout: page
-title: Syllabus
-subtitle: DART 303 - 3D Digital Studio
-# course-schedule-location: /spring-2020
+title: DART 303 – Fall 2020
+subtitle: 3D Studio
 course-abbrv: DART
-course-number: 303
+course-number: "303"
 course-title: 3D Digital Studio
 semester: Fall
-year: 2020
+year: "2020"
 section: UP Section 1
-credits: 4
+credits: "4"
 instructor-name: Michael Collins
-office-hours: "By appointment via https://calendly.com/msc227"
+office-hours: By appointment via https://calendly.com/msc227
 instructor-email: msc227@psu.edu
 meeting-location: ZOOM (link provided in Canvas)
-meeting-time: "11:15pm - 2:15pm Tuesday and Thursday"
-begin-end-dates: 08/24/20 - 12/11/20
-course-description-link: "https://bulletins.psu.edu/search/?P=DART%20303"
+meeting-time: 11:15pm - 2:15pm Tuesday and Thursday
+begin-end-dates: '08/24/20 - 12/11/20'
+course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2059597
----
 
+---
 **Section:** {{ page.section}}
 
 **Course Credits:** {{ page.credits}}
