@@ -19,6 +19,8 @@ course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2059597
 
 ---
+**Course Name: {{ page.title }}**
+
 **Section:** {{ page.section}}
 
 **Course Credits:** {{ page.credits}}
@@ -65,7 +67,7 @@ There is no required textbook for this course. Freely available online websites 
 
 #### Digital files
 
-Your "work" in this course is largely expressed as digital data. You should take every effort to prevent data loss. Keep a copy of your work on a cloud service like such as box.psu.edu. Ensure that you have multiple copies of your data at all times AND are __saving iteratively__ (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
+Your "work" in this course is largely expressed as digital data. You should take every effort to prevent data loss. Keep a copy of your work on a cloud service like such as box.psu.edu. Ensure that you have multiple copies of your data at all times AND are **saving iteratively** (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
 
 ### Course Objectives
 
@@ -91,33 +93,33 @@ Attendance is mandatory and professionalism both in and outside of class is a MU
 
 ### Grading
 
-Unforseen cicumstances or changes in technology can influence how many exercises are assigned. Sometimes, changes mid-semester are made, but never at the detrement for a student's ability to complete the assigned work.  
+Unforseen cicumstances or changes in technology can influence how many exercises are assigned. Sometimes, changes mid-semester are made, but never at the detrement for a student's ability to complete the assigned work.
 
 #### Exercises
 
-Approximately 6-7 exercises (~45% Total) 
+Approximately 6-7 exercises (\~45% Total)
 
 #### Projects
 
-Approximately 2 projects (~45% Total)
+Approximately 2 projects (\~45% Total)
 
 #### Class Participation
 
-Participation (~10% Total)
+Participation (\~10% Total)
 
 #### Grading Scale
 
-| Letter Grade    | Minimum Percent |
-| :-------------: |:---------------:|
-| A               |        94       |
-| A-              |        90       |
-| B+              |        85       |
-| B               |        83       |
-| B-              |        80       |
-| C+              |        73       |
-| C               |        70       |
-| D               |        60       |
-| F               |        0        |
+| Letter Grade | Minimum Percent |
+| :---: | :---: |
+| A | 94 |
+| A- | 90 |
+| B+ | 85 |
+| B | 83 |
+| B- | 80 |
+| C+ | 73 |
+| C | 70 |
+| D | 60 |
+| F | 0 |
 
 A (Outstanding)
 Outstanding work that exceeds the basic project requirements and demonstrates profound
