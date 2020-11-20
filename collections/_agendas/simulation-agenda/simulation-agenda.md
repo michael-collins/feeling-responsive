@@ -24,3 +24,5 @@ permalink: "/agenda/simulation/"
      * [NEW Improved Cloth Simulation ( Internal Air Pressure and Cloth Springs )](https://www.youtube.com/watch?v=N2F0poaqhtc)
      * [Cloth Animation in EEVEE](https://www.youtube.com/watch?v=j7TdEzRwgzs)
      * [Vacuum Packing](https://www.youtube.com/watch?v=gFOJ7ul19AE)
+2. Animation tutorials
+   * [Rolling a ball along a path](https://www.youtube.com/watch?v=fyilpH_X7dY)
