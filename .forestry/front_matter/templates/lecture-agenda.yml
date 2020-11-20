@@ -25,6 +25,7 @@ fields:
 pages:
 - collections/_agendas/animatic-agenda/animatic-agenda.md
 - collections/_agendas/animation-agenda/animation-agenda.md
+- collections/_agendas/motion-paths-animation-agenda.md
 - collections/_agendas/rigging-agenda/rigging-agenda.md
 - collections/_agendas/simulation-agenda/simulation-agenda.md
 - collections/_agendas/texture-animation/texture-animation.md
