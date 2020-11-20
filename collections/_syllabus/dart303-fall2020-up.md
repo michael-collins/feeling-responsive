@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DART 303 – Fall 2020
+title: 'DART 303: 3D Studio'
 subtitle: 3D Studio
 course-abbrv: DART
 course-number: "303"
