@@ -35,7 +35,7 @@ canvas-link: https://psu.instructure.com/courses/2059597
 
 **Canvas:** [{{ page.canvas-link}}]({{ page.canvas-link}})
 
-**Course Website:** [{{ site.baseurl }}]({{ site.baseurl }})
+**Course Website:** [{{ site.url }}]({{ site.url }})
 
 **Class Location:** {{ page.meeting-location}}
 
