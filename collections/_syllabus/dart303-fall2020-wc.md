@@ -1,23 +1,22 @@
 ---
 layout: page
-title: Syllabus
-subtitle: DART 303 - 3D Digital Studio
-# course-schedule-location: /spring-2020
+title: 'DART 303: 3D Studio'
+subtitle: ''
 course-abbrv: DART
-course-number: 303
+course-number: "303"
 course-title: 3D Digital Studio
 semester: Fall
-year: 2020
+year: "2020"
 section: WC Section 1
-credits: 4
+credits: "4"
 instructor-name: Michael Collins
-office-hours: "By appointment via https://calendly.com/msc227"
+office-hours: By appointment via https://calendly.com/msc227
 instructor-email: msc227@psu.edu
-begin-end-dates: 08/24/20 - 12/11/20
-course-description-link: "https://bulletins.psu.edu/search/?P=DART%20303"
+begin-end-dates: '08/24/20 - 12/11/20'
+course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2080832
----
 
+---
 **Section:** {{ page.section}}
 
 **Course Credits:** {{ page.credits}}
@@ -29,6 +28,8 @@ canvas-link: https://psu.instructure.com/courses/2080832
 **Office Hours:** {{ page.office-hours}}
 
 **Canvas:** [{{ page.canvas-link}}]({{ page.canvas-link}})
+
+**Course Website:** [{{ site.url }}{{ site.baseurl }}]({{ site.url }}{{ site.baseurl }})
 
 **E­mail:** {{ page.instructor-email}}
 
@@ -60,7 +61,7 @@ There is no required textbook for this course. Freely available online websites 
 
 #### Digital files
 
-Your "work" in this course is largely expressed as digital data. You should take every effort to prevent data loss. Keep a copy of your work on a cloud service like such as box.psu.edu. Ensure that you have multiple copies of your data at all times AND are __saving iteratively__ (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
+Your "work" in this course is largely expressed as digital data. You should take every effort to prevent data loss. Keep a copy of your work on a cloud service like such as box.psu.edu. Ensure that you have multiple copies of your data at all times AND are **saving iteratively** (multiple scene files) as you progress. Data corruption happens often. Again, loss of data is not a valid excuse for submitting a project late.
 
 ### Course Objectives
 
@@ -88,29 +89,29 @@ LATE EXERCISES AND PROJECTS WILL NOT BE GRADED. Attendance is mandatory and prof
 
 #### Exercises
 
-Approximately 8 exercises (~45% Total) 
+Approximately 8 exercises (\~45% Total)
 
 #### Projects
 
-Approximately 2 projects (~45% Total)
+Approximately 2 projects (\~45% Total)
 
 #### Class Participation
 
-Participation (~10% Total)
+Participation (\~10% Total)
 
 #### Grading Scale
 
-| Letter Grade    | Minimum Percent |
-| :-------------: |:---------------:|
-| A               |        94       |
-| A-              |        90       |
-| B+              |        85       |
-| B               |        83       |
-| B-              |        80       |
-| C+              |        73       |
-| C               |        70       |
-| D               |        60       |
-| F               |        0        |
+| Letter Grade | Minimum Percent |
+| :---: | :---: |
+| A | 94 |
+| A- | 90 |
+| B+ | 85 |
+| B | 83 |
+| B- | 80 |
+| C+ | 73 |
+| C | 70 |
+| D | 60 |
+| F | 0 |
 
 A (Outstanding)
 Outstanding work that exceeds the basic project requirements and demonstrates profound
