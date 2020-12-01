@@ -199,7 +199,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 #### Week 2-4: Production
 
-1. **Animatic**
+1. **3D Scene Layouts (formerly called Animatic)**
    * See demo videos for detailed instructions
    * Tutorial: [Shot composition advice](https://www.youtube.com/watch?v=cIvGRytmRaw)
    * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
