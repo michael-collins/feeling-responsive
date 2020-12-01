@@ -21,7 +21,7 @@ page_sections:
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
-  headline: ''
+  headline: Animatic Demo
   video:
   - title: Creating an Animatic in Blender
     custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrWRqmkePyLUhIndLHarj7H-"
