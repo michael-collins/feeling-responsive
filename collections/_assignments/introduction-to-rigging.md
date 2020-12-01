@@ -27,9 +27,6 @@ page_sections:
     custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrX4lOk4gv0XjdSVpB31qOtJ"
       frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
       gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title: 'Introduction to Rigging Tutorials: Vimeo Playlist'
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7753495/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
   headline: Demonstration videos
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
