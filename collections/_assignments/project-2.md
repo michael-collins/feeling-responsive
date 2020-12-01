@@ -19,6 +19,18 @@ page_sections:
   - Apply fundamental principles of color and composition theory.
   - Practice concept development skills
   list-item: []
+- template: assignment-demo
+  block: assignment-a-demo
+  headline: Animatic Demonstration
+  video:
+  - title: Creating an Animatic in Blender
+    custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrWRqmkePyLUhIndLHarj7H-"
+      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen></iframe>
+  content: In this 8 part demo, I show how to set up cameras for shots, configure
+    scene presets, use time-remapping, export viewport animations from Blender, import
+    image sequences into Adobe AfterEffects, edit footage and audio, create titles
+    and credits, and export video files for online streaming.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Inspiration
@@ -188,6 +200,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 #### Week 2-4: Production
 
 1. **Animatic**
+   * See demo videos for detailed instructions
    * Tutorial: [Shot composition advice](https://www.youtube.com/watch?v=cIvGRytmRaw)
    * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
    * Requirements:
