@@ -33,6 +33,13 @@ page_sections:
     and credits, and export video files for online streaming.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Calculating Total Render Time
+  video:
+  - title: Test rendering in Blender to calculate total time to render animation
+    youtube_url: https://www.youtube.com/watch?v=2bVXKN-XEYA
+    custom: ''
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Inspiration
   video:
   - title: 'FORMS IN NATURE: Understanding Our Universe'
