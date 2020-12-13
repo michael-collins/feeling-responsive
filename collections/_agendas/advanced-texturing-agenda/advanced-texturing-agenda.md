@@ -3,7 +3,7 @@ layout: page
 title: Advanced Texturing
 categories: agenda
 comments: false
-excerpt: Techniques for advanced texturing.
+excerpt: Techniques for advanced texturing
 ---
 
 ### Agenda
@@ -18,7 +18,8 @@ excerpt: Techniques for advanced texturing.
    - Emission
    - NPR
    - PBR
-   - [Texture mapping types](http://wiki.polycount.com/wiki/Texture_types) 
+   - [Texture mapping types](http://wiki.polycount.com/wiki/Texture_types)
+   - [UDIM Tiles](https://www.youtube.com/watch?v=LR3Y9R2wmdI)
 3. **Lighting and Rendering Demo**
   - [PBR Materials](https://www.youtube.com/watch?v=FRNCp9GueUs) by Joe Foresman
 5. **Resources**

@@ -26,15 +26,13 @@ permalink: "/agenda/pbr-npr-rendering/"
    * [Texture mapping types](http://wiki.polycount.com/wiki/Texture_types)
    * [UDIM Tiles](https://www.youtube.com/watch?v=LR3Y9R2wmdI)
 3. **PBR Resources**
-
-* [PBR Texture Painting in Blender](https://www.youtube.com/watch?v=svzKoq3vew0) by Jayanam
-* [PBR workflow](https://www.youtube.com/watch?v=aH6XPsEmozk)
-* [BlenderNPR.org](http://blendernpr.org/)
-* Blender Add-0n - [PBR Materials](https://www.3d-wolf.com/products/materials.html)
-* [HDR lighting packs](https://drive.google.com/drive/folders/1L6gc6B0RFNEZX780XSKj6GXMGo8vEkpY)
-* [Texture packs](https://drive.google.com/drive/folders/1KNSg9RyWgwjGrfQLN6tP7jTXoGktmMTe)
-
-1. **NPR (Non-photorealistic Rendering)**
+   * [PBR Texture Painting in Blender](https://www.youtube.com/watch?v=svzKoq3vew0) by Jayanam
+   * [PBR workflow](https://www.youtube.com/watch?v=aH6XPsEmozk)
+   * [BlenderNPR.org](http://blendernpr.org/)
+   * Blender Add-0n - [PBR Materials](https://www.3d-wolf.com/products/materials.html)
+   * [HDR lighting packs](https://drive.google.com/drive/folders/1L6gc6B0RFNEZX780XSKj6GXMGo8vEkpY)
+   * [Texture packs](https://drive.google.com/drive/folders/1KNSg9RyWgwjGrfQLN6tP7jTXoGktmMTe)
+4. **NPR (Non-photorealistic Rendering)**
    * Freestyle
    * Surface shader
      * Emission
@@ -50,6 +48,5 @@ permalink: "/agenda/pbr-npr-rendering/"
      * MixRGB node
      * ShaderTo RGB node
    * Ambient Occlusion
-2. **NPR Resources**
-
-* [blendernpr.org](http://blendernpr.org/)
+5. **NPR Resources**
+   * [blendernpr.org](http://blendernpr.org/)
