@@ -17,6 +17,7 @@ meeting-time: 11:15pm - 2:15pm Tuesday and Thursday
 begin-end-dates: '08/24/20 - 12/11/20'
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2059597
+published: false
 
 ---
 **Section:** {{ page.section}}
