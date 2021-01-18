@@ -13,7 +13,7 @@ instructor-name: Michael Collins
 office-hours: By appointment via https://calendly.com/msc227
 instructor-email: msc227@psu.edu
 meeting-location: ZOOM (link provided in Canvas)
-meeting-time: 11:15pm - 2:15pm Tuesday and Thursday
+meeting-time: Asynchronous
 begin-end-dates: 01/18/21 - 4/30/21
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2110849
