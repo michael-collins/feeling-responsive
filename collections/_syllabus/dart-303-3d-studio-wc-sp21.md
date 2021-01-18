@@ -60,8 +60,6 @@ Your PSU account allows you to access: box.psu.edu, lynda.psu.edu, canvas.psu.ed
 
 [Blender.org](https://www.blender.org/)
 
-Autodesk software is free to students: [Autodesk.com](http://www.autodesk.com/education/home)
-
 ### Textbook
 
 There is no required textbook for this course. Freely available online websites and videos will be used for technical reference and training. All supplemental texts will be provided.
@@ -80,6 +78,10 @@ Your "work" in this course is largely expressed as digital data. You should take
 * Developed a language suitable for descriptive and critical understandings of their assignments and broader themes related to new media art.
 * Participated actively in all group-discussions.
 
+### Avoiding Plagiarism
+
+This course will require that you spend a lot of time searching for external learning resources including Youtube.com and Vimeo.com tutorials. Submitting work that you produce directly resulting from online tutorials for course projects is considered plagiarism. In addition, downloading and submitting free or paid 3D models and animations in place of satisfying exercise requirements is also considered plagiarism. For example, if an exercise asks you to create a 3D model of a character, but you instead download and submit it as your own work, you will fail the assignment, it will be noted in Penn State's Starfish system, and additional disciplinary action may be taken.
+
 ### Course Requirements
 
 Attendance is mandatory; as this time will be used for critiques, reading discussions, presentations, video screenings, collaborative or group work, and the dissemination of general information. These sessions will at all times emphasize critical analysis and in­class discussion. In terms of studio production, whole class meetings may review work­in­progress; assess ongoing technical concerns; assist with immediate needs of a project concept and execution all the while continuing to develop a language appropriate for evaluation and critique. While there will be in­-class time to experiment and complete work, you will be required to spend many hours working outside of class­ time.
@@ -94,7 +96,7 @@ Attendance is mandatory and professionalism both in and outside of class is a MU
 
 ### Grading
 
-Unforseen cicumstances or changes in technology can influence how many exercises are assigned. Sometimes, changes mid-semester are made, but never at the detrement for a student's ability to complete the assigned work.
+Unforeseen circumstances or changes in technology can influence how many exercises are assigned. Sometimes, changes mid-semester are made, but never at the detriment for a student's ability to complete the assigned work.
 
 #### Exercises
 
