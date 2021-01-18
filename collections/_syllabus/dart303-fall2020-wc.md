@@ -15,6 +15,7 @@ instructor-email: msc227@psu.edu
 begin-end-dates: '08/24/20 - 12/11/20'
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2080832
+published: false
 
 ---
 **Section:** {{ page.section}}
