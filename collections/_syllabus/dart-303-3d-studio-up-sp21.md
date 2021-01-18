@@ -7,7 +7,7 @@ course-number: "303"
 course-title: 3D Studio
 semester: Spring
 year: "2021"
-section: WC Section 1
+section: UP Section 1
 credits: "4"
 instructor-name: Michael Collins
 office-hours: By appointment via https://calendly.com/msc227
@@ -16,7 +16,7 @@ meeting-location: ZOOM (link provided in Canvas)
 meeting-time: 11:15pm - 2:15pm Tuesday and Thursday
 begin-end-dates: 01/18/21 - 4/30/21
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
-canvas-link: https://psu.instructure.com/courses/2110849
+canvas-link: https://psu.instructure.com/courses/2098153
 published: false
 
 ---
