@@ -39,9 +39,9 @@
   side: left
   dropdown:
     - title: "World Campus"
-      url: "/syllabus/dart303-fall2020-wc.html"
+      url: "/syllabus/dart-303-3d-studio-wc-sp21.html"
     - title: "University Park"
-      url: "/syllabus/dart303-fall2020-up.html"
+      url: "/syllabus/dart-303-3d-studio-up-sp21.html"
 
 # - title: Calendar
 #   url: "/calendar/"
