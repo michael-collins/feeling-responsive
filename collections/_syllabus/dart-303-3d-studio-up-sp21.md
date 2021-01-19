@@ -214,3 +214,7 @@ Office of the Vice President for Student Affairs: 814-865-0909
 Affirmative Action Office: 814-863-0471
 
 * Dialing 911 in cases where physical injury has occurred or is imminent
+
+### Diversity
+
+Students from diverse backgrounds and perspectives are welcomed. The diversity that students bring to class is viewed as an asset and resource. This course aims to cultivate and maintain an equitable and culturally inclusive environment where students feel a sense of belonging. All students will be well-served, and students’ learning needs will be addressed both within and outside the classroom. Lectures, presentations, materials, and art-making and design activities will be mindful and respectful of diversity in all forms, including but not limited to ethnicity, race, culture, nationality, age, language, sex, (dis)ability, sexual orientation, gender, gender variance, religion, socioeconomic status, or veteran status. Student suggestions on how this course might better serve them personally or better serve underrepresented minoritized students are encouraged and appreciated.
