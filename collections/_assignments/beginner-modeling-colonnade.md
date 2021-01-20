@@ -69,6 +69,14 @@ page_sections:
     - caption: Colonnade in Ephesus; The commercial Agora
       enable_caption: true
       image_url: "/uploads/colonnade_in_ephesus.jpg"
+- template: assignment-referencedmaterial
+  block: assignment-d-referencedmaterial
+  title: Asset Downloads
+  headline: Image of a person's Silhouette
+  links:
+  - file_download: "/uploads/person-silhouette-facing-forward.png"
+    link_style: hosted_file
+    title: person-silhouette-facing-forward.png
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
