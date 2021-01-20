@@ -1,15 +1,16 @@
 ---
 title: 'Beginner Modeling: Colonnade '
 layout: blocks-assignment-view
-date-assigned: 2020-08-01T04:00:00.000+00:00
-date-due: 2020-08-08T04:00:00.000+00:00
+date-assigned: 
+date-due: 
 page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
   content: In this exercise, you will practice polygonal modeling fundamentals and
-    will use 3D software to build a polygonal model of the 1927 Kem Weber Airline
-    Chair.
+    will use 3D software to build a polygonal model of an architectural feature, called
+    a colonnade, to create an interior or exterior architectural space.
+  headline: Description
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -22,13 +23,9 @@ page_sections:
 - template: assignment-demo
   block: assignment-a-demo
   title: Demonstration Videos
-  content: In this six part video demonstration seres, I show how to use polygonal
-    modeling techniques to create a model of the Kem Weber Airline Chair using Blender
-    2.8.
-  video:
-  - title: Modeling the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  content: In this video demonstration seres, I show how to use polygonal modeling
+    techniques to create an architectural space using Blender.
+  video: []
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Learning materials - Blender Foundation Videos
@@ -55,16 +52,23 @@ page_sections:
     url: https://www.giudansky.com/illustration/infographics/blender-map
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Downloads
+  title: Reference Images
   content: Download the following images and include them in your project folder.
   links:
-  - title: '3/4 view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244141_743985d156708c43_b.jpg
-    link_style: " download"
-  - title: 'Side view of Kem Weber Airline Chair '
-    url: https://images.collection.cooperhewitt.org/244191_5cd7e8666b5a9bfe_b.jpg
-    link_style: " download"
+  - title: Colonnade References on Behance.net
+    link_style: new tab
+    url: https://www.behance.net/search?search=colonnade
   headline: Airline Chair Reference Images
+  image-gallery:
+  - gallery_title: Example of a Colonnade
+    image:
+    - caption: 'Architectural Capriccio: Vaulted Colonnade of a Palace (1712–93) by
+        Francesco Guardi'
+      enable_caption: true
+      image_url: "/uploads/dp810126-1.jpg"
+    - caption: Colonnade in Ephesus; The commercial Agora
+      enable_caption: true
+      image_url: "/uploads/colonnade_in_ephesus.jpg"
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
@@ -97,15 +101,15 @@ published: false
 
 1. Watch tutorials from Blender Foundation on youtube for an introduction to Blender's interface and modeling tools.
 2. Create a folder on your computer. **This will be your project folder.** Save all files to this folder.
-3. Follow the six-part video demonstration to model the [Kem Weber Airline Chair](https://collection.cooperhewitt.org/objects/404536651/images/). Skills to practice include:
+3. Follow the video demonstration to model an interior or exterior architectural space. Skills to practice include:
    * polygonal edge flow
    * extruding polygon faces
    * inserting edge loops
    * moving, rotating, and scaling vertices, edges, and faces
    * mirroring and duplicating geometry
 4. Clean up your [edge flow](https://www.youtube.com/watch?v=Lip59doQQRk).
-5. Save the 3D scene file as '**_LASTNAME_-modeling-chair.blend'** (I.E. – _collins_-modeling-b1.blend) in the project folder.
+5. Save the 3D scene file as '**_LASTNAME_-modeling-colonnade.blend'** (I.E. – _collins_-modeling-colonnade.blend) in the project folder.
    * File naming conventions are used to allow your instructor to organize 1,000's of student submitted files, please follow naming conventions.
-6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-chair.zip.**
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-modeling-colonnade.zip.**
 7. Upload the .zip file to the assignment dropbox.
 8. Double check that you've included all files and that your .zip file can be downloaded and opened.
