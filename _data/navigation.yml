@@ -66,6 +66,9 @@
 #   - title: "Project"
 #     url: "/grading/project.html"
 
+- title: "Student Work"
+  url: "/student-work/"
+  side: left
 - title: "Office Hours"
   url: "/contact/"
   side: right
