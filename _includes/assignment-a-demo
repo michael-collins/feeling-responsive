@@ -1,7 +1,7 @@
 {% if include.accordion_mode == "true" %}
 <dd class="accordion-navigation">
-    <a href="#panel-{{ section.headline | slugify}}-{{ forloop.index }}" role="tab" id="panel-{{ section.headline | slugify}}-{{ forloop.index }}-heading" aria-controls="panel-{{ section.headline | slugify}}-{{ forloop.index }}">{{ section.headline }}</a>
-        <div id="panel-{{ section.headline | slugify}}-{{ forloop.index }}" class="content animate" aria-labelledby="panel-{{ section.headline | slugify}}-{{ forloop.index }}-heading">
+    <a href="#panel-{{ section.title | slugify}}-{{ forloop.index }}" role="tab" id="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading" aria-controls="panel-{{ section.title | slugify}}-{{ forloop.index }}">{{ section.title }}</a>
+        <div id="panel-{{ section.title | slugify}}-{{ forloop.index }}" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ forloop.index }}-heading">
     <p>
 
 <div class="row">

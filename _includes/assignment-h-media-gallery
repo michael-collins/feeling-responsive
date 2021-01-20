@@ -1,7 +1,7 @@
 {% if include.accordion_mode == "true" %}
 <dd class="accordion-navigation">
-    <a href="#panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" role="tab" id="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading" aria-controls="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks">{{ section.title }}</a>
-        <div id="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" class="content animate" aria-labelledby="panel-{{ section.title | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading">
+    <a href="#panel-{{ section.headline | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" role="tab" id="panel-{{ section.headline | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading" aria-controls="panel-{{ section.headline | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks">{{ section.headline }}</a>
+        <div id="panel-{{ section.headline | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks" class="content animate" aria-labelledby="panel-{{ section.headline | slugify}}-{{ task.name | slugify }}-{{ forloop.index }}-tasks-heading">
     <p>
         <div class="row">
         <div class="columns small-12">
