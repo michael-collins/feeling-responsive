@@ -77,22 +77,6 @@ page_sections:
       given set of instructions. This indirectly infers how well you acquired foundational
       skills and theory.
     criteria_weight: 5 pts
-- template: assignment-submission
-  block: assignment-g-submission
-  submission-notes-enabled: true
-  submission_uploads_enabled: true
-  title: Submission
-  content: To complete the assignment, upload your project folder containing your
-    file(s) to your course section dropbox as a .zip file. If you do not know how
-    to create a zip file, <a href="https://www.wikihow.com/Make-a-Zip-File" title="">see
-    this webpage</a>.
-  submission_item: []
-  submission:
-  - title: UP (22081--UP---P-DART----303-------001-)
-    url: https://psu.instructure.com/courses/2059597/assignments/12193175
-  - title: World Campus (22081--WC---WBDART----303-------001-)
-    url: https://psu.instructure.com/courses/2080832/assignments/12133053
-    section: ''
 topics_covered:
 - " camera"
 - keyframe
