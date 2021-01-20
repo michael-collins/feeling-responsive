@@ -3,7 +3,7 @@
         {%- if link.link_style contains "download"  -%}
             <li class="no-bullet link-list link-border "><a href="{{ link.url }}" download><i class="material-icons">south</i> {{ link.title }}</a></li>
         {%- elsif link.link_style contains "hosted_file"  -%}
-            <li class="no-bullet link-list link-border "><a href="{{ link.url | prepend: site.baseurl }}" download><i class="material-icons">south</i> {{ link.title }}</a></li>
+            <li class="no-bullet link-list link-border "><a href="{{ link.file_download | prepend: site.baseurl }}" download><i class="material-icons">south</i> {{ link.title }}</a></li>
         {% elsif link.link_style contains "internal" %}
             <li class="no-bullet link-list link-border "><a href="{{ link.url }}" >{{ link.title }}</a></li>
         {% else %}
