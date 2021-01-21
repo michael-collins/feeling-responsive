@@ -71,13 +71,12 @@ page_sections:
       image_url: "/uploads/colonnade_in_ephesus.jpg"
 - template: assignment-referencedmaterial
   block: assignment-d-referencedmaterial
-  title: Asset Downloads
+  title: Assets and Reference Downloads
   headline: Image of a person's Silhouette
   links:
-  - title: UV Checkered Pattern
-    url: ''
-    link_style: hosted_file
-    file_download: "/uploads/checker.png"
+  - link_style: " download"
+    url: https://www.designingbuildings.co.uk/w/images/3/30/Columns.jpg
+    title: Column Design Reference
   - title: Concrete
     link_style: new tab
     url: https://cc0textures.com/view?id=Concrete006
@@ -87,6 +86,10 @@ page_sections:
   - file_download: "/uploads/person-silhouette-facing-forward.png"
     link_style: hosted_file
     title: person-silhouette-facing-forward.png
+  - title: UV Checkered Pattern
+    url: ''
+    link_style: hosted_file
+    file_download: "/uploads/checker.png"
 - template: assignment-rubric
   block: assignment-f-rubric
   title: Rubric
