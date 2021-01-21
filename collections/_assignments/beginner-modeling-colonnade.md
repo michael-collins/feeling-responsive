@@ -74,6 +74,12 @@ page_sections:
   title: Asset Downloads
   headline: Image of a person's Silhouette
   links:
+  - title: Concrete
+    link_style: new tab
+    url: https://cc0textures.com/view?id=Concrete006
+  - title: Paving Stones
+    link_style: new tab
+    url: https://cc0textures.com/view?id=PavingStones049
   - file_download: "/uploads/person-silhouette-facing-forward.png"
     link_style: hosted_file
     title: person-silhouette-facing-forward.png
