@@ -26,8 +26,8 @@ page_sections:
     to add color and detail to the Kem Weber Airline Chair using Blender 2.8.
   video:
   - title: Texturing the Airline Chair Video Playlist
-    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7499107/embed'
-      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+    custom: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-V2nChTadrUGw6OioaTkVBSCP12C9mjq"
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   - title: Live demo for alternate model workflow
     vimeo_url: https://vimeo.com/454111709
 - template: assignment-supportingmaterial
