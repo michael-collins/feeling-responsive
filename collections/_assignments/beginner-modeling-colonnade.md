@@ -77,10 +77,10 @@ page_sections:
   - link_style: new tab
     url: https://www.designingbuildings.co.uk/wiki/File:Columns.jpg
     title: Column Design Reference
-  - title: Concrete
+  - title: Concrete Texture Pack
     link_style: new tab
     url: https://cc0textures.com/view?id=Concrete006
-  - title: Paving Stones
+  - title: Paving Stones Texture Pack
     link_style: new tab
     url: https://cc0textures.com/view?id=PavingStones049
   - file_download: "/uploads/person-silhouette-facing-forward.png"
