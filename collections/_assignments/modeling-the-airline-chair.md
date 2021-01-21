@@ -27,6 +27,9 @@ page_sections:
     2.8.
   video:
   - title: Modeling the Airline Chair Video Playlist
+    custom: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-V2nChTadrXnIBdsAhYlYODx8f45Jk9f"
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  - title: Modeling the Airline Chair Video Playlist
     custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7467255/embed'
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
 - template: assignment-supportingmaterial
