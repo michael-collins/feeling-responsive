@@ -19,4 +19,8 @@ Welcome to the course website for DART 303. I will be updating the site over the
 
 #### Exercises
 
-Exercises will be posted soon.
+Beginner assignment: [Modeling the Airline Chair]({{site.baseurl}}/assignments/modeling-the-airline-chair.html)
+
+Intermediate Assignment: [Modeling Objects]({{site.baseurl}}/assignments/modeling-objects.html)
+
+Advanced Assignment: [Sculpting and Retopology]({{site.baseurl}}/assignments/sculpting-and-retopology.html)
