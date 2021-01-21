@@ -74,6 +74,10 @@ page_sections:
   title: Asset Downloads
   headline: Image of a person's Silhouette
   links:
+  - title: UV Checkered Pattern
+    url: ''
+    link_style: hosted_file
+    file_download: "/uploads/checker.png"
   - title: Concrete
     link_style: new tab
     url: https://cc0textures.com/view?id=Concrete006
