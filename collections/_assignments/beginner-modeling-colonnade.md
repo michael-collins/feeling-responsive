@@ -74,8 +74,8 @@ page_sections:
   title: Assets and Reference Downloads
   headline: Image of a person's Silhouette
   links:
-  - link_style: " download"
-    url: https://www.designingbuildings.co.uk/w/images/3/30/Columns.jpg
+  - link_style: new tab
+    url: https://www.designingbuildings.co.uk/wiki/File:Columns.jpg
     title: Column Design Reference
   - title: Concrete
     link_style: new tab
