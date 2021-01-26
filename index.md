@@ -24,3 +24,19 @@ Beginner assignment: [Modeling the Airline Chair]({{site.baseurl}}/assignments/m
 Intermediate Assignment: [Modeling Objects]({{site.baseurl}}/assignments/modeling-objects.html)
 
 Advanced Assignment: [Sculpting and Retopology]({{site.baseurl}}/assignments/sculpting-and-retopology.html)
+
+### Week 2
+
+***
+
+#### Lecture Agenda
+
+[Texturing]({{site.baseurl}}/agenda/texturing/)
+
+#### Exercises
+
+Beginner assignment: [Texturing the Airline Chair]({{site.baseurl}}/assignments/texturing-the-airline-chair.html)
+
+Intermediate Assignment: [Texturing Objects]({{site.baseurl}}/assignments/texturing-objects.html)
+
+Advanced Assignment: [Texturing for Sculpts]({{site.baseurl}}/assignments/texturing-for-sculpts.html)
