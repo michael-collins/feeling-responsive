@@ -93,11 +93,11 @@ accordion_mode: true
  1. Watch the tutorials in Learning Resources.
  2. Duplicate the modeling folder on your computer. **This will be your project folder.** Save all files to this folder.
  3. Apply the scale transform to reset each polygonal object.
- 4. Unwrap the chair’s parts’ UVs using the various methods and tools described in the tutorials.
+ 4. Unwrap the objects' UVs using the various methods and tools described in the tutorials.
  5. Export a UV map for each of the three objects and save it in the project folder as **_uv-object-1.png_**, **_uv-object-2.png_**_, and **uv-object-3.png**_. If you have more than one UV map per object, use a logical naming scheme.
  6. Import the UV maps into Photoshop and create textures.
  7. Save the textures as **object1-color.png**, **object2-color.png**, and **object3-color.png**, etc. in the project folder.
- 8. In Blender, set up the chair’s textures so they are visible on the model.
+ 8. In Blender, set up the textures so they are visible on the model.
  9. Save the 3D scene file as **_LASTNAME_-texturing-objects** in the project folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-objects.zip.**
 11. Upload the .zip file to the assignment dropbox.
