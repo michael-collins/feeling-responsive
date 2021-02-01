@@ -11,6 +11,8 @@ header:
 
 ### Job Postings
 
+Chris Mayne curates what might be the the most comprehensive job posting resource available. See his Google spreadsheet below. 
+
 * [Animation, VFX, and Game Industry Job Postings curated by Chris Mayne](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit#gid=1392296528)
 
 ### Job Resources
@@ -18,7 +20,7 @@ header:
 * [Job titles in 3D Animation and VFX](https://discover.therookies.co/2019/05/22/job-titles-in-3d-animation-visual-effects-and-what-they-actually-mean/)
 * [Why you are not getting a job in VFX, games, and animation](https://discover.therookies.co/2019/05/07/the-honest-truth-why-you-are-not-getting-a-job-in-vfx-games-and-animation/)
 
-### Online Magazines and communities
+### Magazines and Online Communities
 
 * [Blender.today](blender.today)
 * [Art Station](artstation.com)
@@ -26,8 +28,16 @@ header:
 * [CG Society](cgsociety.org)
 * [https://www.artofvfx.com/](https://www.artofvfx.com/ "https://www.artofvfx.com/")
 * [The Rookies](https://discover.therookies.co/)
+* [Digital Art Live](https://digitalartlive.com/digital-art-live-magazine/)
+* [BlenderArt.org](https://blenderart.org/)
+* [3D Creative](http://www.3dcreativemag.com/)
+* [Imagine FX](https://www.creativebloq.com/imaginefx)
+* [3D Artist](https://www.magazinesdirect.com/az-magazines/6936329/3d-world-magazine-subscription.thtml)
+* [3D World](https://www.magazinesdirect.com/az-magazines/6936329/3d-world-magazine-subscription.thtml)
+* [Character Design Quarterly](https://shop.3dtotal.com/character-design-quarterly-1year-subscription?)
 
 ### Industry Career Advice
+
 * [Becoming a VFX artist](https://openvisualfx.com/2019/12/16/my-advice-for-becoming-a-vfx-artist/)
 * [Working as a 3D FX Artist with Mattia Rodini](https://discover.therookies.co/2020/12/19/career-advice-working-as-a-3d-fx-artist-with-mattia-rodini/)
 * [Working as a Concept Artist with Gaëlle Seguillon](https://discover.therookies.co/2020/12/04/career-advice-working-as-a-concept-artist-with-gaelle-seguillon/)
@@ -41,3 +51,7 @@ header:
 
 * [Themed Entertainment and Educational Resources managed by MK Haley](https://docs.google.com/spreadsheets/d/1tPaYqW5EwEnaMFBwVINe4YV5N7_HQYf9ZwDLRk_YI4w/edit?usp=sharing)
 * [Themed Entertainment Association](https://www.teaconnect.org/index.cfm)
+
+## Multi-disciplinary Design
+
+* [Multidisciplinary Design Studios in the United States](https://www.dexigner.com/directory/cat/Multidisciplinary-Design/Design-Studios/loc/United-States) 
