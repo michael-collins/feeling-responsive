@@ -60,6 +60,7 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 * [Themed Entertainment and Educational Resources managed by MK Haley](https://docs.google.com/spreadsheets/d/1tPaYqW5EwEnaMFBwVINe4YV5N7_HQYf9ZwDLRk_YI4w/edit?usp=sharing)
 * [Themed Entertainment Association](https://www.teaconnect.org/index.cfm)
 
-## Multi-disciplinary Design
+## Multi-disciplinary and Product Design Resources
 
 * [Multidisciplinary Design Studios in the United States](https://www.dexigner.com/directory/cat/Multidisciplinary-Design/Design-Studios/loc/United-States)
+* [Core77](https://www.core77.com/ "Core77") Industrial Design Online Magazine
