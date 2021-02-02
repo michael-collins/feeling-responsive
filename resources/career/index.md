@@ -11,9 +11,17 @@ header:
 
 ### Job Postings
 
-Chris Mayne curates what might be the the most comprehensive job posting resource available. See his Google spreadsheet below. 
+Chris Mayne curates what might be the the most comprehensive job posting resource available. See his Google spreadsheet below.
 
 * [Animation, VFX, and Game Industry Job Postings curated by Chris Mayne](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit#gid=1392296528)
+* [SIGGRAPH 2021 Job Fair](https://s2021.siggraph.org/job-fair/ "Job fair")
+
+### Conferences
+
+* SIGGRAPH North America
+* SIGGRAPH Asia
+* Game Developers Conference
+* [VIEW Conference (Italy)](https://www.viewconference.it/ "VIEW Conference")
 
 ### Job Resources
 
@@ -54,4 +62,4 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 
 ## Multi-disciplinary Design
 
-* [Multidisciplinary Design Studios in the United States](https://www.dexigner.com/directory/cat/Multidisciplinary-Design/Design-Studios/loc/United-States) 
+* [Multidisciplinary Design Studios in the United States](https://www.dexigner.com/directory/cat/Multidisciplinary-Design/Design-Studios/loc/United-States)
