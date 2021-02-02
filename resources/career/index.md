@@ -18,9 +18,9 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 
 ### Conferences
 
-* SIGGRAPH North America
-* SIGGRAPH Asia
-* Game Developers Conference
+* [SIGGRAPH North America](https://s2021.siggraph.org/ "SIGGRAPH 2021")
+* [SIGGRAPH Asia](https://sa2020.siggraph.org/en/about-us/siggraph-asia-2021 "SIGGRAPH Asia 2021")
+* [Game Developers Conference (GDC)](https://gdconf.com/ "GDC")
 * [VIEW Conference (Italy)](https://www.viewconference.it/ "VIEW Conference")
 
 ### Job Resources
