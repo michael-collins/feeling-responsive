@@ -45,3 +45,6 @@ permalink: "/agenda/lighting-rendering/"
      * [EEVEE Lighting](https://www.youtube.com/watch?v=MFNurQ1AF2I)
      * Enable render settings including: Ambient Occlusion, Depth of Field, and Screen Space Reflections
      * Shadows: Increase the shadow map to 4K
+5. **Tutorials**
+   * [Lighting Theory by Andrew Price](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK "Lighting Theory by Andrew Price")
+   * [Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
