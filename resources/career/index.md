@@ -35,6 +35,8 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 * [Behance](https://www.behance.net/)
 * [CG Society](cgsociety.org)
 * [https://www.artofvfx.com/](https://www.artofvfx.com/ "https://www.artofvfx.com/")
+* [https://www.awn.com/vfxworld](https://www.awn.com/vfxworld "https://www.awn.com/vfxworld")
+* [Animation World Network](https://www.awn.com/vfxworld "Animation World Network")
 * [The Rookies](https://discover.therookies.co/)
 * [Digital Art Live](https://digitalartlive.com/digital-art-live-magazine/)
 * [BlenderArt.org](https://blenderart.org/)
@@ -63,7 +65,7 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 * [https://renderman.pixar.com/challenges](https://renderman.pixar.com/challenges "https://renderman.pixar.com/challenges")
 * [https://www.therookies.co/contests](https://www.therookies.co/contests "https://www.therookies.co/contests")
 * [https://www.11secondclub.com/](https://www.11secondclub.com/ "https://www.11secondclub.com/")
-* [https://www.awn.com/call-entries](https://www.awn.com/call-entries "https://www.awn.com/call-entries")
+* [https://www.awn.com/call-entries](https://www.awn.com/call-entries "https://www.awn.com/call-entries")ANimation 
 
 ## Themed Entertainment
 
