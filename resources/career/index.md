@@ -64,3 +64,7 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 
 * [Multidisciplinary Design Studios in the United States](https://www.dexigner.com/directory/cat/Multidisciplinary-Design/Design-Studios/loc/United-States)
 * [Core77](https://www.core77.com/ "Core77") Industrial Design Online Magazine
+
+### Contests and Awards
+
+* [https://designawards.core77.com/](https://designawards.core77.com/ "https://designawards.core77.com/")
