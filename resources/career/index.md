@@ -55,6 +55,16 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 * [Working as a Character Artist on Fortnite at Epic Games](https://discover.therookies.co/2020/10/26/career-advice-working-as-a-character-artist-on-fortnite-at-epic-games/)
 * [Working as a CG Supervisor with Laura Hohman](https://discover.therookies.co/2020/09/19/career-advice-working-as-a-lead-matte-painter-with-alyssa-zarate-2/)
 
+### Contests and Challenges
+
+* [https://cgboost.com/challenge/](https://cgboost.com/challenge/ "https://cgboost.com/challenge/")
+* [https://www.cgtrader.com/digital-art-competition](https://www.cgtrader.com/digital-art-competition "https://www.cgtrader.com/digital-art-competition")
+* [https://www.artstation.com/contests](https://www.artstation.com/contests "https://www.artstation.com/contests")
+* [https://renderman.pixar.com/challenges](https://renderman.pixar.com/challenges "https://renderman.pixar.com/challenges")
+* [https://www.therookies.co/contests](https://www.therookies.co/contests "https://www.therookies.co/contests")
+* [https://www.11secondclub.com/](https://www.11secondclub.com/ "https://www.11secondclub.com/")
+* [https://www.awn.com/call-entries](https://www.awn.com/call-entries "https://www.awn.com/call-entries")
+
 ## Themed Entertainment
 
 * [Themed Entertainment and Educational Resources managed by MK Haley](https://docs.google.com/spreadsheets/d/1tPaYqW5EwEnaMFBwVINe4YV5N7_HQYf9ZwDLRk_YI4w/edit?usp=sharing)
