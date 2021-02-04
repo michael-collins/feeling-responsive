@@ -14,6 +14,7 @@ header:
 Chris Mayne curates what might be the the most comprehensive job posting resource available. See his Google spreadsheet below.
 
 * [Animation, VFX, and Game Industry Job Postings curated by Chris Mayne](https://docs.google.com/spreadsheets/d/1eR2oAXOuflr8CZeGoz3JTrsgNj3KuefbdXJOmNtjEVM/edit#gid=1392296528)
+* [Adobe Behance.net Jobs List](https://www.behance.net/joblist?field=3d%20art&country=US "Behance Jobs List")
 * [SIGGRAPH 2021 Job Fair](https://s2021.siggraph.org/job-fair/ "Job fair")
 
 ### Conferences
@@ -65,7 +66,7 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 * [https://renderman.pixar.com/challenges](https://renderman.pixar.com/challenges "https://renderman.pixar.com/challenges")
 * [https://www.therookies.co/contests](https://www.therookies.co/contests "https://www.therookies.co/contests")
 * [https://www.11secondclub.com/](https://www.11secondclub.com/ "https://www.11secondclub.com/")
-* [https://www.awn.com/call-entries](https://www.awn.com/call-entries "https://www.awn.com/call-entries")ANimation 
+* [https://www.awn.com/call-entries](https://www.awn.com/call-entries "https://www.awn.com/call-entries")ANimation
 
 ## Themed Entertainment
 
