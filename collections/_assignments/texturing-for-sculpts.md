@@ -107,7 +107,7 @@ accordion_mode: true
  9. Follow the **Normal Maps** and **Nodes** tutorial to connect the textures to the creature’s shader.
 10. Save your diffuse map in the project folder as **_LASTNAME-creature-color.png_**.
 11. Save your normal map in the project folder as **_LASTNAME-creature-normal.png_**.
-12. In Blender, set up the chair’s textures so they are visible on the model.
+12. In Blender, set up the textures so they are visible on the model.
 13. Save the 3D scene file as **_LASTNAME_-texturing-objects** in the project folder.
 14. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-texturing-objects.zip.**
 15. Upload the .zip file to the assignment dropbox.
