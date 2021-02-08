@@ -25,7 +25,7 @@ page_sections:
     title: PBR Materials Texturing and Lighting Videos
   content: These demonstration videos show how to set up PBR materials and realistic
     HDRI environment lighting.
-  headline: Demonstration Videos
+  title: Demonstration Videos
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Composition Theory
