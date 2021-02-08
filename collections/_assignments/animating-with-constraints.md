@@ -19,7 +19,7 @@ page_sections:
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
-  headline: Video Tutorial
+  title: Video Tutorial
   content: In this video, you will watch me learn how to make an exercise.
   video:
   - title: Learning to make an exercise.
