@@ -181,18 +181,18 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
 1. Product Design
-   1. Should follow product photography/rendering conventions
-   2. High-poly models and hi-res textures
+   * Should follow product photography/rendering conventions
+   * High-poly models and hi-res textures
 2. Character Design
-   1. Renders from multiple angles
+   * Renders from multiple angles
 3. Environment Design
-   1. Shows the design of an outdoor or indoor space from multiple angles
-   2. Includes a high level of detail
+   * Shows the design of an outdoor or indoor space from multiple angles
+   * Includes a high level of detail
 4. Game assets
-   1. Modular components to make building
+   * Modular components to make building
 5. Illustration and/or graphic design Layout
-   1. Magazine cover artwork
-   2. Advertisement
+   * Magazine cover artwork
+   * Advertisement
 
 ### Production Process (All steps required)
 
