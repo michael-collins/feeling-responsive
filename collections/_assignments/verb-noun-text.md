@@ -20,7 +20,9 @@ page_sections:
 - template: assignment-demo
   block: assignment-a-demo
   video:
-  - {}
+  - custom: <iframe width="560" height="315" src="https://youtube.com/playlist?list=PL-V2nChTadrVzwK_273DPBW9SzcZpxu77"
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    title: PBR Demo
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Composition Theory
