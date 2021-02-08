@@ -22,10 +22,10 @@ page_sections:
   video:
   - custom: <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL-V2nChTadrVzwK_273DPBW9SzcZpxu77"
       frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    title: PBR Playlist
+    title: PBR Materials Texturing and Lighting Videos
   content: These demonstration videos show how to set up PBR materials and realistic
     HDRI environment lighting.
-  headline: PBR Materials Texturing and Lighting Demonstration
+  headline: Demonstration Videos
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Composition Theory
