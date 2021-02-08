@@ -176,16 +176,23 @@ For this project, I would like you to imagine physical or conceptual building bl
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
-### Project formats (Choose one)
+### Project type (Choose one)
 
 Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
-1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
-2. Poster design (follows a particular poster format)
-3. Magazine or book illustration
-4. Realtime display on Sketchfab.com or p3d.in html
-5. Modular game assets.
-   * thing 
+1. Product Design
+   1. Should follow product photography/rendering conventions
+   2. High-poly models and hi-res textures
+2. Character Design
+   1. Renders from multiple angles
+3. Environment Design
+   1. Shows the design of an outdoor or indoor space from multiple angles
+   2. Includes a high level of detail
+4. Game assets
+   1. Modular components to make building
+5. Illustration and/or graphic design Layout
+   1. Magazine cover artwork
+   2. Advertisement
 
 ### Production Process (All steps required)
 
@@ -268,6 +275,10 @@ A work statement is a clear articulation about what you've made. This is not a j
 All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset. For example, you can use a texture pack you downloaded from a texture website, however, if you render an image of just a flat plane with the texture applied, this is not really creative transformation since the entirety of the image is work from someone else. Your transformation and contextualization is what's important. A render with a background that uses an image from Google image search (please don't do this) that comprises more than 50% of the work is also not really enough creative transformation. If someone reviews your work and says that the image's background is their favorite part of the image, you'll have to then explain how you didn't make the background, which is not a great situation to be in.
 
 ### Frequently asked questions
+
+**Q: Can I make fan art?**
+
+**A:** No. All design decisions are made for you, therefore, it's not considered a creative or transformative work.
 
 **Q: Do I have to use only 3D primitives in making this project?**
 
