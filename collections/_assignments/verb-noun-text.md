@@ -23,6 +23,8 @@ page_sections:
   - custom: <iframe width="560" height="315" src="https://youtube.com/playlist?list=PL-V2nChTadrVzwK_273DPBW9SzcZpxu77"
       frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     title: PBR Demo
+  content: These demonstration videos show how to set up PBR materials and realistic
+    HDRI environment lighting.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Composition Theory
