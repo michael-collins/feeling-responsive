@@ -61,3 +61,27 @@ Beginner assignment: [Lighting and Rendering the Airline Chair]({{site.baseurl}}
 Intermediate Assignment: [Rendering Objects]({{site.baseurl}}/assignments/rendering-objects.html)
 
 Advanced Assignment: [Sculpting, Texturing, and Rendering]({{site.baseurl}}/assignments/sculpting-texturing-and-rendering.html)
+
+### Week 4
+
+***
+
+#### Lecture Agenda
+
+[PBR and NPR Rendering]({{site.baseurl}}/agenda/pbr-npr-rendering/)
+
+#### Video
+
+[PBR Demo Part 1](https://vimeo.com/458809958)
+
+[PBR Demo Part 2](https://vimeo.com/458831363)
+
+[Fixing Mesh Problems](https://vimeo.com/457984249)
+
+#### Exercises
+
+Beginner assignment: [Type and Material]({{site.baseurl}}/assignments/verb-noun-text.html)
+
+Intermediate Assignment: [Character Modeling]({{site.baseurl}}/assignments/character-modeling.html)
+
+Advanced Assignment: [NPR Comic Rendering]({{site.baseurl}}/assignments/npr-comic-rendering.html)
