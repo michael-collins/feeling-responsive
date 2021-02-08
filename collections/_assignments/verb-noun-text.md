@@ -17,6 +17,10 @@ page_sections:
   - Become familiarized with the PBR workflow.
   - Practice good composition from art and design theory.
   list-item: []
+- template: assignment-demo
+  block: assignment-a-demo
+  video:
+  - {}
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Composition Theory
