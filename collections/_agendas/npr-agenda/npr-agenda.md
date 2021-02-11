@@ -11,6 +11,7 @@ permalink: "/agenda/pbr-npr-rendering/"
 
 1. **Video Screenings and Examples**
    * ["Goodbye Uncanny Valley"](https://vimeo.com/237568588) by Alan Warburton
+   * [Epic Games Metahuman](https://www.youtube.com/watch?v=1tjkSpoa7V8)
    * [NPR Experiments](https://cgsociety.org/c/featured/yjge/npr-expreiments)
    * [Avacado animation test](https://vimeo.com/78060303)
    * [Movie trailer](https://vimeo.com/ondemand/ziegenortbytomaszpopakul/179433781)
@@ -30,8 +31,8 @@ permalink: "/agenda/pbr-npr-rendering/"
    * [PBR workflow](https://www.youtube.com/watch?v=aH6XPsEmozk)
    * [BlenderNPR.org](http://blendernpr.org/)
    * Blender Add-0n - [PBR Materials](https://www.3d-wolf.com/products/materials.html)
-   * [HDR lighting packs](https://drive.google.com/drive/folders/1L6gc6B0RFNEZX780XSKj6GXMGo8vEkpY)
-   * [Texture packs](https://drive.google.com/drive/folders/1KNSg9RyWgwjGrfQLN6tP7jTXoGktmMTe)
+   * [HDR lighting packs](https://hdrihaven.com/hdri/?c=skies&h=cannon)
+   * [Texture packs](https://cc0textures.com/view?id=Rock030)
 4. **NPR (Non-photorealistic Rendering)**
    * Freestyle
    * Surface shader
