@@ -170,13 +170,13 @@ published: false
 
 **Project theme:** "Eureka!"
 
-For this project theme, you are asked to visually describe a solution to solve something. Explore ideas that include literal blueprints for success, humorous parodies of failures, or sad realities depicting the consequences of poorly conceived solutions. By starting with the end goal of a solution, you are asked to first consider what you are interests you, or at least asks you to consider what you feel is important. What scenarios do you care about, notice, or otherwise contemplate? These could include social issues in culture, politics, economics, the environment, or personal experiences and events.
+For this project theme, you are asked to visually describe a solution to solve something. Explore ideas that include literal blueprints for success, humorous parodies of failures, or the sometimes harsh realities depicting the consequences of poorly conceived solutions. Consider what you are interests you, or consider what is important to you. What scenarios do you care about, notice, or otherwise contemplate? These could include social issues in culture, politics, economics, the environment, or personal experiences and events.
 
-Consider how cartoonist Rube Goldberg might depict a solution the problem of applying a napkin to wipe a mouth while eating.
+Cartoonist, Rube Goldberg, finds the most indirect way to solve the most mundane of tasks.
 
 > ![Professor Butts and the Self-Operating Napkin (1931)](/uploads/rube_goldberg-s__self-operating_napkin__-cropped.gif)
 >
-> [^1]
+> \[^1\]
 
 Use 3D modeling software to create rendered images. You will be asked to conduct peer reviews throughout the process and will be afforded the opportunity to submit work revisions based on feedback. You will also critically reflect on your work and the project theme in a 150 word work statement.
 
@@ -188,11 +188,9 @@ A successful project will demonstrate your ability to create work with the follo
 
 Aesthetics refers to the implementation of fundamentals, such as [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), use of composition strategies, and color theory. You are rewarded for following the rules of formal design principles, but also for cleverly breaking them.
 
-Technique asks that you show that you understand how to use 3D software tools for creating models, texturing, lighting, and rendering. 
+Technique asks that you show that you understand how to use 3D software tools for creating models, texturing, lighting, and rendering.
 
 Meaning refers to aspects of the work that are unique to your perspective in understanding of the subject matter and relevant theories
-
-and lead to discussion about your work during a critique.
 
 ### Project type (Choose one)
 
@@ -313,4 +311,4 @@ All assets used in the production of the work must be created by you, be appropr
 
 ***
 
-[^1]: Professor Butts and the Self-Operating Napkin (1931)
+\[^1\]: Professor Butts and the Self-Operating Napkin (1931). [Rube Goldberg](https://en.wikipedia.org/wiki/en:Rube_Goldberg "w:en:Rube Goldberg") - Originally published in [_Collier's_](https://en.wikipedia.org/wiki/Collier%27s "w:Collier's"), September 26 1931. [Public Domain](https://commons.wikimedia.org/wiki/File:Rube_Goldberg%27s_%22Self-Operating_Napkin%22_(cropped).gif)
