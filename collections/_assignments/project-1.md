@@ -172,7 +172,7 @@ published: false
 
 For this project theme, you are asked to visually describe a solution to solve something. Explore ideas that include literal blueprints for success, humorous parodies of failures, or the sometimes harsh realities depicting the consequences of poorly conceived solutions. Consider what you are interests you, or consider what is important to you. What scenarios do you care about, notice, or otherwise contemplate? These could include social issues in culture, politics, economics, the environment, or personal experiences and events.
 
-Cartoonist, Rube Goldberg, finds the most indirect way to solve the most mundane of tasks.
+Cartoonist, Rube Goldberg, finds the most indirect way to solve the most mundane of challenges.
 
 > ![Professor Butts and the Self-Operating Napkin (1931)](/uploads/rube_goldberg-s__self-operating_napkin__-cropped.gif)
 >
