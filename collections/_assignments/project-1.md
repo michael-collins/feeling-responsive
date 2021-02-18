@@ -168,31 +168,52 @@ published: false
 ---
 ## Overview
 
-**Project theme:** Artifacts from the Future
+**Project theme:** "Eureka!"
 
-Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
+For this project theme, you are asked to visually describe a solution to solve something. Explore ideas that include literal blueprints for success, humorous parodies of failures, or sad realities depicting the consequences of poorly conceived solutions. By starting with the end goal of a solution, you are asked to first consider what you are interests you, or at least asks you to consider what you feel is important. What scenarios do you care about, notice, or otherwise contemplate? These could include social issues in culture, politics, economics, the environment, or personal experiences and events.
 
-For this project, I would like you to imagine physical or conceptual building blocks. You will need to choose a project model to frame and develop your project, choose a project format that corresponds with your media interests, and follow the weekly production process. You will be asked to conduct peer reviews throughout the process and will be afforded the opportunity to submit work revisions based on feedback. You will also critically reflect on your work and the project theme in a 150 word work statement.
+Consider how cartoonist Rube Goldberg might depict a solution the problem of applying a napkin to wipe a mouth while eating.
 
-A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
+> ![Professor Butts and the Self-Operating Napkin (1931)](/uploads/rube_goldberg-s__self-operating_napkin__-cropped.gif)
+>
+> [^1]
+
+Use 3D modeling software to create rendered images. You will be asked to conduct peer reviews throughout the process and will be afforded the opportunity to submit work revisions based on feedback. You will also critically reflect on your work and the project theme in a 150 word work statement.
+
+A successful project will demonstrate your ability to create work with the following three attributes:
+
+1. Aesthetics
+2. Technique
+3. Meaning
+
+Aesthetics refers to the implementation of fundamentals, such as [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), use of composition strategies, and color theory. You are rewarded for following the rules of formal design principles, but also for cleverly breaking them.
+
+Technique asks that you show that you understand how to use 3D software tools for creating models, texturing, lighting, and rendering. 
+
+Meaning refers to aspects of the work that are unique to your perspective in understanding of the subject matter and relevant theories
+
+and lead to discussion about your work during a critique.
 
 ### Project type (Choose one)
 
-Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
+Choose a format that you can reasonably accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
 1. Product Design
    * Should follow product photography/rendering conventions
    * High-poly models and hi-res textures
+   * Should be either speculative or reference a larger story
 2. Character Design
    * Renders from multiple angles
 3. Environment Design
    * Shows the design of an outdoor or indoor space from multiple angles
-   * Includes a high level of detail
-4. Game assets
-   * Modular components to make building
+   * Consider how this environment tells a story?
+4. Low-poly game assets
+   * Modular components to make props
+   * Interior and exterior environments
 5. Illustration and/or graphic design Layout
    * Magazine cover artwork
-   * Advertisement
+   * Advertisements
+   * Posters
 
 ### Production Process (All steps required)
 
@@ -289,3 +310,7 @@ All assets used in the production of the work must be created by you, be appropr
 **A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, download and try the concept development worksheet. Many people are able to generate ideas from this worksheet. If the worksheet isn't helping you come up with any ideas that you are interested in, the third recommendation I have is to use your environment to generate ideas for you. Through observation, ideas can come to you. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't matter. The important thing is that you are going through some kind of creative or generative process to articulate a concept, and can then respond to it by creating creative works. I often find that listening to other artists and designers talk about their process inspires my own. Often, the stranger the process, the more interesting the work is.
 
 [Here you can see Andrew Jones demoing Alchemy](https://www.youtube.com/watch?v=zYYSxZZzgjc), a drawing tool, to generate shapes for his character designs.
+
+***
+
+[^1]: Professor Butts and the Self-Operating Napkin (1931)
