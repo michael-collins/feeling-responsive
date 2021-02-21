@@ -150,7 +150,7 @@ For this project theme, you are asked to present a solution to problem, or a non
 
 For example, cartoonist, Rube Goldberg, finds the most indirect way to solve the most mundane of challenges.
 
-> ![Professor Butts and the Self-Operating Napkin (1931)](/uploads/rube_goldberg-s__self-operating_napkin__-cropped.gif)
+> ![Professor Butts and the Self-Operating Napkin (1931)]({{site.baseurl}}/uploads/rube_goldberg-s__self-operating_napkin__-cropped.gif)
 >
 > \[^1\]
 

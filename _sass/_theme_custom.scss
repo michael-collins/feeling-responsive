@@ -534,3 +534,17 @@ li.link-list {
 .top-bar-section ul li {
 	color: #538798;
 }
+
+blockquote {
+	font-style: italic;
+    position: relative;
+    border: none;
+	border-left:2px solid #ccc;
+    margin: 0 30px 30px 10px;
+    color: #4B4B4B;
+
+	&::before, &::after {
+		display: none;
+	}
+	
+}
