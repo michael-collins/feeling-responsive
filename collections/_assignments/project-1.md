@@ -41,6 +41,9 @@ page_sections:
   - url: http://www.kkstudio.gr/#the-uncomfortable
     title: The Uncomfortable
     link_style: new tab
+  - url: http://www.artnet.com/artists/andrea-zittel/
+    title: Andrea Zittel
+    link_style: new tab
   - url: https://andreaswannerstedt.se/
     title: Andreas Wannerstedt
     link_style: new tab
@@ -64,17 +67,6 @@ page_sections:
     url: https://www.behance.net/nemanjapesic
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Concept Development Worksheet
-  image-gallery: []
-  links:
-  - url: https://michaelcollins.xyz/3d-digital-studio-master/assets/resources/art314-project-1-ideation.pdf
-    link_style: " download"
-    title: Project 1 Ideation Sheet
-  content: If you are having trouble developing a concept, please use the provided
-    worksheet as a guided method for exploring potential ideas. You may need to try
-    it a few times before interesting ideas emerge.
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
   title: Tutorials for project format types
   video:
   - title: 3D Rendering for Illustration
@@ -85,12 +77,6 @@ page_sections:
     custom: ''
   - title: SketchFab Tutorial
     youtube_url: https://www.youtube.com/watch?v=HmjBi4v_Whc
-    custom: ''
-  - title: Papercraft
-    youtube_url: https://www.youtube.com/watch?v=klran7MH5Yw
-    custom: ''
-  - title: 3D Printing
-    youtube_url: https://www.youtube.com/watch?v=-y5r2mTlUWA
     custom: ''
   content: Please explore the Blender Resources Page to explore what it possible in
     Blender (and has tutorials to support your training). I've also posted links to
