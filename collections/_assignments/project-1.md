@@ -170,9 +170,9 @@ published: false
 
 **Project theme:** "Eureka!"
 
-For this project theme, you are asked to visually describe a solution to solve something. Explore ideas that include literal blueprints for success, humorous parodies of failures, or the sometimes harsh realities depicting the consequences of poorly conceived solutions. Consider what you are interests you, or consider what is important to you. What scenarios do you care about, notice, or otherwise contemplate? These could include social issues in culture, politics, economics, the environment, or personal experiences and events.
+For this project theme, you are asked to present a solution to problem, or a non-solution to a problem. That is not to say, your presented solution does not have to depict a successful, efficient, or logical outcome. While your ideas can include successes, they can also be humorous parodies of failures or the sometimes harsh realities depicting the consequences of poorly conceived solutions. Consider what interests you, or what is important to you. What scenarios do you care about, notice, or otherwise contemplate? These could include social issues in culture, politics, economics, the environment, or personal experiences and events.
 
-Cartoonist, Rube Goldberg, finds the most indirect way to solve the most mundane of challenges.
+For example, cartoonist, Rube Goldberg, finds the most indirect way to solve the most mundane of challenges.
 
 > ![Professor Butts and the Self-Operating Napkin (1931)](/uploads/rube_goldberg-s__self-operating_napkin__-cropped.gif)
 >
@@ -186,21 +186,22 @@ A successful project will demonstrate your ability to create work with the follo
 2. Technique
 3. Meaning
 
-Aesthetics refers to the implementation of fundamentals, such as [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), use of composition strategies, and color theory. You are rewarded for following the rules of formal design principles, but also for cleverly breaking them.
+**Aesthetics** are evaluated by how you are able to implement art and design fundamentals, such as [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), use of composition strategies, and color theory. You are rewarded for following the rules of formal design principles, but also for cleverly breaking them.
 
-Technique asks that you show that you understand how to use 3D software tools for creating models, texturing, lighting, and rendering.
+**Technique** asks that you show that you understand how to use 3D software tools for creating models, texturing, lighting, and rendering.
 
-Meaning refers to aspects of the work that are unique to your perspective in understanding of the subject matter and relevant theories
+**Meaning** refers to aspects of the work that are unique to your perspective in understanding of the subject matter and relevant issues or theories.
 
 ### Project type (Choose one)
 
-Choose a format that you can reasonably accomplish within the timeframe of the project. Do not use motion or animation in the final output.
+Choose a format that you can reasonably accomplish within the timeframe of the project. Do not use motion or animation.
 
 1. Product Design
    * Should follow product photography/rendering conventions
    * High-poly models and hi-res textures
    * Should be either speculative or reference a larger story
 2. Character Design
+   * Should be a unique character design
    * Renders from multiple angles
 3. Environment Design
    * Shows the design of an outdoor or indoor space from multiple angles
@@ -268,7 +269,7 @@ A work statement is a clear articulation about what you've made. This is not a j
 
 **Example projects with work and artist statements:**
 
-* [geist.xyz](https://vimeo.com/150824660) by Zeitguised
+* [geist.xyz](https://vimeo.com/150824660) by Zeitguised (see video description for statement)
 * [Mushtari](https://neri.media.mit.edu/projects/details/mushtari.html) by Neri Oxman
 * [Institute for New Feeling](https://www.maakemagazine.com/nina-sarnelle) by Nina Sarnelle
 
@@ -276,18 +277,20 @@ A work statement is a clear articulation about what you've made. This is not a j
 
 1. Your name and date
 2. Title of your work
-3. Which of the five project models you used
-   * IE - "For this project, I used the "bounding" model."
-4. What did you create?
-   * IE - "I created images that depict ..."
-5. Why did you make it?
+3. What did you create?
+   * IE - "In this work, entitled _name-of-work_, I created images that depict ..."
+4. Why did you make it?
    * IE - "I created this work because I am interested in exploring ..."
-6. What is the work about?
+   * IE - "This project is a response to the idea that ..."
+5. What is the work about?
    * IE - "This work is primarily focused on ..."
-7. How is what you did in your work demonstrating what what you've said the work is about?
+6. How is what you've said the work is about demonstrated in the work you made?
+   * Include examples. Try to avoid generalized statements, show specific links.
    * IE - "You can see an example of this in the work where I have used ... to reference ..."
-8. Were there any unexpected, interesting, or strange outcomes?
-9. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+7. Were there any unexpected, interesting, or strange outcomes?
+   * **Note:** This is not a question/answer assignment, skip this if you aren't sure what to write.
+8. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+   * **Note:** This is not a question/answer assignment, skip this if you aren't sure what to write.
 
 ### Constraints
 
@@ -299,13 +302,13 @@ All assets used in the production of the work must be created by you, be appropr
 
 **A:** No. All design decisions are made for you, therefore, it's not considered a creative or transformative work.
 
-**Q: Do I have to use only 3D primitives in making this project?**
+**Q: I don't understand the project, can you help me?**
 
-**A:** No, you can interpret the project theme however you like. You could of course take a literal approach and use only primitives that are available in 3D software, but it may be more interesting to use a more conceptual approach and use complex models and materials that are conceptually something you've defined as a "primitive" for something else. Be sure to talk about this in your work statement.
+**A:** Yes, please schedule office hours and we can discuss the goals of the project.
 
 **Q: I'm having trouble coming up with a project concept. What do I do?**
 
-**A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, download and try the concept development worksheet. Many people are able to generate ideas from this worksheet. If the worksheet isn't helping you come up with any ideas that you are interested in, the third recommendation I have is to use your environment to generate ideas for you. Through observation, ideas can come to you. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't matter. The important thing is that you are going through some kind of creative or generative process to articulate a concept, and can then respond to it by creating creative works. I often find that listening to other artists and designers talk about their process inspires my own. Often, the stranger the process, the more interesting the work is.
+**A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, download and try the concept development worksheet. Many people are able to generate ideas from this worksheet. If the worksheet isn't helping you come up with any ideas that you are interested in, the third recommendation I have is to use your environment to generate ideas for you. Through observation, ideas can come to you. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't matter. The important thing is that you are going through some kind of creative or generative process to synthesize or articulate a concept, and can then respond to it by creating visual work. I often find that listening to other artists and designers talk about their process inspires my own. Generally, the stranger the process, the more interesting the work is.
 
 [Here you can see Andrew Jones demoing Alchemy](https://www.youtube.com/watch?v=zYYSxZZzgjc), a drawing tool, to generate shapes for his character designs.
 
