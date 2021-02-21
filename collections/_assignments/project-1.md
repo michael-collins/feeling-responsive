@@ -35,9 +35,9 @@ page_sections:
     custom: ''
     vimeo_url: https://vimeo.com/133160620
   links:
-  - title: 99% Invisible Podcast - Froebels Gifts
+  - title: 99% Invisible Podcast - Unpleasant Design & Hostile Urban Architecture
     link_style: new tab
-    url: https://99percentinvisible.org/episode/froebels-gifts/
+    url: https://99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/
   - title: Baden Pailthorpe
     link_style: new tab
     url: https://www.badenpailthorpe.com/asset_pack/
