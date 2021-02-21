@@ -222,31 +222,31 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 
 1. **Concept(s):** Sketch, label, and write ideas in sketchbook.
    * Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
-   * Upload `jpg` or `png` images of sketchbook pages
+   * Upload `jpg` or `png` images of sketchbook pages.
    * Must be clearly scanned or photographed. This should look professional, do not upload blurry, rotated, poorly cropped images.
    * **If you used the concept development worksheet** linked in the assignment rather than a sketchbook, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
    * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
 2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
    * You can use Photoshop or [Mural.co](https://www.mural.co/)
    * Submit as a `png` or `jpg`
-3. **Work intent:** Describe what you will be doing
-   * Include name, date, chosen project model, and project format
+3. **Work intent:** Describe what you will be doing.
+   * Include name, date, chosen project model, and project format.
    * Short one sentence description of what you intend to make.
-   * Upload this in an MS Word `doc` format
+   * Upload this in an MS Word `doc` format.
 
 #### Week 2: Production begins
 
 1. Submit screenshots from Blender showing significant progress.
-2. Post your screenshots to the **Project 1: Progress 1 screenshots** discussion thread
-3. Meet with instructor if needed
+2. Post your screenshots to the **Project 1: Progress 1 screenshots** discussion thread.
+3. Meet with instructor if needed.
 
 #### Week 3: Production continues
 
-1. Submit screenshots from Blender showing significant progress
-2. Submit a draft of your 150 word minimum work statement
-3. Participate in peer reviews for statement drafts
-4. Post your screenshots to the **Project 1: Progress 2 screenshots** discussion thread
-5. Meet with instructor if needed
+1. Submit screenshots from Blender showing significant progress.
+2. Submit a draft of your 150 word minimum work statement.
+3. Participate in peer reviews for statement drafts.
+4. Post your screenshots to the **Project 1: Progress 2 screenshots** discussion thread.
+5. Meet with instructor if needed.
 
 #### Week 4: Finish production and present work
 
@@ -256,8 +256,8 @@ Use one of the five models to develop a concept. What makes for a good concept: 
       * 150 words minimum
       * file name: `LASTNAME-project1-statement.doc`
    2. Include the media you created
-2. Post your screenshots to the **Project: 1 submission images show and tell** discussion thread
-3. Participate in work critique with peers
+2. Post your screenshots to the **Project: 1 submission images show and tell** discussion thread.
+3. Participate in work critique with peers.
 
 #### Week 5: (Optional)
 
