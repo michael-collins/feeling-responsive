@@ -38,6 +38,9 @@ page_sections:
   - title: 99% Invisible Podcast - Unpleasant Design & Hostile Urban Architecture
     link_style: new tab
     url: https://99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/
+  - url: http://www.kkstudio.gr/#the-uncomfortable
+    title: The Uncomfortable
+    link_style: new tab
   - url: https://andreaswannerstedt.se/
     title: Andreas Wannerstedt
     link_style: new tab
