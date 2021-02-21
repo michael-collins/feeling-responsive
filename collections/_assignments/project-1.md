@@ -38,24 +38,15 @@ page_sections:
   - title: 99% Invisible Podcast - Unpleasant Design & Hostile Urban Architecture
     link_style: new tab
     url: https://99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/
-  - title: Baden Pailthorpe
+  - url: https://andreaswannerstedt.se/
+    title: Andreas Wannerstedt
     link_style: new tab
-    url: https://www.badenpailthorpe.com/asset_pack/
-  - title: Jon Monaghan
-    link_style: new tab
-    url: https://jonmonaghan.com/work/
-  - title: John Butler
-    link_style: new tab
-    url: https://vimeo.com/user3946359
   - title: Speculative Product Design (Pinterest)
     link_style: new tab
     url: https://www.pinterest.com/visualbloke/speculative-design/
   - title: Neri Oxman
     link_style: new tab
     url: https://neri.media.mit.edu/projects.html
-  - title: NastPlas
-    link_style: new tab
-    url: https://www.behance.net/drfranken
   - url: https://www.maakemagazine.com/nina-sarnelle
     title: The Institute for New Feeling
     link_style: new tab
@@ -68,9 +59,6 @@ page_sections:
   - title: Nemanja Pesic
     link_style: new tab
     url: https://www.behance.net/nemanjapesic
-  - title: Zeitguised – Sim/Stim
-    link_style: new tab
-    url: https://vimeo.com/100894012
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Concept Development Worksheet
