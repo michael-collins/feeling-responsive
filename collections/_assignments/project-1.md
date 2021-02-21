@@ -161,7 +161,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/project-1-banner-compressed.jpg"
+  image_fullwidth: "/uploads/project-1-eureka-banner-compressed.jpg"
 accordion_mode: true
 published: false
 
@@ -227,7 +227,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * **If you used the concept development worksheet** linked in the assignment rather than a sketchbook, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
    * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
 2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
-   * You can use Photoshop or [Mural.co](https://www.mural.co/)
+   * You can use Photoshop, [Mural.co](https://www.mural.co/), or similar tools.
    * Submit as a `png` or `jpg`
 3. **Work intent:** Describe what you will be doing.
    * Include name, date, chosen project model, and project format.
