@@ -162,11 +162,11 @@ A successful project will demonstrate your ability to create work with the follo
 2. Technique
 3. Meaning
 
-**Aesthetics** are evaluated by how you are able to implement art and design fundamentals, such as [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), use of composition strategies, and color theory. You are rewarded for following the rules of formal design principles, but also for cleverly breaking them.
+**Aesthetics** are evaluated by how you are able to implement art and design fundamentals, such as [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), use of composition strategies, and color theory. You are rewarded for following the rules of formal design principles, but also for cleverly breaking them. Try to include some novel elements that allow you to put your "finger print" on the work.
 
 **Technique** asks that you show that you understand how to use 3D software tools for creating models, texturing, lighting, and rendering.
 
-**Meaning** refers to aspects of the work that are unique to your perspective in understanding of the subject matter and relevant issues or theories.
+**Meaning** refers to aspects of the work that are unique to your perspective in understanding of the subject matter and relevant issues or theories. Is this work critically engaged? Does it show elements of risk or a clever remix of ideas?
 
 ### Project type (Choose one)
 
@@ -284,7 +284,7 @@ All assets used in the production of the work must be created by you, be appropr
 
 **Q: I'm having trouble coming up with a project concept. What do I do?**
 
-**A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, download and try the concept development worksheet. Many people are able to generate ideas from this worksheet. If the worksheet isn't helping you come up with any ideas that you are interested in, the third recommendation I have is to use your environment to generate ideas for you. Through observation, ideas can come to you. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't matter. The important thing is that you are going through some kind of creative or generative process to synthesize or articulate a concept, and can then respond to it by creating visual work. I often find that listening to other artists and designers talk about their process inspires my own. Generally, the stranger the process, the more interesting the work is.
+**A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, observe your environment to generate ideas. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't necessarily matter. The important thing is that you are going through some kind of creative or generative process to synthesize or articulate a concept, and can then respond to it by creating visual work. I often find that listening to other artists and designers talk about their process inspires my own. Generally, the stranger the process, the more interesting the work is.
 
 [Here you can see Andrew Jones demoing Alchemy](https://www.youtube.com/watch?v=zYYSxZZzgjc), a drawing tool, to generate shapes for his character designs.
 
