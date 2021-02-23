@@ -35,6 +35,9 @@ page_sections:
     custom: ''
     vimeo_url: https://vimeo.com/133160620
   links:
+  - title: 'Furniture of the Future: Pay Per Use DRM Controlled and DNA Designed'
+    url: https://www.vice.com/en/article/535nq5/furniture-of-the-future-pay-per-use-drm-controlled-and-dna-designed
+    link_style: new tab
   - title: 99% Invisible Podcast - Unpleasant Design & Hostile Urban Architecture
     link_style: new tab
     url: https://99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/
