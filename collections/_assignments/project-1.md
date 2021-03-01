@@ -72,6 +72,9 @@ page_sections:
   block: assignment-c-supportingmaterial
   title: Tutorials for project format types
   video:
+  - title: Papercraft
+    youtube_url: https://www.youtube.com/watch?v=klran7MH5Yw
+    custom: ''
   - title: 3D Rendering for Illustration
     youtube_url: https://www.youtube.com/watch?v=5tJWH58bIpI
     custom: ''
