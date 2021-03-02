@@ -548,7 +548,16 @@ blockquote {
 	}
 	
 }
-p a {
+p a,  .poster-style a {
     color: #28a2da;
+    text-decoration: underline;
+}
+.accordion a {
+    text-decoration: none;
+}
+.accordion li a {
+    color: #28a2da;
+}
+.accordion li a:hover {
     text-decoration: underline;
 }
