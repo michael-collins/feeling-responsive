@@ -35,6 +35,9 @@ page_sections:
     custom: ''
     vimeo_url: https://vimeo.com/133160620
   links:
+  - title: 'Furniture of the Future: Pay Per Use DRM Controlled and DNA Designed'
+    url: https://www.vice.com/en/article/535nq5/furniture-of-the-future-pay-per-use-drm-controlled-and-dna-designed
+    link_style: new tab
   - title: 99% Invisible Podcast - Unpleasant Design & Hostile Urban Architecture
     link_style: new tab
     url: https://99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/
@@ -77,6 +80,9 @@ page_sections:
     custom: ''
   - title: SketchFab Tutorial
     youtube_url: https://www.youtube.com/watch?v=HmjBi4v_Whc
+    custom: ''
+  - title: Papercraft
+    youtube_url: https://www.youtube.com/watch?v=klran7MH5Yw
     custom: ''
   content: Please explore the Blender Resources Page to explore what it possible in
     Blender (and has tutorials to support your training). I've also posted links to
