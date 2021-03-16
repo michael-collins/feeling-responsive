@@ -1,0 +1,821 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Texturing Principles</title>
+
+	<link rel="stylesheet" type="text/css" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/css/styles_feeling_responsive.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	
+	
+  
+
+	<script src="https://michaelcollins.xyz/3d-digital-studio-master/assets/js/custom.js"></script>
+	<script src="https://michaelcollins.xyz/3d-digital-studio-master/assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="Kinds of textures
+
+    
+      
+        Diffuse Map
+
+        
+          RGB to provide local color
+        
+      
+      
+        Normal Map
+
+        
+          RGB converts to XYZ coordinates when rendering
+        
+      
+      
+        Bump Map (Height Map)
+
+        
+          
+            Grey values determine height of surface detail
+          
+          
+            Geometry is not changed
+          
+        
+      
+      
+        Displacement Map
+
+        
+          
+            Grey values
+          
+          
+            Affects geometry
+          
+        
+      
+      
+        Specular Map (Grey value)
+      
+      
+        Pretty much any channel in your shader can be driven by a map
+
+        
+          
+            Alpha
+          
+          
+            glossiness
+          
+          
+            reflectivity
+          
+          
+            hair/baldness
+          
+        
+      
+    
+  
+  
+    Resources
+
+    
+      
+        Normal Map Tools
+
+        
+          
+            Maya: Normal Map Transfer
+          
+          
+            Photoshop Plugin: http://quixel.se/ndo
+          
+          
+            Standalone: http://www.crazybump.com/
+          
+        
+      
+      
+        Advanced Displacement Mapping
+
+        
+          Tutorial: http://www.cggallery.com/tutorials/displacement/
+        
+      
+      
+        Textures
+
+        
+          
+            http://www.cgtextures.com/
+          
+          
+            http://texturer.com/
+          
+        
+      
+    
+  
+  
+    Video Screening
+
+    
+      
+        Airspace: https://vimeo.com/80683467
+      
+      
+        Airspace Breakdown: https://vimeo.com/80642128
+      
+      
+        For the remainder
+      
+      
+        Paths of Hate
+      
+      
+        Kenneth Fejer: http://www.kennethfejer.com/lowpoly.html
+      
+    
+  
+  
+    Terminology
+
+    
+      
+        HUD - Triangles
+      
+      
+        Diffuse
+      
+      
+        Bump Map
+      
+      
+        Alpha
+      
+      
+        Unfold
+      
+      
+        UV Texture Editor
+      
+      
+        UV Layout
+      
+    
+  
+  
+    Texturing Demo
+
+    
+      
+        UV Texture Editor
+      
+      
+        Unfolding/Relax UVs tool
+      
+      
+        Pin selected UVs
+      
+      
+        Texturing in Photoshop
+      
+    
+  
+  
+    Q and A
+
+    
+      Why Low Poly Modeling and Texturing?
+    
+  
+  
+    Assignment: Exercise 3">
+	<meta name="google-site-verification" content="">
+	<meta name="msvalidate.01" content="" >
+	
+	<link rel="author" href="">
+	
+	
+	<link rel="canonical" href="https://michaelcollins.xyz/3d-digital-studio-master/topics/maya-texturing-principles.html">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Texturing Principles">
+	<meta property="og:description" content="Kinds of textures
+
+    
+      
+        Diffuse Map
+
+        
+          RGB to provide local color
+        
+      
+      
+        Normal Map
+
+        
+          RGB converts to XYZ coordinates when rendering
+        
+      
+      
+        Bump Map (Height Map)
+
+        
+          
+            Grey values determine height of surface detail
+          
+          
+            Geometry is not changed
+          
+        
+      
+      
+        Displacement Map
+
+        
+          
+            Grey values
+          
+          
+            Affects geometry
+          
+        
+      
+      
+        Specular Map (Grey value)
+      
+      
+        Pretty much any channel in your shader can be driven by a map
+
+        
+          
+            Alpha
+          
+          
+            glossiness
+          
+          
+            reflectivity
+          
+          
+            hair/baldness
+          
+        
+      
+    
+  
+  
+    Resources
+
+    
+      
+        Normal Map Tools
+
+        
+          
+            Maya: Normal Map Transfer
+          
+          
+            Photoshop Plugin: http://quixel.se/ndo
+          
+          
+            Standalone: http://www.crazybump.com/
+          
+        
+      
+      
+        Advanced Displacement Mapping
+
+        
+          Tutorial: http://www.cggallery.com/tutorials/displacement/
+        
+      
+      
+        Textures
+
+        
+          
+            http://www.cgtextures.com/
+          
+          
+            http://texturer.com/
+          
+        
+      
+    
+  
+  
+    Video Screening
+
+    
+      
+        Airspace: https://vimeo.com/80683467
+      
+      
+        Airspace Breakdown: https://vimeo.com/80642128
+      
+      
+        For the remainder
+      
+      
+        Paths of Hate
+      
+      
+        Kenneth Fejer: http://www.kennethfejer.com/lowpoly.html
+      
+    
+  
+  
+    Terminology
+
+    
+      
+        HUD - Triangles
+      
+      
+        Diffuse
+      
+      
+        Bump Map
+      
+      
+        Alpha
+      
+      
+        Unfold
+      
+      
+        UV Texture Editor
+      
+      
+        UV Layout
+      
+    
+  
+  
+    Texturing Demo
+
+    
+      
+        UV Texture Editor
+      
+      
+        Unfolding/Relax UVs tool
+      
+      
+        Pin selected UVs
+      
+      
+        Texturing in Photoshop
+      
+    
+  
+  
+    Q and A
+
+    
+      Why Low Poly Modeling and Texturing?
+    
+  
+  
+    Assignment: Exercise 3">
+	<meta property="og:url" content="https://michaelcollins.xyz/3d-digital-studio-master/topics/maya-texturing-principles.html">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="DART 303: Digital 3D Studio">
+	
+	
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="mike_collins">
+	<meta name="twitter:creator" content="mike_collins">
+	<meta name="twitter:title" content="Texturing Principles">
+	<meta name="twitter:description" content="Kinds of textures
+
+    
+      
+        Diffuse Map
+
+        
+          RGB to provide local color
+        
+      
+      
+        Normal Map
+
+        
+          RGB converts to XYZ coordinates when rendering
+        
+      
+      
+        Bump Map (Height Map)
+
+        
+          
+            Grey values determine height of surface detail
+          
+          
+            Geometry is not changed
+          
+        
+      
+      
+        Displacement Map
+
+        
+          
+            Grey values
+          
+          
+            Affects geometry
+          
+        
+      
+      
+        Specular Map (Grey value)
+      
+      
+        Pretty much any channel in your shader can be driven by a map
+
+        
+          
+            Alpha
+          
+          
+            glossiness
+          
+          
+            reflectivity
+          
+          
+            hair/baldness
+          
+        
+      
+    
+  
+  
+    Resources
+
+    
+      
+        Normal Map Tools
+
+        
+          
+            Maya: Normal Map Transfer
+          
+          
+            Photoshop Plugin: http://quixel.se/ndo
+          
+          
+            Standalone: http://www.crazybump.com/
+          
+        
+      
+      
+        Advanced Displacement Mapping
+
+        
+          Tutorial: http://www.cggallery.com/tutorials/displacement/
+        
+      
+      
+        Textures
+
+        
+          
+            http://www.cgtextures.com/
+          
+          
+            http://texturer.com/
+          
+        
+      
+    
+  
+  
+    Video Screening
+
+    
+      
+        Airspace: https://vimeo.com/80683467
+      
+      
+        Airspace Breakdown: https://vimeo.com/80642128
+      
+      
+        For the remainder
+      
+      
+        Paths of Hate
+      
+      
+        Kenneth Fejer: http://www.kennethfejer.com/lowpoly.html
+      
+    
+  
+  
+    Terminology
+
+    
+      
+        HUD - Triangles
+      
+      
+        Diffuse
+      
+      
+        Bump Map
+      
+      
+        Alpha
+      
+      
+        Unfold
+      
+      
+        UV Texture Editor
+      
+      
+        UV Layout
+      
+    
+  
+  
+    Texturing Demo
+
+    
+      
+        UV Texture Editor
+      
+      
+        Unfolding/Relax UVs tool
+      
+      
+        Pin selected UVs
+      
+      
+        Texturing in Photoshop
+      
+    
+  
+  
+    Q and A
+
+    
+      Why Low Poly Modeling and Texturing?
+    
+  
+  
+    Assignment: Exercise 3">
+	
+	
+
+	<link type="text/plain" rel="author" href="https://michaelcollins.xyz/3d-digital-studio-master/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<ol>
+  <li>
+    <p><strong>Kinds of textures</strong></p>
+
+    <ol>
+      <li>
+        <p>Diffuse Map</p>
+
+        <ol>
+          <li>RGB to provide <strong>local</strong> color</li>
+        </ol>
+      </li>
+      <li>
+        <p>Normal Map</p>
+
+        <ol>
+          <li>RGB converts to XYZ coordinates when rendering</li>
+        </ol>
+      </li>
+      <li>
+        <p>Bump Map (Height Map)</p>
+
+        <ol>
+          <li>
+            <p>Grey values determine height of surface detail</p>
+          </li>
+          <li>
+            <p>Geometry is not changed</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Displacement Map</p>
+
+        <ol>
+          <li>
+            <p>Grey values</p>
+          </li>
+          <li>
+            <p>Affects geometry</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Specular Map (Grey value)</p>
+      </li>
+      <li>
+        <p>Pretty much any channel in your shader can be driven by a map</p>
+
+        <ol>
+          <li>
+            <p>Alpha</p>
+          </li>
+          <li>
+            <p>glossiness</p>
+          </li>
+          <li>
+            <p>reflectivity</p>
+          </li>
+          <li>
+            <p>hair/baldness</p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p><strong>Resources</strong></p>
+
+    <ol>
+      <li>
+        <p>Normal Map Tools</p>
+
+        <ol>
+          <li>
+            <p>Maya: <a href="http://www.lynda.com/Maya-tutorials/Normal-mapping/83095/89991-4.html">Normal Map Transfer</a></p>
+          </li>
+          <li>
+            <p>Photoshop Plugin: <a href="http://quixel.se/ndo">http://quixel.se/ndo</a></p>
+          </li>
+          <li>
+            <p>Standalone: <a href="http://www.crazybump.com/">http://www.crazybump.com/</a></p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Advanced Displacement Mapping</p>
+
+        <ol>
+          <li>Tutorial: <a href="http://www.cggallery.com/tutorials/displacement/">http://www.cggallery.com/tutorials/displacement/</a></li>
+        </ol>
+      </li>
+      <li>
+        <p>Textures</p>
+
+        <ol>
+          <li>
+            <p><a href="http://www.cgtextures.com/">http://www.cgtextures.com/</a></p>
+          </li>
+          <li>
+            <p><a href="http://texturer.com/">http://texturer.com/</a></p>
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p><strong>Video Screening</strong></p>
+
+    <ol>
+      <li>
+        <p>Airspace:<a href="https://vimeo.com/80683467"> https://vimeo.com/80683467</a></p>
+      </li>
+      <li>
+        <p>Airspace Breakdown:<a href="https://vimeo.com/80642128"> https://vimeo.com/80642128</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/36818561">For the remainder</a></p>
+      </li>
+      <li>
+        <p>Paths of Hate</p>
+      </li>
+      <li>
+        <p>Kenneth Fejer: <a href="http://www.kennethfejer.com/lowpoly.html">http://www.kennethfejer.com/lowpoly.html</a></p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p><strong>Terminology</strong></p>
+
+    <ol>
+      <li>
+        <p>HUD - Triangles</p>
+      </li>
+      <li>
+        <p>Diffuse</p>
+      </li>
+      <li>
+        <p>Bump Map</p>
+      </li>
+      <li>
+        <p>Alpha</p>
+      </li>
+      <li>
+        <p>Unfold</p>
+      </li>
+      <li>
+        <p>UV Texture Editor</p>
+      </li>
+      <li>
+        <p>UV Layout</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p><strong>Texturing Demo</strong></p>
+
+    <ol>
+      <li>
+        <p>UV Texture Editor</p>
+      </li>
+      <li>
+        <p>Unfolding/Relax UVs tool</p>
+      </li>
+      <li>
+        <p>Pin selected UVs</p>
+      </li>
+      <li>
+        <p>Texturing in Photoshop</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p><strong>Q and A</strong></p>
+
+    <ol>
+      <li>Why Low Poly Modeling and Texturing?</li>
+    </ol>
+  </li>
+  <li>
+    <p><strong>Assignment: Exercise 3</strong></p>
+  </li>
+</ol>
+
+
+</html>
+

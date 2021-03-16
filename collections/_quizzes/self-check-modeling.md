@@ -1,3 +1,0 @@
----
-title: Modeling Self-Check
----

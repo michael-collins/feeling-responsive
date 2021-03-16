@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://michaelcollins.xyz/3d-digital-studio-master/sitemap.xml

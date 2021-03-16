@@ -1,0 +1,554 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Render Passes and Compositing</title>
+
+	<link rel="stylesheet" type="text/css" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/css/styles_feeling_responsive.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	
+	
+  
+
+	<script src="https://michaelcollins.xyz/3d-digital-studio-master/assets/js/custom.js"></script>
+	<script src="https://michaelcollins.xyz/3d-digital-studio-master/assets/js/modernizr.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+
+	<script>
+		WebFont.load({
+			google: {
+				families: [ 'Lato:400,700,400italic:latin', 'Volkhov::latin' ]
+			}
+		});
+	</script>
+
+	<noscript>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic%7CVolkhov' rel='stylesheet' type='text/css'>
+	</noscript>
+
+
+	<!-- Search Engine Optimization -->
+	<meta name="description" content="Video Screening
+
+    
+      
+        https://vimeo.com/117777451
+      
+      
+        https://vimeo.com/40459347
+      
+      
+        https://vimeo.com/71473466
+      
+      
+        https://vimeo.com/15440836
+      
+      
+        https://vimeo.com/15674201
+      
+      
+        https://vimeo.com/47988918
+      
+      
+        https://vimeo.com/41981777
+      
+    
+  
+  
+    Terminology
+
+    
+      
+        Image Based Lighting
+      
+      
+        Render Layer
+      
+      
+        Render Pass
+
+        
+          
+            Mask/Holdout
+          
+          
+            Color
+          
+          
+            Diffuse
+          
+          
+            Indirect Lighting
+          
+          
+            Shadow
+          
+          
+            Specular
+          
+          
+            Reflection
+          
+          
+            Caustics
+          
+          
+            Beauty
+          
+          
+            Ambient Occlusion
+          
+          
+            Luminosity Depth
+          
+        
+      
+      
+        Blending Mode
+
+        
+          
+            Multiply
+          
+          
+            Screen
+          
+          
+            Overlay
+          
+        
+      
+      
+        Adjustment Layer
+      
+      
+        Alpha Channel
+      
+      
+        Depth of Field (DoF)
+      
+      
+        Z-Depth
+      
+    
+  
+  
+    Render Passes Demo
+  
+  
+    Assignment
+
+    
+      Exercise 6">
+	<meta name="google-site-verification" content="">
+	<meta name="msvalidate.01" content="" >
+	
+	<link rel="author" href="">
+	
+	
+	<link rel="canonical" href="https://michaelcollins.xyz/3d-digital-studio-master/topics/maya-lighting-rendering-render-passes.html">
+
+
+	<!-- Facebook Open Graph -->
+	<meta property="og:title" content="Render Passes and Compositing">
+	<meta property="og:description" content="Video Screening
+
+    
+      
+        https://vimeo.com/117777451
+      
+      
+        https://vimeo.com/40459347
+      
+      
+        https://vimeo.com/71473466
+      
+      
+        https://vimeo.com/15440836
+      
+      
+        https://vimeo.com/15674201
+      
+      
+        https://vimeo.com/47988918
+      
+      
+        https://vimeo.com/41981777
+      
+    
+  
+  
+    Terminology
+
+    
+      
+        Image Based Lighting
+      
+      
+        Render Layer
+      
+      
+        Render Pass
+
+        
+          
+            Mask/Holdout
+          
+          
+            Color
+          
+          
+            Diffuse
+          
+          
+            Indirect Lighting
+          
+          
+            Shadow
+          
+          
+            Specular
+          
+          
+            Reflection
+          
+          
+            Caustics
+          
+          
+            Beauty
+          
+          
+            Ambient Occlusion
+          
+          
+            Luminosity Depth
+          
+        
+      
+      
+        Blending Mode
+
+        
+          
+            Multiply
+          
+          
+            Screen
+          
+          
+            Overlay
+          
+        
+      
+      
+        Adjustment Layer
+      
+      
+        Alpha Channel
+      
+      
+        Depth of Field (DoF)
+      
+      
+        Z-Depth
+      
+    
+  
+  
+    Render Passes Demo
+  
+  
+    Assignment
+
+    
+      Exercise 6">
+	<meta property="og:url" content="https://michaelcollins.xyz/3d-digital-studio-master/topics/maya-lighting-rendering-render-passes.html">
+	<meta property="og:locale" content="en_EN">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="DART 303: Digital 3D Studio">
+	
+	
+
+
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="mike_collins">
+	<meta name="twitter:creator" content="mike_collins">
+	<meta name="twitter:title" content="Render Passes and Compositing">
+	<meta name="twitter:description" content="Video Screening
+
+    
+      
+        https://vimeo.com/117777451
+      
+      
+        https://vimeo.com/40459347
+      
+      
+        https://vimeo.com/71473466
+      
+      
+        https://vimeo.com/15440836
+      
+      
+        https://vimeo.com/15674201
+      
+      
+        https://vimeo.com/47988918
+      
+      
+        https://vimeo.com/41981777
+      
+    
+  
+  
+    Terminology
+
+    
+      
+        Image Based Lighting
+      
+      
+        Render Layer
+      
+      
+        Render Pass
+
+        
+          
+            Mask/Holdout
+          
+          
+            Color
+          
+          
+            Diffuse
+          
+          
+            Indirect Lighting
+          
+          
+            Shadow
+          
+          
+            Specular
+          
+          
+            Reflection
+          
+          
+            Caustics
+          
+          
+            Beauty
+          
+          
+            Ambient Occlusion
+          
+          
+            Luminosity Depth
+          
+        
+      
+      
+        Blending Mode
+
+        
+          
+            Multiply
+          
+          
+            Screen
+          
+          
+            Overlay
+          
+        
+      
+      
+        Adjustment Layer
+      
+      
+        Alpha Channel
+      
+      
+        Depth of Field (DoF)
+      
+      
+        Z-Depth
+      
+    
+  
+  
+    Render Passes Demo
+  
+  
+    Assignment
+
+    
+      Exercise 6">
+	
+	
+
+	<link type="text/plain" rel="author" href="https://michaelcollins.xyz/3d-digital-studio-master/humans.txt">
+
+	
+
+	
+
+	<link rel="icon" sizes="32x32" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/favicon-32x32.png">
+
+	<link rel="icon" sizes="192x192" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/touch-icon-192x192.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-180x180-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-152x152-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-144x144-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-120x120-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-114x114-precomposed.png">
+
+	
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-76x76-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-72x72-precomposed.png">
+
+	<link rel="apple-touch-icon-precomposed" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/apple-touch-icon-precomposed.png">	
+
+	<meta name="msapplication-TileImage" content="https://michaelcollins.xyz/3d-digital-studio-master/assets/img/msapplication_tileimage.png">
+
+	<meta name="msapplication-TileColor" content="#fabb00">
+
+
+	
+
+</head>
+<ol>
+  <li>
+    <p>Video Screening</p>
+
+    <ol>
+      <li>
+        <p><a href="https://vimeo.com/117777451">https://vimeo.com/117777451</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/40459347">https://vimeo.com/40459347</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/71473466">https://vimeo.com/71473466</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/15440836">https://vimeo.com/15440836</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/15674201">https://vimeo.com/15674201</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/47988918">https://vimeo.com/47988918</a></p>
+      </li>
+      <li>
+        <p><a href="https://vimeo.com/41981777">https://vimeo.com/41981777</a></p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Terminology</p>
+
+    <ol>
+      <li>
+        <p>Image Based Lighting</p>
+      </li>
+      <li>
+        <p>Render Layer</p>
+      </li>
+      <li>
+        <p>Render Pass</p>
+
+        <ol>
+          <li>
+            <p>Mask/Holdout</p>
+          </li>
+          <li>
+            <p>Color</p>
+          </li>
+          <li>
+            <p>Diffuse</p>
+          </li>
+          <li>
+            <p>Indirect Lighting</p>
+          </li>
+          <li>
+            <p>Shadow</p>
+          </li>
+          <li>
+            <p>Specular</p>
+          </li>
+          <li>
+            <p>Reflection</p>
+          </li>
+          <li>
+            <p>Caustics</p>
+          </li>
+          <li>
+            <p>Beauty</p>
+          </li>
+          <li>
+            <p>Ambient Occlusion</p>
+          </li>
+          <li>
+            <p>Luminosity Depth</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Blending Mode</p>
+
+        <ol>
+          <li>
+            <p>Multiply</p>
+          </li>
+          <li>
+            <p>Screen</p>
+          </li>
+          <li>
+            <p>Overlay</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p>Adjustment Layer</p>
+      </li>
+      <li>
+        <p>Alpha Channel</p>
+      </li>
+      <li>
+        <p>Depth of Field (DoF)</p>
+      </li>
+      <li>
+        <p>Z-Depth</p>
+      </li>
+    </ol>
+  </li>
+  <li>
+    <p>Render Passes Demo</p>
+  </li>
+  <li>
+    <p>Assignment</p>
+
+    <ol>
+      <li><a href="https://docs.google.com/document/d/1pgE2H4ZuulBD1CMgfM2M4tMUl7h9y08-U5ynesXN-78/edit?usp=sharing">Exercise 6</a></li>
+    </ol>
+  </li>
+</ol>
+
+
+</html>
+
