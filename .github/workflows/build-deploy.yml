@@ -6,8 +6,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron: '0 0 * * *'  # every day at midnight
-    - cron: '26 20 * * *'  # every day at midnight
-jobs:
+    - cron: '50 20 * * *'
   build-and-deploy:
     runs-on: ubuntu-latest
 
