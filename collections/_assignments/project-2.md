@@ -33,6 +33,32 @@ page_sections:
     and credits, and export video files for online streaming.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Audio Resources
+  links:
+  - title: freesound.org/
+    url: https://freesound.org/
+    link_style: new tab
+  - url: https://freemusicarchive.org/
+    title: freemusicarchive.org
+    link_style: new tab
+  - title: incompetech.com/
+    url: https://incompetech.com/music/royalty-free/music.html
+    link_style: new tab
+  - url: https://www.videvo.net/royalty-free-music/
+    title: videvo.net
+    link_style: new tab
+  - url: https://musopen.org/
+    title: musopen.org
+    link_style: new tab
+  - url: https://archive.org/details/netlabels
+    title: archive.org
+  - title: www.bensound.com/
+    url: https://www.bensound.com/
+    link_style: new tab
+  - url: http://ccmixter.org/
+    title: ccmixter.org/
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Calculating Total Render Time
   video:
   - title: Test rendering in Blender to calculate total time to render animation
@@ -40,8 +66,15 @@ page_sections:
     custom: ''
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Inspiration
+  title: Inspiration (Not theme specific)
   video:
+  - title: Animations from Vimeo
+    custom: "<div style='padding:53.95% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/8278749/embed'
+      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  - title: Locations
+    youtube_url: ''
+    vimeo_url: https://vimeo.com/227890020
+    custom: ''
   - title: 'FORMS IN NATURE: Understanding Our Universe'
     vimeo_url: https://vimeo.com/155262093
     custom: ''
@@ -85,6 +118,8 @@ page_sections:
   - title: Free Farm
     url: http://www.freefarm.co.uk/art
     link_style: new tab
+  content: The following are examples of various ways to approach 3D animation projects
+    in terms of style, storytelling, and complexity.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Tutorials for creating shots and edits
@@ -150,32 +185,6 @@ page_sections:
       specified requirements.
     criteria_weight: 20%
   rubric_title: Project Rubric
-- template: assignment-supportingmaterial
-  block: assignment-c-supportingmaterial
-  title: Audio Resources
-  links:
-  - title: freesound.org/
-    url: https://freesound.org/
-    link_style: new tab
-  - url: https://freemusicarchive.org/
-    title: freemusicarchive.org
-    link_style: new tab
-  - title: incompetech.com/
-    url: https://incompetech.com/music/royalty-free/music.html
-    link_style: new tab
-  - url: https://www.videvo.net/royalty-free-music/
-    title: videvo.net
-    link_style: new tab
-  - url: https://musopen.org/
-    title: musopen.org
-    link_style: new tab
-  - url: https://archive.org/details/netlabels
-    title: archive.org
-  - title: www.bensound.com/
-    url: https://www.bensound.com/
-    link_style: new tab
-  - url: http://ccmixter.org/
-    title: ccmixter.org/
 topics_covered: []
 prerequisites: []
 difficulty_level: " beginner"
