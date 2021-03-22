@@ -1,0 +1,31 @@
+---
+label: lecture-agenda
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: page
+- type: text
+  name: title
+  label: title
+- type: text
+  name: categories
+  label: categories
+- type: boolean
+  name: comments
+  label: comments
+- type: text
+  name: excerpt
+  label: excerpt
+- type: text
+  name: permalink
+  label: permalink
+pages:
+- collections/_agendas/animatic-agenda/animatic-agenda.md
+- collections/_agendas/animation-agenda/animation-agenda.md
+- collections/_agendas/motion-paths-animation-agenda.md
+- collections/_agendas/rigging-agenda/rigging-agenda.md
+- collections/_agendas/simulation-agenda/simulation-agenda.md
+- collections/_agendas/texture-animation/texture-animation.md

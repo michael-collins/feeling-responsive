@@ -1,0 +1,36 @@
+---
+label: self-check-quiz
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: self-check-quiz
+  type: field_group_list
+  fields:
+  - name: question
+    type: text
+    config:
+      required: false
+    label: Question
+  - name: answer
+    type: text
+    config:
+      required: false
+    label: Answer
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Self-check Quiz
