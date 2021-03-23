@@ -40,27 +40,15 @@ page_sections:
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
-  content: To get a deeper understanding of how Blender's rendering system works,
-    have a look these tutorials
+  content: ''
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
   readings: []
   video:
-  - title: 12 Principles of Animation
-    custom: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd"
-      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-      gyroscope; picture-in-picture" allowfullscreen></iframe>
-  - title: Blender Foundation 2.8 Videos (28-41)
-    custom: <iframe width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6"
-      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-  - title: Parenting in Blender
-    youtube_url: https://www.youtube.com/watch?v=kd1O0oqQ3Uw
-    custom: ''
-  - title: Adding a tracking constraint
-    youtube_url: https://www.youtube.com/watch?v=ageV_llb0Hk
-    custom: ''
+  - title: Mastering Drivers in Blender
+    custom: '* <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLbjn7kaP877u1sX4zl081V8jUeSHDY18G"
+      frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
   links: []
 - template: assignment-rubric
   block: assignment-f-rubric
@@ -87,19 +75,14 @@ prerequisites: []
 difficulty_level: advanced
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/banner-creatures-compressed.jpg"
+  image_fullwidth: "/uploads/ex-5-drivers-door-banner-compressed.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Instructions
 
-1. Watch the animation tutorials.
-2. Create a creature animation using only primitives inspired by [Evolved Virtual Creatures](https://www.youtube.com/watch?v=JBgG_VSP7f8). It must include the following:
-   * At least 2 creatures with at least 3 moving pieces appendages
-   * Camera movement
-   * Easing applied to keyframes of moving objects (non-linear tangents in graph editor)
-   * At least 10 seconds of animation at 24 frames per second (240 frames)
+1. Watch the tutorials for setting up drivers in Blender.
+2. Create a sci-fi door using drivers to automate animation for the door opening and closing. Add keyframe animation to a switch or object that triggers the door animation, built with drivers.
 3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
 4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
 5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-creatures.zip.**
