@@ -1,5 +1,5 @@
 ---
-title: Project 2 - Cycles
+title: Project 2 - Love Letter
 layout: blocks-assignment-view
 date-assigned: 2020-08-01T04:00:00.000+00:00
 date-due: 2020-08-08T04:00:00.000+00:00
@@ -33,6 +33,34 @@ page_sections:
     and credits, and export video files for online streaming.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Audio Resources
+  links:
+  - title: freesound.org/
+    url: https://freesound.org/
+    link_style: new tab
+  - url: https://freemusicarchive.org/
+    title: freemusicarchive.org/
+    link_style: new tab
+  - url: https://incompetech.com/music/royalty-free/music.html
+    title: incompetech.com
+    link_style: new tab
+  - url: https://www.videvo.net/royalty-free-music/
+    title: videvo.net
+    link_style: new tab
+  - link_style: new tab
+    title: musopen.org
+    url: https://musopen.org/
+  - url: https://www.bensound.com/
+    title: bensound.com
+    link_style: new tab
+  - url: https://archive.org/details/netlabels
+    title: archive.org
+    link_style: new tab
+  - url: http://ccmixter.org/
+    title: ccmixter.org
+    link_style: new tab
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Calculating Total Render Time
   video:
   - title: Test rendering in Blender to calculate total time to render animation
@@ -40,45 +68,18 @@ page_sections:
     custom: ''
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
-  title: Inspiration
+  title: Inspiration (Not theme specific)
   video:
-  - title: 'FORMS IN NATURE: Understanding Our Universe'
-    vimeo_url: https://vimeo.com/155262093
-    custom: ''
-  - title: Childhood - [Adult Swim] - David OReilly
-    youtube_url: https://www.youtube.com/watch?v=PmPwU5ytgVw
-    custom: ''
-  - title: Walk Cycles
-    vimeo_url: https://vimeo.com/100592289
-    custom: ''
-  - title: 30 motion tests in 30 seconds
-    vimeo_url: https://vimeo.com/17411241
-    custom: ''
-  - title: Bloom
-    vimeo_url: https://vimeo.com/141974554
-    custom: ''
-  - title: Spherical Harmonics
-    vimeo_url: https://vimeo.com/86701416
-    custom: ''
-  - title: FITC presents FORM // Chicago 2015 Titles
-    vimeo_url: https://vimeo.com/143914234
-    custom: ''
-  - title: Squares 2017 | Digital Invitation
-    vimeo_url: https://vimeo.com/217314168
-    custom: ''
-  - title: geist.xyz
-    vimeo_url: https://vimeo.com/150824660
-    custom: ''
-  - title: Simple Shapes in Motion
-    vimeo_url: https://vimeo.com/150594088
-    custom: ''
-  - title: Spherikal
-    vimeo_url: https://vimeo.com/39792837
-    custom: ''
-  - title: 30 Seconds / Edition One / Tomas Garcia
-    vimeo_url: https://vimeo.com/130886893
-    custom: ''
+  - title: Animations from Vimeo
+    custom: "<div style='padding:53.95% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/8278749/embed'
+      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  - title: Previous Student Work
+    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7888358/embed'
+      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
   links:
+  - url: https://www.davidoreilly.com/works
+    title: David O'Reilly
+    link_style: new tab
   - url: https://www.11secondclub.com/competitions
     link_style: new tab
     title: 11 Second Club
@@ -155,15 +156,15 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/cycles-banner-compressed2.jpg"
+  image_fullwidth: "/uploads/proj-2-diamonds-compressed.jpg"
 accordion_mode: true
 
 ---
 ## Overview
 
-**Project theme:** "______ cycles"
+**Project theme:** "A Love Letter to ______"
 
-For this project, you will produce an animation centered around a theme that you create by choosing a pair word and combining it with **“cycles”**. For example, if your pair word is "light", then your project theme would be "light cycles". This does not have to be the title of the work. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) that is licensed for remix. Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com (where you will be uploading your video) description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you will produce an animation centered around a theme that you create by choosing completing the sentence, **“A Love Letter to”**. For example, if you choose the word "light", then your project theme would be "A Love Letter to Light". This does not have to be the title of the work. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
@@ -173,7 +174,7 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 Choose a format that you can reasonable accomplish within the timeframe of the project. Examples include:
 
-* Narrative short film
+* Narrative short film (character animation)
 * Motion graphics for branding and identity
 * Explainer animation
 * VJ loops for live performances
@@ -192,7 +193,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
      * What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
    * Requirements:
      * 3 to 5 different written ideas.
-     * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
+     * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) or other sources.
      * Visual reference sheet(s): [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
      * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
 2. **Storyboard**
@@ -206,21 +207,21 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 #### Week 2-4: Production
 
-1. **3D Scene Layouts (formerly called Animatic)**
+1. **3D Scene Layouts**
    * See demo videos for detailed instructions
    * Tutorial: [Shot composition advice](https://www.youtube.com/watch?v=cIvGRytmRaw)
-   * Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
+   * 3D animation blocking, viewport renders, edited with sound.
    * Requirements:
      * Create a 15-30 second compressed .mp4 of your viewport animation videos edited with sound. Please consider relevant aspects of camera, composition, staging, pacing, and animation.
      * 1080 HD preset
      * Post your in-process work to the **Project 2: Progress report** discussion thread
 2. **Test Renders**
-   * Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
+   * Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames.
    * Requirements:
      * 3 to 5 test renders, each from a different part of the animation
      * 1080 HD preset
      * Render time must be under a minute (unless you plan to pay for an online render farm)
-3. Meet with instructor if needed
+3. **Meet with instructor if needed**
 
 #### Week 4-5: Finish production
 
@@ -258,9 +259,9 @@ A work statement is a clear articulation about what you've made. This is not a j
    * IE - "This work is primarily focused on ..."
 6. How is what you did in your work demonstrating what what you've said the work is about?
    * IE - "You can see an example of this in the work where I have used ... to reference ..."
-7. Were there any unexpected, interesting, or strange outcomes?
-8. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+7. OPTIONAL: Were there any unexpected, interesting, or strange outcomes?
+8. OPTIONAL: Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
 
 ### Constraints
 
-All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset. For example, you can use a texture pack you downloaded from a texture website, however, if you render an image of just a flat plane with the texture applied, this is not really creative transformation since the entirety of the image is work from someone else. Your transformation and contextualization is what's important. A render with a background that uses an image from Google image search (please don't do this) that comprises more than 50% of the work is also not really enough creative transformation. If someone reviews your work and says that the image's background is their favorite part of the image, you'll have to then explain how you didn't make the background, which is not a great situation to be in.
+Do not produce work that could be construed as 'fan art' for existing intellectual properties. All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset. For example, you can use a texture pack you downloaded from a texture website, however, if you render an image of just a flat plane with the texture applied, this is not really creative transformation since the entirety of the image is work from someone else. Your transformation and contextualization is what's important. A render with a background that uses an image from Google image search (please don't do this) that comprises more than 50% of the work is also not really enough creative transformation. If someone reviews your work and says that the image's background is their favorite part of the image, you'll have to then explain how you didn't make the background, which is not a great situation to be in.
