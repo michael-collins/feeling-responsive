@@ -161,7 +161,7 @@ accordion_mode: true
 ---
 ## Overview
 
-**Project theme:** "A Love Letter to ______"
+**Project theme:** "A Love Letter to ______" 
 
 For this project, you will produce an animation centered around a theme that you create by choosing completing the sentence, **“A Love Letter to”**. For example, if you choose the word "light", then your project theme would be "A Love Letter to Light". This does not have to be the title of the work. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
