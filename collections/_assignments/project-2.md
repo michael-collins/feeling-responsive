@@ -78,6 +78,8 @@ page_sections:
   - title: Free Farm
     url: http://www.freefarm.co.uk/art
     link_style: new tab
+  - url: https://www.davidoreilly.com/works
+    title: David O'Reilly
   content: The following are examples of various ways to approach 3D animation projects
     in terms of style, storytelling, and complexity.
 - template: assignment-supportingmaterial
