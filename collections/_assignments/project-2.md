@@ -71,6 +71,9 @@ page_sections:
   - title: Animations from Vimeo
     custom: "<div style='padding:53.95% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/8278749/embed'
       allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
+  - title: Previous Student Work
+    custom: "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://vimeo.com/showcase/7888358/embed'
+      allowfullscreen frameborder='0' style='position:absolute;top:0;left:0;width:100%;height:100%;'></iframe></div>"
   links:
   - url: https://www.11secondclub.com/competitions
     link_style: new tab
