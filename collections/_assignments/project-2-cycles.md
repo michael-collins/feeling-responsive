@@ -157,6 +157,7 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/cycles-banner-compressed2.jpg"
 accordion_mode: true
+published: false
 
 ---
 ## Overview
