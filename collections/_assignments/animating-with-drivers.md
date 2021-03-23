@@ -18,7 +18,8 @@ page_sections:
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
   title: Blender Tutorials
-  content: ''
+  content: Please watch videos 1-8 of this tutorial series by <a href="https://www.youtube.com/channel/UCpxizXEIm73-GJJwayhGceA"><strong>Level
+    Pixel Level</strong></a><strong>.</strong>
   material:
   - readings:
     - _readings/beginner-lesson-1-reading.md
