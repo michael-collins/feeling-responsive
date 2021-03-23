@@ -155,7 +155,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/cycles-banner-compressed2.jpg"
+  image_fullwidth: "/uploads/proj-2-diamonds-compressed.jpg"
 accordion_mode: true
 
 ---
