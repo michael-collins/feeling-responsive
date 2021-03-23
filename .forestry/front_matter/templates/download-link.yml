@@ -1,0 +1,38 @@
+---
+label: Download Link
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Used as the link title
+- name: link_style
+  type: select
+  default: new tab
+  config:
+    required: false
+    options:
+    - " download"
+    - " internal"
+    - new tab
+    - hosted_file
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Link style
+  description: Do you want the link to go to a new page, open a new browser tab, or
+    be a file download?
+- name: url
+  type: text
+  config:
+    required: false
+  label: External URL
+- name: file_download
+  type: file
+  config:
+    maxSize: 64
+  label: File download

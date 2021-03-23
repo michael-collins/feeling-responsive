@@ -1,0 +1,43 @@
+---
+label: Assignment Rubric
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: assignment-f-rubric
+- name: rubric_title
+  type: text
+  config:
+    required: false
+  label: Rubric Title
+- name: rubric_criteria
+  type: field_group_list
+  fields:
+  - name: criteria_title
+    type: text
+    config:
+      required: false
+    label: Criteria Title
+  - name: criteria_description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Criteria Description
+  - name: criteria_weight
+    type: text
+    config:
+      required: false
+    label: Criteria Weight
+    description: Typically written as points or a percentage.
+    default: 5 pts
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Rubric Criteria

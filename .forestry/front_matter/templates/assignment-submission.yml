@@ -1,0 +1,49 @@
+---
+label: Assignment Submission
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: assignment-g-submission
+- name: submission-notes-enabled
+  type: boolean
+  label: Submission Notes Enabled
+  description: Enable to write submission notes for students.
+  hidden: false
+  default: true
+- type: include
+  name: column
+  label: Submission Notes
+  template: text-column
+  description: Write any notes relevant to helping students submit work.
+  showOnly:
+    field: submission-notes-enabled
+    value: true
+- name: submission_uploads_enabled
+  type: boolean
+  label: Submission Uploads Enabled
+  description: Enable if this submission has media for uploading
+  default: true
+- name: submission
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: url
+    type: text
+    config:
+      required: false
+    label: URL
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Submission
+  showOnly:
+    field: submission_uploads_enabled
+    value: true

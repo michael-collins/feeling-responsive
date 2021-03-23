@@ -1,0 +1,32 @@
+---
+label: Week
+hide_body: true
+fields:
+- type: field_group_list
+  name: week
+  label: week
+  fields:
+  - type: text
+    name: week_number
+    label: week_number
+  - type: list
+    name: lessons
+    label: lessons
+  - name: start_date
+    type: datetime
+    label: start date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+  - name: end_date
+    type: datetime
+    label: end date
+    description: ''
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false

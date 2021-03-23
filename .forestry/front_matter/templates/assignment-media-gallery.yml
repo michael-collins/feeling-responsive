@@ -1,0 +1,49 @@
+---
+label: Assignment Media Gallery
+hide_body: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: assignment-h-media-gallery
+- type: include
+  name: column
+  label: Column
+  template: text-column
+- name: image-gallery
+  type: field_group_list
+  fields:
+  - name: gallery_title
+    type: text
+    config:
+      required: false
+    label: Gallery Title
+  - name: image
+    type: field_group_list
+    fields:
+    - name: caption
+      type: text
+      config:
+        required: false
+      label: Caption
+    - name: enable_caption
+      type: boolean
+      label: Enable Caption
+      default: true
+    - name: image_url
+      type: file
+      config:
+        maxSize: 64
+      label: Image File
+      description: Upload an image under 2MB.
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Image
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Image Gallery
