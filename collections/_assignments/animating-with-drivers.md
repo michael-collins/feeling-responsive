@@ -7,8 +7,8 @@ page_sections:
 - template: assignment-description
   block: assignment-a-description
   title: Description
-  content: In this exercise, you will practice animation techniques by recreating
-    creatures from Evolved Virtual Creatures by Karl Sims.
+  content: In this exercise, you will learn how to create drivers to animate a sci-fi
+    door opening and closing.
 - template: assignment-learningobjectives
   block: assignment-b-learningobjectives
   title: Learning Objectives
@@ -61,7 +61,7 @@ accordion_mode: true
 ## Instructions
 
 1. Watch the tutorials for setting up drivers in Blender.
-2. Create a sci-fi door using drivers to automate animation for the door opening and closing. Add keyframe animation to a switch or object that triggers the door animation, built with drivers.
+2. Create a sci-fi door using drivers to automate animation for the door **opening and closing**. Add keyframe animation to a switch or object that triggers the door animation, built with drivers.
 3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
 4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
 5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-creatures.zip.**
