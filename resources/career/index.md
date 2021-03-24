@@ -31,10 +31,10 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 
 ### Magazines and Online Communities
 
-* [Blender.today](blender.today)
-* [Art Station](artstation.com)
+* [Blender.today](http://blender.today)
+* [Art Station](http://artstation.com)
 * [Behance](https://www.behance.net/)
-* [CG Society](cgsociety.org)
+* [CG Society](http://cgsociety.org)
 * [https://www.artofvfx.com/](https://www.artofvfx.com/ "https://www.artofvfx.com/")
 * [https://www.awn.com/vfxworld](https://www.awn.com/vfxworld "https://www.awn.com/vfxworld")
 * [Animation World Network](https://www.awn.com/vfxworld "Animation World Network")
@@ -49,6 +49,7 @@ Chris Mayne curates what might be the the most comprehensive job posting resourc
 
 ### Industry Career Advice
 
+* [Asking for Feedback](https://www.artstation.com/mandrin/blog/q2My/feedbacks-how-to-ask-for-them-give-them-and-receive-them-part-1)
 * [Becoming a VFX artist](https://openvisualfx.com/2019/12/16/my-advice-for-becoming-a-vfx-artist/)
 * [Working as a 3D FX Artist with Mattia Rodini](https://discover.therookies.co/2020/12/19/career-advice-working-as-a-3d-fx-artist-with-mattia-rodini/)
 * [Working as a Concept Artist with Gaëlle Seguillon](https://discover.therookies.co/2020/12/04/career-advice-working-as-a-concept-artist-with-gaelle-seguillon/)
