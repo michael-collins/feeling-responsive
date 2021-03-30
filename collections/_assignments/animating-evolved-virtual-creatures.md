@@ -95,12 +95,14 @@ accordion_mode: true
 
 1. Watch the animation tutorials.
 2. Create a creature animation using only primitives inspired by [Evolved Virtual Creatures](https://www.youtube.com/watch?v=JBgG_VSP7f8). It must include the following:
+   * Armature rig
    * At least 2 creatures with at least 3 moving pieces appendages
    * Camera movement
    * Easing applied to keyframes of moving objects (non-linear tangents in graph editor)
    * At least 10 seconds of animation at 24 frames per second (240 frames)
 3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
-4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
-5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-creatures.zip.**
-6. Upload the .zip file to the assignment dropbox.
-7. Double check that you've included all files and that your .zip file can be downloaded and opened.
+4. No need to render using EEVEE, a viewport render is fine.
+5. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
+6. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-creatures.zip.**
+7. Upload the .zip file to the assignment dropbox.
+8. Double check that you've included all files and that your .zip file can be downloaded and opened.
