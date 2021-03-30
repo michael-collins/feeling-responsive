@@ -36,9 +36,6 @@ page_sections:
   - title: Rig ANYTHING with Rigify
     youtube_url: https://www.youtube.com/watch?v=6LM50gJJOrQ
     custom: ''
-  - title: 'Rigging using the Rigify Add-on '
-    youtube_url: https://www.youtube.com/watch?v=MZg97cmTcIs
-    custom: ''
   links: []
 - template: assignment-rubric
   block: assignment-f-rubric
