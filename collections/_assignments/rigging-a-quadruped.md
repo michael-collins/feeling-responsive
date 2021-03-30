@@ -66,13 +66,12 @@ accordion_mode: true
  1. Watch the tutorials.
  2. Create a polygonal model a quadruped (four-footed animal) from scratch. I suggest a variation of a cat or dog.
  3. Use the Rigify add-on to add an animal rig.
- 4. Generate or create the relevant IK/FK bone constraints and controllers.
- 5. Make sure you adjust and paint vertex weights to create pleasing deformation.
- 6. Create an animated walk cycle for the animal.
- 7. Set up a camera to frame the shot.
- 8. To create a video of the viewport’s animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
- 9. Choose **View** ⟶ **Viewport Render Animation** to create the animation.
-10. Save as **_LASTNAME_-animal-rig-animation_.zip_** and upload to the submission dropbox.
-11. Double check that you've included all files and that your .zip file can be downloaded and opened. This should include:
+ 4. Adjust and paint vertex weights to create pleasing deformation as needed.
+ 5. Create an animated walk cycle for the animal.
+ 6. Set up a camera to frame the shot.
+ 7. To create a video of the viewport’s animation, save the file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
+ 8. Choose **View** ⟶ **Viewport Render Animation** to create the animation.
+ 9. Save as **_LASTNAME_-animal-rig-animation_.zip_** and upload to the submission dropbox.
+10. Double check that you've included all files and that your .zip file can be downloaded and opened. This should include:
     * `.blend` file
     * `.mp4` video file
