@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Advanced Cameras, Lighting, and Rendering</title>
+	<title>Animating a Character with Mixamo</title>
 
 	<link rel="stylesheet" type="text/css" href="https://michaelcollins.xyz/3d-digital-studio-master/assets/css/styles_feeling_responsive.css">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -32,20 +32,46 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
+	<meta name="description" content="Instructions
+
+
+  Follow the Mixamo rigging and animation tutorial.
+  Continue using your character from the character modeling exercise.
+  Mixamo does not work with school accounts, create a personal account if you have not yet done so. Log into mixamo.com and confirm you have access.
+  Upload your character model, configure a rig, and add an animation preset.
+  Download the new character rig and animation and import the FBX file into Blender.
+  To create a “playblast” animation, you can capture the animation directly from the viewport. To create a video of the viewport’s animation, save the .blend file and set the render settings output folder to the project folder. Under File Format, choose FFMpeg Video, change the encoding format to MPEG-4.
+  No need to render using EEVEE, viewport render quality is fine. (An EEVEE rendered version is acceptable if you prefer this)
+  Choose View ⟶ Viewport Render Animation to create the animation file. Check that the animation file was created and saved.
+  Compress the project folder once you’ve completed the tutorial and rename it LASTNAME-mixamo.zip.
+  Upload the .zip file to the assignment dropbox.
+  Double check that you’ve included all files and that your .zip file can be downloaded and opened.">
 	<meta name="google-site-verification" content="">
 	<meta name="msvalidate.01" content="" >
 	
 	<link rel="author" href="">
 	
 	
-	<link rel="canonical" href="https://michaelcollins.xyz/3d-digital-studio-master/topics/advanced-cameras-lighting-and-rendering.html">
+	<link rel="canonical" href="https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-a-character-with-mixamo.html">
 
 
 	<!-- Facebook Open Graph -->
-	<meta property="og:title" content="Advanced Cameras, Lighting, and Rendering">
-	<meta property="og:description" content="">
-	<meta property="og:url" content="https://michaelcollins.xyz/3d-digital-studio-master/topics/advanced-cameras-lighting-and-rendering.html">
+	<meta property="og:title" content="Animating a Character with Mixamo">
+	<meta property="og:description" content="Instructions
+
+
+  Follow the Mixamo rigging and animation tutorial.
+  Continue using your character from the character modeling exercise.
+  Mixamo does not work with school accounts, create a personal account if you have not yet done so. Log into mixamo.com and confirm you have access.
+  Upload your character model, configure a rig, and add an animation preset.
+  Download the new character rig and animation and import the FBX file into Blender.
+  To create a “playblast” animation, you can capture the animation directly from the viewport. To create a video of the viewport’s animation, save the .blend file and set the render settings output folder to the project folder. Under File Format, choose FFMpeg Video, change the encoding format to MPEG-4.
+  No need to render using EEVEE, viewport render quality is fine. (An EEVEE rendered version is acceptable if you prefer this)
+  Choose View ⟶ Viewport Render Animation to create the animation file. Check that the animation file was created and saved.
+  Compress the project folder once you’ve completed the tutorial and rename it LASTNAME-mixamo.zip.
+  Upload the .zip file to the assignment dropbox.
+  Double check that you’ve included all files and that your .zip file can be downloaded and opened.">
+	<meta property="og:url" content="https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-a-character-with-mixamo.html">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="DART 303: Digital 3D Studio">
@@ -58,8 +84,21 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="mike_collins">
 	<meta name="twitter:creator" content="mike_collins">
-	<meta name="twitter:title" content="Advanced Cameras, Lighting, and Rendering">
-	<meta name="twitter:description" content="">
+	<meta name="twitter:title" content="Animating a Character with Mixamo">
+	<meta name="twitter:description" content="Instructions
+
+
+  Follow the Mixamo rigging and animation tutorial.
+  Continue using your character from the character modeling exercise.
+  Mixamo does not work with school accounts, create a personal account if you have not yet done so. Log into mixamo.com and confirm you have access.
+  Upload your character model, configure a rig, and add an animation preset.
+  Download the new character rig and animation and import the FBX file into Blender.
+  To create a “playblast” animation, you can capture the animation directly from the viewport. To create a video of the viewport’s animation, save the .blend file and set the render settings output folder to the project folder. Under File Format, choose FFMpeg Video, change the encoding format to MPEG-4.
+  No need to render using EEVEE, viewport render quality is fine. (An EEVEE rendered version is acceptable if you prefer this)
+  Choose View ⟶ Viewport Render Animation to create the animation file. Check that the animation file was created and saved.
+  Compress the project folder once you’ve completed the tutorial and rename it LASTNAME-mixamo.zip.
+  Upload the .zip file to the assignment dropbox.
+  Double check that you’ve included all files and that your .zip file can be downloaded and opened.">
 	
 	
 
@@ -98,7 +137,7 @@
 	
 
 </head>
-<body id="top-of-page" class="post">
+<body id="top-of-page" class="">
 	
 	
 <div id="navigation" >
@@ -337,10 +376,10 @@
 
 	
 
-<div id="masthead-no-image-header">
+<div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
-			<!-- <a id="logo" href="/3d-digital-studio-master/" title="DART 303: Digital 3D Studio – Come for the polygons, stay for the animation.">
+			<!-- <a id="logo" href="https://michaelcollins.xyz/3d-digital-studio-master/" title="DART 303: Digital 3D Studio – Come for the polygons, stay for the animation.">
 				<img src="/3d-digital-studio-master/assets/img/logo.png" alt="DART 303: Digital 3D Studio – Come for the polygons, stay for the animation.">
 			</a> -->
 		</div><!-- /.small-12.columns -->
@@ -354,39 +393,200 @@
 
 
 
-	<div class="row t30">
-	<div class=" small-12 columns">
-		<article itemscope itemtype="http://schema.org/Article">
-			<header>
-				
-
-				<div itemprop="name">
-					
-					<h1>Advanced Cameras, Lighting, and Rendering</h1>
-				</div>
-			</header>
 
 
-			
+	<div class= "row full-width poster-style">
+    <div class= "columns small-12 medium-5 large-6">
+        <div class="row">
+            <div class= "columns small-11 small-centered large-11">
+        
+            
+                
+                    
 
-			<div itemprop="articleSection">
-			
-
-			</div>
-
-			
-
-			
-		</article>
-	</div><!-- /.medium-8.columns -->
-
-
-	
+<div class="row">
+    <div class="columns small-12"><h2>Description</h2><p>In this exercise, you will continue developing a character, and will use Adobe's Mixamo tool to add a rig and preset animation to a modeled character.</p></div>
+</div>
 
 
-	
-</div><!-- /.row -->
 
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+            
+                
+            
+        
+        <h2 id="instructions">Instructions</h2>
+
+<ol>
+  <li>Follow the Mixamo rigging and animation tutorial.</li>
+  <li>Continue using your character from the character modeling exercise.</li>
+  <li>Mixamo does not work with school accounts, create a personal account if you have not yet done so. Log into mixamo.com and confirm you have access.</li>
+  <li>Upload your character model, configure a rig, and add an animation preset.</li>
+  <li>Download the new character rig and animation and import the FBX file into Blender.</li>
+  <li>To create a “playblast” animation, you can capture the animation directly from the viewport. To create a video of the viewport’s animation, save the <code class="language-plaintext highlighter-rouge">.blend</code> file and set the render settings output folder to the project folder. Under <strong>File Format</strong>, choose <strong>FFMpeg Video</strong>, change the encoding format to <strong>MPEG-4</strong>.</li>
+  <li>No need to render using EEVEE, viewport render quality is fine. (An EEVEE rendered version is acceptable if you prefer this)</li>
+  <li>Choose <strong>View</strong> ⟶ <strong>Viewport Render Animation</strong> to create the animation file. Check that the animation file was created and saved.</li>
+  <li>Compress the project folder once you’ve completed the tutorial and rename it <strong><em>LASTNAME</em>-mixamo.zip.</strong></li>
+  <li>Upload the .zip file to the assignment dropbox.</li>
+  <li>Double check that you’ve included all files and that your .zip file can be downloaded and opened.</li>
+</ol>
+ 
+            
+        
+                
+                    
+                        
+                    
+                
+                    
+                        
+                    
+                
+                    
+                        
+                    
+                
+                    
+                        
+                    
+                
+            </div>
+        </div>
+    </div>
+    
+        <div class= "columns small-12 medium-7 large-6">
+            <div class="row ">
+                <div class="columns small-11 small-centered medium-10 large-9 assignment-accordion">
+                
+                    <dl class="accordion" data-accordion role="tablist">
+                        
+                            
+                            
+                            
+                        
+                            
+                            
+                                
+                            
+                                    
+<dd class="accordion-navigation">
+    <a href="#panel-learning-objectives-2" role="tab" id="panel-learning-objectives-2-heading" aria-controls="panel-learning-objectives-2">Learning Objectives</a>
+        <div id="panel-learning-objectives-2" class="content animate" aria-labelledby="panel-learning-objectives-2-heading">
+    <p>
+        <div class="row">
+            <div class="columns small-12"><ol>
+                
+                
+                    <li>Practice applying the 12 principles of animation</li>
+                
+                    <li>Practice keyframe animation of translation, rotation, and scale properties.</li>
+                
+                    <li>Practice applying camera effects.</li></ol></div>
+        </div>
+        </p>
+</dd>
+
+
+
+                    
+                                
+                            
+                            
+                        
+                            
+                            
+                                
+                            
+                                    
+<dd class="accordion-navigation">
+    <a href="#panel-mixamo-and-blender-tutorials--3-tasks" role="tab" id="panel-mixamo-and-blender-tutorials--3-tasks-heading" aria-controls="panel-mixamo-and-blender-tutorials--3-tasks">Mixamo and Blender Tutorials</a>
+        <div id="panel-mixamo-and-blender-tutorials--3-tasks" class="content animate" aria-labelledby="panel-mixamo-and-blender-tutorials--3-tasks-heading">
+    <p>
+        <div class="row">
+            <div class="columns small-12"><p>To get a deeper understanding of how Blender's rendering system works, have a look these tutorials</p>
+                    <ul></ul>
+                    <h3>Animate & Rig Characters the Easy Way</h3><div class="flex-video">
+            <iframe width="100%" height="auto" src="https://www.youtube.com/embed/k-ZeLNV4zPw" frameborder="0" allowfullscreen></iframe>
+        </div></div>
+        </div>
+        </p>
+</dd>
+
+
+
+                    
+                                
+                            
+                            
+                        
+                            
+                            
+                                
+                            
+                                    
+
+<dd class="accordion-navigation">
+    <a href="#panel-rubric-4" role="tab" id="panel-rubric-4-heading" aria-controls="panel-rubric-4">Rubric</a>
+        <div id="panel-rubric-4" class="content animate" aria-labelledby="panel-rubric-4-heading">
+    <p>
+
+<div class="row">
+    <div class="columns small-12"><p></p><table class="stack">
+            <thead>
+            <tr>
+                <th>Criteria</th>
+                <th>Description</th>
+                <th>Assessment Weight</th>
+            </tr>
+            </thead>
+            <tbody><tr>
+                <th>Attention to Detail</th>
+                <th>This criteria looks at if the assignment was submitted on time, if each step was completed to a high degree of accuracy, and if file naming conventions were followed.</th>
+                <th>5 pts</th>
+            </tr><tr>
+                <th>Learning by doing (Completed all steps)</th>
+                <th>This criteria assess whether you completed the assignment's given set of instructions. This indirectly infers how well you acquired foundational skills and theory.</th>
+                <th>5 pts</th>
+            </tr></tbody>
+        </table>
+    
+    </div>
+</div>
+
+</p>
+</dd>
+
+
+                    
+                                
+                            
+                            
+                        
+                    </dl>
+                
+            </div>
+        </div>
+    </div>
+       
+</div>
+
+
+
+
+
+
+
+      
 
 	
 	    <div id="up-to-top" class="row">
@@ -533,6 +733,11 @@
 <script src="https://michaelcollins.xyz/3d-digital-studio-master/assets/js/lunr.min.js"></script>
 <script src="https://michaelcollins.xyz/3d-digital-studio-master/assets/js/search.js"></script>
 
+
+<script>
+    $("#masthead").backstretch("/3d-digital-studio-master/uploads/mixamo.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("/3d-digital-studio-master/uploads/mixamo.jpg", {fade: 700});
+</script>
 
 
 
