@@ -91,3 +91,55 @@ Advanced Assignment: [NPR Comic Rendering]({{site.baseurl}}/assignments/npr-comi
 ***
 
 Assignment documentation: [Project 1]({{site.baseurl}}/assignments/project-1.html)
+
+### Week 10
+
+***
+
+#### Lecture agenda
+
+[Animation]({{site.baseurl}}/agenda/animation/)
+
+#### Exercises
+
+Beginner assignment: [Introduction to Animation](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animation.html)
+
+Intermediate Assignment: [Animating Tetris](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-tetris.html)
+
+Advanced Assignment: [Animating Evolved Virtual Creatures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-evolved-virtual-creatures.html)
+
+### Week 11
+
+***
+
+#### Lecture agenda
+
+[Rigging]({{site.baseurl}}/agenda/animation/)
+
+#### Exercises
+
+Beginner assignment: [Introduction to Rigging](https://michaelcollins.xyz/3d-digital-studio-master/assignments/introduction-to-rigging.html)
+
+Intermediate Assignment: [Rigging a Quadruped](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-a-quadruped.html)
+
+Advanced Assignment: [Rigging for Machines](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-for-machines.html)
+
+### Week 12 – 15
+
+***
+
+#### Project
+
+Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-studio-master/assignments/project-2.html)
+
+#### Exercises
+
+Beginner assignment: [Introduction to Animated Textures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/introduction-to-animated-textures.html)
+
+Intermediate Assignment: [Animated Character Expression](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animated-textures-character.html)
+
+Advanced Assignment: Contact instructor if you need a more advanced exercise.
+
+#### Optional Blender Learning
+
+**Lecture Agenda:** [Simulation](https://michaelcollins.xyz/3d-digital-studio-master/agenda/simulation/) 
