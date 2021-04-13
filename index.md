@@ -120,9 +120,9 @@ Advanced Assignment: [Animating Evolved Virtual Creatures](https://michaelcollin
 
 Beginner assignment: [Introduction to Rigging](https://michaelcollins.xyz/3d-digital-studio-master/assignments/introduction-to-rigging.html)
 
-Intermediate Assignment: [Rigging a Quadruped](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-a-quadruped.html)
+Intermediate assignment (1. [Rigging a Quadruped](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-a-quadruped.html) or 2. [Animating Evolved Virtual Creatures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-evolved-virtual-creatures.html) or 3. [Animating a Character with Mixamo](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animating-a-character-with-mixamo.html))
 
-Advanced Assignment: [Rigging for Machines](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-for-machines.html)
+Advanced assignment: [Rigging for Machines](https://michaelcollins.xyz/3d-digital-studio-master/assignments/rigging-for-machines.html)
 
 ### Week 12 – 15
 
@@ -136,10 +136,10 @@ Assignment documentation: [Project 2](https://michaelcollins.xyz/3d-digital-stud
 
 Beginner assignment: [Introduction to Animated Textures](https://michaelcollins.xyz/3d-digital-studio-master/assignments/introduction-to-animated-textures.html)
 
-Intermediate Assignment: [Animated Character Expression](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animated-textures-character.html)
+Intermediate assignment: [Animated Character Expression](https://michaelcollins.xyz/3d-digital-studio-master/assignments/animated-textures-character.html)
 
-Advanced Assignment: Contact instructor if you need a more advanced exercise.
+Advanced assignment: Contact instructor if you need a more advanced exercise.
 
 #### Optional Blender Learning
 
-**Lecture Agenda:** [Simulation](https://michaelcollins.xyz/3d-digital-studio-master/agenda/simulation/) 
+**Lecture Agenda:** [Simulation](https://michaelcollins.xyz/3d-digital-studio-master/agenda/simulation/)
