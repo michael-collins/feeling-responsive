@@ -64,6 +64,6 @@ accordion_mode: true
 2. Create a sci-fi door using drivers to automate animation for the door **opening and closing**. Add keyframe animation to a switch or object that triggers the door animation, built with drivers.
 3. To create a "playblast" animation, you can capture the animation directly from the viewport. To create a video of the viewport's animation, save the `.blend` file and set the render settings output folder to the project folder. Under **File Format**, choose **FFMpeg Video**, change the encoding format to **MPEG-4**.
 4. Choose **View** ⟶ **Viewport Render Animation** to create the animation file. Check that the animation file was created.
-5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-creatures.zip.**
+5. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-drivers.zip.**
 6. Upload the .zip file to the assignment dropbox.
 7. Double check that you've included all files and that your .zip file can be downloaded and opened.
