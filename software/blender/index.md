@@ -19,7 +19,7 @@ Introductory Blender tutorials and the official Blender Foundation Youtube chann
 Grant Abbit creates tutorials focused on full projects from start to finish, sometimes over many videos.
 
 [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)  
-Lots of self contained tutorials that range between 10 - 15 min long. Most of these are focused on effects, materials and rendering. Some touch on modelling and texturing.
+Lots of self contained tutorials that range between 10 - 15 min long. Most of these are focused on effects, materials and rendering. Some touch on modeling and texturing.
 
 [Curtis Holt](https://www.youtube.com/channel/UCzghqpGuEmk4YdVewxA79GA/videos)  
 Like Ducky 3D, Curtis Holt focuses on materials and effects and shares valuable tips. His plugged video is called "The best way to learn Blender 2.8".
@@ -28,7 +28,7 @@ Like Ducky 3D, Curtis Holt focuses on materials and effects and shares valuable 
 Large array of tutorials for all kinds of techniques in Blender.
 
 [Ian Hubert](https://www.youtube.com/user/mrdodobird/videos)  
-Quick and humerous tutorials that are sometimes only a minute long. For more advanced users.
+Quick and humorous tutorials that are sometimes only a minute long. For more advanced users.
 
 [Flipped Normals](https://www.youtube.com/user/FlippedNormalsTuts/playlists)
 
