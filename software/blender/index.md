@@ -2,6 +2,7 @@
 title: Blender resources
 subtitle: Tutorials, plugins, and more
 layout: page
+
 ---
 ## Download
 
@@ -34,6 +35,9 @@ Quick and humerous tutorials that are sometimes only a minute long. For more adv
 [Paul O Caggegi](https://www.youtube.com/channel/UCEhYWUp3jRKQF7GHjhpcI_g)  
 Paul specializes in NPR shading and compositing workflows as well as using the Grease Pencil tool.
 
+[Sam Bowman](https://www.youtube.com/channel/UCbODs2qqHISelcvKZybRMKg "Sam Bowman")
+
+Specializes in procedural workflows and nodes for geometry, textures, and surface materials.
 
 ## LinkedIn Learning
 
@@ -44,10 +48,10 @@ Very general introduction videos to learn Blender basics.
 
 ### Materials add-on
 
-- [3D Wolf PBR Materials Library V3.4](https://3d-wolf.com/products/materials.html)
+* [3D Wolf PBR Materials Library V3.4](https://3d-wolf.com/products/materials.html)
 
 ### Recommended Add-on Lists
 
-- [https://blender-addons.org/](https://blender-addons.org/)
-- [CG Cookie](https://cgcookie.com/articles/the-top-10-modeling-addons-for-blender-2-8)
-- [Curtis Holt](https://www.youtube.com/watch?v=aTDF94CU5wc)
+* [https://blender-addons.org/](https://blender-addons.org/)
+* [CG Cookie](https://cgcookie.com/articles/the-top-10-modeling-addons-for-blender-2-8)
+* [Curtis Holt](https://www.youtube.com/watch?v=aTDF94CU5wc)
