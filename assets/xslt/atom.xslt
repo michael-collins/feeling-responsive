@@ -525,7 +525,7 @@
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
             Created by Michael Collins<br>
-            <span class="footer-meta">Site compiled: May 28, 2021 at 01:29am UTC</span>
+            <span class="footer-meta">Site compiled: May 29, 2021 at 01:46am UTC</span>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
