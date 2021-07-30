@@ -12,7 +12,7 @@ all:
   assignments: []
 beginner:
   lectures:
-  - _lectures/introduction-to-rigging.md
+  - collections/_lectures/introduction-to-rigging.md
   readings: []
   assignments: []
 intermediate:
