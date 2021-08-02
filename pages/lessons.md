@@ -7,3 +7,5 @@ header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
 permalink: "/lesson/"
 ---
+
+{% include lesson-accordion.html %}
