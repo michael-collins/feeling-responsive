@@ -5,16 +5,16 @@ subtitle: 3D Studio
 course-abbrv: DART
 course-number: "303"
 course-title: 3D Studio
-semester: Spring
+semester: Fall
 year: "2021"
 section: UP Section 1
 credits: "4"
 instructor-name: Michael Collins
 office-hours: By appointment via https://calendly.com/msc227
 instructor-email: msc227@psu.edu
-meeting-location: ZOOM (link provided in Canvas)
+meeting-location: 401 Patterson Bldg and Zoom (link in Canvas)
 meeting-time: 11:15pm - 2:15pm Tuesday and Thursday
-begin-end-dates: 01/18/21 - 4/30/21
+begin-end-dates: '08/23/21 - 12/10/21'
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
 canvas-link: https://psu.instructure.com/courses/2098153
 published: false
@@ -219,3 +219,7 @@ Affirmative Action Office: 814-863-0471
 ### Diversity
 
 Students from diverse backgrounds and perspectives are welcomed. The diversity that students bring to class is viewed as an asset and resource. This course aims to cultivate and maintain an equitable and culturally inclusive environment where students feel a sense of belonging. All students will be well-served, and students’ learning needs will be addressed both within and outside the classroom. Lectures, presentations, materials, and art-making and design activities will be mindful and respectful of diversity in all forms, including but not limited to ethnicity, race, culture, nationality, age, language, sex, (dis)ability, sexual orientation, gender, gender variance, religion, socioeconomic status, or veteran status. Student suggestions on how this course might better serve them personally or better serve underrepresented minoritized students are encouraged and appreciated.
+
+### COVID-19
+
+Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. ALL STUDENTS MUST wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus. This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations. If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.
