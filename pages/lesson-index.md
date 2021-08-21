@@ -2,19 +2,17 @@
 layout: lesson-index
 title: Lessons
 breadcrumb: false
-header: false
+header: true
 enable_lessons_by_week: true
 header_image: "/uploads/abstract-001-render6.jpg"
-header:
-  image_fullwidth: "/uploads/abstract-001-render6.jpg"
 permalink: "/lessons-index/"
 weeks:
 - week_number: "1"
   lessons:
   - collections/_lessons/lesson-01.md
   - collections/_lessons/polygonal-modelling.md
-  start_date: 2020-08-24T4:00:AM+0000
-  end_date: 2020-08-31T3:59:AM+0000
+  start_date: 2021-08-23T4:00:AM+0000
+  end_date: 2021-08-30T3:59:AM+0000
   enabled: true
 - week_number: "2"
   lessons:
