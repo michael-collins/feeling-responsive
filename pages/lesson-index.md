@@ -84,7 +84,8 @@ weeks:
   end_date: 2021-11-21T5:00:AM+0000
   enabled: false
 - week_number: "14"
-  lessons: []
+  lessons:
+  - collections/_lessons/project-2.md
   start_date: 2021-11-22T5:00:AM+0000
   end_date: 2021-11-28T5:00:AM+0000
   enabled: false
