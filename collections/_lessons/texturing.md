@@ -12,19 +12,19 @@ all:
   - _readings/beginner-lesson-2.md
   assignments: []
 beginner:
-  lectures:
-  - _lectures/advanced-lesson01-lecture.md
+  lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/texturing-the-airline-chair.md
 intermediate:
-  lectures:
-  - _lectures/intermediate-to-texturing.md
+  lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/texturing-objects.md
 advanced:
-  lectures:
-  - _lectures/advanced-texturing.md
+  lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/texturing-for-sculpts.md
 
 ---
