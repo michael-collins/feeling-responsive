@@ -13,14 +13,17 @@ all:
 beginner:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/lighting-and-rendering-the-airline-chair.md
 intermediate:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/rendering-objects.md
 advanced:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/sculpting-texturing-and-rendering.md
 
 ---
