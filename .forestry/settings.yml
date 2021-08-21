@@ -70,8 +70,7 @@ sections:
   label: Data
 - type: document
   path: _data/schedule/assignments.yml
-  label: assignment data
-  match: "**/*"
+  label: assignment data (EXAMPLE ONLY)
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
