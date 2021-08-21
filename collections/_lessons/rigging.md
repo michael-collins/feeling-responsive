@@ -11,19 +11,19 @@ all:
   readings: []
   assignments: []
 beginner:
-  lectures:
-  - collections/_lectures/introduction-to-rigging.md
+  lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/rendering-objects.md
 intermediate:
-  lectures:
-  - _lectures/intermediate-rigging.md
+  lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/rigging-a-quadruped.md
 advanced:
-  lectures:
-  - _lectures/advanced-rigging.md
+  lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/rigging-for-machines.md
 
 ---
