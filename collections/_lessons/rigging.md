@@ -14,7 +14,7 @@ beginner:
   lectures: []
   readings: []
   assignments:
-  - collections/_assignments/rendering-objects.md
+  - collections/_assignments/introduction-to-rigging.md
 intermediate:
   lectures: []
   readings: []
