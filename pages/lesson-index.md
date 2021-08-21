@@ -39,18 +39,20 @@ weeks:
   end_date: 2021-09-26T3:59:AM+0000
   enabled: false
 - week_number: "6"
-  lessons: []
+  lessons:
+  - collections/_lessons/project-1.md
   start_date: 2021-09-27T3:59:AM+0000
   end_date: 2021-10-03T3:59:AM+0000
   enabled: false
 - week_number: "7"
-  lessons: []
+  lessons:
+  - collections/_lessons/project-1.md
   start_date: 2021-10-04T3:59:AM+0000
   end_date: 2021-10-10T3:59:AM+0000
   enabled: false
 - week_number: "8"
   lessons:
-  - _lessons/lesson-01.md
+  - collections/_lessons/project-1.md
   start_date: 2021-10-11T3:59:AM+0000
   end_date: 2021-10-17T3:59:AM+0000
   enabled: false
