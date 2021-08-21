@@ -17,8 +17,8 @@ weeks:
 - week_number: "2"
   lessons:
   - collections/_lessons/texturing.md
-  start_date: 2020-08-31T4:00:AM+0000
-  end_date: 2020-09-06T4:00:AM+0000
+  start_date: 2021-08-30T4:00:AM+0000
+  end_date: 2021-09-05T4:00:AM+0000
   enabled: false
 - week_number: "3"
   lessons:
