@@ -22,13 +22,13 @@ weeks:
   enabled: false
 - week_number: "3"
   lessons:
-  - collections/_lessons/materials.md
+  - collections/_lessons/camera-lighting-and-rendering.md
   start_date: 2021-09-13T3:59:AM+0000
   end_date: 2021-09-19T3:59:AM+0000
   enabled: false
 - week_number: "4"
   lessons:
-  - collections/_lessons/camera-lighting-and-rendering.md
+  - collections/_lessons/pbr-and-npr.md
   start_date: 2021-09-13T3:59:AM+0000
   end_date: 2021-09-19T3:59:AM+0000
   enabled: false
@@ -69,7 +69,8 @@ weeks:
   end_date: 2021-10-31T3:59:AM+0000
   enabled: false
 - week_number: "11"
-  lessons: []
+  lessons:
+  - collections/_lessons/rigging.md
   start_date: 2021-11-01T3:59:AM+0000
   end_date: 2021-11-07T3:59:AM+0000
   enabled: false
