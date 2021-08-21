@@ -79,18 +79,19 @@ weeks:
   end_date: 2021-11-14T5:00:AM+0000
   enabled: false
 - week_number: "13"
-  lessons: []
+  lessons:
+  - collections/_lessons/project-2.md
   start_date: 2021-11-15T5:00:AM+0000
   end_date: 2021-11-21T5:00:AM+0000
   enabled: false
 - week_number: "14"
-  lessons:
-  - collections/_lessons/project-2.md
+  lessons: []
   start_date: 2021-11-22T5:00:AM+0000
   end_date: 2021-11-28T5:00:AM+0000
   enabled: false
 - week_number: "15"
-  lessons: []
+  lessons:
+  - collections/_lessons/project-2.md
   start_date: 2021-11-29T5:00:AM+0000
   end_date: 2021-12-05T5:00:AM+0000
   enabled: false
@@ -98,6 +99,7 @@ weeks:
   enabled: false
   start_date: 2021-12-06T5:00:AM+0000
   end_date: 2021-12-10T5:00:AM+0000
-  lessons: []
+  lessons:
+  - collections/_lessons/project-2.md
 
 ---
