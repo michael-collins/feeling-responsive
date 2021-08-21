@@ -13,14 +13,17 @@ all:
 beginner:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/animation.md
 intermediate:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/animating-tetris.md
 advanced:
   lectures: []
   readings: []
-  assignments: []
+  assignments:
+  - collections/_assignments/animating-evolved-virtual-creatures.md
 
 ---
