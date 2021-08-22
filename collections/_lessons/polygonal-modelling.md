@@ -1,4 +1,5 @@
 ---
+layout: lesson
 title: Polygonal Modelling
 subtitle: 3D's most essential skill
 layout: lesson

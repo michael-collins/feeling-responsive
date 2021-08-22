@@ -280,7 +280,7 @@ collections:
     permalink: /agendas/:title.html
   lessons:
     output: true
-    permalink: /lessons/:title.html
+    permalink: /lessons/:title/
   exercises:
     output: true
     permalink: /exercises/:title.html

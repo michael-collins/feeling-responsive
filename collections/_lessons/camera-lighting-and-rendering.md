@@ -1,4 +1,5 @@
 ---
+layout: lesson
 enable_lesson: true
 title: Camera, Lighting and Rendering
 subtitle: ''

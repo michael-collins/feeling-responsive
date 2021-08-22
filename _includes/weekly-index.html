@@ -3,16 +3,33 @@
     <h2>Week {{ week.week_number }} | {{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</h2>
     {% if week.lessons %}
         <ul>
-        {% for lesson in week.lessons %}            
-            {% assign current-lesson = lesson | remove: "collections/_" | remove: ".md" %}
-            {% capture lesson_url %}{{current-lesson | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
-            <li>
-                <a href="{{lesson_url}}">{{lesson_url}}</a>
-            </li>
 
+       
+        
+        
+        {% for lesson in week.lessons %}
+        {% assign lesson_pointer = lesson | remove: "collections/" %}   
+        {% assign lesson_ref = lesson | remove: "collections/_" | remove: ".md" %}
+        {% capture lesson_ref_url %}{{lesson_ref | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
             
 
+        {% for item in site.lessons %}
+        {%comment%}push assignment slugs into array{%endcomment%}
+          
+        {%if item.path == lesson_pointer %}
+        
+           <li>
+            <a href="{{lesson_ref_url}}">{{ item.title}}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+           
+            
+            {%- comment -%}GET lessons that match references{%- endcomment -%}            
+            
+            
 
+            
         {% endfor %}
         </ul>
     {% endif %}

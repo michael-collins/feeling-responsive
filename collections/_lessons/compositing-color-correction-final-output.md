@@ -1,4 +1,5 @@
 ---
+layout: lesson
 enable_lesson: true
 title: Compositing, color correction, final output
 subtitle: ''
