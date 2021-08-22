@@ -6,6 +6,49 @@ layout: nav-elements
 <div class="columns small-12">
   <h2>{{ page.title }}</h2>
 {{ content }}
+
+{% for page_item in page.all.lectures %}
+  {% assign collection_items = site.lectures %}   
+    {%comment%}Create item pointer{%endcomment%}
+    {% assign item_pointer = page_item | remove: "collections/" %}   
+    {%comment%}Create url {%endcomment%}
+    {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+    {% for item in collection_items %}
+    {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+    {%if item.path == item_pointer %}
+    <p>Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for page_item in page.all.readings %}
+{% assign collection_items = site.readings %}   
+  {%comment%}Create item pointer{%endcomment%}
+  {% assign item_pointer = page_item | remove: "collections/" %}   
+  {%comment%}Create url {%endcomment%}
+  {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+  {% for item in collection_items %}
+  {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+  {%if item.path == item_pointer %}
+  <p>Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+  {% endif %}
+{% endfor %}
+{% endfor %}
+
+{% for page_item in page.all.assignments %}
+  {% assign collection_items = site.assignments %}   
+    {%comment%}Create item pointer{%endcomment%}
+    {% assign item_pointer = page_item | remove: "collections/" %}   
+    {%comment%}Create url {%endcomment%}
+    {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+    {% for item in collection_items %}
+    {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+    {%if item.path == item_pointer %}
+    <p>Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+<hr>
 <h3>Beginner</h3>
   {% for page_item in page.beginner.lectures %}
     {% assign collection_items = site.lectures %}   
@@ -48,8 +91,7 @@ layout: nav-elements
       {% endif %}
     {% endfor %}
   {% endfor %}
-
-
+  <hr>
   <h3>Intermediate</h3>
   {% for page_item in page.intermediate.lectures %}
     {% assign collection_items = site.lectures %}   
@@ -68,7 +110,7 @@ layout: nav-elements
       {% endif %}
     {% endfor %}
   {% endfor %}
-
+  <hr>
   <h3>Advanced</h3>
   {% for page_item in page.advanced.lectures %}
     {% assign collection_items = site.lectures %}   
