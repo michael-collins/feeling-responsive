@@ -3,7 +3,6 @@ layout: lesson
 breadcrumb: true
 title: Polygonal Modelling
 subtitle: 3D's most essential skill
-layout: lesson
 lectures:
   lecture_list: []
 lesson: []
@@ -13,8 +12,7 @@ beginner:
   - collections/_lectures/intermediate-lesson01-lecture.md
   assignments:
   - collections/_assignments/modeling-the-airline-chair.md
-  readings:
-  - collections/_readings/beginner-lesson-1-reading.md
+  readings: []
 enable_lesson: true
 lesson-image: ''
 weight: ''
