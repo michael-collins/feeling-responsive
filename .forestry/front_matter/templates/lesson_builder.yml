@@ -2,6 +2,13 @@
 label: lesson-builder
 hide_body: true
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: lesson
+  hidden: true
 - name: enable_lesson
   type: boolean
   label: Enable Lesson
