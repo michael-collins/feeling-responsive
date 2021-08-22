@@ -88,6 +88,12 @@ fields:
     template: lesson
     label: Lesson
   label: Advanced
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: lesson
 pages:
 - collections/_lessons/pbr-and-npr.md
 - collections/_lessons/project-1.md
