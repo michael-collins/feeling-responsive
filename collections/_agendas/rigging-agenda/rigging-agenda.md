@@ -7,8 +7,6 @@ excerpt: ''
 permalink: "/agenda/rigging/"
 
 ---
-### Agenda
-
 1. **Screenings**
    * ["The secret of animation"](https://vimeo.com/67501143)
    * [AirSpace](https://vimeo.com/80683467), [AirSpace Breakdown](https://vimeo.com/80642128)
