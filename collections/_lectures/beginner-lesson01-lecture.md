@@ -6,6 +6,7 @@ layout: page
 ---
 1. **Video Screening**
    * ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
+   * [Lighting Theory by Andrew Price](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK "Lighting Theory by Andrew Price")
 2. **Books on New Media and Computational Aesthetics**
    * [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command) by Lev Manovich
    * [The Language of New Media](http://manovich.net/index.php/projects/language-of-new-media) by Lev Manovich
@@ -41,5 +42,4 @@ layout: page
      * Enable render settings including: Ambient Occlusion, Depth of Field, and Screen Space Reflections
      * Shadows: Increase the shadow map to 4K
 5. **Tutorials**
-   * [Lighting Theory by Andrew Price](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK "Lighting Theory by Andrew Price")
    * [Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
