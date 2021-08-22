@@ -19,8 +19,6 @@ enable_downloads: false
 download_files: []
 
 ---
-### Agenda
-
 1. **Screenings**
    * ["The secret of animation"](https://vimeo.com/67501143)
    * [AirSpace](https://vimeo.com/80683467), [AirSpace Breakdown](https://vimeo.com/80642128)
