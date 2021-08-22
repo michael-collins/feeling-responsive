@@ -1,0 +1,170 @@
+{% assign all_items = include.all %}  
+{% assign beginner_items = include.beginner %}  
+{% assign intermediate_items = include.intermediate %}  
+{% assign advanced_items = include.advanced %}  
+
+
+{% for page_item in all_items.lectures %}
+  {% assign collection_items = site.lectures %}   
+    {%comment%}Create item pointer{%endcomment%}
+    {% assign item_pointer = page_item | remove: "collections/" %}   
+    {%comment%}Create url {%endcomment%}
+    {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+    {% for item in collection_items %}
+    {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+    {%if item.path == item_pointer %}
+    <p>Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for page_item in all_items.readings %}
+{% assign collection_items = site.readings %}   
+  {%comment%}Create item pointer{%endcomment%}
+  {% assign item_pointer = page_item | remove: "collections/" %}   
+  {%comment%}Create url {%endcomment%}
+  {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+  {% for item in collection_items %}
+  {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+  {%if item.path == item_pointer %}
+  <p>Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+  {% endif %}
+{% endfor %}
+{% endfor %}
+
+{% for page_item in all_items.assignments %}
+  {% assign collection_items = site.assignments %}   
+    {%comment%}Create item pointer{%endcomment%}
+    {% assign item_pointer = page_item | remove: "collections/" %}   
+    {%comment%}Create url {%endcomment%}
+    {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+    {% for item in collection_items %}
+    {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+    {%if item.path == item_pointer %}
+    <p>Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+
+  {% for page_item in beginner_items.lectures %}
+    {% assign collection_items = site.lectures %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Beginner Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  {% for page_item in intermediate_items.lectures %}
+  {% assign collection_items = site.lectures %}   
+    {%comment%}Create item pointer{%endcomment%}
+    {% assign item_pointer = page_item | remove: "collections/" %}   
+    {%comment%}Create url {%endcomment%}
+    {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+    {% for item in collection_items %}
+    {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+    {%if item.path == item_pointer %}
+    <p>Intermediate Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% for page_item in advanced_items.lectures %}
+    {% assign collection_items = site.lectures %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Advanced Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+  {% for page_item in beginner_items.readings %}
+    {% assign collection_items = site.readings %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Beginne Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for page_item in intermediate_items.readings %}
+    {% assign collection_items = site.readings %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Intermediate Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for page_item in advanced_items.readings %}
+    {% assign collection_items = site.readings %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Advanced Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  
+  {% for page_item in beginner_items.assignments %}
+    {% assign collection_items = site.assignments %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Beginner Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for page_item in intermediate_items.assignments %}
+    {% assign collection_items = site.assignments %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Intermediate Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for page_item in advanced_items.assignments %}
+    {% assign collection_items = site.assignments %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+        <p>Advanced Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}

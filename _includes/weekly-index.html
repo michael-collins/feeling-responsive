@@ -1,10 +1,10 @@
 {% for week in include.weeks %}
     
     <h2>Week {{ week.week_number }}</h2>
-    <hr>
     <p>{{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</p>
+    <hr>
+    
     {% if week.lessons %}
-        <ul>
         {% for lesson in week.lessons %}
         {%comment%}Create week's lesson item path{%endcomment%}
         {% assign lesson_pointer = lesson | remove: "collections/" %}   
@@ -13,10 +13,20 @@
         {% for item in site.lessons %}
         {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
         {%if item.path == lesson_pointer %}
-        
-        <li>
-            <a href="{{lesson_ref_url}}">{{ item.title}}</a>
-        </li>
+        <div class="row">
+        <div class="columns">
+            <h4><a href="{{lesson_ref_url}}">{{ item.title}}</a></h4>
+            {% for lesson in site.lessons %}
+                {% if lesson.path == lesson_pointer %}
+                    {% assign page_all = lesson.all %}
+                    {% assign page_beginner = lesson.beginner %}
+                    {% assign page_intermediate = lesson.intermediate %}
+                    {% assign page_advanced = lesson.advanced %}
+                    {% include lesson-items.html all=page_all beginner=page_beginner intermediate=page_intermediate advanced=page_advanced %}
+                {% endif %}
+            {% endfor %}
+        </div>
+        </div>
         {% endif %}
         {% endfor %}
            
@@ -27,7 +37,7 @@
 
             
         {% endfor %}
-        </ul>
+
     {% endif %}
         
 {% endfor%}
