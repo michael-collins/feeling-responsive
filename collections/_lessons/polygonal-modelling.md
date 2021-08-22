@@ -8,8 +8,7 @@ lectures:
 lesson: []
 assignments: []
 beginner:
-  lectures:
-  - collections/_lectures/intermediate-lesson01-lecture.md
+  lectures: []
   assignments:
   - collections/_assignments/modeling-the-airline-chair.md
   readings: []
