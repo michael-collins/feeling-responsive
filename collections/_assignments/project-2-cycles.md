@@ -21,7 +21,7 @@ page_sections:
   list-item: []
 - template: assignment-demo
   block: assignment-a-demo
-  headline: 3D Scene Layouts Demo (Formerly 'Animatic' Demo)
+  title: 3D Scene Layouts Demo (Formerly 'Animatic' Demo)
   video:
   - title: Creating 3D Scene Layouts in Blender
     custom: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-V2nChTadrWRqmkePyLUhIndLHarj7H-"
