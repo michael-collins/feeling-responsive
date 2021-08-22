@@ -10,10 +10,8 @@ permalink: "/agenda/pbr-npr-rendering/"
 1. **Video Screenings and Examples**
    * ["Goodbye Uncanny Valley"](https://vimeo.com/237568588) by Alan Warburton
    * [Epic Games Metahuman](https://www.youtube.com/watch?v=1tjkSpoa7V8)
-   * [NPR Experiments](https://cgsociety.org/c/featured/yjge/npr-expreiments)
-   * [Avacado animation test](https://vimeo.com/78060303)
-   * [ZiegenortMovie trailer](https://vimeo.com/ondemand/ziegenortbytomaszpopakul/179433781) by Tomasz Popakul
-   * [For the remainder](https://vimeo.com/36818561)
+   * [For the remainder](https://vimeo.com/36818561) by Oomaa Studio
+   * [What is Power to X?](https://vimeo.com/257500299) by Oomaa Studio
 2. **PBR (Physically Based Rendering) Terminology**
    * Material
    * Cycles
