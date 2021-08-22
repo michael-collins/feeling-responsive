@@ -304,7 +304,7 @@ collections:
     permalink: /topics/:title.html
   lectures:
     output: true
-    permalink: /topics/:title.html
+    permalink: /lectures/:title/
   readings:
     output: true
-    permalink: /topics/:title.html
+    permalink: /readings/:title/
