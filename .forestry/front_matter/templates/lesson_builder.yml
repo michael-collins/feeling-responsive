@@ -101,6 +101,7 @@ fields:
     label: Lesson
   label: Advanced
 pages:
+- collections/_lessons/animated-textures.md
 - collections/_lessons/pbr-and-npr.md
 - collections/_lessons/project-1.md
 - collections/_lessons/project-2.md
