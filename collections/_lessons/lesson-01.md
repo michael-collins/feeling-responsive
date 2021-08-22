@@ -8,12 +8,9 @@ lectures:
 lesson: []
 assignments: []
 beginner:
-  lectures:
-  - _lectures/intermediate-lesson01-lecture.md
-  assignments:
-  - _assignments/animation-project/animation-project.md
-  readings:
-  - _readings/beginner-lesson-1-reading.md
+  lectures: []
+  assignments: []
+  readings: []
 enable_lesson: true
 lesson-image: ''
 weight: ''
@@ -29,11 +26,8 @@ enable_active_dates: false
 lesson_begin_date: 
 lesson_end_date: 
 all:
-  lectures:
-  - _lectures/intermediate-lesson01-lecture.md
-  readings:
-  - _readings/beginner-lesson-1-reading.md
-  assignments:
-  - _assignments/modeling-intro/modeling-intro.md
+  lectures: []
+  readings: []
+  assignments: []
 
 ---
