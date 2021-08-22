@@ -33,12 +33,12 @@ layout: page
      * Blades add flat sides to the Bokeh
      * You can create custom [Bokeh shapes](https://blender.stackexchange.com/questions/133191/custom-bokeh-shapes)
      * Safe area
-     * Composition guides for layouts (golden ratio, golden tringle, thirds, etc.)
+     * Composition guides for layouts (golden ratio, golden triangle, thirds, etc.)
    * **Render quality in Cycles**
-     * To redue render times, keep material shaders simple. Use principled shader if working with photoreal renders.
+     * To reduce render times, keep material shaders simple. Use principled shader if working with photo-real renders.
      * 500 samples are usually needed to reduce noise.
      * Use [advanced denoising workflow](https://www.youtube.com/watch?v=Pw-OxOHHu5I) in the compositor
-     * If using motion blur or depth of field, sample sizes must inrease dramatically.
+     * If using motion blur or depth of field, sample sizes must increase dramatically.
      * You can get away with 120 samples if you use denoising in the Compositor
    * **Render quality in EEVEE**
      * [EEVEE Lighting](https://www.youtube.com/watch?v=MFNurQ1AF2I)
