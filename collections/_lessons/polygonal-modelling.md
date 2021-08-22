@@ -29,7 +29,8 @@ enable_active_dates: false
 lesson_begin_date: 
 lesson_end_date: 
 all:
-  lectures: []
+  lectures:
+  - collections/_lectures/intermediate-lesson01-lecture.md
   readings: []
   assignments: []
 
