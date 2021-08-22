@@ -10,7 +10,7 @@ weeks:
 - week_number: "1"
   lessons:
   - collections/_lessons/lesson-01.md
-  - collections/_lessons/polygonal-modelling.md
+  - collections/_lessons/polygonal-modeling.md
   start_date: 2021-08-24T3:59:AM+0000
   end_date: 2021-08-30T3:59:AM+0000
   enabled: true

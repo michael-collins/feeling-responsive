@@ -1,7 +1,7 @@
 ---
 layout: lesson
 breadcrumb: true
-title: Polygonal Modelling
+title: Polygonal Modeling
 subtitle: 3D's most essential skill
 lectures:
   lecture_list: []

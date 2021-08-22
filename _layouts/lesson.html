@@ -48,8 +48,8 @@ layout: nav-elements
     {% endif %}
   {% endfor %}
 {% endfor %}
+<h3>Lectures</h3>
 <hr>
-<h3>Beginner</h3>
   {% for page_item in page.beginner.lectures %}
     {% assign collection_items = site.lectures %}   
       {%comment%}Create item pointer{%endcomment%}
@@ -59,13 +59,13 @@ layout: nav-elements
       {% for item in collection_items %}
       {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
       {%if item.path == item_pointer %}
-      <p>Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      <p>Beginner Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
       {% endif %}
     {% endfor %}
   {% endfor %}
 
-  {% for page_item in page.beginner.readings %}
-  {% assign collection_items = site.readings %}   
+  {% for page_item in page.intermediate.lectures %}
+  {% assign collection_items = site.lectures %}   
     {%comment%}Create item pointer{%endcomment%}
     {% assign item_pointer = page_item | remove: "collections/" %}   
     {%comment%}Create url {%endcomment%}
@@ -73,12 +73,68 @@ layout: nav-elements
     {% for item in collection_items %}
     {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
     {%if item.path == item_pointer %}
-    <p>Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+    <p>Intermediate Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
     {% endif %}
   {% endfor %}
 {% endfor %}
 
-{% for page_item in page.beginner.assignments %}
+{% for page_item in page.advanced.lectures %}
+    {% assign collection_items = site.lectures %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Advanced Lecture: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  <h3>Readings</h3>
+  <hr>
+  {% for page_item in page.beginner.readings %}
+    {% assign collection_items = site.readings %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Beginne Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for page_item in page.intermediate.readings %}
+    {% assign collection_items = site.readings %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Intermediate Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for page_item in page.advanced.readings %}
+    {% assign collection_items = site.readings %}   
+      {%comment%}Create item pointer{%endcomment%}
+      {% assign item_pointer = page_item | remove: "collections/" %}   
+      {%comment%}Create url {%endcomment%}
+      {% capture item_ref_url %}{{page_item | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
+      {% for item in collection_items %}
+      {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
+      {%if item.path == item_pointer %}
+      <p>Advanced Reading: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  <h3>Assignments</h3>
+  <hr>
+  {% for page_item in page.beginner.assignments %}
     {% assign collection_items = site.assignments %}   
       {%comment%}Create item pointer{%endcomment%}
       {% assign item_pointer = page_item | remove: "collections/" %}   
@@ -87,14 +143,12 @@ layout: nav-elements
       {% for item in collection_items %}
       {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
       {%if item.path == item_pointer %}
-      <p>Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
+      <p>Beginner Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
       {% endif %}
     {% endfor %}
   {% endfor %}
-  <hr>
-  <h3>Intermediate</h3>
-  {% for page_item in page.intermediate.lectures %}
-    {% assign collection_items = site.lectures %}   
+  {% for page_item in page.intermediate.assignments %}
+    {% assign collection_items = site.assignments %}   
       {%comment%}Create item pointer{%endcomment%}
       {% assign item_pointer = page_item | remove: "collections/" %}   
       {%comment%}Create url {%endcomment%}
@@ -102,18 +156,12 @@ layout: nav-elements
       {% for item in collection_items %}
       {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
       {%if item.path == item_pointer %}
-      <ul>
-      <li>
-          <a href="{{item_ref_url}}">{{ item.title}}</a>
-      </li>
-      </ul>
+      <p>Intermediate Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
       {% endif %}
     {% endfor %}
   {% endfor %}
-  <hr>
-  <h3>Advanced</h3>
-  {% for page_item in page.advanced.lectures %}
-    {% assign collection_items = site.lectures %}   
+  {% for page_item in page.advanced.assignments %}
+    {% assign collection_items = site.assignments %}   
       {%comment%}Create item pointer{%endcomment%}
       {% assign item_pointer = page_item | remove: "collections/" %}   
       {%comment%}Create url {%endcomment%}
@@ -121,11 +169,7 @@ layout: nav-elements
       {% for item in collection_items %}
       {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
       {%if item.path == item_pointer %}
-      <ul>
-      <li>
-          <a href="{{item_ref_url}}">{{ item.title}}</a>
-      </li>
-      </ul>
+        <p>Advanced Assignment: <a href="{{item_ref_url}}">{{ item.title}}</a></p>
       {% endif %}
     {% endfor %}
   {% endfor %}
