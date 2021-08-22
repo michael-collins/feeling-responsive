@@ -7,13 +7,15 @@ layout: page
 1. **Video Screening**
    * ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
    * [Lighting Theory by Andrew Price](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK "Lighting Theory by Andrew Price")
-2. **Books on New Media and Computational Aesthetics**
+2. **Demo**
+   * [Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
+3. **Books on New Media and Computational Aesthetics**
    * [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command) by Lev Manovich
    * [The Language of New Media](http://manovich.net/index.php/projects/language-of-new-media) by Lev Manovich
-3. **Technical Readings for 3D Rendering**
+4. **Technical Readings for 3D Rendering**
    * [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
    * [FX Guide: "State of Rendering"](https://www.fxguide.com/fxfeatured/the-state-of-rendering/)
-4. **Terminology**
+5. **Terminology**
    * **Lighting setups**
      * [3 point lighting](https://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/) (key, fill, rim)
      * Light types: Area, Spot, Directional or Sun, Point, Volumetric
@@ -41,5 +43,3 @@ layout: page
      * [EEVEE Lighting](https://www.youtube.com/watch?v=MFNurQ1AF2I)
      * Enable render settings including: Ambient Occlusion, Depth of Field, and Screen Space Reflections
      * Shadows: Increase the shadow map to 4K
-5. **Tutorials**
-   * [Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
