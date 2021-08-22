@@ -9,12 +9,13 @@ layout: page
    * [Lighting Theory by Andrew Price](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK "Lighting Theory by Andrew Price")
 2. **Demo**
    * [Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
-3. **Books on New Media and Computational Aesthetics**
-   * [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command) by Lev Manovich
-   * [The Language of New Media](http://manovich.net/index.php/projects/language-of-new-media) by Lev Manovich
-4. **Technical Readings for 3D Rendering**
+3. **Technical Readings for 3D Rendering**
    * [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
    * [FX Guide: "State of Rendering"](https://www.fxguide.com/fxfeatured/the-state-of-rendering/)
+4. **For your Bookshelf**
+   * [How to Render by Scott Robertson](https://www.amazon.com/How-Render-fundamentals-shadow-reflectivity/dp/1933492961/)
+   * [Software Takes Command](http://manovich.net/index.php/projects/software-takes-command) by Lev Manovich
+   * [The Language of New Media](http://manovich.net/index.php/projects/language-of-new-media) by Lev Manovich
 5. **Terminology**
    * **Lighting setups**
      * [3 point lighting](https://m5designstudio.com/2011/maya-3d-tutorials/studio-three-point-lighting/) (key, fill, rim)
