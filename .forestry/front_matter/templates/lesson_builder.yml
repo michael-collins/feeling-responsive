@@ -9,6 +9,11 @@ fields:
   label: layout
   default: lesson
   hidden: true
+- name: breadcrumbs
+  type: boolean
+  label: breadcrumbs
+  default: true
+  hidden: true
 - name: enable_lesson
   type: boolean
   label: Enable Lesson
