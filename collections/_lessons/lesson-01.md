@@ -1,7 +1,8 @@
 ---
+layout: lesson
+breadcrumb: true
 title: DART 303 Introduction
 subtitle: Introduction to 3D Studio
-layout: lesson
 lectures:
   lecture_list: []
 lesson: []

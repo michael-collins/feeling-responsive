@@ -1,5 +1,6 @@
 ---
 layout: lesson
+breadcrumb: true
 enable_lesson: true
 title: Camera, Lighting and Rendering
 subtitle: ''

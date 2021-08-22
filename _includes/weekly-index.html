@@ -1,24 +1,20 @@
 {% for week in include.weeks %}
+    
+    <h2>Week {{ week.week_number }}</h2>
     <hr>
-    <h2>Week {{ week.week_number }} | {{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</h2>
+    <p>{{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</p>
     {% if week.lessons %}
         <ul>
-
-       
-        
-        
         {% for lesson in week.lessons %}
+        {%comment%}Create week's lesson item path{%endcomment%}
         {% assign lesson_pointer = lesson | remove: "collections/" %}   
-        {% assign lesson_ref = lesson | remove: "collections/_" | remove: ".md" %}
-        {% capture lesson_ref_url %}{{lesson_ref | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
-            
-
+        {%comment%}Create lesson url from week's lesson{%endcomment%}
+        {% capture lesson_ref_url %}{{lesson | remove: "collections/_" | remove: ".md" | prepend: "/" | prepend: site.baseurl }}/{%endcapture%}
         {% for item in site.lessons %}
-        {%comment%}push assignment slugs into array{%endcomment%}
-          
+        {%comment%}if the lesson's path matches the week's lesson item path{%endcomment%}   
         {%if item.path == lesson_pointer %}
         
-           <li>
+        <li>
             <a href="{{lesson_ref_url}}">{{ item.title}}</a>
         </li>
         {% endif %}

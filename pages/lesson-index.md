@@ -5,7 +5,7 @@ breadcrumb: false
 header: true
 enable_lessons_by_week: true
 header_image: "/uploads/abstract-001-render6.jpg"
-permalink: "/lessons-index/"
+permalink: "/lessons/"
 weeks:
 - week_number: "1"
   lessons:
