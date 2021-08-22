@@ -83,3 +83,5 @@ fields:
   showOnly:
     field: enable_downloads
     value: true
+pages:
+- collections/_lectures/pbr-and-npr-look-development.md
