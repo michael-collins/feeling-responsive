@@ -21,7 +21,15 @@
 
 // Custom theme styles here.
 
+a {
 
+	color: #d14;
+}
+a:hover {
+
+	color: #d14;
+	text-decoration: underline;
+}
 body {
 	background-color:#fafafa;
 }
