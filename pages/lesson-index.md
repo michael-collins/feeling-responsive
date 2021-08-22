@@ -75,7 +75,8 @@ weeks:
   end_date: 2021-11-07T3:59:AM+0000
   enabled: false
 - week_number: "12"
-  lessons: []
+  lessons:
+  - collections/_lessons/animated-textures.md
   start_date: 2021-11-08T5:00:AM+0000
   end_date: 2021-11-14T5:00:AM+0000
   enabled: false
