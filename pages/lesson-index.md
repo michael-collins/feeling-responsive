@@ -58,18 +58,20 @@ weeks:
   enabled: false
 - week_number: "9"
   lessons:
-  - collections/_lessons/animation.md
+  - collections/_lessons/project-1.md
   start_date: 2021-10-18T3:59:AM+0000
   end_date: 2021-10-24T3:59:AM+0000
   enabled: false
 - week_number: "10"
   lessons:
-  - collections/_lessons/rigging.md
+  - collections/_lessons/animation.md
+  - collections/_lessons/project-2.md
   start_date: 2021-10-25T3:59:AM+0000
   end_date: 2021-10-31T3:59:AM+0000
   enabled: false
 - week_number: "11"
   lessons:
+  - collections/_lessons/project-2.md
   - collections/_lessons/rigging.md
   start_date: 2021-11-01T3:59:AM+0000
   end_date: 2021-11-07T3:59:AM+0000
