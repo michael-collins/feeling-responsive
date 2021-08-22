@@ -12,7 +12,10 @@ permalink: "/agenda/pbr-npr-rendering/"
    * [Epic Games Metahuman](https://www.youtube.com/watch?v=1tjkSpoa7V8)
    * [For the remainder](https://vimeo.com/36818561) by Oomaa Studio
    * [What is Power to X?](https://vimeo.com/257500299) by Oomaa Studio
-2. **PBR (Physically Based Rendering) Terminology**
+2. **Demos**
+   * [PBR Demo Part 1](https://vimeo.com/458809958)
+   * [PBR Demo Part 2](https://vimeo.com/458831363)
+3. **PBR (Physically Based Rendering) Terminology**
    * Material
    * Cycles
    * Blender Nodes
@@ -21,13 +24,13 @@ permalink: "/agenda/pbr-npr-rendering/"
    * PBR
    * [Texture mapping types](http://wiki.polycount.com/wiki/Texture_types)
    * [UDIM Tiles](https://www.youtube.com/watch?v=LR3Y9R2wmdI)
-3. **PBR Resources**
+4. **PBR Resources**
    * [PBR Texture Painting in Blender](https://www.youtube.com/watch?v=svzKoq3vew0) by Jayanam
    * [PBR workflow](https://www.youtube.com/watch?v=aH6XPsEmozk)
    * Blender Add-0n - [PBR Materials](https://www.3d-wolf.com/products/materials.html)
    * [HDR lighting packs](https://hdrihaven.com/hdri/?c=skies&h=cannon)
    * [Texture packs](https://cc0textures.com/view?id=Rock030)
-4. **NPR (Non-photorealistic Rendering) Terminology**
+5. **NPR (Non-photorealistic Rendering) Terminology**
    * Freestyle
    * Surface shader
      * Emission
@@ -43,5 +46,5 @@ permalink: "/agenda/pbr-npr-rendering/"
      * MixRGB node
      * ShaderTo RGB node
    * Ambient Occlusion
-5. **NPR Resources**
+6. **NPR Resources**
    * [BlenderNPR.org](http://blendernpr.org/)
