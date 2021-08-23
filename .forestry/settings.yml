@@ -11,6 +11,10 @@ sections:
   label: Syllabus
   create: documents
   match: "**/*"
+- type: document
+  path: index.md
+  label: Weeks
+  match: "**/*"
 - type: heading
   label: Structure
 - type: directory
