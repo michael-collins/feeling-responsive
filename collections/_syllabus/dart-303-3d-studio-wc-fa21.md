@@ -12,7 +12,7 @@ credits: "4"
 instructor-name: Michael Collins
 office-hours: By appointment via https://calendly.com/msc227
 instructor-email: msc227@psu.edu
-meeting-location: 401 Patterson Bldg and Zoom (link in Canvas)
+meeting-location: N/A
 meeting-time: Asynchronous
 begin-end-dates: '08/23/21 - 12/10/21'
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
