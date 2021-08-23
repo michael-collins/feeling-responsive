@@ -1,11 +1,11 @@
 ---
 label: Weekly Lessons
 hide_body: true
-display_field: title
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
   label: title
