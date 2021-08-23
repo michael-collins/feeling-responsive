@@ -167,14 +167,6 @@
 
           
           
-        
-
-              
-
-
-
-          
-          
             
             
               <li class="divider"></li>
@@ -198,21 +190,6 @@
             
             
               <li><a  href="https://michaelcollins.xyz/3d-digital-studio-master/">Home</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="https://michaelcollins.xyz/3d-digital-studio-master/assignments/">Assignments</a></li>
               <li class="divider"></li>
 
             
@@ -525,7 +502,7 @@
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
             Created by Michael Collins<br>
-            <span class="footer-meta">Site compiled: Aug 23, 2021 at 06:37am UTC</span>
+            <span class="footer-meta">Site compiled: Aug 23, 2021 at 06:39am UTC</span>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
