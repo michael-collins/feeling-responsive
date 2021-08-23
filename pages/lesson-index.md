@@ -15,7 +15,7 @@ weeks:
   start_date: 2021-08-24T3:59:AM+0000
   end_date: 2021-08-30T3:59:AM+0000
   enabled: true
-  publish_delay: true
+  publish_delay: false
 - week_number: "2"
   lessons:
   - collections/_lessons/texturing.md
