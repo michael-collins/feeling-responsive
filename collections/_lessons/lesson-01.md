@@ -26,7 +26,8 @@ enable_active_dates: false
 lesson_begin_date: 
 lesson_end_date: 
 all:
-  lectures: []
+  lectures:
+  - collections/_lectures/introduction-to-dart-303-3d-studio.md
   readings: []
   assignments: []
 
