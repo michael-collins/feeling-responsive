@@ -95,18 +95,18 @@ weeks:
   - collections/_lessons/rigging.md
   visible: 2021-11-01 03:59:00 +0000
   start_date: 2021-11-01T3:59:AM+0000
-  end_date: 2021-11-07T3:59:AM+0000
+  end_date: 2021-11-08T4:59:AM+0000
   enabled: true
   publish_delay: true
 - week_number: "12"
   lessons:
   - collections/_lessons/project-2.md
   - collections/_lessons/animated-textures.md
-  visible: 2021-11-08T5:00:AM+0000
-  start_date: 2021-11-08T5:00:AM+0000
+  visible: 2021-11-09 04:59:00 +0000
+  start_date: 2021-11-09T4:59:AM+0000
   end_date: 2021-11-14T5:00:AM+0000
-  enabled: false
-  publish_delay: false
+  enabled: true
+  publish_delay: true
 - week_number: "13"
   lessons:
   - collections/_lessons/project-2.md
