@@ -1,5 +1,6 @@
 ---
 title: Introduction to Animation
+layout: page
 slides: |-
   \## Slide 1    A paragraph with some text and a \[link\]([https://revealjs.com/markdown/](https://revealjs.com/markdown/ "https://revealjs.com/markdown/")).
 
