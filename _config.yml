@@ -286,7 +286,7 @@ collections:
     permalink: /exercises/:title.html
   projects:
     output: true
-    permalink: /projects/:title.html
+    permalink: /projects/:title/
   presentations:
     output: true
     permalink: /presentations/:title.html
