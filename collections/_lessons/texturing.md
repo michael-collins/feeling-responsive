@@ -10,7 +10,7 @@ lesson_begin_date:
 lesson_end_date: 
 all:
   lectures:
-  - collections/_lectures/advanced-lesson01-lecture.md
+  - collections/_lectures/introduction-to-texturing.md
   readings: []
   assignments: []
 beginner:
