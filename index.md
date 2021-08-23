@@ -109,24 +109,24 @@ weeks:
 - week_number: "13"
   lessons:
   - collections/_lessons/project-2.md
-  visible: 2021-11-15T4:59:AM+0000
-  start_date: 2021-11-16T4:59:AM+0000
-  end_date: 2021-11-22T4:59:AM+0000
+  visible: 2021-11-14T2:59:PM
+  start_date: 2021-11-15T2:59:PM
+  end_date: 2021-11-21T2:59:PM
   enabled: true
   publish_delay: true
 - week_number: "14"
   lessons:
   - collections/_lessons/project-2.md
-  visible: 2021-11-29T4:59:AM+0000
-  start_date: 2021-11-30T4:59:AM+0000
-  end_date: 2021-12-06T4:59:AM+0000
+  visible: 2021-11-28T2:59:PM
+  start_date: 2021-11-29T2:59:PM
+  end_date: 2021-12-05T2:59:PM
   enabled: true
   publish_delay: true
 - week_number: "15"
   enabled: true
-  visible: 2021-12-06T4:59:AM+0000
-  start_date: 2021-12-07T4:59:AM+0000
-  end_date: 2021-12-11T4:59:AM+0000
+  visible: 2021-12-05T2:59:PM
+  start_date: 2021-12-06T2:59:PM
+  end_date: 2021-12-12T2:59:PM
   lessons:
   - collections/_lessons/project-2.md
   publish_delay: true
