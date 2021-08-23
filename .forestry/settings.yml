@@ -69,6 +69,10 @@ sections:
 - type: heading
   label: Data
 - type: document
+  path: _data/navigation.yml
+  label: Navigation
+  match: "**/*"
+- type: document
   path: _data/schedule/assignments.yml
   label: assignment data (EXAMPLE ONLY)
 upload_dir: uploads
