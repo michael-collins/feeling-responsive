@@ -2,6 +2,13 @@
 label: Lesson Lecture
 hide_body: false
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: page
+  hidden: true
 - name: title
   type: text
   config:
