@@ -1,4 +1,10 @@
 {% for week in include.weeks %}
+{% if week.enabled == true %}
+
+  {% assign visible_date = week.visible | date: '%s' %}
+  {% assign today_date = 'now' | date: '%s' %}
+
+  {% if visible_date and visible_date < today_date %}
     
     <h2>Week {{ week.week_number }}</h2>
     <p>{{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</p>
@@ -39,7 +45,8 @@
         {% endfor %}
 
     {% endif %}
-        
+    {% endif %}
+{% endif %}      
 {% endfor%}
 
 
