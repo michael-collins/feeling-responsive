@@ -12,7 +12,7 @@ sections:
   create: documents
   match: "**/*"
 - type: document
-  path: pages/lesson-index.md
+  path: index.md
   label: Weekly Lessons
 - type: heading
   label: Structure
