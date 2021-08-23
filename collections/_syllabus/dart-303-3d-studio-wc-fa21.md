@@ -7,7 +7,7 @@ course-number: "303"
 course-title: 3D Studio
 semester: Fall
 year: "2021"
-section: UP Section 1
+section: WC Section 2
 credits: "4"
 instructor-name: Michael Collins
 office-hours: By appointment via https://calendly.com/msc227
