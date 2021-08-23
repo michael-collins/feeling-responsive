@@ -2,15 +2,17 @@
 {% if week.enabled == true %}
 
   {% assign visible_date = week.visible | date: '%s' %}
-  {% assign today_date = 'now' | date: '%s' %}
+ {% capture today_date %}{{'now' | date: '%s' }}{% endcapture %}
   {% if week.publish_delay == true %}
-  {% if visible_date < today_date %}
-    {% assign date_is_good = true %}
+  {% if visible_date <= today_date %}
+    {% assign date_is_good = "yes" %}
+    {%else%}
+    {% assign date_is_good = "no" %}
     {%endif%}
   {%endif%}
   
-  {% if week.publish_delay == false or date_is_good == true %}
-    
+  {% if week.publish_delay == false or date_is_good == "yes" %}
+
     <h2>Week {{ week.week_number }}</h2>
     <p>{{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</p>
     <hr>
