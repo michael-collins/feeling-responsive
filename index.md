@@ -1,6 +1,6 @@
 ---
 layout: lesson-index
-title: Lessons
+title: 'DART 303: 3D Studio'
 breadcrumb: false
 header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
