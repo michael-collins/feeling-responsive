@@ -83,9 +83,9 @@ weeks:
   lessons:
   - collections/_lessons/animation.md
   - collections/_lessons/project-2.md
-  visible: 2021-10-25T3:59:AM+0000
-  start_date: 2021-10-26T3:59:AM+0000
-  end_date: 2021-11-01T3:59:AM+0000
+  visible: 2021-10-24T11:59:AM
+  start_date: 2021-10-25T11:59:AM
+  end_date: 2021-10-31T11:59:AM
   enabled: true
   publish_delay: true
 - week_number: "11"
