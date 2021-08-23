@@ -292,7 +292,7 @@ collections:
     permalink: /presentations/:title.html
   assignments:
     output: true
-    permalink: /assignments/:title.html
+    permalink: /assignments/:title/
   grading:
     output: true
     permalink: /grading/:title.html
