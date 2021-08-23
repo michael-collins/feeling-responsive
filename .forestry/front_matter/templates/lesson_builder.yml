@@ -13,7 +13,7 @@ fields:
   type: boolean
   label: breadcrumb
   default: true
-  hidden: true
+  hidden: false
 - name: enable_lesson
   type: boolean
   label: Enable Lesson
