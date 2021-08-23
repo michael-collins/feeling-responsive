@@ -97,4 +97,5 @@ fields:
     value: true
   label: Week
 pages:
+- index.md
 - pages/lesson-index.md

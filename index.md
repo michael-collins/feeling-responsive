@@ -2,8 +2,7 @@
 layout: lesson-index
 title: 'DART 303: 3D Studio'
 breadcrumb: false
-header:
-  image_fullwidth: "/uploads/abstract-001-render6.jpg"
+header: true
 enable_lessons_by_week: true
 header_image: "/uploads/abstract-001-render6.jpg"
 weeks:
