@@ -1,140 +1,34 @@
+---
 - title: Home
   url: "/"
   side: left
-
-# - title: Lessons
-#   url: "/lessons/"
-#   side: left
-
-# - title: Lessons
-#   url: "/lessons-index/"
-#   side: left
-
-- title: Assignments
-  url: "/assignments/"
-  side: left
-
 - title: Software
-  # url: "/software/"
   url: "#"
   side: left
   dropdown:
-    - title: "Blender"
-      url: "/software/blender/"
-    # - title: "Maya"
-    #   url: "/software/maya/"
-    # - title: "ZBrush"
-    #   url: "/software/zbrush/"
-    # - title: "3DS Max"
-    #   url: "/software/maya/"
-    # - title: "C4D"
-    #   url: "/software/c4d/"
-    # - title: "Houdini"
-    #   url: "/software/houdini/"
-    # - title: "Substance Painter"
-    #   url: "/software/substance-painter/"
-
+  - title: Blender
+    url: "/software/blender/"
 - title: Syllabus
   url: "#"
   side: left
   dropdown:
-    - title: "World Campus"
-      url: "/syllabus/dart-303-3d-studio-wc-fa21.html"
-    - title: "University Park"
-      url: "/syllabus/dart-303-3d-studio-up-fa21.html"
-
-# - title: Calendar
-#   url: "/calendar/"
-#   side: left
+  - title: World Campus
+    url: "/syllabus/dart-303-3d-studio-wc-fa21.html"
+  - title: University Park
+    url: "/syllabus/dart-303-3d-studio-up-fa21.html"
 - title: Resources
   url: "/resources/"
   side: left
   dropdown:
-    - title: "Inspiration"
-      url: "/resources/inspiration/"
-    - title: "Career"
-      url: "/resources/career/"
-    - title: "Community"
-      url: "/resources/community/"
-   
-# - title: Grading
-#   url: "/grading/"
-#   side: left
-#   dropdown:
-#   - title: "Simple Assignment"
-#     url: "/grading/simple-assignment-description.html"
-#   - title: "Project"
-#     url: "/grading/project.html"
-
-- title: "Student Work"
+  - title: Inspiration
+    url: "/resources/inspiration/"
+  - title: Career
+    url: "/resources/career/"
+  - title: Community
+    url: "/resources/community/"
+- title: Student Work
   url: "/student-work/"
   side: left
-- title: "Office Hours"
+- title: Office Hours
   url: "/contact/"
   side: right
-
-
-# - title: "Templates"
-#   url: "/design/"
-#   side: left
-#   dropdown:
-#   - title: "Grid & Colors"
-#     url: "/design/grid/"
-#   - title: "Typography"
-#     url: "/design/typography/typography/"
-#   - title: "Page/Post"
-#     url: "/design/page/"
-#   - title: "Post-Left-Sidebar"
-#     url: "/design/post-left-sidebar/"
-#   - title: "Post-Right-Sidebar"
-#     url: "/design/post-right-sidebar/"
-#   - title: "Page Full-Width"
-#     url: "/design/page-fullwidth/"
-#   - title: "Blog-Page"
-#     url: "/blog/"
-#   - title: "Video"
-#     url: "/design/video/"
-#   - title: "Gallery"
-#     url: "/design/gallery/"
-#   - title: "Portfolio"
-#     url: "/design/portfolio/"
-
-# - title: "Header Styles"
-#   url: "/headers/"
-#   side: left
-#   dropdown:
-#   - title: "Header with Full-Width-Image"
-#     url: "/design/header-full-width-image/"
-#   - title: "Header with Image and Pattern"
-#     url: "/design/header-image-pattern/"
-#   - title: "Header with image and color"
-#     url: "/design/header-image-color/"
-#   - title: "Header Only With Logo"
-#     url: "/design/header-logo-only/"
-#   - title: "Header With Text"
-#     url: "/design/header-with-text/"
-#   - title: "No Header"
-#     url: "/design/no-header/"
-#   - title: "No Header but Image"
-#     url: "/design/no-header-but-image/"
-
-# - title: Documentation
-#   url: "/documentation/"
-#   side: left
-#   dropdown:
-#   - title: "Changelog"
-#     url: "/changelog/"
-#   - title: "Roadmap"
-#     url: "/roadmap/"
-
-# - title: Blog
-#   url: "/blog/"
-#   side: left
-#   dropdown:
-#   - title: "Blog Archive"
-#     url: "/blog/archive/"
-
-# - title: "Search"
-#   url: "/search/"
-#   side: right
-
