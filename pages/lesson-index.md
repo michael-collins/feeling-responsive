@@ -124,12 +124,12 @@ weeks:
   enabled: true
   publish_delay: true
 - week_number: "15"
-  enabled: false
-  visible: 2021-12-06T5:00:AM+0000
-  start_date: 2021-12-06T5:00:AM+0000
-  end_date: 2021-12-10T5:00:AM+0000
+  enabled: true
+  visible: 2021-12-07 04:59:00 +0000
+  start_date: 2021-12-07T4:59:AM+0000
+  end_date: 2021-12-11T4:59:AM+0000
   lessons:
   - collections/_lessons/project-2.md
-  publish_delay: false
+  publish_delay: true
 
 ---
