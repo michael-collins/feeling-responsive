@@ -101,9 +101,9 @@ weeks:
   lessons:
   - collections/_lessons/project-2.md
   - collections/_lessons/animated-textures.md
-  visible: 2021-11-08T4:59:AM+0000
-  start_date: 2021-11-09T4:59:AM+0000
-  end_date: 2021-11-15T4:59:AM+0000
+  visible: 2021-11-07T2:59:PM
+  start_date: 2021-11-08T2:59:PM
+  end_date: 2021-11-14T2:59:PM
   enabled: true
   publish_delay: true
 - week_number: "13"
