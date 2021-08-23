@@ -27,11 +27,11 @@ weeks:
 - week_number: "3"
   lessons:
   - collections/_lessons/camera-lighting-and-rendering.md
-  visible: 2021-09-13T3:59:AM+0000
+  visible: 2021-09-13 03:59:00 +0000
   start_date: 2021-09-13T3:59:AM+0000
   end_date: 2021-09-19T3:59:AM+0000
-  enabled: false
-  publish_delay: false
+  enabled: true
+  publish_delay: true
 - week_number: "4"
   lessons:
   - collections/_lessons/pbr-and-npr.md
