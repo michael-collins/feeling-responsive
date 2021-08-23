@@ -51,9 +51,9 @@ fields:
     config:
       required: false
       date_format: 
-      time_format: YYYY-MM-DDTh:mm:AZZ
+      time_format: ''
       display_utc: false
-      export_format: YYYY-MM-DDTh:mm:AZZ
+      export_format: YYYY-MM-DDTh:mm:A
     showOnly:
       field: publish_delay
       value: true
