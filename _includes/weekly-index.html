@@ -3,8 +3,13 @@
 
   {% assign visible_date = week.visible | date: '%s' %}
   {% assign today_date = 'now' | date: '%s' %}
-
-  {% if visible_date and visible_date < today_date %}
+  {% if week.publish_delay == true %}
+  {% if visible_date < today_date %}
+    {% assign date_is_good = true %}
+    {%endif%}
+  {%endif%}
+  
+  {% if week.publish_delay == false or date_is_good == true %}
     
     <h2>Week {{ week.week_number }}</h2>
     <p>{{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</p>
