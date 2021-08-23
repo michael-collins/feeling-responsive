@@ -13,7 +13,7 @@ sections:
   match: "**/*"
 - type: document
   path: pages/lesson-index.md
-  label: Lessons Index
+  label: Weekly Lessons
 - type: heading
   label: Structure
 - type: directory
