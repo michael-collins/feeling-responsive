@@ -30,7 +30,7 @@ lesson_begin_date:
 lesson_end_date: 
 all:
   lectures:
-  - collections/_lectures/intermediate-lesson01-lecture.md
+  - collections/_lectures/introduction-to-polygonal-modeling.md
   readings: []
   assignments: []
 
