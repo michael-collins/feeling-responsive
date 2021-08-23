@@ -28,7 +28,7 @@ download_files:
 - "/uploads/area-light-hdr.exr"
 
 ---
-1. [Modeling Primer](https://docs.google.com/presentation/d/e/2PACX-1vQZHGphZzWL_7iw-faSX3DelelBxrRQg11TOINuDqnZxyLX3QDhGbVKMgm1wtDhuq9jNnroVi0JSiVp/pub?start=false&loop=false&delayms=3000&slide=id.p)
+1. **Presentation:** [Modeling Primer](https://docs.google.com/presentation/d/e/2PACX-1vQZHGphZzWL_7iw-faSX3DelelBxrRQg11TOINuDqnZxyLX3QDhGbVKMgm1wtDhuq9jNnroVi0JSiVp/pub?start=false&loop=false&delayms=3000&slide=id.p)
 2. **Video Screening**
    * [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
    * Ed Catmull and Fred Parke (1972): [A Computer Animated Hand](https://vimeo.com/16292363)
