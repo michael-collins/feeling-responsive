@@ -118,11 +118,11 @@ weeks:
 - week_number: "14"
   lessons:
   - collections/_lessons/project-2.md
-  visible: 2021-11-29T5:00:AM+0000
-  start_date: 2021-11-29T5:00:AM+0000
-  end_date: 2021-12-05T5:00:AM+0000
-  enabled: false
-  publish_delay: false
+  visible: 2021-11-30 04:59:00 +0000
+  start_date: 2021-11-30T4:59:AM+0000
+  end_date: 2021-12-06T4:59:AM+0000
+  enabled: true
+  publish_delay: true
 - week_number: "15"
   enabled: false
   visible: 2021-12-06T5:00:AM+0000
