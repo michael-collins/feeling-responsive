@@ -26,7 +26,6 @@ external_link:
   url: https://google.com
 download_files:
 - "/uploads/area-light-hdr.exr"
-published: false
 
 ---
 1. Introduction to the Course
