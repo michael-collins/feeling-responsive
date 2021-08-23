@@ -16,7 +16,7 @@ fields:
   name: breadcrumb
   label: breadcrumb
 - type: boolean
-  name: header_image
+  name: header
   label: header
 - type: text
   name: permalink
