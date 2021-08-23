@@ -67,11 +67,11 @@ weeks:
 - week_number: "8"
   lessons:
   - collections/_lessons/project-1.md
-  visible: 2021-10-11T3:59:AM+0000
+  visible: 2021-10-11 03:59:00 +0000
   start_date: 2021-10-11T3:59:AM+0000
   end_date: 2021-10-17T3:59:AM+0000
-  enabled: false
-  publish_delay: false
+  enabled: true
+  publish_delay: true
 - week_number: "9"
   lessons:
   - collections/_lessons/project-1.md
