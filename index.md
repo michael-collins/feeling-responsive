@@ -34,9 +34,9 @@ weeks:
 - week_number: "4"
   lessons:
   - collections/_lessons/pbr-and-npr.md
-  visible: 2021-09-13T3:59:AM+0000
-  start_date: 2021-09-14T3:59:AM+0000
-  end_date: 2021-09-20T3:59:AM+0000
+  visible: 2021-09-12T11:59:AM
+  start_date: 2021-09-13T11:59:AM
+  end_date: 2021-09-19T11:59:AM
   enabled: true
   publish_delay: true
 - week_number: "5"
