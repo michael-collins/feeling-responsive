@@ -9,6 +9,9 @@ fields:
   label: layout
   default: page
   hidden: true
+- name: breadcrumb
+  type: boolean
+  label: breadcrumb
 - name: title
   type: text
   config:
