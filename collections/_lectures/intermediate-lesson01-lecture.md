@@ -28,16 +28,13 @@ download_files:
 - "/uploads/area-light-hdr.exr"
 
 ---
-1. Introduction to the Course
-   * [Introduction Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQVTjq50UEg_VPtUnI5kjtcOgqwAOUtnqBLf4_b9xLE0N7XXgOQ6Glg_ztXLhUxOQGXe2U54RtVKTkd/pub?start=false&loop=false&delayms=3000&slide=id.p)
-   * [Introduction Presentation Video](https://www.youtube.com/playlist?list=PL-V2nChTadrWwxnvtNVNtCdyrZ1DS7mkV)
-2. [Modeling Primer](https://docs.google.com/presentation/d/e/2PACX-1vQZHGphZzWL_7iw-faSX3DelelBxrRQg11TOINuDqnZxyLX3QDhGbVKMgm1wtDhuq9jNnroVi0JSiVp/pub?start=false&loop=false&delayms=3000&slide=id.p)
-3. **Video Screening**
+1. [Modeling Primer](https://docs.google.com/presentation/d/e/2PACX-1vQZHGphZzWL_7iw-faSX3DelelBxrRQg11TOINuDqnZxyLX3QDhGbVKMgm1wtDhuq9jNnroVi0JSiVp/pub?start=false&loop=false&delayms=3000&slide=id.p)
+2. **Video Screening**
    * [The Analog and the Digital](https://www.youtube.com/watch?v=Lu5y8SMuzMs)
    * Ed Catmull and Fred Parke (1972): [A Computer Animated Hand](https://vimeo.com/16292363)
    * [The Adventures of André & Wally B.](https://www.youtube.com/watch?v=C-L-WA-nQzI), The Graphics Group at Lucasfilm, renamed Pixar, (1984)
    * [3D Portrait](https://www.youtube.com/watch?time_continue=9&v=4GiLAOtjHNo)
-4. **Terminology**
+3. **Terminology**
    * Polygon
    * Quad
    * nGon
@@ -58,5 +55,5 @@ download_files:
    * Duplicate Linked (instance) vs Duplicate (copy/paste)
    * Mirror
    * [Checkmate Modeling Standard](https://www.turbosquid.com/CheckMate)
-5. **Introductory Blender Learning Materials**
+4. **Introductory Blender Learning Materials**
    * [Blender Foundation: Introduction to Blender 2.8](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
