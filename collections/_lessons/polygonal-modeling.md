@@ -1,6 +1,6 @@
 ---
 layout: lesson
-breadcrumb: true
+breadcrumb: false
 title: Polygonal Modeling
 subtitle: 3D's most essential skill
 lectures:
