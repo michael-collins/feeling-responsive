@@ -5,7 +5,7 @@ on:
     branches: [master]
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '0 0 * * *'  # every day at midnight
+    - cron: '59 4 * * *'  # every day at 4:59am
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
