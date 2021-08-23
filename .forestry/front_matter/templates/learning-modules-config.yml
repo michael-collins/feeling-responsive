@@ -66,7 +66,7 @@ fields:
       date_format: 
       time_format: YYYY-MM-DDTh:mm:AZZ
       display_utc: false
-      export_format: YYYY-MM-DDTh:mm:AZZ
+      export_format: YYYY-MM-DDTh:mm:A
   - name: end_date
     type: datetime
     description: ''
@@ -75,7 +75,7 @@ fields:
       date_format: 
       time_format: YYYY-MM-DDTh:mm:AZZ
       display_utc: false
-      export_format: YYYY-MM-DDTh:mm:AZZ
+      export_format: YYYY-MM-DDTh:mm:A
     label: end date
   - name: lessons
     type: list
