@@ -41,6 +41,21 @@ fields:
   - name: enabled
     type: boolean
     label: enabled
+  - name: publish_delay
+    type: boolean
+    label: Publish Delay
+  - name: visible
+    type: datetime
+    label: visible
+    description: Enter the date this week should appear
+    config:
+      required: false
+      date_format: 
+      time_format: 
+      display_utc: false
+    showOnly:
+      field: publish_delay
+      value: true
   - name: start_date
     type: datetime
     label: start date
