@@ -91,8 +91,8 @@ accordion_mode: true
  3. Create a 3-point lighting setup.
  4. Create a backdrop to out render each object. If you would like to reuse the backdrop, you can choose **File** → **Append**  and choose the  Blend file with the backdrop. Navigate through the folders to find the backdrop object to import bring it into the project file.
  5. Create a new camera. Configure this camera as the render camera and adjust the focal length and **depth of field** settings.
- 6. Rendering using **Cycles** and high **sample** settings.
- 7. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder.
+ 6. Rendering using **Cycles** and high **sample** settings (500+) with **adaptive sampling** enabled.
+ 7. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder. One render of each object is all that is required.
  8. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-render-objects.zip.**
  9. Upload the .zip file to the assignment dropbox.
 10. Double check that you've included all files and that your .zip file can be downloaded and opened.
