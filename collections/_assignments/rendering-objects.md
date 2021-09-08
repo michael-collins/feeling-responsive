@@ -93,8 +93,6 @@ accordion_mode: true
  5. Create a new camera. Configure this camera as the render camera and adjust the focal length and **depth of field** settings.
  6. Rendering using **Cycles** and high **sample** settings.
  7. Save the renders as **object1-render.png**, **object2-render.png**, and **object3-render.png**, etc. in the project folder.
- 8. In Blender, set up the chair’s textures so they are visible on the model.
- 9. Save the 3D scene file as **_LASTNAME_-render-objects** in the project folder.
-10. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-render-objects.zip.**
-11. Upload the .zip file to the assignment dropbox.
-12. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 8. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-render-objects.zip.**
+ 9. Upload the .zip file to the assignment dropbox.
+10. Double check that you've included all files and that your .zip file can be downloaded and opened.
