@@ -46,9 +46,17 @@ Very general introduction videos to learn Blender basics.
 
 ## Add-ons, plugins
 
+### Essential Tools
+
+* [Node Wrangler](https://docs.blender.org/manual/en/latest/addons/node/node_wrangler.html)
+
 ### Materials add-on
 
-* [3D Wolf PBR Materials Library V3.4](https://3d-wolf.com/products/materials.html)
+* [3D Wolf PBR Materials Library](https://3d-wolf.com/products/materials.html)
+
+### Assets and Materials Library
+
+* [BlenderKit](https://www.blenderkit.com/get-blenderkit/)
 
 ### Recommended Add-on Lists
 
