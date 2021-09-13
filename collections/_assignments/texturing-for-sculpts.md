@@ -38,6 +38,9 @@ page_sections:
   - title: Baking Normal Maps Using a Cage
     youtube_url: https://www.youtube.com/watch?v=nJ0PM7m9TJc
     custom: ''
+  - title: Baking Perfect Texture Maps Using a Cage
+    youtube_url: https://www.youtube.com/watch?v=nJ0PM7m9TJc
+    custom: ''
   - title: How to bake textures
     youtube_url: https://www.youtube.com/watch?v=2ClzsuExtCo
     custom: ''
