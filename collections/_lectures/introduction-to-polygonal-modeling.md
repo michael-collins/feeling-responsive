@@ -47,5 +47,7 @@ download_files: []
    * Duplicate Linked (instance) vs Duplicate (copy/paste)
    * Mirror
    * [Checkmate Modeling Standard](https://www.turbosquid.com/CheckMate)
-4. **Introductory Blender Learning Materials**
+4. **Tutorials**
+   * [Resolving Geometry Issues](https://www.youtube.com/watch?v=ulPG79oUwrs)
+5. **Introductory Blender Learning Materials**
    * [Blender Foundation: Introduction to Blender 2.8](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
