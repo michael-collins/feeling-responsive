@@ -50,9 +50,10 @@ Very general introduction videos to learn Blender basics.
 
 * [Node Wrangler](https://docs.blender.org/manual/en/latest/addons/node/node_wrangler.html)
 
-### Materials add-on
+### Materials and Shaders
 
 * [3D Wolf PBR Materials Library](https://3d-wolf.com/products/materials.html)
+* [Baking lighting and materials](https://3dbystedt.gumroad.com/l/JAqLT)
 
 ### Assets and Materials Library
 
