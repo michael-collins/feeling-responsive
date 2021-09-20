@@ -12,7 +12,7 @@ all:
   lectures: []
   readings: []
   assignments:
-  - collections/_assignments/project-1.md
+  - collections/_assignments/project-1-primitives.md
 beginner:
   lectures: []
   readings: []
