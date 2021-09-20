@@ -100,4 +100,5 @@ fields:
   label: Week
 pages:
 - index.md
+- index.md
 - pages/lesson-index.md

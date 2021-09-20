@@ -206,11 +206,9 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
 2. Poster design (follows a particular poster format)
 3. Magazine or book illustration
-4. 3D prints with high quality photo documentation and accompanying renders
-   * These can be ordered through Penn State Maker Commons or 3D printing service websites such as Sculpteo or Shapeways.
-5. Paper-craft object
-6. Realtime display on Sketchfab.com or p3d.in websites.
-7. Modular game assets
+4. Paper-craft object
+5. Realtime display on Sketchfab.com or p3d.in websites.
+6. Modular game assets
 
 ### Production Process (All steps required)
 
@@ -302,4 +300,4 @@ All assets used in the production of the work must be created by you, be appropr
 
 **A:** Don't panic, this is the hardest thing there is beyond learning technical production skills. First, look through the "inspiration" links to see what other artists and designers are doing. If that doesn't spark any ideas, download and try the concept development worksheet. Many people are able to generate ideas from this worksheet. If the worksheet isn't helping you come up with any ideas that you are interested in, the third recommendation I have is to use your environment to generate ideas for you. Through observation, ideas can come to you. To do this, write down everything you see, think and feel, and apply a filtering process to establish relationships between those things. This is part of a design thinking process, and there are many design thinking processes to choose from. _How_ you develop your concept doesn't matter, and _the concept_ itself doesn't matter. The important thing is that you are going through some kind of creative or generative process to articulate a concept, and can then respond to it by creating creative works. I often find that listening to other artists and designers talk about their process inspires my own. Often, the stranger the process, the more interesting the work is.
 
-[Here you can see Andrew Jones demoing Alchemy](https://www.youtube.com/watch?v=zYYSxZZzgjc), a drawing tool, to generate shapes for his character designs.
+[Here you can see Andrew Jones demoing Alchemy](https://www.youtube.com/watch?v=zYYSxZZzgjc), a drawing tool, to generate shapes for  a character design process.
