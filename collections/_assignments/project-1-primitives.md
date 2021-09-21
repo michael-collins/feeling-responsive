@@ -203,12 +203,16 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 
 Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
-1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
-2. Poster design (follows a particular poster format)
-3. Magazine or book illustration
-4. Paper-craft object
-5. Realtime display on Sketchfab.com or p3d.in websites.
-6. Modular game assets
+ 1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
+ 2. Poster design (follows a particular poster format)
+ 3. Magazine or book illustration
+ 4. Comicbook pages/panels
+ 5. Realtime display on Sketchfab.com or p3d.in websites.
+ 6. Modular game assets
+ 7. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior spaces
+ 8. Renderings in the style of portrait photography
+ 9. Character design concept art or
+10. Other (talk with instructor about an idea not listed)
 
 ### Production Process (All steps required)
 
