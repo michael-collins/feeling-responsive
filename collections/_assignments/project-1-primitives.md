@@ -208,7 +208,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
  3. Magazine or book illustration
  4. Comicbook pages/panels
  5. Realtime display on Sketchfab.com or p3d.in websites.
- 6. Modular game assets
+ 6. Modular game assets (with examples of the things they can construct)
  7. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior or exterior spaces
  8. Renderings in the style of portrait photography
  9. Character design concept art or
