@@ -211,8 +211,10 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
  6. Modular game assets (with examples of the things they can construct)
  7. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior or exterior spaces
  8. Renderings in the style of portrait photography
- 9. Character design concept art or
-10. Other (talk with instructor about an idea not listed)
+ 9. Renderings in the style of a particular style of photography, painting, or illustration.
+10. Product design concept renderings
+11. Character design concept art or
+12. Other (talk with instructor about an idea not listed)
 
 ### Production Process (All steps required)
 
