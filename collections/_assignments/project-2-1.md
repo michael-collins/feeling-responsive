@@ -1,5 +1,5 @@
 ---
-title: Project 2
+title: Project 2 - Supply and Disrupt
 layout: blocks-assignment-view
 date-assigned: 2020-08-01T04:00:00.000+00:00
 date-due: 2020-08-08T04:00:00.000+00:00
