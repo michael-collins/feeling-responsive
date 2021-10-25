@@ -163,9 +163,22 @@ published: false
 ---
 ## Overview
 
-**Project theme:** "A Love Letter to ______"
+**Project theme:** "Supply and Disrupt"
 
-For this project, you will produce an animation centered around a theme that you create by choosing completing the sentence, **“A Love Letter to”**. For example, if you choose the word "light", then your project theme would be "A Love Letter to Light". This does not have to be the title of the work. You will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you will produce an animation centered around the theme, **“Supply and Disrupt.”** Consider a future where the global supply chain is permanently disrupted and the potential impact this scenario could have on goods and services. What are some adaptations and reconfigurations that could result in response to a continued disruption of the global supply chain? Are these positive or negative outcomes? What new aesthetics might emerge that could communicate these issues, feelings, and contemplations?
+
+To focus your research and concept development, you can optionally choose a sub-theme:
+
+* Local vs global
+* Organic vs synthetic
+* Heterogeneous vs homogeneous
+* Macro scale vs micro scale
+* Industrial vs bespoke
+* Experience vs absence
+* Abundance vs scarcity
+* Expansion vs subtraction
+
+For this the project,  you will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
