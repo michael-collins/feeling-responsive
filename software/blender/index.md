@@ -64,3 +64,10 @@ Very general introduction videos to learn Blender basics.
 * [https://blender-addons.org/](https://blender-addons.org/)
 * [CG Cookie](https://cgcookie.com/articles/the-top-10-modeling-addons-for-blender-2-8)
 * [Curtis Holt](https://www.youtube.com/watch?v=aTDF94CU5wc)
+
+## Animation 
+
+### Rigging Characters
+
+* [Rigify Addon]()
+* [Cloud Rig]()
