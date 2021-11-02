@@ -12,7 +12,7 @@ all:
   lectures: []
   readings: []
   assignments:
-  - collections/_assignments/project-2-cycles.md
+  - collections/_assignments/project-2.md
 beginner:
   lectures: []
   readings: []
