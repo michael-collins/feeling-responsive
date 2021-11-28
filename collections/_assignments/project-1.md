@@ -258,7 +258,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
       * 150 words minimum
       * file name: `LASTNAME-project1-statement.doc`
    2. Include the media you created
-2. Post your screenshots to the **Project: 1 submission images show and tell** discussion thread
+2. Post your final renders to the **Project: 1 submission images show and tell** discussion thread
 3. Participate in work critique with peers
 
 #### Week 5: (Optional)
