@@ -125,7 +125,7 @@ weeks:
   publish_delay: true
 - week_number: "15"
   enabled: true
-  visible: 2021-12-05T2:59:PM
+  visible: 2022-04-24T8:59:AM
   start_date: 2021-12-06T2:59:PM
   end_date: 2021-12-12T2:59:PM
   lessons:
