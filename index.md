@@ -34,7 +34,7 @@ weeks:
   end_date: 2021-09-12T7:59:PM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "4"
   lessons:
   - collections/_lessons/pbr-and-npr.md
@@ -43,7 +43,7 @@ weeks:
   end_date: 2021-09-19T11:59:AM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "5"
   lessons:
   - collections/_lessons/project-1.md
@@ -52,7 +52,7 @@ weeks:
   end_date: 2021-09-26T11:59:AM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "6"
   lessons:
   - collections/_lessons/project-1.md
@@ -61,7 +61,7 @@ weeks:
   end_date: 2021-10-03T11:59:AM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "7"
   lessons:
   - collections/_lessons/project-1.md
@@ -70,7 +70,7 @@ weeks:
   end_date: 2021-10-10T11:59:AM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "8"
   lessons:
   - collections/_lessons/project-1.md
@@ -79,7 +79,7 @@ weeks:
   end_date: 2021-10-17T3:59:PM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "9"
   lessons:
   - collections/_lessons/project-1.md
@@ -88,7 +88,7 @@ weeks:
   end_date: 2021-10-24T11:59:AM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "10"
   lessons:
   - collections/_lessons/animation.md
@@ -98,7 +98,7 @@ weeks:
   end_date: 2021-10-31T11:59:AM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "11"
   lessons:
   - collections/_lessons/project-2.md
@@ -108,7 +108,7 @@ weeks:
   end_date: 2021-11-07T2:59:PM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "12"
   lessons:
   - collections/_lessons/project-2.md
@@ -118,7 +118,7 @@ weeks:
   end_date: 2021-11-14T2:59:PM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "13"
   lessons:
   - collections/_lessons/project-2.md
@@ -127,7 +127,7 @@ weeks:
   end_date: 2021-11-21T2:59:PM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "14"
   lessons:
   - collections/_lessons/project-2.md
@@ -136,7 +136,7 @@ weeks:
   end_date: 2021-12-05T2:59:PM
   enabled: true
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 - week_number: "15"
   enabled: true
   visible: 2022-04-24T8:59:AM
@@ -145,6 +145,6 @@ weeks:
   lessons:
   - collections/_lessons/project-2.md
   publish_delay: true
-  display_week_begin_end_dates: false
+  display_week_begin_end_dates: true
 
 ---
