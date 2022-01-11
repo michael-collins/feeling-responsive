@@ -5,8 +5,8 @@ subtitle: 3D Studio
 course-abbrv: DART
 course-number: "303"
 course-title: 3D Studio
-semester: Fall
-year: "2021"
+semester: Spring
+year: "2022"
 section: UP Section 1
 credits: "4"
 instructor-name: Michael Collins
@@ -14,10 +14,9 @@ office-hours: By appointment via https://calendly.com/msc227
 instructor-email: msc227@psu.edu
 meeting-location: 401 Patterson Bldg and Zoom (link in Canvas)
 meeting-time: 11:15pm - 2:15pm Tuesday and Thursday
-begin-end-dates: '08/23/21 - 12/10/21'
+begin-end-dates: 01/10/22 - 4/29/22
 course-description-link: https://bulletins.psu.edu/search/?P=DART%20303
-canvas-link: https://psu.instructure.com/courses/2129247
-published: false
+canvas-link: https://psu.instructure.com/courses/2163829
 
 ---
 **Section:** {{ page.section}}
@@ -167,24 +166,6 @@ Unsatisfactory work which shows insufficient effort or comprehension.
 
 An integral aspect this class is viewing, discussing, and responding to your own work and the work of your peers. The group critique is at all times a comfortable and constructive environment designed for in-­depth analysis and evaluation. Through this process, each student will learn how to respond and challenge the formal (aesthetic), conceptual (idea) and interpretative (understanding) characteristics of any given artwork. Most importantly, the critique environment will push you to question and resolve your own artistic production. As with producing work, there are unlimited ways in which art can be approached and considered. If your assignment is not complete for the critique, your grade on that assignment will be lowered by one full letter for each class day it is late. You are required to attend critiques even if your work is not complete.
 
-### Academic Integrity
-
-University Policies and Rules Guidelines states that academic integrity is the pursuit of scholarly activity in an open, honest and responsible manner. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle. Consistent with this expectation, the University's Code of Conduct states that all students should act with personal integrity, respect other students' dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts. Academic integrity includes a commitment not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.
-
-Academic dishonesty includes but is not limited to acts such as cheating on exams or assignments; plagiarizing the words or ideas of another; fabricating information or citations; facilitating acts of academic dishonesty by others; claiming authorship of work done by another person; submitting work completed in previous classes; and/or submitting the same work to multiple classes in which a student is enrolled simultaneously.
-
-### Disability Policy
-
-Penn State welcomes students with disabilities into the University's educational programs. Every Penn State campus has an office for students with disabilities. The Office for Disability Services (ODS) Web site provides contact information for every Penn State campus: http://equity.psu.edu/ods/dcl. For further information, please visit the Office for Disability Services Web site: http://equity.psu.edu/ods.
-
-In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation:http://equity.psu.edu/ods/guidelines. If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
-
-### Safety Information
-
-Students in the School of Visual Arts may find themselves working in the shop or in their studios or classrooms using a variety of power and hand held equipment, which may cause injury. Students should use the shop only after having received an orientation in the use of such equipment and when supervised by faculty or shop personnel. Should any injuries occur, in the shop, studios, or classrooms in the School of Visual Arts, please report them to Matthew Olsen, Art Shop Coordinator, Room 108­A Visual Arts Building, Phone: 814­865­3962, email:mjo5165@psu.edu.
-
-If you are working in the studio late at night, Auxiliary Police will walk you home. Call [814-865-WALK](http://www.transportation.psu.edu/transportation/alt-transportation/walking.cfm) for 'Safe Walk' service.
-
 ### Student Resources
 
 Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
@@ -220,6 +201,45 @@ Affirmative Action Office: 814-863-0471
 
 Students from diverse backgrounds and perspectives are welcomed. The diversity that students bring to class is viewed as an asset and resource. This course aims to cultivate and maintain an equitable and culturally inclusive environment where students feel a sense of belonging. All students will be well-served, and students’ learning needs will be addressed both within and outside the classroom. Lectures, presentations, materials, and art-making and design activities will be mindful and respectful of diversity in all forms, including but not limited to ethnicity, race, culture, nationality, age, language, sex, (dis)ability, sexual orientation, gender, gender variance, religion, socioeconomic status, or veteran status. Student suggestions on how this course might better serve them personally or better serve underrepresented minoritized students are encouraged and appreciated.
 
-### COVID-19
+### DART Studio Access and Lab Policy
 
-Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. ALL STUDENTS MUST wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus. This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations. If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.
+Student access to the VAB 207 Digital Arts Studio will be available to digital arts studio classes and majors. Remote access to studio lab machines will also be available for students enrolled in DART studio courses.
+
+**To Access a Virtual DART Lab Station:**
+
+* Connect to Penn State’s virtual private network (using [GlobalProtect Client)](https://aait.psu.edu/globalprotect)
+* Select a DART Lab Machine: [https://lic.arts.psu.edu/maps/Virtual-Classes](https://lic.arts.psu.edu/maps/Virtual-Classes "https://lic.arts.psu.edu/maps/Virtual-Classes")
+
+Note: Priority for the stations in VAB207C (Dart Studio Lab) will be given to classes and students participating in regularly scheduled class meetings between Monday – Friday 11:15am-5:30pm. \[if VAB207C lab is not in use by a class, then you are free to login and use any stations as normal. A lab schedule including dart lab assistant’s scheduled hours (student monitors) will be posted at the beginning of each semester\]
+
+Covid related safety and compliance: When using VAB 207 Digital Arts Studio, students, faculty, and staff are expected to follow and comply with all SoVA, College of Arts and Architecture, Penn State University requirements including:
+
+* Wearing face masks or other approved personal protective equipment in classrooms, labs, offices, and all buildings. Students and employees also should practice social distancing, avoid large gatherings and wear face masks while on campus, as well as within their local communities in line with local and state requirements.
+* Maintain social distance of at least six feet from other individuals, whenever possible.
+* Practice good personal hygiene by covering coughs and sneezes, staying home if sick, and washing hands thoroughly with soap and water or using hand sanitizer before and after class.
+* Follow related guidance communicated by the University and via public postings/signage related to directional traffic flow, maximum occupancy of spaces, assigned seating, and closed-off desks/chairs/room sections.
+* With the exception of bottled water, all food and drink consumption is prohibited in classrooms. Those drinking water should be especially conscious of maintaining social distancing and minimizing the time their mask is moved aside; straws are recommended for this purpose.
+
+### Additional Information for Computer Labs and Resources
+
+TLT Computing Labs, including Patterson 401 and 304 Mac Labs, are also available for students and can be used for working on course projects. TLT Teaching Labs are available on a first come, first served basis outside of regularly scheduled class times.
+
+* Link to TLT website to check availability (including Patterson 304 and 401 Teaching Labs): [https://lat.tlt.psu.edu/home/labs](https://lat.tlt.psu.edu/home/labs "https://lat.tlt.psu.edu/home/labs")
+
+### Safety Information
+
+Students in the School of Visual Arts may find themselves working in the shop or in their studios or classrooms using a variety of power and hand held equipment, which may cause injury. Students should use the shop only after having received an orientation in the use of such equipment and when supervised by faculty or shop personnel. Should any injuries occur, in the shop, studios, or classrooms in the School of Visual Arts please report them to Matt Olson, Shop Supervisor, Room 108-A Visual Arts Building, Phone: 814-865-3962, email: [mjo5165@psu.edu](mailto:mjo5165@psu.edu)
+
+### A Note on Plagiarism
+
+Plagiarism will not be tolerated. A student who commits plagiarism will be reported to the School of Visual Arts. The student’s behavior will be taken very seriously and dealt with according to the University policy on academic integrity. To avoid plagiarism, please cite your sources when appropriate. This is valid for text, images, audio / video and computer code.
+
+### Academic Integrity Statement
+
+University Policies and Rules Guidelines states that academic integrity is the pursuit of scholarly activity in an open, honest and responsible manner. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle. Consistent with this expectation, the University's Code of Conduct states that all students should act with personal integrity, respect other students' dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts. Academic integrity includes a commitment not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.  
+ Academic dishonesty includes but is not limited to acts such as cheating on exams or assignments; plagiarizing the words or ideas of another; fabricating information or citations; facilitating acts of academic dishonesty by others; claiming authorship of work done by another person; submitting work completed in previous classes; and/or submitting the same work to multiple classes in which a student is enrolled simultaneously.
+
+### Accessibility Statement
+
+Penn State welcomes students with disabilities into the University's educational programs. Every Penn State campus has an office for students with disabilities. The Office for Disability Services (ODS) Web site provides contact information for every Penn State campus: [http://equity.psu.edu/ods/dcl](http://equity.psu.edu/ods/dcl "http://equity.psu.edu/ods/dcl")[ (Links to an external site.)](http://equity.psu.edu/ods/dcl). For further information, please visit the Office for Disability Services Web site: [http://equity.psu.edu/ods](http://equity.psu.edu/ods "http://equity.psu.edu/ods")[ (Links to an external site.)](http://equity.psu.edu/ods).  
+ In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: [http://equity.psu.edu/ods/guidelines](http://equity.psu.edu/ods/guidelines "http://equity.psu.edu/ods/guidelines")[ (Links to an external site.)](http://equity.psu.edu/ods/guidelines). If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. You must follow this process for every semester that you request accommodations.
