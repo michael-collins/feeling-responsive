@@ -118,7 +118,7 @@ weeks:
 - week_number: "14"
   lessons:
   - collections/_lessons/project-2.md
-  visible: 2021-11-28T2:59:PM
+  visible: 2022-04-17T10:59:PM
   start_date: 2021-11-29T2:59:PM
   end_date: 2021-12-05T2:59:PM
   enabled: true
