@@ -14,7 +14,9 @@
   {% if week.publish_delay == false or date_is_good == "yes" %}
 
     <h2>Week {{ week.week_number }}</h2>
+    {% if week.display_week_begin_end_dates != false %}
     <p>{{ week.start_date | date: '%B %d' }} – {{ week.end_date | date: '%B %d, %Y' }}</p>
+    {%endif%}
     <hr>
     
     {% if week.lessons %}
