@@ -59,6 +59,10 @@ fields:
     showOnly:
       field: publish_delay
       value: true
+  - name: display_week_begin_end_dates
+    type: boolean
+    label: Display Week Begin End Dates
+    default: true
   - name: start_date
     type: datetime
     label: start date
@@ -69,6 +73,9 @@ fields:
       time_format: ''
       display_utc: false
       export_format: YYYY-MM-DDTh:mm:A
+    showOnly:
+      field: display_week_begin_end_dates
+      value: true
   - name: end_date
     type: datetime
     description: ''
@@ -79,6 +86,9 @@ fields:
       display_utc: false
       export_format: YYYY-MM-DDTh:mm:A
     label: end date
+    showOnly:
+      field: display_week_begin_end_dates
+      value: true
   - name: lessons
     type: list
     config:
