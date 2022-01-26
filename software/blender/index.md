@@ -72,7 +72,8 @@ Very general introduction videos to learn Blender basics.
 * [Rigify Addon]()
 * [Cloud Rig]()
 
-## Rendering resources
+## Cloud rendering
 
 * [https://www.conciergerender.com/](https://www.conciergerender.com/ "https://www.conciergerender.com/")
   * Cost-effective cloud rendering solution
+* [https://render.st/](https://render.st/ "https://render.st/")
