@@ -151,28 +151,36 @@ accordion_mode: true
 ## Instructions
 
  1. Watch linked tutorials in learning resources.
-    * These are not step-by-step tutorials for how to complete the assignment, rather they give you an understanding of Blender tools and concepts that you can use to solve the exercise requirements. This is not an animation exercise, so please do not submit an animation.
+    * **NOTE:** These are not step-by-step tutorials for how to complete the assignment, rather they give you an understanding of Blender tools and concepts that you can use to solve the exercise requirements. This is not an animation exercise, so please do not submit an animation.
  2. Create a new project folder.
- 3. Practice modeling, texturing, lighting, and rendering an abstract or surrealist composition. Include the following in your Blender scene:
+ 3. **Design an outdoor sculpture garden** using a PBR workflow for the objects in the scene.
+    1. Model the architectural space
+    2. Model the objects present in the garden (don't spend too much time on them, the emphasis is on materials for this assignment).
+    3. Organize the space and camera to create pleasing image compositions.
+    4. Add realistic lighting
+ 4. Practice modeling, texturing, lighting, and rendering. Include the following in your Blender scene:
     * **Polygonal objects:** Model abstract and architectural objects using polygon modeling techniques you have learned. You can also experiment with boolean modifiers and curve tools. At least one of the polygonal objects must use a PBR texture pack that includes a **base color**, **normal**, **roughness**, and may also include other textures as well like **metalness** and **ambient occlusion**, and **height**. Follow tutorials to learn how to apply them to your model.
-    * **Minimum of three PBR Materials:** Use the [random material generator](https://perchance.org/building-material) to get a minimum of three material ideas to use in your scene. You can use these as your materials for your scene models, and can also choose additional materials that you are interested in using in your scene (IE - if you really want to use gold as a material, you can it in addition to the materials from the generator website). 
+    * **Minimum of three PBR Materials:** You can use the [random material generator](https://perchance.org/building-material) to get a minimum of three material ideas to use in your scene if you cannot decide which materials you prefer to use.
     * **Typography:** Add text using the Text tool in Blender.
     * **Curves with geometry:** Add curves and configure their geometry attributes to create procedural shapes based on bezier and other curves.
     * **Lighting:** Use either HDRI lighting or Blender's sky node to light the scene.
     * **Background elements:** Background elements can include a floor, backdrop, terrain features, and/or other elements that help build a composition.
- 4. Inspiration:
+ 5. Inspiration:
     * [Behance.net](https://www.behance.net/search?search=3d%20type)
     * [36 Days of Type](https://www.instagram.com/36daysoftype/)
     * [Course Website Artist List](https://michaelcollins.xyz/3d-digital-studio-master/resources/inspiration/)
- 5. Save your material texture packs to a folder called **textures** in your project folder.
- 6. Add lights and adjust the background elements or color to enhance the composition.
- 7. Render using cycles
- 8. Configure your render camera with a pleasing focal length and compose your layout.
- 9. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give good results.
-10. Render and import the image into Photoshop to adjust saturation, contrast.
-11. Save the render as **_LASTNAME_-pbr.png**, etc. in the project folder. Name the files in an organized in a logical way.
-12. Remove large Photoshop files that you may have in the project folder before compressing for upload.
-13. Save the 3D scene file as **_LASTNAME_-pbr** in the project folder.
-14. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-pbr.zip.**
-15. Upload the .zip file to the assignment dropbox.
-16. Double check that you've included all files and that your .zip file can be downloaded and opened.
+ 6. Save your material texture packs to a folder called **textures** in your project folder.
+ 7. Add lights and adjust the background elements or color to enhance the composition.
+ 8. Render using cycles
+ 9. Configure your render camera with an appropriate focal length and compose your layout.
+10. Configure the render settings **sampling** to be high enough to reduce noise. Somewhere between 250 and 750 should give results with low noise.
+    1. Enable adaptive sampling if using Blender 2.8-2.9 (Blender 3.0 is slightly different).
+11. Render an image. Save and import the image into Photoshop to adjust saturation, contrast.
+    1. PNG is fine, however rendering an EXR and using the 'HDR Toning' feature in Photoshop will give the best results.
+12. Save or export the image as **_LASTNAME_-pbr.png**, etc. in the project folder. Name the files in an organized in a logical way.
+    1. Do not submit an EXR as the final image, they are for image production process only.
+13. Remove large Photoshop files that you may have in the project folder before compressing for upload.
+14. Save the 3D scene file as **_LASTNAME_-pbr** in the project folder.
+15. Compress the project folder once you’ve completed the tutorial and rename it **_LASTNAME_-pbr.zip.**
+16. Upload the .zip file to the assignment dropbox.
+17. Double check that you've included all files and that your .zip file can be downloaded and opened.
