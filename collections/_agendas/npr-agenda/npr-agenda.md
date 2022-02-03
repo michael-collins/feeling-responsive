@@ -48,3 +48,5 @@ permalink: "/agenda/pbr-npr-rendering/"
    * Ambient Occlusion
 6. **NPR Resources**
    * [BlenderNPR.org](http://blendernpr.org/)
+7. Tutorials
+   * [Procedural Nodes](https://youtu.be/Uvc2P911rZk) by Sam Bowman
