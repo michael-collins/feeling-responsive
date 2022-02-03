@@ -19,6 +19,7 @@ enable_external_links: false
 external_link: []
 enable_downloads: false
 download_files: []
+breadcrumb: false
 
 ---
 1. **Video Screenings and Examples**
@@ -59,3 +60,5 @@ download_files: []
    * Ambient Occlusion
 5. **NPR Resources**
    * [BlenderNPR.org](http://blendernpr.org/)
+6. **Tutorials**
+   * [Procedural Nodes](https://youtu.be/Uvc2P911rZk) by Sam Bowman
