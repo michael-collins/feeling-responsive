@@ -167,54 +167,32 @@ accordion_mode: true
 ---
 ## Overview
 
-**Project theme:** Primitives
+**Project theme:** "Balancing ____"
 
-Primitives are simple starting points. These are objects that act as elements with which you can arrange into more complex designs, or upon which details and complexity can be embedded. Primitives typically begin without context or meaning. Only through the manipulation, recombination, subtraction, and transformation of primitive elements is meaning and context constructed, either through the performance of these actions or within the end result of these actions. If we consider the idea that a primitive does not need to physically exist (existing but without a body), then primitives can act as conceptual building blocks, with which larger ideas can be constructed.
+Balance is both a verb and a noun, it's something that can be possessed, taken away, created, and dismantled. You hear about balance in sports, politics, wellness, work, personal life, relationships, religion/spirituality, and as a core formal design principle. How do you know when something is not in balance? Can balance something that is exciting when it's gone? Is a lack of balance damaging or constructive? Can demonstrating balance help tell a story or explain a principle?
 
-For this project, I would like you to imagine physical or conceptual building blocks. You will need to choose a project model to frame and develop your project, choose a project format that corresponds with your media interests, and follow the weekly production process. You will be asked to conduct peer reviews throughout the process and will be afforded the opportunity to submit work revisions based on feedback. You will also critically reflect on your work and the project theme in a 150 word work statement.
+For this project, you will complete the project theme by choosing an emphasis word and filling in the blank. For instance, if you choose the word **_stone_** as your emphasis word, you would write "Balancing stone" and use this word pair as the project theme. Apply a creative development process to create an image or images that convey your ideas. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
 
-A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
-
-### Project models (Choose one)
-
-1. **Bounding approach:** Consider an object, system, or other thing that you are interested in.
-   * Conceptually or physically identify the subject's core primitives. Identify how these primitives are combined to create the end result.
-   * How might these primitives be recombined in new ways, or how might the primitives be presented to viewers to help them change their understanding of your subject?
-   * What can be edited out or subtracted?
-2. **Revealing approach:** Identify objects that captivate your imagination. These could be characters, environments, vehicles, shapes, materials, products, architecture, aspects of the environment or ecosystem, etc.
-   * What shapes, patterns, structures, materials, etc., are they made from?
-   * What context or setting are these objects typically found?
-   * Explore how you could recombine or juxtapose elements in unexpected ways to create something new or establish a new context.
-   * Consider using a process like photography, audio recording, sketching, scanning, 3D scanning or photogrammetry to incorporate analog process or elements.
-3. **Intervening approach:** Consider the larger picture of a particular social or cultural 'system' in which you are interested. For example, you might be interested in the justice system, the economy, etc.
-   * What are the components that comprise these systems? How are these systems established? Who or what are the system participants?
-   * How might changes to their core function or disfunction change outcomes?
-   * Think of ways to visualize these ideas literally and abstractly.
-4. **Activating approach:** Create primitives as a means to participate in a cause or ideological avenue for engaging in conversation, dialogue, education, or awareness building.
-   * What is the function of a primitive in this context?
-   * How might primitives be used as a teaching tool, or a tool or designing solutions to problems?
-   * Will you be creating objects or images?
-   * How will those who view or interact with your work?
-5. **Situating approach:** Establish a framework, story, or narrative within which your project ideas live.
-   * How might you use a curatorial process to present relationships between objects or ideas?
-   * What is the framework that helps structure your ideas?
+A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.incredibleart.org/lessons/rhodes/designprinciples.html), attention to detail and composition, and lead to discussion about your work during a critique.
 
 ### Project formats (Choose one)
 
 Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
  1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
- 2. Poster design (follows a particular poster format)
- 3. Magazine or book illustration
- 4. Comicbook pages/panels
- 5. Realtime display on Sketchfab.com or p3d.in websites.
- 6. Modular game assets (with examples of the things they can construct)
- 7. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior or exterior spaces
- 8. Renderings in the style of portrait photography
- 9. Renderings in the style of a particular style of photography, painting, or illustration.
-10. Product design concept renderings
-11. Character design concept art or
-12. Other (talk with instructor about an idea not listed)
+ 2. Poster design (follows a particular poster size format)
+ 3. Magazine or book illustration (choose a magazine or book)
+ 4. Comic book pages/panels
+ 5. Political cartoon
+ 6. Realtime display on Sketchfab.com or p3d.in websites.
+ 7. Modular game assets (with examples of the things they can construct)
+ 8. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior or exterior spaces
+ 9. Renderings in the style of portrait photography
+10. Renderings in the style of a particular style of photography, painting, or illustration.
+11. Product design concept renderings
+12. Renderings of experimental forms and surfaces, materials and textures, light and colors.
+13. Character design concept art or
+14. Other (talk with instructor about an idea not listed)
 
 ### Production Process (All steps required)
 
@@ -229,7 +207,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * **If you used the concept development worksheet** linked in the assignment rather than a sketchbook, you may submit scans or well cropped photos of the concept development worksheet page, or upload a `pdf` file.
    * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
 2. **Mood board or reference sheet:** Find reference images and put them into a large image canvas. [See example](https://3.bp.blogspot.com/-4Yut0Kf3RvM/VsMZtsN8XaI/AAAAAAAABLs/vHE3iQ7FtLw/s1600/Roman_Times_Moodboard_.jpg) of mood board. Save as a single image.
-   * You can use Photoshop or [Mural.co](https://www.mural.co/)
+   * You can use Photoshop, [PureRef](https://www.pureref.com/) or [Mural.co](https://www.mural.co/)
    * Submit as a `png` or `jpg`
 3. **Work intent:** Describe what you will be doing
    * Include name, date, chosen project model, and project format
@@ -267,7 +245,7 @@ Use one of the five models to develop a concept. What makes for a good concept: 
 
 ### Writing a work statement
 
-A work statement is a clear articulation about what you've made. This is not a journal entry, where you might feel compelled to complain about problems you've had with software, or that it didn't turn out how you wanted. Instead, imagine this is being printed in a magazine, or put on the side of a gallery. What do you want your viewers to come away with?
+A work statement is a clear articulation about what you've made, why you have made it, and how it connects to the project theme. This is not a journal entry, where you might feel compelled to complain about problems you've had with software, or that it didn't turn out how you wanted. Instead, imagine this is being printed in a magazine, or put on the side of a gallery. What do you want your viewers to come away with?
 
 **Example projects with work and artist statements:**
 
@@ -297,10 +275,6 @@ A work statement is a clear articulation about what you've made. This is not a j
 All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset. For example, you can use a texture pack you downloaded from a texture website, however, if you render an image of just a flat plane with the texture applied, this is not really creative transformation since the entirety of the image is work from someone else. Your transformation and contextualization is what's important. A render with a background that uses an image from Google image search (please don't do this) that comprises more than 50% of the work is also not really enough creative transformation. If someone reviews your work and says that the image's background is their favorite part of the image, you'll have to then explain how you didn't make the background, which is not a great situation to be in.
 
 ### Frequently asked questions
-
-**Q: Do I have to use only 3D primitives in making this project?**
-
-**A:** No, you can interpret the project theme however you like. You could of course take a literal approach and use only primitives that are available in 3D software, but it may be more interesting to use a more conceptual approach and use complex models and materials that are conceptually something you've defined as a "primitive" for something else. Be sure to talk about this in your work statement.
 
 **Q: I'm having trouble coming up with a project concept. What do I do?**
 
