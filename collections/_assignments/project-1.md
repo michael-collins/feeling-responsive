@@ -180,19 +180,20 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 Choose a format that you can reasonable accomplish within the timeframe of the project. Do not use motion or animation in the final output.
 
  1. High resolution image(s). These images are large enough to allow a viewer to spend time looking closely, enticing them to explore discover details.
- 2. Poster design (follows a particular poster size format)
- 3. Magazine or book illustration (choose a magazine or book)
- 4. Comic book pages/panels
- 5. Political cartoon
- 6. Realtime display on Sketchfab.com or p3d.in websites.
- 7. Modular game assets (with examples of the things they can construct)
- 8. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior or exterior spaces
- 9. Renderings in the style of portrait photography
-10. Renderings in the style of a particular style of photography, painting, or illustration.
-11. Product design concept renderings
-12. Renderings of experimental forms and surfaces, materials and textures, light and colors.
-13. Character design concept art or
-14. Other (talk with instructor about an idea not listed)
+ 2. [3D Style frames](http://www.sebastianhelene.com/frames) for pitching larger projects (animations, product, illustration, etc.)
+ 3. Poster design (follows a particular poster size format)
+ 4. Magazine or book illustration (choose a magazine or book)
+ 5. Comic book pages/panels
+ 6. Political cartoon
+ 7. Realtime display on Sketchfab.com or p3d.in websites.
+ 8. Modular game assets (with examples of the things they can construct)
+ 9. [Archiviz Renderings](https://www.youtube.com/watch?v=BW3QdSJoo7k) of interior or exterior spaces
+10. Renderings in the style of portrait photography
+11. Renderings in the style of a particular style of photography, painting, or illustration.
+12. Product design concept renderings
+13. Renderings of experimental forms and surfaces, materials and textures, light and colors.
+14. Character design concept art or
+15. Other (talk with instructor about an idea not listed)
 
 ### Production Process (All steps required)
 
