@@ -198,7 +198,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 
 #### Week 1: Concept development
 
-Use one of the five models to develop a concept. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
+What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/).
 
 1. **Concept(s):** Sketch, label, and write ideas in sketchbook.
    * Fill 3 to 5 pages of your sketchbook with project ideas. You may also work digitally if you prefer an all digital workflow, in which case, sketch the equivalent of 3 to 5 pages of a paper sketchbook.
@@ -210,8 +210,8 @@ Use one of the five models to develop a concept. What makes for a good concept: 
    * You can use Photoshop, [PureRef](https://www.pureref.com/) or [Mural.co](https://www.mural.co/)
    * Submit as a `png` or `jpg`
 3. **Work intent:** Describe what you will be doing
-   * Include name, date, chosen project model, and project format
-   * Short one sentence description of what you intend to make.
+   * Include name, date, and project format
+   * Write a few sentences to describe what you intend to make.
    * Upload this in an MS Word `doc` format
 
 #### Week 2: Production begins
@@ -257,18 +257,16 @@ A work statement is a clear articulation about what you've made, why you have ma
 
 1. Your name and date
 2. Title of your work
-3. Which of the five project models you used
-   * IE - "For this project, I used the "bounding" model."
-4. What did you create?
+3. What did you create?
    * IE - "I created images that depict ..."
-5. Why did you make it?
+4. Why did you make it?
    * IE - "I created this work because I am interested in exploring ..."
-6. What is the work about?
+5. What is the work about?
    * IE - "This work is primarily focused on ..."
-7. How is what you did in your work demonstrating what what you've said the work is about?
+6. How is what you did in your work demonstrating what what you've said the work is about?
    * IE - "You can see an example of this in the work where I have used ... to reference ..."
-8. Were there any unexpected, interesting, or strange outcomes?
-9. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
+7. Were there any unexpected, interesting, or strange outcomes?
+8. Did you have any interesting moments where the projects theme helped you understand something new or from a new perspective?
 
 ### Constraints
 
