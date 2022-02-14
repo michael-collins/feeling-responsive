@@ -162,20 +162,17 @@ accordion_mode: true
 ---
 ## Overview
 
-**Project theme:** "Supply and Disrupt"
+**Project theme:** "Journey"
 
-For this project, you will produce an animation centered around the theme, **“Supply and Disrupt.”** Consider a future where the global supply chain is permanently disrupted and the potential impact this scenario could have on goods and services. What are some adaptations and reconfigurations that could result in response to a continued disruption of the global supply chain? Are these positive or negative outcomes? What new aesthetics might emerge that could communicate these issues, feelings, and contemplations?
+For this project, you will produce an animation centered around the theme, **“journey.”** Consider a future where the global supply chain is permanently disrupted and the potential impact this scenario could have on goods and services. What are some examples journeys that you might want to embark upon, or perhaps would like others to experience? What journeys do objects and things undergo that might not be perceivable by most people? What is the purpose of these journeys? What new aesthetics might emerge or be discovered that could communicate these ideas, feelings, and contemplations?
 
-To focus your research and concept development, you can optionally choose a sub-theme:
+To focus your research and concept development, you can optionally choose a **sub-theme**:
 
-* Local vs global
-* Organic vs synthetic
-* Heterogeneous vs homogeneous
-* Macro scale vs micro scale
-* Industrial vs bespoke
-* Experience vs absence
-* Abundance vs scarcity
-* Expansion vs subtraction
+* [A short trip](https://alexanderperrin.com.au/paper/shorttrip/)
+* [Atmospheric adventure](https://www.youtube.com/watch?v=_QiC8pNfYl4)
+* Explainer
+* Growth, change, and transformation
+* Invisible systems
 
 For this the project,  you will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
