@@ -158,7 +158,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/supply-and-disrupt-banner-compressed.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Overview
