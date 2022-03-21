@@ -93,7 +93,7 @@ weeks:
   lessons:
   - collections/_lessons/animation.md
   - collections/_lessons/project-2.md
-  visible: 2022-03-20T10:59:AM
+  visible: 2022-03-24T9:00:AM
   start_date: 2021-10-25T11:59:AM
   end_date: 2021-10-31T11:59:AM
   enabled: true
