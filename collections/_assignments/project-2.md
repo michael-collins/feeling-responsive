@@ -166,15 +166,6 @@ accordion_mode: true
 
 For this project, you will produce an animation centered around the theme, **“journey.”** What are some examples journeys that you might want to embark upon, or perhaps would like others to experience? What journeys do objects and things undergo that might not be perceivable by most people? What is the purpose of these journeys? What new aesthetics might emerge or be discovered that could communicate these ideas, feelings, and contemplations?
 
-To focus your research and concept development, you can optionally choose a **sub-theme**:
-
-* [A short trip](https://alexanderperrin.com.au/paper/shorttrip/)
-* [Atmospheric adventure](https://www.youtube.com/watch?v=_QiC8pNfYl4)
-* [Explainer](https://vimeo.com/257500299)
-* [Growth, change, and transformation](https://vimeo.com/24832819)
-* [Invisible made visible](https://vimeo.com/13395858)
-* [Hyper-real](https://vimeo.com/42288407)
-
 For this the project,  you will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
