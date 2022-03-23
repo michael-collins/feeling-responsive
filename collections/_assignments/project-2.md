@@ -156,7 +156,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/supply-and-disrupt-banner-compressed.jpg"
+  image_fullwidth: "/uploads/project-2-banner-compressed.jpg"
 accordion_mode: true
 
 ---
