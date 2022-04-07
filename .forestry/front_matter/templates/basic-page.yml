@@ -22,4 +22,4 @@ fields:
     name: image_fullwidth
     label: image_fullwidth
 pages:
-- resources/rendering/rendering.md
+- resources/rendering/index.md
