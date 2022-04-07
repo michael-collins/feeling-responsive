@@ -27,6 +27,14 @@ If you have the budget and plan to do CGI in the future, it makes sense to **inv
 
 ### Links
 
-* Optimizing renders in Cycles: [https://docs.blender.org/manual/en/latest/render/cycles/optimizations/index.html](https://docs.blender.org/manual/en/latest/render/cycles/optimizations/index.html "https://docs.blender.org/manual/en/latest/render/cycles/optimizations/index.html")
-* Affordable online "cloud" render farm: [https://www.conciergerender.com/](https://www.conciergerender.com/ "https://www.conciergerender.com/")
-* Plugin for using your computers at home to share rendering: [https://www.crowd-render.com/](https://www.crowd-render.com/ "https://www.crowd-render.com/")
+* **Optimizing**
+  * Rendering in Cycles: [https://docs.blender.org/manual/en/latest/render/cycles/optimizations/index.html](https://docs.blender.org/manual/en/latest/render/cycles/optimizations/index.html "https://docs.blender.org/manual/en/latest/render/cycles/optimizations/index.html")
+* **Add-ons**
+  * [https://www.crowd-render.com/](https://www.crowd-render.com/ "https://www.crowd-render.com/")
+* **Cloud rendering**
+  * [https://www.conciergerender.com/](https://www.conciergerender.com/ "https://www.conciergerender.com/")
+    * Cycles and EEVEE
+    * Cost-effective cloud rendering solution
+  * [https://render.st/](https://render.st/ "https://render.st/")
+    * Cycles only
+    * Unlimited $50/month
