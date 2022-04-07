@@ -21,3 +21,5 @@ fields:
   - type: file
     name: image_fullwidth
     label: image_fullwidth
+pages:
+- resources/rendering/rendering.md
