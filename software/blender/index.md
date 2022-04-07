@@ -8,6 +8,11 @@ layout: page
 
 Download the latest Blender: [https://www.blender.org/download/](https://www.blender.org/download/)
 
+## News
+
+1. [Blender Today Live](https://www.youtube.com/playlist?list=PLa1F2ddGya_87HJ72v_IgKUTNLIXSMfvB)
+2. [Blender Today Community](http://blender.today/)
+
 ## Blender Tutorials
 
 ### Youtube
