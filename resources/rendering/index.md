@@ -17,8 +17,6 @@ If you have more than one computer available to use, it's best to split the rend
 
 Do everything you can to lower render times. Always use the latest version of Blender, render times typically improve from version to version. I recommend using **EEVEE** to shorten render times. If using EEVEE, your scene will render much faster, though it may lose some visual quality compared to Cycles. If using Cycles, try to take advantage of the image **denoising** feature in the render settings. Balance the quality of the denoising with the **samples quality**. Typically, you can get a fairly low-samples render (128 or less) to look pretty good with denoising.
 
-Optimize render
-
 Split renders up and **use multiple computers** you have physical access to. CPU render will give more consistent render results across computers, but GPU will render more quickly. You may notice visual differences between images rendered with the GPU from the CPU on the same computer. You will have to manually retrieve the frames from those computers, so it might be best for them to render directly to a shared folder like Dropbox. Be very organized if you do this, it's easy to get confused with so many files.
 
 To take the burden off of managing files, you can use a **add-on** called [Crowd Render](https://www.conciergerender.com/) ($4 dollars). This plugin will ask you to enter the IP address of your computers to use them as a render node. The images will be automatically sent to your computer when completed. This only works with computers that you own, so it won't work in the computer lab unfortunately.
