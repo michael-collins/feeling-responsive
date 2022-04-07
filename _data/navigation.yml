@@ -20,6 +20,8 @@
   url: "/resources/"
   side: left
   dropdown:
+  - title: Rendering
+    url: "/resources/rendering/"
   - title: Inspiration
     url: "/resources/inspiration/"
   - title: Career
