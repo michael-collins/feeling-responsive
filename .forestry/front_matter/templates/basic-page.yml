@@ -1,0 +1,23 @@
+---
+label: basic-page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: comments
+  label: comments
+- type: file
+  name: header_image
+  label: header_image
+- type: field_group
+  name: header
+  label: header
+  fields:
+  - type: file
+    name: image_fullwidth
+    label: image_fullwidth
