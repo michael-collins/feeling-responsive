@@ -33,6 +33,15 @@ page_sections:
     and credits, and export video files for online streaming.
 - template: assignment-supportingmaterial
   block: assignment-c-supportingmaterial
+  title: Rendering
+  links:
+  - title: Rendering resources
+    url: https://michaelcollins.xyz/3d-digital-studio-master/resources/rendering/
+    link_style: new tab
+  content: I've included a link to the rendering resources page on this website. Read
+    this before spending all day rendering your animations.
+- template: assignment-supportingmaterial
+  block: assignment-c-supportingmaterial
   title: Audio Resources
   links:
   - title: freesound.org/
