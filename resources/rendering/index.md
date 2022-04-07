@@ -35,6 +35,7 @@ If you have the budget and plan to do CGI in the future, it makes sense to **inv
   * [https://www.conciergerender.com/](https://www.conciergerender.com/ "https://www.conciergerender.com/")
     * Cycles and EEVEE
     * Cost-effective cloud rendering solution
+    * $5 free credits
   * [https://render.st/](https://render.st/ "https://render.st/")
     * Cycles only
     * Unlimited $50/month
