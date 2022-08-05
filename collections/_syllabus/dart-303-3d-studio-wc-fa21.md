@@ -83,7 +83,7 @@ This course will require that you spend a lot of time searching for external lea
 
 ### Course Requirements
 
-Attendance is mandatory; as this time will be used for critiques, reading discussions, presentations, video screenings, collaborative or group work, and the dissemination of general information. These sessions will at all times emphasize critical analysis and in­class discussion. In terms of studio production, whole class meetings may review work­in­progress; assess ongoing technical concerns; assist with immediate needs of a project concept and execution all the while continuing to develop a language appropriate for evaluation and critique. While there will be in­-class time to experiment and complete work, you will be required to spend many hours working outside of class­ time.
+Attendance is mandatory; as this time will be used for critiques, reading discussions, presentations, video screenings, collaborative or group work, and the dissemination of general information. These sessions will at all times emphasize critical analysis and in­class discussion. In terms of studio production, whole class meetings may review work­in­progress; assess ongoing technical concerns; assist with immediate needs of a project concept and execution all the while continuing to develop a language appropriate for evaluation and critique. While there will be in­-class time to experiment and complete work, you will be required to spend many hours working outside of class­ time.
 
 ### Course Prerequisites
 
@@ -222,3 +222,11 @@ Students from diverse backgrounds and perspectives are welcomed. The diversity t
 ### COVID-19
 
 Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. ALL STUDENTS MUST wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus. This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations. If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.
+
+### Acknowledgement of Land (recommended):
+
+Written in collaboration with the Indigenous Peoples Student Association (IPSA) and the Indigenous Faculty and Staff Alliance (IFSA):
+
+The Pennsylvania State University campuses are located on the original homelands of the Erie, Haudenosaunee (Seneca, Cayuga, Onondaga, Oneida, Mohawk, and Tuscarora), Lenape (Delaware Nation, Delaware Tribe, Stockbridge-Munsee), Shawnee (Absentee, Eastern, and Oklahoma), Susquehannock, and Wahzhazhe (Osage) Nations. As a land grant institution, we acknowledge and honor the traditional caretakers of these lands and strive to understand and model their responsible stewardship. We also acknowledge the longer history of these lands and our place in that history.
+
+Pronunciation Guide: [http://equity.psu.edu/acknowledgement-of-land](http://equity.psu.edu/acknowledgement-of-land "http://equity.psu.edu/acknowledgement-of-land")
