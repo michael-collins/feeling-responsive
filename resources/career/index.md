@@ -9,6 +9,8 @@ header:
 ---
 ## Animation, VFX, and Game Industry
 
+**Talk to mentors:** [Getting development advice contacts list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml "Getting development advice contacts list")
+
 ### Job Postings
 
 Chris Mayne curates what might be the the most comprehensive job posting resource available. See his Google spreadsheet below.
