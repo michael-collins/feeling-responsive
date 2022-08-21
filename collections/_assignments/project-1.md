@@ -163,15 +163,14 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/snowylandscape.jpg"
 accordion_mode: true
+published: false
 
 ---
 ## Overview
 
-**Project theme:** "Balancing ____"
+**Project theme:** "/imagine"
 
-Balance is both a verb and a noun, it's something that can be possessed, taken away, created, and dismantled. You hear about balance in sports, politics, wellness, work, personal life, relationships, religion/spirituality, and as a core formal design principle. How do you know when something is not in balance? Can balance something that is exciting when it's gone? Is a lack of balance damaging or constructive? Can demonstrating balance help tell a story or explain a principle?
-
-For this project, you will complete the project theme by choosing an emphasis word and filling in the blank. For instance, if you choose the word **_stone_** as your emphasis word, you would write "Balancing stone" and use this word pair as the project theme. Apply a creative development process to create an image or images that convey your ideas. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
+For this project, you will use the Midjourney AI image generator tool to create images that will inspire your work. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.incredibleart.org/lessons/rhodes/designprinciples.html), attention to detail and composition, and lead to discussion about your work during a critique.
 
