@@ -170,7 +170,7 @@ published: false
 
 **Project theme:** "/imagine"
 
-For this project, you will use the Midjourney AI image generator tool to create images that will inspire your work. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
+For this project, you will use the [Midjourney](https://www.midjourney.com/home/ "Midjourney") AI image generator tool to create images that will inspire your work. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
 
 A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.incredibleart.org/lessons/rhodes/designprinciples.html), attention to detail and composition, and lead to discussion about your work during a critique.
 
