@@ -20,7 +20,7 @@ weeks:
 - week_number: "2"
   lessons:
   - collections/_lessons/texturing.md
-  visible: 2022-08-29T8:00:AM
+  visible: 2022-08-28T4:00:AM
   start_date: 2021-08-30T11:59:AM
   end_date: 2021-09-05T11:59:AM
   enabled: true
