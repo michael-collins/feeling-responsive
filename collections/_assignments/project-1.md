@@ -176,9 +176,11 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 **Consider one the following sub-themes:**
 
 1. Local vs global
-2. Speculative people, places, and things
+2. Speculative futures: fictional products, fictional places
 3. Shared ecologies
 4. Provisions: food, materials, and energy
+5. Individual and collective health
+6. Stories from the past, present, and future
 
 ### Project formats (Choose one)
 
