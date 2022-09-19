@@ -163,16 +163,22 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/snowylandscape.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Overview
 
-**Project theme:** "/imagine"
+**Project theme:** "Welcome to Planet B"
 
-For this project, you will use the [Midjourney](https://www.midjourney.com/home/ "Midjourney") AI image generator tool to create images that will inspire your work. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
+For this project, you will be creating work based on the 2022 Ars Electronica Festival theme, detailed here: [Welcome to Planet B: A different life is possible, but how?](https://ars.electronica.art/planetb/en/theme/)  Ars Electronica is a New Media festival in Austria that started in 1979, and gives an award called Prix Ars Electronica in various categories including computer animation, AI, film, interactive art and other related categories. Your job is to respond to the project theme in some way that demonstrates creative transformation, synthesis of novel ideas, and use of 3D tools. You will need to choose a project format that corresponds with your media interests, participate in peer reviews, and follow the weekly production process. You will critically reflect on the work you have created and the project theme in a 150 word work statement.
 
-A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.incredibleart.org/lessons/rhodes/designprinciples.html), attention to detail and composition, and lead to discussion about your work during a critique.
+A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](https://www.incredibleart.org/lessons/rhodes/designprinciples.html), attention to detail and composition, and lead to discussion about your work during a critique. If often helps to choose a sub-theme, or a way to focus the work on particular issues within a theme.
+
+**Consider one the following sub-themes:**
+
+1. Local vs global
+2. Speculative people, places, and things
+3. Shared ecologies
+4. Provisions: food, materials, and energy
 
 ### Project formats (Choose one)
 
