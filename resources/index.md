@@ -2,24 +2,27 @@
 layout: page
 title: Learning Resources
 comments: false
-asset-path: /assets/resources
+asset-path: "/assets/resources"
 header_image: "/uploads/abstract-001-render6.jpg"
 header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
+
 ---
 ## 3D Resources
 
+[Physically based material library](https://physicallybased.info/ "Physically Based"): A database of physically based values for CG artists
+
 ### Textures and texture packs
 
-- [CC0 Textures](https://cc0textures.com/)
-- [FreePBR.com](https://freepbr.com)
-- [CG Bookcase](https://www.cgbookcase.com/)
-- [3D Textures](https://3dtextures.me/tag/pbr/)
-- [Textures.com](https://www.textures.com/)
+* [CC0 Textures](https://cc0textures.com/)
+* [FreePBR.com](https://freepbr.com)
+* [CG Bookcase](https://www.cgbookcase.com/)
+* [3D Textures](https://3dtextures.me/tag/pbr/)
+* [Textures.com](https://www.textures.com/)
 
 ### Lighting textures
 
-- [HDRI environment textures](https://hdrihaven.com/)
+* [HDRI environment textures](https://hdrihaven.com/)
 
 # Project Development Resources
 
@@ -30,25 +33,25 @@ header:
 
 * [Zeitguised](https://www.zeitguised.com/)
 * [Al and Al](http://www.alandal.co.uk/)
-* [Albert Omoss](https://omoss.io/) 
-* [Alex McLeod](https://www.alxclub.com/) 
+* [Albert Omoss](https://omoss.io/)
+* [Alex McLeod](https://www.alxclub.com/)
 * [Barry Doupe](http://www.barrydoupe.ca/)
-* [Claudia Hart](https://claudiahart.com/) 
+* [Claudia Hart](https://claudiahart.com/)
 * [Chris Landreth](http://www.chrislandreth.com/)
 * [Cool 3D World](https://cool3dworld.com/)
-* [Dave Fothergill](https://vimeo.com/davefothergillvfx) 
+* [Dave Fothergill](https://vimeo.com/davefothergillvfx)
 * [Dave Stewart](https://vimeo.com/davegrafix)
-* [El Popo Sangre](https://vimeo.com/elpoposangre) 
-* [Eva Papamargariti](https://evapapamargariti.tumblr.com/) 
+* [El Popo Sangre](https://vimeo.com/elpoposangre)
+* [Eva Papamargariti](https://evapapamargariti.tumblr.com/)
 * [Filip Tarczewski](https://vimeo.com/ftarczewski)
-* [Geoffrey Lillemon](http://www.geoffreylillemon.com/website/) 
+* [Geoffrey Lillemon](http://www.geoffreylillemon.com/website/)
 * [Jacolby Satterwhite](http://jacolby.com/home.html)
-* [Jesse Kanda](http://www.jessekanda.com/) 
-* [John Butler](https://vimeo.com/user3946359) 
+* [Jesse Kanda](http://www.jessekanda.com/)
+* [John Butler](https://vimeo.com/user3946359)
 * [Jonathan Monaghan](http://jonmonaghan.com/)
 * [Jun Seo Hahm](https://vimeo.com/junseohahm)
 * [Kim Laughton](https://kimlaughton.tumblr.com/)
-* [Kouhei Nakama](http://kouheinakama.com/) 
+* [Kouhei Nakama](http://kouheinakama.com/)
 * [LuYang](http://luyang.asia/)
 * [Mike Pelletier](http://mikepelletier.net/)
 * [Pussykrew](https://www.pussykrew.club/)
