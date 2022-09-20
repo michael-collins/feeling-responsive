@@ -13,6 +13,9 @@ all:
   readings: []
   assignments:
   - collections/_assignments/project-1.md
+  - collections/_assignments/project-1-primitives.md
+  - collections/_assignments/project-1-eureka.md
+  - collections/_assignments/project-1-balancing-blank.md
 beginner:
   lectures: []
   readings: []
