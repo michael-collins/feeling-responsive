@@ -163,7 +163,6 @@ header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
   image_fullwidth: "/uploads/snowylandscape.jpg"
 accordion_mode: true
-published: false
 
 ---
 ## Overview
