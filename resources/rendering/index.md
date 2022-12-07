@@ -19,7 +19,7 @@ Split renders up and **use multiple computers** you have physical access to. CPU
 
 To take the burden off of managing files, you can use a **add-on** called [Crowd Render](https://www.conciergerender.com/) ($4 dollars). This plugin will ask you to enter the IP address of your computers to use them as a render node. The images will be automatically sent to your computer when completed. This only works with computers that you own, so it won't work in the computer lab unfortunately.
 
-Another solution is to use an **online render farm**. Render farms have been expensive in the past, but have since come down in price and at the same time render engines have become more performant. What used to cost $150 should be around $20. There may be many options now, but I recommend looking at [Concierge Render](https://www.crowd-render.com/).
+Another solution is to use an **online render farm**. Render farms have been expensive in the past, but have since come down in price and at the same time render engines have become more performant. What used to cost $150 should be around $20. There may be many options now, but I recommend looking at [Concierge Render](https://www.conciergerender.com/).
 
 If you have the budget and plan to do CGI in the future, it makes sense to **invest in hardware** like an nVidia RTX 30xx series graphics card, which perform the best/$ at the time of this writing.
 
