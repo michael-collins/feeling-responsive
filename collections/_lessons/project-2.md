@@ -12,6 +12,7 @@ all:
   lectures: []
   readings: []
   assignments:
+  - collections/_assignments/project-2-supply-and-disrupt.md
   - collections/_assignments/project-2-love-letter.md
   - collections/_assignments/project-2-journey.md
   - collections/_assignments/project-2-cycles.md
