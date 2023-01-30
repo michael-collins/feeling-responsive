@@ -161,7 +161,7 @@ prerequisites: []
 difficulty_level: " beginner"
 header_image: "/uploads/airline-chair-header-compressed.jpg"
 header:
-  image_fullwidth: "/uploads/snowylandscape.jpg"
+  image_fullwidth: "/uploads/balance-banner.jpg"
 accordion_mode: true
 
 ---
