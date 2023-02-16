@@ -1,4 +1,5 @@
 ---
+_schema: learning-modules-config
 layout: lesson-index
 title: 'DART 303: 3D Studio'
 breadcrumb: false

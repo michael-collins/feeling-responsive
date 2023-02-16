@@ -1,4 +1,5 @@
 ---
+_schema: basic-page
 layout: page
 title: Rendering
 comments: false

@@ -1,4 +1,5 @@
 ---
+_schema: learning-modules-config
 layout: lesson-index
 title: Lessons
 breadcrumb: false

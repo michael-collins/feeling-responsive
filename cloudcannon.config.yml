@@ -1,0 +1,546 @@
+collections_config:
+  syllabus:
+    name: Syllabus
+    path: collections/_syllabus
+  lessons:
+    name: Lessons
+    path: collections/_lessons
+    schemas:
+      default:
+        path: .cloudcannon/schemas/lesson_builder.md
+        name: lesson-builder
+        _enabled_editors:
+          - data
+        _inputs:
+          $.layout:
+            hidden: true
+          $.title:
+            label: Lesson Title
+          $.lesson_begin_date:
+            type: datetime
+            comment: ''
+          $.lesson_end_date:
+            type: datetime
+            comment: ''
+          $.all.lectures: &ref_0
+            type: multiselect
+            options:
+              values: collections.lectures
+              value_key: content_path
+          $.all.readings: &ref_1
+            type: multiselect
+            options:
+              values: collections.readings
+              value_key: content_path
+          $.all.assignments: &ref_2
+            type: multiselect
+            options:
+              values: collections.assignments
+              value_key: content_path
+          $.beginner.lectures: *ref_0
+          $.beginner.readings: *ref_1
+          $.beginner.assignments: *ref_2
+          $.intermediate.lectures: *ref_0
+          $.intermediate.readings: *ref_1
+          $.intermediate.assignments: *ref_2
+          $.advanced.lectures: *ref_0
+          $.advanced.readings: *ref_1
+          $.advanced.assignments: *ref_2
+  agendas:
+    name: Agendas
+    path: collections/_agendas
+    schemas:
+      default:
+        path: .cloudcannon/schemas/lecture-agenda.md
+        name: lecture-agenda
+        _enabled_editors:
+          - content
+        text_key: title
+  lectures:
+    name: Lectures
+    path: collections/_lectures
+    schemas:
+      default:
+        path: .cloudcannon/schemas/lesson-lecture.md
+        name: Lesson Lecture
+        _enabled_editors:
+          - content
+        _inputs:
+          $.layout:
+            hidden: true
+          $.title:
+            label: Lecture Title
+          $.lecture_image:
+            comment: Image that displays for the lecture
+          $.slides:
+            type: markdown
+            comment: Presentation slides in markdown format based on Reveal JS.
+          $.external_link:
+            type: array
+            options:
+              structures: _structures.lesson-lecture-external_link
+          $.enable_downloads:
+            comment: File assets available for download
+          $.download_files[*]:
+            type: image
+          $.download_files:
+            type: array
+  readings:
+    name: Readings
+    path: collections/_readings
+    schemas:
+      default:
+        path: .cloudcannon/schemas/lesson-reading.md
+        name: Reading
+        _enabled_editors:
+          - content
+        _inputs:
+          $.reading_file:
+            type: file
+  assignments:
+    name: Assignments
+    path: collections/_assignments
+    schemas:
+      default:
+        path: .cloudcannon/schemas/assignment-builder.md
+        name: assignment-builder
+        _enabled_editors:
+          - content
+        _inputs:
+          $.layout:
+            hidden: true
+          $.accordion_mode:
+            label: Accordion display mode
+            comment: Enable this to render the page blocks as an accordion.
+          $.header.image_fullwidth:
+            type: file
+            label: Header Image
+            comment: Upload a header image.
+          $.topics_covered:
+            type: multiselect
+            comment: Indicate topics that are covered.
+            options:
+              values: []
+              allow_create: true
+              allow_empty: true
+          $.prerequisites:
+            type: multiselect
+            comment: >-
+              Select from the list of available prerequisites to indicate to
+              students what their prior knowledge should be.
+            options:
+              values: collections.assignments
+              value_key: content_path
+          $.difficulty_level:
+            type: select
+            comment: What type of student is this assignment targeting?
+            options:
+              values: _select_data.difficulty_level
+          $.date-assigned:
+            type: datetime
+          $.date-due:
+            type: datetime
+            label: Due Date
+          $.page_sections:
+            type: array
+            options:
+              structures: _structures.assignment-builder-page_sections
+        text_key: title
+  quizzes:
+    name: Quizzes
+    path: collections/_quizzes
+    schemas:
+      default:
+        path: .cloudcannon/schemas/self-check-quiz.md
+        name: self-check-quiz
+        _enabled_editors:
+          - data
+        _inputs:
+          $.self-check-quiz:
+            type: array
+            label: Self-check Quiz
+            options:
+              structures: _structures.self-check-quiz-self-check-quiz
+  pages:
+    name: Pages
+    path: ''
+    schemas:
+      learning-modules-config:
+        path: .cloudcannon/schemas/learning-modules-config.md
+        name: learning-modules-config
+        _enabled_editors:
+          - data
+        _inputs:
+          $.layout:
+            hidden: true
+          $.weeks:
+            type: array
+            label: Week
+            options:
+              structures: _structures.learning-modules-config-weeks
+      basic-page:
+        path: .cloudcannon/schemas/basic-page.md
+        name: basic-page
+        _enabled_editors:
+          - content
+        _inputs:
+          $.header.image_fullwidth:
+            type: file
+collection_groups:
+  - heading: Course Setup
+    collections:
+      - syllabus
+  - heading: Structure
+    collections:
+      - lessons
+  - heading: Course Content
+    collections:
+      - agendas
+      - lectures
+      - readings
+      - assignments
+      - quizzes
+      - pages
+paths:
+  static: ''
+  uploads: uploads
+_select_data:
+  difficulty_level:
+    - ' beginner'
+    - ' intermediate'
+    - advanced
+  link_style:
+    - ' download'
+    - ' internal'
+    - new tab
+    - hosted_file
+_structures:
+  lesson-lecture-external_link:
+    values:
+      - value:
+          title: ''
+          url: ''
+  assignment-builder-rubric_criteria:
+    values:
+      - value:
+          criteria_title: ''
+          criteria_description: ''
+          criteria_weight: 5 pts
+        _inputs:
+          criteria_weight:
+            comment: Typically written as points or a percentage.
+  assignment-builder-video-1:
+    values:
+      - value:
+          title: ''
+          youtube_url: ''
+          vimeo_url: ''
+          custom: ''
+        _inputs:
+          youtube_url:
+            comment: >-
+              Post a clean Youtube URL or video ID. For instance,
+              <strong><em>https://www.youtube.com/watch?v=dQw4w9WgXcQ</em></strong>
+              and <strong><em>dQw4w9WgXcQ</em></strong> will both work.
+          vimeo_url:
+            comment: >-
+              Post a Vimeo.com video url or video id number. For instance,
+              <strong><em>https://vimeo.com/371483780</em></strong> or
+              <strong><em>371483780</em></strong> will both work.
+          custom:
+            label: Custom iFrame Embed
+  assignment-builder-image:
+    values:
+      - value:
+          caption: ''
+          enable_caption: true
+          image_url: null
+        _inputs:
+          image_url:
+            type: file
+            label: Image File
+            comment: Upload an image under 2MB.
+  assignment-builder-image-gallery:
+    values:
+      - value:
+          gallery_title: ''
+          image: []
+        _inputs:
+          image:
+            type: array
+            options:
+              structures: _structures.assignment-builder-image
+  assignment-builder-sub-sub-item:
+    values:
+      - value:
+          item: ''
+  assignment-builder-sub-item:
+    values:
+      - value:
+          item: ''
+          sub-sub-item: []
+        _inputs:
+          sub-sub-item:
+            type: array
+            options:
+              structures: _structures.assignment-builder-sub-sub-item
+  assignment-builder-list-item:
+    values:
+      - value:
+          item: ''
+          sub-item: []
+        _inputs:
+          sub-item:
+            type: array
+            options:
+              structures: _structures.assignment-builder-sub-item
+  assignment-builder-links-1:
+    values:
+      - value:
+          title: ''
+          link_style: new tab
+          url: ''
+          file_download: null
+        _inputs:
+          title:
+            comment: Used as the link title
+          link_style:
+            type: select
+            comment: >-
+              Do you want the link to go to a new page, open a new browser tab,
+              or be a file download?
+            options:
+              values: _select_data.link_style
+          url:
+            label: External URL
+          file_download:
+            type: file
+  assignment-builder-page_sections:
+    id_key: template
+    values:
+      - label: Assignment Demo Video
+        value:
+          template: assignment-demo
+          block: assignment-a-demo
+          headline: ''
+          content: ''
+          video: []
+        _inputs:
+          block:
+            hidden: true
+          content: &ref_3
+            type: html
+          video:
+            type: array
+            options:
+              structures: _structures.assignment-builder-video
+      - label: Assignment Description
+        value:
+          template: assignment-description
+          block: assignment-a-description
+          headline: ''
+          content: ''
+        _inputs:
+          block:
+            hidden: true
+          content: *ref_3
+      - label: Assignment Media Gallery
+        value:
+          template: assignment-media-gallery
+          block: assignment-h-media-gallery
+          headline: ''
+          content: ''
+          image-gallery: []
+        _inputs:
+          block:
+            hidden: true
+          content: *ref_3
+          image-gallery:
+            type: array
+            options:
+              structures: _structures.assignment-builder-image-gallery
+      - label: Assignment Learning Objectives
+        value:
+          template: assignment-learningobjectives
+          block: assignment-b-learningobjectives
+          title: ''
+          numbered-items-list: []
+          list-item: []
+        _inputs:
+          block:
+            hidden: true
+          numbered-items-list: &ref_4
+            type: array
+            label: Numbered List
+          list-item: &ref_5
+            type: array
+            options:
+              structures: _structures.assignment-builder-list-item
+      - label: Assignment Supporting Material
+        value:
+          template: assignment-supportingmaterial
+          block: assignment-c-supportingmaterial
+          title: ''
+          headline: ''
+          content: ''
+          video: []
+          readings: []
+          image-gallery: []
+          links: []
+        _inputs:
+          block:
+            hidden: true
+          content: *ref_3
+          video:
+            type: array
+            options:
+              structures: _structures.assignment-builder-video-1
+          readings:
+            type: multiselect
+            options:
+              values: collections.readings
+              value_key: content_path
+          image-gallery:
+            type: array
+            options:
+              structures: _structures.assignment-builder-image-gallery
+          links:
+            type: array
+            options:
+              structures: _structures.assignment-builder-links
+      - label: Assignment Referenced Material
+        value:
+          template: assignment-referencedmaterial
+          block: assignment-d-referencedmaterial
+          title: ''
+          headline: ''
+          content: ''
+          video: []
+          readings: []
+          image-gallery: []
+          links: []
+        _inputs:
+          block:
+            hidden: true
+          content: *ref_3
+          video:
+            type: array
+            options:
+              structures: _structures.assignment-builder-video-1
+          readings:
+            type: multiselect
+            options:
+              values: collections.readings
+              value_key: content_path
+          image-gallery:
+            type: array
+            options:
+              structures: _structures.assignment-builder-image-gallery
+          links:
+            type: array
+            options:
+              structures: _structures.assignment-builder-links-1
+      - label: Assignment Instructions
+        value:
+          template: assignment-instructions
+          block: assignment-e-instructions
+          headline: ''
+          content: ''
+          numbered-items-list: []
+          list-item: []
+        text_key: headline
+        _inputs:
+          block:
+            hidden: true
+          content: *ref_3
+          numbered-items-list: *ref_4
+          list-item: *ref_5
+      - label: Assignment Rubric
+        value:
+          template: assignment-rubric
+          block: assignment-f-rubric
+          rubric_title: ''
+          rubric_criteria: []
+        _inputs:
+          block:
+            hidden: true
+          rubric_criteria:
+            type: array
+            options:
+              structures: _structures.assignment-builder-rubric_criteria
+      - label: Assignment Submission
+        value:
+          template: assignment-submission
+          block: assignment-g-submission
+          submission-notes-enabled: true
+          headline: ''
+          content: ''
+          submission_uploads_enabled: true
+          submission: []
+        _inputs:
+          block:
+            hidden: true
+          submission-notes-enabled:
+            comment: Enable to write submission notes for students.
+          content: *ref_3
+          submission_uploads_enabled:
+            comment: Enable if this submission has media for uploading
+          submission:
+            type: array
+            options:
+              structures: _structures.lesson-lecture-external_link
+      - label: Assignment Media Gallery
+        value:
+          template: assignment-media-gallery
+          block: assignment-h-media-gallery
+          headline: ''
+          content: ''
+          image-gallery: []
+        _inputs:
+          block:
+            hidden: true
+          content: *ref_3
+          image-gallery:
+            type: array
+            options:
+              structures: _structures.assignment-builder-image-gallery
+  self-check-quiz-self-check-quiz:
+    values:
+      - value:
+          question: ''
+          answer: ''
+  learning-modules-config-weeks:
+    values:
+      - value:
+          week_number: '1'
+          enabled: false
+          publish_delay: false
+          visible: null
+          display_week_begin_end_dates: true
+          start_date: null
+          end_date: null
+          lessons: []
+        _inputs:
+          week_number:
+            type: text
+            comment: >-
+              The week the lesson should be displayed. Typically between 1 and
+              15 depending on the length of the semester.
+          visible:
+            type: datetime
+            comment: Enter the date this week should appear
+          start_date:
+            type: datetime
+            comment: ''
+          end_date:
+            type: datetime
+            comment: ''
+          lessons:
+            type: multiselect
+            comment: Choose lessons for the week.
+            options:
+              values: collections.lessons
+              value_key: content_path
+_inputs:
+  template:
+    hidden: true
