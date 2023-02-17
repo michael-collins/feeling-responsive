@@ -12,6 +12,10 @@ header:
 
 [Physically based material library](https://physicallybased.info/ "Physically Based"): A database of physically based values for CG artists
 
+### Realism Tips and techniques
+
+Will Gibbons put together an extensive list of ways to improve the realism of renders: [https://www.willgibbons.com/realistic-rendering/]()
+
 ### Textures and texture packs
 
 * [CC0 Textures](https://cc0textures.com/)
