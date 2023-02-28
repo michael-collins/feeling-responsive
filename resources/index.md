@@ -14,7 +14,7 @@ header:
 
 ### Realism Tips and techniques
 
-Will Gibbons put together an extensive list of ways to improve the realism of renders: [https://www.willgibbons.com/realistic-rendering/]()
+Will Gibbons put together an extensive list of ways to improve the realism of renders: [https://www.willgibbons.com/realistic-rendering/](https://www.willgibbons.com/realistic-rendering/ "https://www.willgibbons.com/realistic-rendering/")
 
 ### Textures and texture packs
 
