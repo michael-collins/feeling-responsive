@@ -22,8 +22,6 @@ intermediate:
   lectures: []
   readings: []
   assignments:
-  - collections/_assignments/animating-evolved-virtual-creatures.md
-  - collections/_assignments/animating-a-character-with-mixamo.md
   - collections/_assignments/animating-tetris.md
 advanced:
   lectures: []
