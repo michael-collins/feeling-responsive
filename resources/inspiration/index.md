@@ -25,7 +25,7 @@ header:
 * [Eva Papamargariti](https://evapapamargariti.tumblr.com/)
 * [Filip Tarczewski](https://vimeo.com/ftarczewski)
 * [Geoffrey Lillemon](http://www.geoffreylillemon.com/website/)
-* [Jacolby Satterwhite](http://jacolby.com/home.html)
+* [Jacolby Satterwhite](https://www.artsy.net/show/dallas-museum-of-art-concentrations-59-mirror-stage-visualizing-the-self-after-the-internet?sort=partner_show_position)
 * [Jesse Kanda](http://www.jessekanda.com/)
 * [John Butler](https://vimeo.com/user3946359)
 * [Jonathan Monaghan](http://jonmonaghan.com/)
