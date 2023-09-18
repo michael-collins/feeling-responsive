@@ -5,7 +5,7 @@ layout: page
 
 ---
 1. **Video Screening**
-   * ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
+   * ["Spectacle, Speculation, Spam"](https://alanwarburton.co.uk/spectacle-speculation-spam) by Alan Warburton
    * [Lighting Theory by Andrew Price](https://www.youtube.com/playlist?list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK "Lighting Theory by Andrew Price")
 2. **Demo**
    * [Lighting and Rendering Video (Unedited live demo)](https://vimeo.com/456374066)
