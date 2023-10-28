@@ -171,11 +171,7 @@ accordion_mode: true
 ---
 ## Overview
 
-**Project theme:** "Journey"
-
-For this project, you will produce an animation centered around the theme, **“journey.”** What are some examples journeys that you might want to embark upon, or perhaps would like others to experience? What journeys do objects and things undergo that might not be perceivable by most people? What is the purpose of these journeys? What new aesthetics might emerge or be discovered that could communicate these ideas, feelings, and contemplations?
-
-For this the project,  you will design, model, texture, animate, and render a **30 second animation** solving for the project theme. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you will produce a concept and will design, model, texture, animate, and render a **30 second animation**. Once you have a project idea and storyboard created, locate sound that you find on the audio resources tab that is licensed for remix (CC or Public Domain). Pay special attention to the [audio track’s licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that states no derivatives, indicated by "ND" in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description (where you will be uploading your video). You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the project theme in a 150 word work statement.
 
@@ -193,7 +189,7 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
 * Scientific or data-driven simulations and visualizations
 * Projection mapping (projecting video onto structures or surfaces).
 
-**The video should contain 30 seconds of animation ±5 seconds.** While this may not seem like a very long time for an animation, it's actually quite a lot of work to make 30 well crafted and polished seconds in terms of animation, modeling and materials, and rendering quality.
+**The video should contain 30 seconds of animation ±5 seconds at 24fps and be in 16:9 aspect ratio.** While this may not seem like a very long time for an animation, it's actually quite a lot of work to make 30 well crafted and polished seconds in terms of animation, modeling and materials, and rendering quality.
 
 ### Production Process (All steps required)
 
@@ -203,10 +199,10 @@ Choose a format that you can reasonable accomplish within the timeframe of the p
    * Resources
      * What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/\~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
    * Requirements:
-     * 3 to 5 different written ideas.
+     * 3 different written ideas.
      * Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) or other sources.
-     * Visual reference sheet(s): [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
-     * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments? Great, solve the theme around your interests!
+     * Visual references: [Example of visual reference sheet](https://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
+     * **Note:** Develop the concept around your interests. Are you interested in fashion or video game environments?
 2. **Storyboard**
    * Resources
      * Template download: [storyboard-template.pdf](https://michaelcollins.xyz/3d-modeling-rendering-animation-sp20--oer/assets/exercise-downloads/storyboard-template.pdf)
