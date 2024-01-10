@@ -8,6 +8,10 @@ header:
   image_fullwidth: "/uploads/abstract-001-render6.jpg"
 
 ---
+## Laptops for 3D animation and rendering
+
+[CGDirector.com](https://www.cgdirector.com/creator-vs-gaming-laptops/)
+
 ## 3D Resources
 
 [Physically based material library](https://physicallybased.info/ "Physically Based"): A database of physically based values for CG artists
